@@ -3,7 +3,7 @@ name: Generate Plex Playlists
 on:
   schedule:
     # Every 6 hours – refreshes tokens + EPG; channels.json reused unless stale
-    - cron: "0 */6 * * *"
+    - cron: "0 */1 * * *"
     # Weekly channel list refresh – every Monday at 03:00 UTC
     - cron: "0 3 * * 1"
 
