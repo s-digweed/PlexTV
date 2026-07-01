@@ -4,8 +4,8 @@ on:
   schedule:
     # Every 1 hour – refreshes tokens + EPG; channels.json reused unless stale
     - cron: "0 */1 * * *"
-    # Weekly channel list refresh – every Monday at 03:00 UTC
-    - cron: "0 3 * * 1"
+    # Daily channel list refresh – every day at 03:00 UTC
+    - cron: "0 3 * * *"
 
   workflow_dispatch:
     inputs:
