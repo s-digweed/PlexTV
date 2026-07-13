@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T20:55:49.137438+00:00",
+  "generated": "2026-07-13T22:54:41.541062+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -23600,19 +23600,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f4b4443f-36c5-4bc2-b361-01358026113a/GrahamNorton_Logo_Colour_1500X1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-68dcbb869beaa3a402966dba.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "nz"
-      },
-      "66fd3a76216b603e031725fc": {
-        "id": "5e20b730f2f8d5003d739db7-66fd3a76216b603e031725fc",
-        "slug": "western-bound-2",
-        "gridKey": "66fd3a76216b603e031725fc",
-        "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fd3a76216b603e031725fc.m3u8",
         "genres": [
           "Bingeworthy"
         ],
