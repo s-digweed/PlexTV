@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T21:09:28.761501+00:00",
+  "generated": "2026-07-20T22:57:26.178969+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1434,10 +1434,10 @@
       },
       "6571f43a1d2aae780d597196": {
         "id": "6a1610bebdf296985fd95603-6571f43a1d2aae780d597196",
-        "slug": "cbs-news",
+        "slug": "cbs-news-24-7",
         "gridKey": "6571f43a1d2aae780d597196",
-        "name": "CBS News",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7c7be41d-477b-447c-baaf-61be24cf44fc/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png",
+        "name": "CBS News 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/87b48057-7bc7-45af-bae8-d3b713a8733d/CBS-News-24-7-WHITE-1500x1000Vert_Stack__1_.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6571f43a1d2aae780d597196.m3u8",
         "genres": [
