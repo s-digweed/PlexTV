@@ -86,6 +86,8 @@ jobs:
           echo "Running: $CMD"
 
       - name: Generate playlists & EPG
+        env:
+          PLEX_TOKEN: ${{ secrets.PLEX_TOKEN }}
         run: ${{ steps.cmd.outputs.cmd }}
 
       - name: Commit & push
