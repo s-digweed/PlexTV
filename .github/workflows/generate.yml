@@ -2,10 +2,8 @@ name: Generate Plex Playlists
 
 on:
   schedule:
-    # Every 1 hour – refreshes tokens + EPG; channels.json reused unless stale
-    - cron: "0 */2 * * *"
-    # Daily channel list refresh – every day at 03:00 UTC
-    - cron: "0 3 * * *"
+    - cron: "0 9 * * *"
+    - cron: "0 */3 * * *"
 
   workflow_dispatch:
     inputs:
@@ -65,11 +63,16 @@ jobs:
           fi
 
           REFRESH="${{ github.event.inputs.refresh_channels }}"
-          # Also force a refresh on the weekly Monday cron
-          if [ "$REFRESH" = "true" ] || \
-             ( [ "${{ github.event_name }}" = "schedule" ] && \
-               [ "$(date -u +%u)" = "1" ] ); then
+          if [ "$REFRESH" = "true" ]; then
             CMD="$CMD --refresh-channels"
+          fi
+
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            CMD="$CMD --refresh-channels"
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" != "09" ]; then
+              CMD="$CMD --no-epg"
+            fi
           fi
 
           NO_EPG="${{ github.event.inputs.no_epg }}"
