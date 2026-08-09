@@ -114,7 +114,9 @@ jobs:
           else
             TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M UTC")
             git commit -m "chore: regenerate playlists @ ${TIMESTAMP} [skip ci]"
+            git stash
             git pull --rebase origin main
+            git stash pop
             git push
           fi
 
