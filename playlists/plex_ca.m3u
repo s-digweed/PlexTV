@@ -201,7 +201,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6a56bff72ad9
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-69b16e4187340e48b7b7224d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6674b68af04cf4bb9233c916" tvg-id="6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" group-title="Classics",Death Valley Days
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6674b68af04cf4bb9233c916.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-636d5aa3dc2c550b145ed422" tvg-id="636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png" group-title="Daytime TV & Games",Degrassi
+#EXTINF:-1 channel-id="plex-636d5aa3dc2c550b145ed422" tvg-id="636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png" group-title="Classics",Degrassi
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6449369eb3ff17382cae5801" tvg-id="6449369eb3ff17382cae5801" tvg-name="Dick Van Dyke" tvg-logo="https://provider-static.plex.tv/epg/cms/production/03fe73df-6585-49b7-bdd5-5ea605c4086f/FilmRise_DickVanDykeShow_Logo_Color.png" group-title="Classics",Dick Van Dyke
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6449369eb3ff17382cae5801.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
@@ -225,6 +225,8 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66e4cbef38de
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-67291bde7f55143b23b66c4f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68d7f9b53b1f329cea126993" tvg-id="68d7f9b53b1f329cea126993" tvg-name="Dude Perfect" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png" group-title="Comedy",Dude Perfect
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-68d7f9b53b1f329cea126993.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6216723e2c2627c068e73ad4" tvg-id="6216723e2c2627c068e73ad4" tvg-name="Dungeon TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6927ff31-166c-4ab8-8703-c088ec16f768/DungeonTV_logo_dark.png" group-title="Global",Dungeon TV
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6216723e2c2627c068e73ad4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-653d9d28d3e2e30d889226be" tvg-id="653d9d28d3e2e30d889226be" tvg-name="Dungeons & Dragons Adventures" tvg-logo="https://provider-static.plex.tv/epg/cms/production/628a1ec4-3547-46b1-ac1b-5efe28d38088/DungeonsAndDragonsAdventures_Logo_1500x1000_-_RSD.png" group-title="Global",Dungeons & Dragons Adventures
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-653d9d28d3e2e30d889226be.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ee76b5271f393d2d9f709a" tvg-id="62ee76b5271f393d2d9f709a" tvg-name="Easy Listening" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9300cb7f-9eef-4e0f-b0d3-d7469da72cda/EASY_LISTENING.png" group-title="Music",Easy Listening
@@ -317,6 +319,8 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5eea60557408
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-64d2bdf1b18b113e0c610113.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63d6f9b67c3070b6e06e0aad" tvg-id="63d6f9b67c3070b6e06e0aad" tvg-name="Garden with Monty Don" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eb442bf5-7b1e-4451-8846-f37363c2fa77/garden_green_wht.png" group-title="Food, Home & Culture",Garden with Monty Don
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-66be955c8711311880995282" tvg-id="66be955c8711311880995282" tvg-name="GB News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3cd56a1-3096-4d60-83ad-c8e6ec531384/GB_News_logo_light_-_Angela_Chan.png" group-title="News",GB News
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66be955c8711311880995282.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6699937717c9985deeb74e39" tvg-id="6699937717c9985deeb74e39" tvg-name="Get.Factual" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d8ac3d3f-88be-4d2a-89f3-608f02e15728/GetFactual_Dark_Mode_Logordx.png" group-title="Explore",Get.Factual
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6699937717c9985deeb74e39.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64e405b42b16ff56feb98444" tvg-id="64e405b42b16ff56feb98444" tvg-name="Ghost Hunters Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="Explore",Ghost Hunters Channel
@@ -369,6 +373,8 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-687e47c33f6f
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6582a1316b91be4547aa153c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66f6b6baac1a1890ef197a4b" tvg-id="66f6b6baac1a1890ef197a4b" tvg-name="Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="Classics",Hunter
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66f6b6baac1a1890ef197a4b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a10ad97b05301ef36a6a8e6" tvg-id="6a10ad97b05301ef36a6a8e6" tvg-name="I Shouldn't Be Alive" tvg-logo="https://provider-static.plex.tv/epg/cms/production/048549fe-9723-418a-be64-e06a2901d377/IShouldntBeAlive_Logo_White_1500x1000_-_Harry_Marshall.png" group-title="Explore",I Shouldn't Be Alive
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6a10ad97b05301ef36a6a8e6.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-666e1820ce73ed6023b55a11" tvg-id="666e1820ce73ed6023b55a11" tvg-name="Ice Pilots NWT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2c49fafe-3ddd-443d-bdaa-c2ad358146cf/channel_logo_1500x1000_light.png.png" group-title="Reality",Ice Pilots NWT
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-666e1820ce73ed6023b55a11.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64a355697d24564fba37bab8" tvg-id="64a355697d24564fba37bab8" tvg-name="Ideas En 5 Minutos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png" group-title="En Español",Ideas En 5 Minutos
