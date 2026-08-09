@@ -2,7 +2,8 @@ name: Generate Plex Playlists
 
 on:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "0 3 * * *"
+    - cron: "0 15 * * *"
     - cron: "0 */3 * * *"
 
   workflow_dispatch:
@@ -56,6 +57,7 @@ jobs:
         id: cmd
         run: |
           CMD="python generate.py"
+          NO_EPG_RUN="false"
 
           REGIONS="${{ github.event.inputs.regions }}"
           if [ -n "$REGIONS" ]; then
@@ -70,14 +72,16 @@ jobs:
           if [ "${{ github.event_name }}" = "schedule" ]; then
             CMD="$CMD --refresh-channels"
             HOUR=$(date -u +%H)
-            if [ "$HOUR" != "09" ]; then
+            if [ "$HOUR" != "03" ] && [ "$HOUR" != "15" ]; then
               CMD="$CMD --no-epg"
+              NO_EPG_RUN="true"
             fi
           fi
 
           NO_EPG="${{ github.event.inputs.no_epg }}"
           if [ "$NO_EPG" = "true" ]; then
             CMD="$CMD --no-epg"
+            NO_EPG_RUN="true"
           fi
 
           DAYS="${{ github.event.inputs.days }}"
@@ -86,6 +90,7 @@ jobs:
           fi
 
           echo "cmd=$CMD" >> "$GITHUB_OUTPUT"
+          echo "no_epg_run=$NO_EPG_RUN" >> "$GITHUB_OUTPUT"
           echo "Running: $CMD"
 
       - name: Generate playlists & EPG
@@ -98,13 +103,18 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add playlists/ channels.json 2>/dev/null || git add playlists/
+          if [ "${{ steps.cmd.outputs.no_epg_run }}" = "true" ]; then
+            git add playlists/*.m3u channels.json 2>/dev/null || git add playlists/*.m3u
+          else
+            git add playlists/ channels.json 2>/dev/null || git add playlists/
+          fi
 
           if git diff --cached --quiet; then
             echo "Nothing changed – skipping commit."
           else
             TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M UTC")
             git commit -m "chore: regenerate playlists @ ${TIMESTAMP} [skip ci]"
+            git pull --rebase origin main
             git push
           fi
 
