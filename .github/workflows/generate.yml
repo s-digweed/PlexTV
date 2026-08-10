@@ -114,9 +114,13 @@ jobs:
           else
             TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M UTC")
             git commit -m "chore: regenerate playlists @ ${TIMESTAMP} [skip ci]"
-            git stash
-            git pull --rebase origin main
-            git stash pop
+            STASHED=$(git stash 2>&1)
+            if echo "$STASHED" | grep -q "No local changes"; then
+              git pull --rebase origin main
+            else
+              git pull --rebase origin main
+              git stash pop
+            fi
             git push
           fi
 
