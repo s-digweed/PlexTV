@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 3 * * *"
     - cron: "0 15 * * *"
-    - cron: "0 */3 * * *"
+    - cron: "0 0,6,9,12,18,21 * * *"
 
   workflow_dispatch:
     inputs:
@@ -116,12 +116,13 @@ jobs:
             git commit -m "chore: regenerate playlists @ ${TIMESTAMP} [skip ci]"
             STASHED=$(git stash 2>&1)
             if echo "$STASHED" | grep -q "No local changes"; then
-              git pull --rebase origin main
+              git pull --rebase origin main || git rebase --abort
+              git push --force-with-lease
             else
-              git pull --rebase origin main
+              git pull --rebase origin main || git rebase --abort
               git stash pop
+              git push --force-with-lease
             fi
-            git push
           fi
 
       - name: Upload artifact (debug)
