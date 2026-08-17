@@ -15,8 +15,6 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-69d6d88b1790
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-60e737a4ebef9d002c4d0a0c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Music",Alternative
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-62efbb8652f7d73061eec498.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-5ef11486d33ab9004048a1cd" tvg-id="5ef11486d33ab9004048a1cd" tvg-name="Always Funny" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png" group-title="Comedy",Always Funny
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-5ef11486d33ab9004048a1cd.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-691d65b18f4092bc7bb24c8e" tvg-id="691d65b18f4092bc7bb24c8e" tvg-name="Andromeda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8ceb2457-c1e4-4a8d-a49c-302d637c0089/Channel_Logo_TemporaTV_WHTRRDX.png" group-title="Adrenaline & Sci-Fi",Andromeda
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-691d65b18f4092bc7bb24c8e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-674f6a6cf44561420465f9f3" tvg-id="674f6a6cf44561420465f9f3" tvg-name="Animation+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d3f6d54b-64cf-44ed-a960-2feb1c4b05c7/US_STVP_AnimationPlus_logo_Color_1500x1000_-_Kai_Schneider.png" group-title="Global",Animation+
