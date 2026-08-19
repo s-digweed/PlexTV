@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T15:25:41.267556+00:00",
+  "generated": "2026-08-19T18:21:38.525130+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -5678,19 +5678,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f0ff263d71dcb00449ec021.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "us"
-      },
-      "654d5db7ff9919cc3e31e961": {
-        "id": "6a1610bebdf296985fd95603-654d5db7ff9919cc3e31e961",
-        "slug": "gousa-tv-3",
-        "gridKey": "654d5db7ff9919cc3e31e961",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2a937d36-e14d-470b-a909-746fb0744ec4/gousa-tvWHITE_RDX1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-654d5db7ff9919cc3e31e961.m3u8",
         "genres": [
           "Explore"
         ],
