@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T18:25:46.929685+00:00",
+  "generated": "2026-08-20T21:20:35.099867+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -5428,8 +5428,8 @@
         "slug": "paranormal-files",
         "gridKey": "65e87f35335524a69e8e0ce0",
         "name": "Paranormal Files",
-        "logo": "https://provider-static.plex.tv/4/epg/channels/logos/gracenote/419e4cf8a2e6d3fa3ba349045061d831.png",
-        "callSign": "XPLPF",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/49a8a03a-1346-4f3c-981b-47f07fe02ac5/Paranormal4f0624f276e0ec4283e7940c80fc70feRDXWHITE.png",
+        "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-65e87f35335524a69e8e0ce0.m3u8",
         "genres": [
           "Explore"
