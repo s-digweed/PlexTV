@@ -185,6 +185,8 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-63f914bffe2c
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-63489a771159f6a5ce819b7b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f8746eabd529300418246d9" tvg-id="5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food, Home & Culture",GUSTOTV
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5f8746eabd529300418246d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a63ab81a1deb5624927c631" tvg-id="6a63ab81a1deb5624927c631" tvg-name="H2O & Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4e2190f-3258-400d-9b65-d92806a9e2c6/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png" group-title="Kids & Family",H2O & Friends
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6a63ab81a1deb5624927c631.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5fd115bdb7ef8d002dcf1820" tvg-id="5fd115bdb7ef8d002dcf1820" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Sports",Hard Knocks
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5fd115bdb7ef8d002dcf1820.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ee7ae2271f393d2d9f709e" tvg-id="62ee7ae2271f393d2d9f709e" tvg-name="Hip-Hop/R&B" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png" group-title="Music",Hip-Hop/R&B
@@ -507,8 +509,6 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5f0ff266d71d
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66ea196ac24d95b51b7cd18b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6880001d015fe7e375a1a0a8" tvg-id="6880001d015fe7e375a1a0a8" tvg-name="Wedotv Amor Piel Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7aa34d17-de26-4b64-b4cc-628d572de91f/PielLight_Logo__1_.png" group-title="Bingeworthy",Wedotv Amor Piel Salvaje
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6880001d015fe7e375a1a0a8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-61e9d9979da6ee6e05278269" tvg-id="61e9d9979da6ee6e05278269" tvg-name="Wellbeing TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png" group-title="Food, Home & Culture",Wellbeing TV
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-61e9d9979da6ee6e05278269.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60d4edddb2fdec002c141135" tvg-id="60d4edddb2fdec002c141135" tvg-name="WildEarth" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="Explore",WildEarth
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-60d4edddb2fdec002c141135.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68645f7c1a2f321847ec0393" tvg-id="68645f7c1a2f321847ec0393" tvg-name="Wineman" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9a15a24f-c9ae-40f1-b9e5-16a95f4b650c/Wineman_whiteRDX.png" group-title="Explore",Wineman

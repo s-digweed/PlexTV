@@ -335,6 +335,8 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-69814bbff871
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63628eb88e4b18ca22f897dc.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Music",Qwest TV
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-60b0f65c0c8ffb002c821a75.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a6a84e17c207c80661b6c20" tvg-id="6a6a84e17c207c80661b6c20" tvg-name="Racer Brasil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c1621cda-aa86-42f3-aebf-c4452f4f9881/Racer_Brazil_WhiteREAL.png" group-title="Sports",Racer Brasil
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6a6a84e17c207c80661b6c20.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f90ebc726350a002d40b136" tvg-id="5f90ebc726350a002d40b136" tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Sports",RACER International
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5f90ebc726350a002d40b136.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-61a945156547ba4d6d238dc9" tvg-id="61a945156547ba4d6d238dc9" tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" group-title="Sports",Racing America

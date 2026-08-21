@@ -217,6 +217,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61aaa014784a
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-682dfbf4dfc9c452b8f98428.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66e8d5d20a1c525933947790" tvg-id="66e8d5d20a1c525933947790" tvg-name="Homes Under the Hammer" tvg-logo="https://provider-static.plex.tv/epg/cms/production/763ac36e-6b69-46b2-8197-c789a459e897/Homes_hammer_white.png" group-title="Food, Home & Culture",Homes Under the Hammer
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66e8d5d20a1c525933947790.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a6cfd2e8f82b5f5c3fc7c35" tvg-id="6a6cfd2e8f82b5f5c3fc7c35" tvg-name="Homicide Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/846eafad-94d0-41b3-944d-dd5e4ac77fcd/HH_WHITE_1500x1000.png" group-title="True Crime",Homicide Hunter
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a6cfd2e8f82b5f5c3fc7c35.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6582a1316b91be4547aa153c" tvg-id="6582a1316b91be4547aa153c" tvg-name="Hot Ones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png" group-title="Daytime TV & Games",Hot Ones
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6582a1316b91be4547aa153c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66f6b6baac1a1890ef197a4b" tvg-id="66f6b6baac1a1890ef197a4b" tvg-name="Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="Classics",Hunter

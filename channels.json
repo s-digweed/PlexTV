@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T00:45:45.413003+00:00",
+  "generated": "2026-08-21T03:45:19.055809+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -2147,19 +2147,6 @@
         ],
         "region": "us"
       },
-      "64e9f17c7511e20e999d6c34": {
-        "id": "6a1610bebdf296985fd95603-64e9f17c7511e20e999d6c34",
-        "slug": "fanduel-tv-extra-2",
-        "gridKey": "64e9f17c7511e20e999d6c34",
-        "name": "FanDuel TV Extra",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2102b336-c77e-4f12-a447-a451f326beca/FDTV_EXTRA_AttributionWhite_RDX.png",
-        "callSign": "FDTVX",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64e9f17c7511e20e999d6c34.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
       "67858517d3749c9bdd4d2ecf": {
         "id": "6a1610bebdf296985fd95603-67858517d3749c9bdd4d2ecf",
         "slug": "dp-world-tour",
@@ -3923,6 +3910,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/1c8909c9-e161-4bca-afd4-649b7486a01b/Continuum_Channel_Logo_White.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66ce3ef09ac0b1441b19ca2b.m3u8",
+        "genres": [
+          "Adrenaline & Sci-Fi"
+        ],
+        "region": "us"
+      },
+      "68a795469c93a153bd8cba4d": {
+        "id": "6a1610bebdf296985fd95603-68a795469c93a153bd8cba4d",
+        "slug": "andromeda-2",
+        "gridKey": "68a795469c93a153bd8cba4d",
+        "name": "Andromeda",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/865f5289-9e4e-4926-821f-8d7ba6c60068/Andromeda_Logo_1500x1000_DarkBG_-_Chris_Connors_WHT.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-68a795469c93a153bd8cba4d.m3u8",
         "genres": [
           "Adrenaline & Sci-Fi"
         ],
@@ -15476,6 +15476,19 @@
         ],
         "region": "gb"
       },
+      "6a6cfd2e8f82b5f5c3fc7c35": {
+        "id": "64305451fc3be5947773c339-6a6cfd2e8f82b5f5c3fc7c35",
+        "slug": "homicide-hunter",
+        "gridKey": "6a6cfd2e8f82b5f5c3fc7c35",
+        "name": "Homicide Hunter",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/846eafad-94d0-41b3-944d-dd5e4ac77fcd/HH_WHITE_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a6cfd2e8f82b5f5c3fc7c35.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "gb"
+      },
       "6888e5c7d7b56a61e6e2643c": {
         "id": "64305451fc3be5947773c339-6888e5c7d7b56a61e6e2643c",
         "slug": "bloodline-detectives",
@@ -18440,19 +18453,6 @@
         ],
         "region": "gb"
       },
-      "61e9d9979da6ee6e05278269": {
-        "id": "64305451fc3be5947773c339-61e9d9979da6ee6e05278269",
-        "slug": "wellbeing-tv",
-        "gridKey": "61e9d9979da6ee6e05278269",
-        "name": "Wellbeing TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-61e9d9979da6ee6e05278269.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "gb"
-      },
       "5ef11487d33ab9004048a1d9": {
         "id": "64305451fc3be5947773c339-5ef11487d33ab9004048a1d9",
         "slug": "revry",
@@ -18669,6 +18669,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/67906c3b-0242-4a2c-9a32-02ee952ba309/POP-UP-Light-Stacked-_-_Nicholas_Foundoukis.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "gb"
+      },
+      "6a63a912a1deb5624927c62b": {
+        "id": "64305451fc3be5947773c339-6a63a912a1deb5624927c62b",
+        "slug": "h2o-and-friends",
+        "gridKey": "6a63a912a1deb5624927c62b",
+        "name": "H2O & Friends",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/634f4c42-4d32-47fb-a552-084eadc4246f/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a63a912a1deb5624927c62b.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -19854,6 +19867,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cee60fe2-2259-4836-8b99-6a0bd1dbf98b/Real_Crime_Logo_White_-_Simon_Tuquabo.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-63584cf6d3a668f1cafc1f9f.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "au"
+      },
+      "6a6cfd2e8f82b5f5c3fc7c35": {
+        "id": "697140a85d851f5e69414688-6a6cfd2e8f82b5f5c3fc7c35",
+        "slug": "homicide-hunter",
+        "gridKey": "6a6cfd2e8f82b5f5c3fc7c35",
+        "name": "Homicide Hunter",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/846eafad-94d0-41b3-944d-dd5e4ac77fcd/HH_WHITE_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6a6cfd2e8f82b5f5c3fc7c35.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -23561,6 +23587,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c337bb5b-7a7a-4207-88f0-0e83f995582d/true_crime_now_logordx_white.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-64e43cfe200cd2f67473e0d6.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "nz"
+      },
+      "6a6cfd2e8f82b5f5c3fc7c35": {
+        "id": "5e20b730f2f8d5003d739db7-6a6cfd2e8f82b5f5c3fc7c35",
+        "slug": "homicide-hunter",
+        "gridKey": "6a6cfd2e8f82b5f5c3fc7c35",
+        "name": "Homicide Hunter",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/846eafad-94d0-41b3-944d-dd5e4ac77fcd/HH_WHITE_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a6cfd2e8f82b5f5c3fc7c35.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -32852,19 +32891,6 @@
         ],
         "region": "es"
       },
-      "61e9d9979da6ee6e05278269": {
-        "id": "643054b1fc3be59477853717-61e9d9979da6ee6e05278269",
-        "slug": "wellbeing-tv",
-        "gridKey": "61e9d9979da6ee6e05278269",
-        "name": "Wellbeing TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-61e9d9979da6ee6e05278269.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "es"
-      },
       "65cd316a40ab06259e8168a0": {
         "id": "643054b1fc3be59477853717-65cd316a40ab06259e8168a0",
         "slug": "tastemade-en-espanol-3",
@@ -33107,6 +33133,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-5eea605574085f0040ddc794.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "es"
+      },
+      "6a63ab81a1deb5624927c631": {
+        "id": "643054b1fc3be59477853717-6a63ab81a1deb5624927c631",
+        "slug": "h2o-and-friends-3",
+        "gridKey": "6a63ab81a1deb5624927c631",
+        "name": "H2O & Friends",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b4e2190f-3258-400d-9b65-d92806a9e2c6/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6a63ab81a1deb5624927c631.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -36351,6 +36390,19 @@
         ],
         "region": "fr"
       },
+      "6a63a9c6a1deb5624927c62d": {
+        "id": "6430aa45fc3be5947780904e-6a63a9c6a1deb5624927c62d",
+        "slug": "h2o-and-friends-5",
+        "gridKey": "6a63a9c6a1deb5624927c62d",
+        "name": "H2O & Friends",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e7b58a10-cade-4c67-a23b-9b3918c7111b/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6a63a9c6a1deb5624927c62d.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "fr"
+      },
       "69333216ac5b3f9f53442374": {
         "id": "6430aa45fc3be5947780904e-69333216ac5b3f9f53442374",
         "slug": "baby-einstein",
@@ -38446,6 +38498,19 @@
         ],
         "region": "de"
       },
+      "6674c3c0a9c715b93ca6ca94": {
+        "id": "635177ecff6cd5445d7f9b0b-6674c3c0a9c715b93ca6ca94",
+        "slug": "infast-3",
+        "gridKey": "6674c3c0a9c715b93ca6ca94",
+        "name": "INFAST",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4666b637-4f08-4851-810f-1c6c455ec5f6/INFAST_logo_dark_-_brittany_benton.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6674c3c0a9c715b93ca6ca94.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "de"
+      },
       "666e1820ce73ed6023b55a11": {
         "id": "635177ecff6cd5445d7f9b0b-666e1820ce73ed6023b55a11",
         "slug": "ice-pilots-nwt",
@@ -39213,14 +39278,14 @@
         ],
         "region": "de"
       },
-      "6674c3c0a9c715b93ca6ca94": {
-        "id": "635177ecff6cd5445d7f9b0b-6674c3c0a9c715b93ca6ca94",
-        "slug": "infast-3",
-        "gridKey": "6674c3c0a9c715b93ca6ca94",
-        "name": "INFAST",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/4666b637-4f08-4851-810f-1c6c455ec5f6/INFAST_logo_dark_-_brittany_benton.png",
+      "6a63a830a1deb5624927c629": {
+        "id": "635177ecff6cd5445d7f9b0b-6a63a830a1deb5624927c629",
+        "slug": "zdf-zu-hause",
+        "gridKey": "6a63a830a1deb5624927c629",
+        "name": "ZDF zu Hause",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0e3563c7-26cf-45b4-bf42-489cb5934885/Channel_Logo_ZDF_zu_Hause_Color_for_DarkBG_-_Olivia_Beigh.png",
         "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6674c3c0a9c715b93ca6ca94.m3u8",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6a63a830a1deb5624927c629.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -39460,19 +39525,6 @@
         ],
         "region": "de"
       },
-      "61e9d9979da6ee6e05278269": {
-        "id": "635177ecff6cd5445d7f9b0b-61e9d9979da6ee6e05278269",
-        "slug": "wellbeing-tv",
-        "gridKey": "61e9d9979da6ee6e05278269",
-        "name": "Wellbeing TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-61e9d9979da6ee6e05278269.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
       "68b74890b5b437bf872b6b72": {
         "id": "635177ecff6cd5445d7f9b0b-68b74890b5b437bf872b6b72",
         "slug": "tv5monde-chefs",
@@ -39525,6 +39577,19 @@
         ],
         "region": "de"
       },
+      "6a63ac26a1deb5624927c633": {
+        "id": "635177ecff6cd5445d7f9b0b-6a63ac26a1deb5624927c633",
+        "slug": "h2o-and-friends-4",
+        "gridKey": "6a63ac26a1deb5624927c633",
+        "name": "H2O & Friends",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/038d2852-734e-4108-b142-09319a22f8ab/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6a63ac26a1deb5624927c633.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "de"
+      },
       "639b8d803f4612cc150a5721": {
         "id": "635177ecff6cd5445d7f9b0b-639b8d803f4612cc150a5721",
         "slug": "smurf-tv",
@@ -39533,6 +39598,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-639b8d803f4612cc150a5721.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "de"
+      },
+      "6a5e97d4ea9f0da81d0962eb": {
+        "id": "635177ecff6cd5445d7f9b0b-6a5e97d4ea9f0da81d0962eb",
+        "slug": "fix-foxi-freunde",
+        "gridKey": "6a5e97d4ea9f0da81d0962eb",
+        "name": "Fix Foxi + Freunde",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f4612c04-7a50-495f-a4ae-6b5f7f8236c5/FixFoxiFruende_dark_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6a5e97d4ea9f0da81d0962eb.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -41108,6 +41186,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/1ca76ac0-6340-4214-ab3a-6c863e6a5514/1500x1000_light.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-69b47ba0573588ae1fb57f3f.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "br"
+      },
+      "6a6a84e17c207c80661b6c20": {
+        "id": "646546f35db8ada4c8edd7e5-6a6a84e17c207c80661b6c20",
+        "slug": "racer-brasil",
+        "gridKey": "6a6a84e17c207c80661b6c20",
+        "name": "Racer Brasil",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c1621cda-aa86-42f3-aebf-c4452f4f9881/Racer_Brazil_WhiteREAL.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6a6a84e17c207c80661b6c20.m3u8",
         "genres": [
           "Sports"
         ],
@@ -53133,19 +53224,6 @@
         ],
         "region": "se"
       },
-      "61e9d9979da6ee6e05278269": {
-        "id": "5e20b730f2f8d5003d739db7-61e9d9979da6ee6e05278269",
-        "slug": "wellbeing-tv",
-        "gridKey": "61e9d9979da6ee6e05278269",
-        "name": "Wellbeing TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-61e9d9979da6ee6e05278269.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "se"
-      },
       "6349ed0eb1adc4cfa571fd37": {
         "id": "5e20b730f2f8d5003d739db7-6349ed0eb1adc4cfa571fd37",
         "slug": "speedvision",
@@ -56042,19 +56120,6 @@
         "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
         "callSign": "CIDUS",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "nl"
-      },
-      "61e9d9979da6ee6e05278269": {
-        "id": "5e20b730f2f8d5003d739db7-61e9d9979da6ee6e05278269",
-        "slug": "wellbeing-tv",
-        "gridKey": "61e9d9979da6ee6e05278269",
-        "name": "Wellbeing TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-61e9d9979da6ee6e05278269.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -62507,19 +62572,6 @@
         "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
         "callSign": "CIDUS",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "fi"
-      },
-      "61e9d9979da6ee6e05278269": {
-        "id": "5e20b730f2f8d5003d739db7-61e9d9979da6ee6e05278269",
-        "slug": "wellbeing-tv",
-        "gridKey": "61e9d9979da6ee6e05278269",
-        "name": "Wellbeing TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-61e9d9979da6ee6e05278269.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],

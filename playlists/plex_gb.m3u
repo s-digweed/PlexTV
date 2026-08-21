@@ -255,6 +255,8 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6648d6f0a16b
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-63489a771159f6a5ce819b7b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f8746eabd529300418246d9" tvg-id="5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food, Home & Culture",GUSTOTV
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-5f8746eabd529300418246d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a63a912a1deb5624927c62b" tvg-id="6a63a912a1deb5624927c62b" tvg-name="H2O & Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/634f4c42-4d32-47fb-a552-084eadc4246f/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png" group-title="Kids & Family",H2O & Friends
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6a63a912a1deb5624927c62b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5fd115bdb7ef8d002dcf1820" tvg-id="5fd115bdb7ef8d002dcf1820" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Sports",Hard Knocks
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-5fd115bdb7ef8d002dcf1820.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65847c56d60830ce4d4f303a" tvg-id="65847c56d60830ce4d4f303a" tvg-name="Hardcore Pawn" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2729a7a8-8f45-474a-90a3-ca23aa1241a0/HardcorePawn_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Bingeworthy",Hardcore Pawn
@@ -283,6 +285,8 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-69b16dcb8734
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-682dfbf4dfc9c452b8f98428.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66e8d5d20a1c525933947790" tvg-id="66e8d5d20a1c525933947790" tvg-name="Homes Under the Hammer" tvg-logo="https://provider-static.plex.tv/epg/cms/production/763ac36e-6b69-46b2-8197-c789a459e897/Homes_hammer_white.png" group-title="Food, Home & Culture",Homes Under the Hammer
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-66e8d5d20a1c525933947790.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a6cfd2e8f82b5f5c3fc7c35" tvg-id="6a6cfd2e8f82b5f5c3fc7c35" tvg-name="Homicide Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/846eafad-94d0-41b3-944d-dd5e4ac77fcd/HH_WHITE_1500x1000.png" group-title="True Crime",Homicide Hunter
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6a6cfd2e8f82b5f5c3fc7c35.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6582a1316b91be4547aa153c" tvg-id="6582a1316b91be4547aa153c" tvg-name="Hot Ones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png" group-title="Daytime TV & Games",Hot Ones
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6582a1316b91be4547aa153c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66f6b6baac1a1890ef197a4b" tvg-id="66f6b6baac1a1890ef197a4b" tvg-name="Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="Classics",Hunter
@@ -679,8 +683,6 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-5f0ff266d71d
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6578ec93eef129f30fb38dfd.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-642d67a42476824150b0a6e9" tvg-id="642d67a42476824150b0a6e9" tvg-name="wedo movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24e9bfc3-7a31-44cf-8b4a-c43b1b29b3fa/wedo-movies_1500x1000_white.png" group-title="Movies",wedo movies
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-642d67a42476824150b0a6e9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-61e9d9979da6ee6e05278269" tvg-id="61e9d9979da6ee6e05278269" tvg-name="Wellbeing TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png" group-title="Food, Home & Culture",Wellbeing TV
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-61e9d9979da6ee6e05278269.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66fd3a76216b603e031725fc" tvg-id="66fd3a76216b603e031725fc" tvg-name="Western Bound" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png" group-title="Bingeworthy",Western Bound
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-66fd3a76216b603e031725fc.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6920d8b950fe592fd6d5b7d1" tvg-id="6920d8b950fe592fd6d5b7d1" tvg-name="Who Wants to Be a Millionaire" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9da6ae6e-88ae-4272-b077-63bd2903a74a/UK_FAST_Plex_WWTBAM_logo_dark.png" group-title="Daytime TV & Games",Who Wants to Be a Millionaire

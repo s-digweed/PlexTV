@@ -171,6 +171,8 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63489a771159
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f8746eabd529300418246d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68e03d842cbc7a5d3189394a" tvg-id="68e03d842cbc7a5d3189394a" tvg-name="Génération Sitcoms TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c72448e1-59be-4c04-b2c8-461cb3bb5bac/All_White_Generation-Sitcom.png" group-title="Bingeworthy",Génération Sitcoms TV
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a63a9c6a1deb5624927c62d" tvg-id="6a63a9c6a1deb5624927c62d" tvg-name="H2O & Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e7b58a10-cade-4c67-a23b-9b3918c7111b/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png" group-title="Kids & Family",H2O & Friends
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a63a9c6a1deb5624927c62d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5fd115bdb7ef8d002dcf1820" tvg-id="5fd115bdb7ef8d002dcf1820" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Sports",Hard Knocks
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fd115bdb7ef8d002dcf1820.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ee7ae2271f393d2d9f709e" tvg-id="62ee7ae2271f393d2d9f709e" tvg-name="Hip-Hop/R&B" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png" group-title="Music",Hip-Hop/R&B
