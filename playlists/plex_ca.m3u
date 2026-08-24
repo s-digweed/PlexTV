@@ -433,7 +433,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5ef4e1b40d9a
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6515fd4f2ff655e77635c628.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68e9436dda6bb987138625c7" tvg-id="68e9436dda6bb987138625c7" tvg-name="Metal.Rocks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png" group-title="Music",Metal.Rocks
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-68e9436dda6bb987138625c7.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-611152a48f945c002c40021a" tvg-id="611152a48f945c002c40021a" tvg-name="MHz Now" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mhz_now_logo_dark.png" group-title="Global",MHz Now
+#EXTINF:-1 channel-id="plex-611152a48f945c002c40021a" tvg-id="611152a48f945c002c40021a" tvg-name="MHz Mysteries" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1b8e6920-bf10-428e-b603-b2c7b2595857/Plex_MHzMysteries_Logo_White_1500x1000.png" group-title="Global",MHz Mysteries
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-611152a48f945c002c40021a.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67f592e6c97eb27725c8855f" tvg-id="67f592e6c97eb27725c8855f" tvg-name="MI-5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1db7ca58-f6ab-4533-b342-969a37c960b4/SpooksMI5_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Bingeworthy",MI-5
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-67f592e6c97eb27725c8855f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
