@@ -119,6 +119,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea60547408
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Classics",Grjngo - Western Movies
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489a771159f6a5ce819b7b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a8786c4fa0d0293e2681b7c" tvg-id="6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png" group-title="Daytime TV & Games",GrowthDay Network
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a8786c4fa0d0293e2681b7c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f8746eabd529300418246d9" tvg-id="5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food, Home & Culture",GUSTOTV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5fd115bdb7ef8d002dcf1820" tvg-id="5fd115bdb7ef8d002dcf1820" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Sports",Hard Knocks
@@ -171,8 +173,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-684c2379e320
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6112a9139894c8002c6cb87f" tvg-id="6112a9139894c8002c6cb87f" tvg-name="More U" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" group-title="Food, Home & Culture",More U
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-603fb593a99efc002dbf90e4" tvg-id="603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="Sports",Motorvision TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65d90ec99c7a6da8c3ce57eb" tvg-id="65d90ec99c7a6da8c3ce57eb" tvg-name="Movieitaly Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png" group-title="Global",Movieitaly Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-650b5bb3f4b2d9579946a500" tvg-id="650b5bb3f4b2d9579946a500" tvg-name="Mythical 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png" group-title="Comedy",Mythical 24/7
