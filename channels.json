@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28T01:56:38.179229+00:00",
+  "generated": "2026-08-28T14:46:47.904023+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -4708,6 +4708,19 @@
         ],
         "region": "us"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "6a1610bebdf296985fd95603-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
       "68d15e51c80ec69e0bd8965b": {
         "id": "6a1610bebdf296985fd95603-68d15e51c80ec69e0bd8965b",
         "slug": "mrbeast",
@@ -4963,19 +4976,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/104e6194-484e-4e84-823d-9b1e7936361e/xDoctors_Plex_Channel_Logo_v01_John_LopezRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6720271c727d52d7a0e0b495.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
-      "6a8786c4fa0d0293e2681b7c": {
-        "id": "6a1610bebdf296985fd95603-6a8786c4fa0d0293e2681b7c",
-        "slug": "growthday-network",
-        "gridKey": "6a8786c4fa0d0293e2681b7c",
-        "name": "GrowthDay Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6a8786c4fa0d0293e2681b7c.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -12237,6 +12237,19 @@
         ],
         "region": "ca"
       },
+      "6876f82754325376973fd316": {
+        "id": "647f8d22a2fc3fadb4721685-6876f82754325376973fd316",
+        "slug": "paternity-court",
+        "gridKey": "6876f82754325376973fd316",
+        "name": "Paternity Court",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b4108fe4-e876-41a3-904d-39148f3e2e30/PaternityCourt_logo_dark_-_Carl_HoffelderRDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6876f82754325376973fd316.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "ca"
+      },
       "66b13a1f4893b3d48c72db19": {
         "id": "647f8d22a2fc3fadb4721685-66b13a1f4893b3d48c72db19",
         "slug": "primetime-soaps",
@@ -12276,19 +12289,6 @@
         ],
         "region": "ca"
       },
-      "6876f82754325376973fd316": {
-        "id": "647f8d22a2fc3fadb4721685-6876f82754325376973fd316",
-        "slug": "paternity-court",
-        "gridKey": "6876f82754325376973fd316",
-        "name": "Paternity Court",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b4108fe4-e876-41a3-904d-39148f3e2e30/PaternityCourt_logo_dark_-_Carl_HoffelderRDX.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-6876f82754325376973fd316.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "ca"
-      },
       "6a8786c4fa0d0293e2681b7c": {
         "id": "647f8d22a2fc3fadb4721685-6a8786c4fa0d0293e2681b7c",
         "slug": "growthday-network",
@@ -12297,6 +12297,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "ca"
+      },
+      "652a8b001b5c74bc83cf727c": {
+        "id": "647f8d22a2fc3fadb4721685-652a8b001b5c74bc83cf727c",
+        "slug": "dog-whisperer",
+        "gridKey": "652a8b001b5c74bc83cf727c",
+        "name": "Dog Whisperer",
+        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png",
+        "callSign": "DOGWHSP",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-652a8b001b5c74bc83cf727c.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -12414,19 +12427,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5f0ff262d71dcb00449ec018.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "ca"
-      },
-      "652a8b001b5c74bc83cf727c": {
-        "id": "647f8d22a2fc3fadb4721685-652a8b001b5c74bc83cf727c",
-        "slug": "dog-whisperer",
-        "gridKey": "652a8b001b5c74bc83cf727c",
-        "name": "Dog Whisperer",
-        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png",
-        "callSign": "DOGWHSP",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-652a8b001b5c74bc83cf727c.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -17504,6 +17504,19 @@
         ],
         "region": "gb"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "64305451fc3be5947773c339-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "gb"
+      },
       "6582a1316b91be4547aa153c": {
         "id": "64305451fc3be5947773c339-6582a1316b91be4547aa153c",
         "slug": "hot-ones-2",
@@ -17551,19 +17564,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-5f0ff262d71dcb00449ec018.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "gb"
-      },
-      "6a8786c4fa0d0293e2681b7c": {
-        "id": "64305451fc3be5947773c339-6a8786c4fa0d0293e2681b7c",
-        "slug": "growthday-network",
-        "gridKey": "6a8786c4fa0d0293e2681b7c",
-        "name": "GrowthDay Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-6a8786c4fa0d0293e2681b7c.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
