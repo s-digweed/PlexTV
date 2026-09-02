@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T18:20:16.902994+00:00",
+  "generated": "2026-09-02T20:19:45.982252+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -3660,7 +3660,7 @@
         "slug": "degrassi",
         "gridKey": "636d5aa3dc2c550b145ed422",
         "name": "Degrassi",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422.m3u8",
         "genres": [
@@ -16963,7 +16963,7 @@
         "slug": "degrassi",
         "gridKey": "636d5aa3dc2c550b145ed422",
         "name": "Degrassi",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-636d5aa3dc2c550b145ed422.m3u8",
         "genres": [
