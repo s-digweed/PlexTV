@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T20:19:45.982252+00:00",
+  "generated": "2026-09-02T22:56:28.067367+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -3351,19 +3351,6 @@
         "logo": "https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e5edb46c630a8a5a90867289950f841e.png",
         "callSign": "PGSOULX",
         "key": "/library/parts/6a1610bebdf296985fd95603-678819cadb8f0c5dc195cf50.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "us"
-      },
-      "66f6b947515e742745f5ca34": {
-        "id": "6a1610bebdf296985fd95603-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-66f6b947515e742745f5ca34.m3u8",
         "genres": [
           "Classics"
         ],
@@ -11431,19 +11418,6 @@
         ],
         "region": "ca"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "647f8d22a2fc3fadb4721685-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "ca"
-      },
       "65e9d0ad8fe4ef7053c3c874": {
         "id": "647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c874",
         "slug": "filmrise-classic-tv",
@@ -11540,7 +11514,7 @@
         "slug": "degrassi",
         "gridKey": "636d5aa3dc2c550b145ed422",
         "name": "Degrassi",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422.m3u8",
         "genres": [
@@ -16971,19 +16945,6 @@
         ],
         "region": "gb"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "64305451fc3be5947773c339-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "gb"
-      },
       "60d4edd6b2fdec002c141125": {
         "id": "64305451fc3be5947773c339-60d4edd6b2fdec002c141125",
         "slug": "the-carol-burnett-show",
@@ -21055,19 +21016,6 @@
         ],
         "region": "au"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "697140a85d851f5e69414688-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "au"
-      },
       "6196c9241d310bf925e02616": {
         "id": "697140a85d851f5e69414688-6196c9241d310bf925e02616",
         "slug": "lone-star",
@@ -24671,19 +24619,6 @@
         ],
         "region": "nz"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "nz"
-      },
       "6196c9241d310bf925e02616": {
         "id": "5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616",
         "slug": "lone-star",
@@ -28235,19 +28170,6 @@
         ],
         "region": "mx"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "608049aefa2b8ae93c2c3a63-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "mx"
-      },
       "66f6b6baac1a1890ef197a4b": {
         "id": "608049aefa2b8ae93c2c3a63-66f6b6baac1a1890ef197a4b",
         "slug": "hunter-2",
@@ -30146,19 +30068,6 @@
         ],
         "region": "mx"
       },
-      "6750ddfe89fc497ec780f5bd": {
-        "id": "608049aefa2b8ae93c2c3a63-6750ddfe89fc497ec780f5bd",
-        "slug": "zee-mundo",
-        "gridKey": "6750ddfe89fc497ec780f5bd",
-        "name": "Zee Mundo",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ac57648e-8db5-4430-a0fc-b6d7ecb2c92f/ZEE-MUNDO_WHT.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6750ddfe89fc497ec780f5bd.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "mx"
-      },
       "62d1a58e520656fda09e609d": {
         "id": "608049aefa2b8ae93c2c3a63-62d1a58e520656fda09e609d",
         "slug": "shemaroo-bollywood",
@@ -32028,19 +31937,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-60d4edd6b2fdec002c141123.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "es"
-      },
-      "66f6b947515e742745f5ca34": {
-        "id": "643054b1fc3be59477853717-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-66f6b947515e742745f5ca34.m3u8",
         "genres": [
           "Classics"
         ],
@@ -35311,19 +35207,6 @@
         ],
         "region": "fr"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "6430aa45fc3be5947780904e-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "fr"
-      },
       "66f6b6baac1a1890ef197a4b": {
         "id": "6430aa45fc3be5947780904e-66f6b6baac1a1890ef197a4b",
         "slug": "hunter-2",
@@ -38524,19 +38407,6 @@
         ],
         "region": "de"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "635177ecff6cd5445d7f9b0b-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "de"
-      },
       "640205c68ecb41f2d89d5814": {
         "id": "635177ecff6cd5445d7f9b0b-640205c68ecb41f2d89d5814",
         "slug": "the-ed-sullivan-show",
@@ -41698,19 +41568,6 @@
         ],
         "region": "br"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "646546f35db8ada4c8edd7e5-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "br"
-      },
       "6674b68af04cf4bb9233c916": {
         "id": "646546f35db8ada4c8edd7e5-6674b68af04cf4bb9233c916",
         "slug": "death-valley-days",
@@ -44599,19 +44456,6 @@
         ],
         "region": "in"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "698f7631338300003d436270-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "in"
-      },
       "66f6b6baac1a1890ef197a4b": {
         "id": "698f7631338300003d436270-66f6b6baac1a1890ef197a4b",
         "slug": "hunter-2",
@@ -47014,19 +46858,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "jp"
-      },
-      "66f6b947515e742745f5ca34": {
-        "id": "5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34.m3u8",
         "genres": [
           "Classics"
         ],
@@ -52041,19 +51872,6 @@
         ],
         "region": "se"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "se"
-      },
       "6196c9241d310bf925e02616": {
         "id": "5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616",
         "slug": "lone-star",
@@ -55054,19 +54872,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "nl"
-      },
-      "66f6b947515e742745f5ca34": {
-        "id": "5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34.m3u8",
         "genres": [
           "Classics"
         ],
@@ -61407,19 +61212,6 @@
         ],
         "region": "fi"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "fi"
-      },
       "6196c9241d310bf925e02616": {
         "id": "5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616",
         "slug": "lone-star",
@@ -64555,19 +64347,6 @@
         ],
         "region": "dk"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "dk"
-      },
       "6196c9241d310bf925e02616": {
         "id": "5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616",
         "slug": "lone-star",
@@ -67581,19 +67360,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "is"
-      },
-      "66f6b947515e742745f5ca34": {
-        "id": "5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34.m3u8",
         "genres": [
           "Classics"
         ],

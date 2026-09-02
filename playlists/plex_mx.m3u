@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/plex-alt-fast-channels/main/playlists/plex_mx.xml.gz"
 #EXTINF:-1 channel-id="plex-63eecb32ac23d1ee072087cb" tvg-id="63eecb32ac23d1ee072087cb" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Kids & Family",123GO!
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-66f6b947515e742745f5ca34" tvg-id="66f6b947515e742745f5ca34" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="Classics",21 Jump Street
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66f6b947515e742745f5ca34.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a6a83ad7c207c80661b6c1e" tvg-id="6a6a83ad7c207c80661b6c1e" tvg-name="4Fangs" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d8588702-7fbf-42ab-85ee-4846ba35f609/4fangs_whiteRDX.png" group-title="Adrenaline & Sci-Fi",4Fangs
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6a6a83ad7c207c80661b6c1e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63894c1965b848bf2c8a7800" tvg-id="63894c1965b848bf2c8a7800" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="Food, Home & Culture",5-Minute Crafts
@@ -553,8 +551,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ee72cc271f
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5f170f01b898490041b49dd1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67d4b095c792102dd8ec6c5b" tvg-id="67d4b095c792102dd8ec6c5b" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/9943864d-84bf-45b3-84cb-12a5d1e04190/ZNation_Channel_Logo_White__1_.png" group-title="Bingeworthy",Z Nation
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67d4b095c792102dd8ec6c5b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-6750ddfe89fc497ec780f5bd" tvg-id="6750ddfe89fc497ec780f5bd" tvg-name="Zee Mundo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ac57648e-8db5-4430-a0fc-b6d7ecb2c92f/ZEE-MUNDO_WHT.png" group-title="Global",Zee Mundo
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6750ddfe89fc497ec780f5bd.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66fd3e25216b603e031725fe" tvg-id="66fd3e25216b603e031725fe" tvg-name="ZenLIFE by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png" group-title="Explore",ZenLIFE by Stingray
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66fd3e25216b603e031725fe.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65f0dbeb046e6131ecc31843" tvg-id="65f0dbeb046e6131ecc31843" tvg-name="Zona Investigación" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f05b595-1f43-4399-896a-789ab42dce75/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png" group-title="True Crime",Zona Investigación
