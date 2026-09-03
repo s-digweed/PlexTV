@@ -53,6 +53,8 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-65b1568052aa
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6164a963766ab4f9f57e81b1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64c91830ea7db2f52688c52c" tvg-id="64c91830ea7db2f52688c52c" tvg-name="CBC News" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d300a0c0dd6ffb82aca554ff87e8a364.png" group-title="News",CBC News
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a951e3ff534d4312a699c2b" tvg-id="6a951e3ff534d4312a699c2b" tvg-name="Ces't Pas Sorcier" tvg-logo="https://provider-static.plex.tv/epg/cms/production/be6ec91b-bc41-48de-8d66-d86cd7fb5a92/CEST_Whit_text.png" group-title="Explore",Ces't Pas Sorcier
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a951e3ff534d4312a699c2b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-693cbba358076a970420f597" tvg-id="693cbba358076a970420f597" tvg-name="Cesar's Pack Leader TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e24d3a4c-4948-4155-82c5-b7eec0fa50b8/Cesar_Logo_Transparent_WHTRDX.png" group-title="Explore",Cesar's Pack Leader TV
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-693cbba358076a970420f597.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62167144ab2095ca85353ad6" tvg-id="62167144ab2095ca85353ad6" tvg-name="CINEPRIDE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" group-title="Food, Home & Culture",CINEPRIDE
@@ -179,6 +181,8 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa014784a
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ae3e016d1144b79ce12226.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6582a1316b91be4547aa153c" tvg-id="6582a1316b91be4547aa153c" tvg-name="Hot Ones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png" group-title="Daytime TV & Games",Hot Ones
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6582a1316b91be4547aa153c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a951f07f534d4312a699c2d" tvg-id="6a951f07f534d4312a699c2d" tvg-name="House of Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/05441681-6768-41e6-96c9-19a846bb46e5/Light_LogoHouseofCreators.png" group-title="Reality",House of Creators
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a951f07f534d4312a699c2d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66f6b6baac1a1890ef197a4b" tvg-id="66f6b6baac1a1890ef197a4b" tvg-name="Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="Classics",Hunter
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66f6b6baac1a1890ef197a4b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-666e1820ce73ed6023b55a11" tvg-id="666e1820ce73ed6023b55a11" tvg-name="Ice Pilots NWT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2c49fafe-3ddd-443d-bdaa-c2ad358146cf/channel_logo_1500x1000_light.png.png" group-title="Reality",Ice Pilots NWT
@@ -367,6 +371,8 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa17a784a
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-644b13a3a1c0a5b2024c8403.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-656fbbd6dbcce28c3a41741b" tvg-id="656fbbd6dbcce28c3a41741b" tvg-name="Surf Cinema" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png" group-title="Sports",Surf Cinema
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-656fbbd6dbcce28c3a41741b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a9512a7f534d4312a699c22" tvg-id="6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png" group-title="Sports",SWAC TV
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a9512a7f534d4312a699c22.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6761f91555e174e95ccc4e4c" tvg-id="6761f91555e174e95ccc4e4c" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" group-title="Sports",Tennis+
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6761f91555e174e95ccc4e4c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f123330eca6a20040b328e8" tvg-id="5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png" group-title="Kids & Family",TG Junior

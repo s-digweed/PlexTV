@@ -443,6 +443,8 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6615522e50e8
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-644b13a3a1c0a5b2024c8403.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-656fbbd6dbcce28c3a41741b" tvg-id="656fbbd6dbcce28c3a41741b" tvg-name="Surf Cinema" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png" group-title="Sports",Surf Cinema
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-656fbbd6dbcce28c3a41741b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a9512a7f534d4312a699c22" tvg-id="6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png" group-title="Sports",SWAC TV
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6a9512a7f534d4312a699c22.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69a202f60f8d297b3f6ac0f4" tvg-id="69a202f60f8d297b3f6ac0f4" tvg-name="Taste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8ce74dbc-9546-4203-b2e9-06129ee547ae/Taste_Logo_Colour_1500X1000.png" group-title="Food, Home & Culture",Taste
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-69a202f60f8d297b3f6ac0f4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6615522e50e81fa51eb0df61" tvg-id="6615522e50e81fa51eb0df61" tvg-name="Teletubbies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f50e841a-8e39-441c-a7de-aa5925e6171a/teled39375085042573d5d6d78b53aca27b8.png" group-title="Kids & Family",Teletubbies

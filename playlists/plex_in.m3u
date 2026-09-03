@@ -297,6 +297,8 @@ https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-61aaa17a784a
 https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-644b13a3a1c0a5b2024c8403.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-656fbbd6dbcce28c3a41741b" tvg-id="656fbbd6dbcce28c3a41741b" tvg-name="Surf Cinema" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png" group-title="Sports",Surf Cinema
 https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-656fbbd6dbcce28c3a41741b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a9512a7f534d4312a699c22" tvg-id="6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png" group-title="Sports",SWAC TV
+https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-6a9512a7f534d4312a699c22.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6761f91555e174e95ccc4e4c" tvg-id="6761f91555e174e95ccc4e4c" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" group-title="Sports",Tennis+
 https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-6761f91555e174e95ccc4e4c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f123330eca6a20040b328e8" tvg-id="5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png" group-title="Kids & Family",TG Junior

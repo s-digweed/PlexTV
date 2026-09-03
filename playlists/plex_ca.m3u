@@ -679,6 +679,8 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-64b719768ec1
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-656fbbd6dbcce28c3a41741b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e89d8b982674772f6f1a55" tvg-id="65e89d8b982674772f6f1a55" tvg-name="Survivorman on Plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c65390b-22d4-46fe-a2e0-7972af2c5e8f/Survivorman-ChannelLogoColorRDX.png" group-title="Reality",Survivorman on Plex
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65e89d8b982674772f6f1a55.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a9512a7f534d4312a699c22" tvg-id="6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png" group-title="Sports",SWAC TV
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6a9512a7f534d4312a699c22.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-61f04d2bb01a6e8df3f72902" tvg-id="61f04d2bb01a6e8df3f72902" tvg-name="Swerve Combat" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa449194-1789-42d6-8a03-55ef1e991c40/PLEX_1500x1000_Logo_Dark.png" group-title="Sports",Swerve Combat
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-61f04d2bb01a6e8df3f72902.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a109508cd23e9639dc7e94a" tvg-id="6a109508cd23e9639dc7e94a" tvg-name="Swerve Women's Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c5d80a41-eddf-465e-8d05-174ad28ea646/Swerve_Womens_Sports_1500X1000_For_Dark_Backgrounds_VerticalRDX.png" group-title="Sports",Swerve Women's Sports

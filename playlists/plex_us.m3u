@@ -539,6 +539,8 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62b45f15b450
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63489eff90b96ef5e0eb3282.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Classics",Grjngo - Western Movies
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63489a771159f6a5ce819b7b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a8cb463fc51826f5301a156" tvg-id="6a8cb463fc51826f5301a156" tvg-name="Growing Up Hip Hop" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3c8801d-fde8-4b88-93a9-206956d39baf/Wetv_GUHH_Yellow_logo.png" group-title="Reality",Growing Up Hip Hop
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a8cb463fc51826f5301a156.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a8786c4fa0d0293e2681b7c" tvg-id="6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png" group-title="Daytime TV & Games",GrowthDay Network
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a8786c4fa0d0293e2681b7c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f8746eabd529300418246d9" tvg-id="5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food, Home & Culture",GUSTOTV
@@ -1073,6 +1075,8 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-656fbbd6dbcc
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6227c215c9f485cc7afe8c41.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69d938388061ebfbca58c322" tvg-id="69d938388061ebfbca58c322" tvg-name="Survive or Die" tvg-logo="https://provider-static.plex.tv/epg/cms/production/56a65f88-7aa4-4dcd-86ca-f9dfdca4d0be/SurviveOrDie_Logo_Dark_1500x1000.png" group-title="Reality",Survive or Die
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d938388061ebfbca58c322.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a9512a7f534d4312a699c22" tvg-id="6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png" group-title="Sports",SWAC TV
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a9512a7f534d4312a699c22.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66a1acc577649467da169f0c" tvg-id="66a1acc577649467da169f0c" tvg-name="Sweet Escapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9dd98df-f895-4fbd-94c6-ca6496426043/SweetEscapes_Logo_Dark_1500x1000.png" group-title="Food, Home & Culture",Sweet Escapes
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66a1acc577649467da169f0c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-61f04d2bb01a6e8df3f72902" tvg-id="61f04d2bb01a6e8df3f72902" tvg-name="Swerve Combat" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa449194-1789-42d6-8a03-55ef1e991c40/PLEX_1500x1000_Logo_Dark.png" group-title="Sports",Swerve Combat
