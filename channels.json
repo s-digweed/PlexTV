@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T20:04:36.407752+00:00",
+  "generated": "2026-09-04T22:40:59.291434+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -10347,6 +10347,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-63ec0b739866d8d2120ac759.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "ca"
+      },
+      "6227c215c9f485cc7afe8c41": {
+        "id": "647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41",
+        "slug": "surfer-tv",
+        "gridKey": "6227c215c9f485cc7afe8c41",
+        "name": "Surfer TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
           "Sports"
         ],
@@ -24372,6 +24385,19 @@
         ],
         "region": "nz"
       },
+      "6227c215c9f485cc7afe8c41": {
+        "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
+        "slug": "surfer-tv",
+        "gridKey": "6227c215c9f485cc7afe8c41",
+        "name": "Surfer TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nz"
+      },
       "63504925a97bd70eaef54f01": {
         "id": "5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -24471,6 +24497,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nz"
+      },
+      "62280162c9f485cc7afe8c46": {
+        "id": "5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46",
+        "slug": "powder-tv",
+        "gridKey": "62280162c9f485cc7afe8c46",
+        "name": "Powder TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
           "Sports"
         ],
@@ -47266,6 +47305,19 @@
         ],
         "region": "jp"
       },
+      "6227c215c9f485cc7afe8c41": {
+        "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
+        "slug": "surfer-tv",
+        "gridKey": "6227c215c9f485cc7afe8c41",
+        "name": "Surfer TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "jp"
+      },
       "6970fdabbde579fb71262401": {
         "id": "5e20b730f2f8d5003d739db7-6970fdabbde579fb71262401",
         "slug": "bowling-tv",
@@ -47326,6 +47378,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "jp"
+      },
+      "62280162c9f485cc7afe8c46": {
+        "id": "5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46",
+        "slug": "powder-tv",
+        "gridKey": "62280162c9f485cc7afe8c46",
+        "name": "Powder TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
           "Sports"
         ],
@@ -49569,6 +49634,19 @@
         ],
         "region": "kr"
       },
+      "6227c215c9f485cc7afe8c41": {
+        "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
+        "slug": "surfer-tv",
+        "gridKey": "6227c215c9f485cc7afe8c41",
+        "name": "Surfer TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "kr"
+      },
       "6970fdabbde579fb71262401": {
         "id": "5e20b730f2f8d5003d739db7-6970fdabbde579fb71262401",
         "slug": "bowling-tv",
@@ -49629,6 +49707,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "kr"
+      },
+      "62280162c9f485cc7afe8c46": {
+        "id": "5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46",
+        "slug": "powder-tv",
+        "gridKey": "62280162c9f485cc7afe8c46",
+        "name": "Powder TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
           "Sports"
         ],
@@ -52106,6 +52197,19 @@
         ],
         "region": "se"
       },
+      "6227c215c9f485cc7afe8c41": {
+        "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
+        "slug": "surfer-tv",
+        "gridKey": "6227c215c9f485cc7afe8c41",
+        "name": "Surfer TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "se"
+      },
       "63504925a97bd70eaef54f01": {
         "id": "5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -52192,6 +52296,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "se"
+      },
+      "62280162c9f485cc7afe8c46": {
+        "id": "5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46",
+        "slug": "powder-tv",
+        "gridKey": "62280162c9f485cc7afe8c46",
+        "name": "Powder TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
           "Sports"
         ],
@@ -55184,6 +55301,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nl"
+      },
+      "6227c215c9f485cc7afe8c41": {
+        "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
+        "slug": "surfer-tv",
+        "gridKey": "6227c215c9f485cc7afe8c41",
+        "name": "Surfer TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
           "Sports"
         ],
@@ -58311,6 +58441,19 @@
         ],
         "region": "no"
       },
+      "6227c215c9f485cc7afe8c41": {
+        "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
+        "slug": "surfer-tv",
+        "gridKey": "6227c215c9f485cc7afe8c41",
+        "name": "Surfer TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "no"
+      },
       "63504925a97bd70eaef54f01": {
         "id": "5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -58397,6 +58540,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "no"
+      },
+      "62280162c9f485cc7afe8c46": {
+        "id": "5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46",
+        "slug": "powder-tv",
+        "gridKey": "62280162c9f485cc7afe8c46",
+        "name": "Powder TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
           "Sports"
         ],
@@ -61519,6 +61675,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-67828ebf37cd7764c53489b3.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "fi"
+      },
+      "6227c215c9f485cc7afe8c41": {
+        "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
+        "slug": "surfer-tv",
+        "gridKey": "6227c215c9f485cc7afe8c41",
+        "name": "Surfer TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
           "Sports"
         ],
@@ -64698,6 +64867,19 @@
         ],
         "region": "dk"
       },
+      "6227c215c9f485cc7afe8c41": {
+        "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
+        "slug": "surfer-tv",
+        "gridKey": "6227c215c9f485cc7afe8c41",
+        "name": "Surfer TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "dk"
+      },
       "63504925a97bd70eaef54f01": {
         "id": "5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -64784,6 +64966,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "dk"
+      },
+      "62280162c9f485cc7afe8c46": {
+        "id": "5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46",
+        "slug": "powder-tv",
+        "gridKey": "62280162c9f485cc7afe8c46",
+        "name": "Powder TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
           "Sports"
         ],
@@ -67807,6 +68002,19 @@
         ],
         "region": "is"
       },
+      "6227c215c9f485cc7afe8c41": {
+        "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
+        "slug": "surfer-tv",
+        "gridKey": "6227c215c9f485cc7afe8c41",
+        "name": "Surfer TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "is"
+      },
       "63504925a97bd70eaef54f01": {
         "id": "5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -67880,6 +68088,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "is"
+      },
+      "62280162c9f485cc7afe8c46": {
+        "id": "5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46",
+        "slug": "powder-tv",
+        "gridKey": "62280162c9f485cc7afe8c46",
+        "name": "Powder TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
           "Sports"
         ],

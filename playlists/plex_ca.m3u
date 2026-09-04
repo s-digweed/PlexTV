@@ -679,6 +679,8 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-657dee403816
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-64b719768ec13d5dcb7e6bb4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-656fbbd6dbcce28c3a41741b" tvg-id="656fbbd6dbcce28c3a41741b" tvg-name="Surf Cinema" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png" group-title="Sports",Surf Cinema
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-656fbbd6dbcce28c3a41741b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6227c215c9f485cc7afe8c41" tvg-id="6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png" group-title="Sports",Surfer TV
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e89d8b982674772f6f1a55" tvg-id="65e89d8b982674772f6f1a55" tvg-name="Survivorman on Plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c65390b-22d4-46fe-a2e0-7972af2c5e8f/Survivorman-ChannelLogoColorRDX.png" group-title="Reality",Survivorman on Plex
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65e89d8b982674772f6f1a55.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a9512a7f534d4312a699c22" tvg-id="6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png" group-title="Sports",SWAC TV
