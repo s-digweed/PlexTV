@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T18:15:19.823321+00:00",
+  "generated": "2026-09-08T20:31:21.098415+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -7126,19 +7126,6 @@
         ],
         "region": "us"
       },
-      "69b34723983c968e9cdb2c86": {
-        "id": "6a1610bebdf296985fd95603-69b34723983c968e9cdb2c86",
-        "slug": "caracol-mix",
-        "gridKey": "69b34723983c968e9cdb2c86",
-        "name": "Caracol Mix",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0481d833-0e0b-4aba-88c4-56896b5991c9/Caracol_Mix_WHT_log.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69b34723983c968e9cdb2c86.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
       "6434540bf43c8cfbfdc6e600": {
         "id": "6a1610bebdf296985fd95603-6434540bf43c8cfbfdc6e600",
         "slug": "electricnow-en-espanol",
@@ -13922,19 +13909,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "ca"
-      },
-      "69b34723983c968e9cdb2c86": {
-        "id": "647f8d22a2fc3fadb4721685-69b34723983c968e9cdb2c86",
-        "slug": "caracol-mix",
-        "gridKey": "69b34723983c968e9cdb2c86",
-        "name": "Caracol Mix",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0481d833-0e0b-4aba-88c4-56896b5991c9/Caracol_Mix_WHT_log.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-69b34723983c968e9cdb2c86.m3u8",
         "genres": [
           "En Español"
         ],
@@ -27169,19 +27143,6 @@
         ],
         "region": "mx"
       },
-      "69b3481702912c2ce7ad9a3d": {
-        "id": "608049aefa2b8ae93c2c3a63-69b3481702912c2ce7ad9a3d",
-        "slug": "caracol-mix-2",
-        "gridKey": "69b3481702912c2ce7ad9a3d",
-        "name": "Caracol Mix",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7cf438f7-5c5e-4140-987b-d93264d02247/Caracol_Mix_WHT_log.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-69b3481702912c2ce7ad9a3d.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "mx"
-      },
       "6490e59918a55242eea95995": {
         "id": "608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995",
         "slug": "todo-novelas",
@@ -30871,19 +30832,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-6490e59918a55242eea95995.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "es"
-      },
-      "69b3481702912c2ce7ad9a3d": {
-        "id": "643054b1fc3be59477853717-69b3481702912c2ce7ad9a3d",
-        "slug": "caracol-mix-2",
-        "gridKey": "69b3481702912c2ce7ad9a3d",
-        "name": "Caracol Mix",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7cf438f7-5c5e-4140-987b-d93264d02247/Caracol_Mix_WHT_log.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-69b3481702912c2ce7ad9a3d.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -40913,19 +40861,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-656237c55dbccec83a87b649.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "br"
-      },
-      "69b3481702912c2ce7ad9a3d": {
-        "id": "646546f35db8ada4c8edd7e5-69b3481702912c2ce7ad9a3d",
-        "slug": "caracol-mix-2",
-        "gridKey": "69b3481702912c2ce7ad9a3d",
-        "name": "Caracol Mix",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7cf438f7-5c5e-4140-987b-d93264d02247/Caracol_Mix_WHT_log.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-69b3481702912c2ce7ad9a3d.m3u8",
         "genres": [
           "Bingeworthy"
         ],
