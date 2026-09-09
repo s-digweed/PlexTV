@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T15:36:49.143325+00:00",
+  "generated": "2026-09-09T18:15:36.455900+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1034,7 +1034,7 @@
         "slug": "cold-case-files-by-aande",
         "gridKey": "63f693a3fff2b53dc9ddc8f4",
         "name": "Cold Case Files by A&E",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/397a22d3-edbe-4dab-830e-030e4d2b7680/Cold_Case_Files_channel_logo_4c_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7908be53-0dc6-46ee-8a4f-a22506e6fb2a/National_Cold_Case_Month_channel_logo_4c_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-63f693a3fff2b53dc9ddc8f4.m3u8",
         "genres": [
@@ -22272,19 +22272,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/df0c8122-ce9c-4ef8-b278-546a7ed303ef/Plex_Homeful_Logo-white_1500x1000_-_Nerissa_Jones.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-682dfbf4dfc9c452b8f98428.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "au"
-      },
-      "69a202f60f8d297b3f6ac0f4": {
-        "id": "697140a85d851f5e69414688-69a202f60f8d297b3f6ac0f4",
-        "slug": "taste",
-        "gridKey": "69a202f60f8d297b3f6ac0f4",
-        "name": "Taste",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8ce74dbc-9546-4203-b2e9-06129ee547ae/Taste_Logo_Colour_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-69a202f60f8d297b3f6ac0f4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
