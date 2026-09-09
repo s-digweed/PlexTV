@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T18:15:36.455900+00:00",
+  "generated": "2026-09-09T20:14:14.992737+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -3686,7 +3686,7 @@
         "slug": "degrassi",
         "gridKey": "636d5aa3dc2c550b145ed422",
         "name": "Degrassi",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422.m3u8",
         "genres": [
@@ -5002,19 +5002,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/104e6194-484e-4e84-823d-9b1e7936361e/xDoctors_Plex_Channel_Logo_v01_John_LopezRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6720271c727d52d7a0e0b495.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
-      "686451cd75b26c0a7c946bcb": {
-        "id": "6a1610bebdf296985fd95603-686451cd75b26c0a7c946bcb",
-        "slug": "geraldo-rivera",
-        "gridKey": "686451cd75b26c0a7c946bcb",
-        "name": "Geraldo Rivera",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/971bcaab-304f-493c-b22a-67e866097f83/GeraldoRivera_Logo_1500x1000_DarkBG_-_Chris_Connors.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-686451cd75b26c0a7c946bcb.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -11579,7 +11566,7 @@
         "slug": "degrassi",
         "gridKey": "636d5aa3dc2c550b145ed422",
         "name": "Degrassi",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422.m3u8",
         "genres": [
@@ -13077,19 +13064,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a0aadc76-1caf-419f-83c7-ff8e066355a7/MSChannel_Logo_Light_-_Kimberly_DumerRDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-672948f0297d4ea7584a2e13.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "ca"
-      },
-      "69a202f60f8d297b3f6ac0f4": {
-        "id": "647f8d22a2fc3fadb4721685-69a202f60f8d297b3f6ac0f4",
-        "slug": "taste",
-        "gridKey": "69a202f60f8d297b3f6ac0f4",
-        "name": "Taste",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8ce74dbc-9546-4203-b2e9-06129ee547ae/Taste_Logo_Colour_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-69a202f60f8d297b3f6ac0f4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -17028,7 +17002,7 @@
         "slug": "degrassi",
         "gridKey": "636d5aa3dc2c550b145ed422",
         "name": "Degrassi",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-636d5aa3dc2c550b145ed422.m3u8",
         "genres": [

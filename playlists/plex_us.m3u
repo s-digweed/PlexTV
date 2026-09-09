@@ -317,7 +317,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a56bff72ad9
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c9724c5feb7b9655cb1950.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6674b68af04cf4bb9233c916" tvg-id="6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" group-title="Classics",Death Valley Days
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6674b68af04cf4bb9233c916.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-636d5aa3dc2c550b145ed422" tvg-id="636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png" group-title="Classics",Degrassi
+#EXTINF:-1 channel-id="plex-636d5aa3dc2c550b145ed422" tvg-id="636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png" group-title="Classics",Degrassi
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69a516217c245b3390e8a4d2" tvg-id="69a516217c245b3390e8a4d2" tvg-name="Delito" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2a18d55-c1c1-47d9-8bfc-50f002b4c030/DelitoLight_Logo__4__RED_RDX.png" group-title="En Español",Delito
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69a516217c245b3390e8a4d2.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
@@ -507,8 +507,6 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63d6f9b67c30
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67db5c68d66f778a752f8203.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69d93a4da5c870fb1e88f86f" tvg-id="69d93a4da5c870fb1e88f86f" tvg-name="Generation Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/13008b9d-bc34-40e6-8bee-fc5e08b68bde/ClassicCinema_WHT_1500x1000.png" group-title="Bingeworthy",Generation Drama
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d93a4da5c870fb1e88f86f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-686451cd75b26c0a7c946bcb" tvg-id="686451cd75b26c0a7c946bcb" tvg-name="Geraldo Rivera" tvg-logo="https://provider-static.plex.tv/epg/cms/production/971bcaab-304f-493c-b22a-67e866097f83/GeraldoRivera_Logo_1500x1000_DarkBG_-_Chris_Connors.png" group-title="Daytime TV & Games",Geraldo Rivera
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-686451cd75b26c0a7c946bcb.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6933441e4b745570462f3d34" tvg-id="6933441e4b745570462f3d34" tvg-name="GET" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c99cdab5-8847-427e-9a14-251a5229f7ba/Plex_GET_Logo_LIGHT_1500x1000.png" group-title="Classics",GET
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6933441e4b745570462f3d34.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6699937717c9985deeb74e39" tvg-id="6699937717c9985deeb74e39" tvg-name="Get.Factual" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d8ac3d3f-88be-4d2a-89f3-608f02e15728/GetFactual_Dark_Mode_Logordx.png" group-title="Explore",Get.Factual
