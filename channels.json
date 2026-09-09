@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T20:14:14.992737+00:00",
+  "generated": "2026-09-09T22:52:23.253846+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1011,6 +1011,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f74cf7effbe690040689f41.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "us"
+      },
+      "668561babc1490a2f408f30d": {
+        "id": "6a1610bebdf296985fd95603-668561babc1490a2f408f30d",
+        "slug": "48-hours-2",
+        "gridKey": "668561babc1490a2f408f30d",
+        "name": "48 Hours",
+        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png",
+        "callSign": "48HOURS",
+        "key": "/library/parts/6a1610bebdf296985fd95603-668561babc1490a2f408f30d.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -27832,6 +27845,19 @@
         ],
         "region": "mx"
       },
+      "6a90b2b5c0870218305e909b": {
+        "id": "608049aefa2b8ae93c2c3a63-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6a90b2b5c0870218305e909b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "mx"
+      },
       "6761f91555e174e95ccc4e4c": {
         "id": "608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c",
         "slug": "tennis",
@@ -34994,6 +35020,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-63ec0b739866d8d2120ac759.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "fr"
+      },
+      "6a90b2b5c0870218305e909b": {
+        "id": "6430aa45fc3be5947780904e-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6a90b2b5c0870218305e909b.m3u8",
         "genres": [
           "Sports"
         ],

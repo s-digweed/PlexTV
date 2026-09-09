@@ -449,6 +449,8 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6a9512a7f534
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-688cf47e324d7b6bc116198d" tvg-id="688cf47e324d7b6bc116198d" tvg-name="Teleonce America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af7d82cf-f17f-40b5-b086-ed6a61c17d2e/logo_Teleonce_AmericaRDX_COLOR.png" group-title="En Español",Teleonce America
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-688cf47e324d7b6bc116198d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a90b2b5c0870218305e909b" tvg-id="6a90b2b5c0870218305e909b" tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png" group-title="Sports",Tennis TV
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6a90b2b5c0870218305e909b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6761f91555e174e95ccc4e4c" tvg-id="6761f91555e174e95ccc4e4c" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" group-title="Sports",Tennis+
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f123330eca6a20040b328e8" tvg-id="5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png" group-title="Kids & Family",TG Junior
