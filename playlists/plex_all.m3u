@@ -31,6 +31,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a2ab503e6a2
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a2ab46ada7a9b723a906c20.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a2ab1d7fcfe17a33213c416" tvg-id="6a2ab1d7fcfe17a33213c416" tvg-name="60 Days In Jail" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c877b53c-8644-49fe-912f-ab727ab3d03f/60_Days_In_Jail_channel_logo_dark_1500x1000WHT_RDX.png" group-title="Iceland",60 Days In Jail
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a2ab1d7fcfe17a33213c416.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-668561babc1490a2f408f30c" tvg-id="668561babc1490a2f408f30c" tvg-name="60 Minutes" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/82812784b8473a95c27de471925a490c.png" group-title="United States",60 Minutes
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-668561babc1490a2f408f30c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65fca98c60dc164e8f272332" tvg-id="65fca98c60dc164e8f272332" tvg-name="80's Sitcom Flashback" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6a33b82d-db12-4f5d-8f8f-d49c803dce6a/LogoColor1500RDX.png" group-title="United States",80's Sitcom Flashback
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65fca98c60dc164e8f272332.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6674b595f04cf4bb9233c914" tvg-id="6674b595f04cf4bb9233c914" tvg-name="A Touch of Frost" tvg-logo="https://provider-static.plex.tv/epg/cms/production/43848ac4-62a9-4cdc-ace0-e15661a2e748/FilmRise_TouchOfFrostA_Logo_WhiteRDX.png" group-title="United States",A Touch of Frost
@@ -1159,6 +1161,8 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66f5a92352c5
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-688d222aa6fe30698ab41f67" tvg-id="688d222aa6fe30698ab41f67" tvg-name="Horror-Comedy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4e8fedf-4e8b-4f28-816d-91b0b8502fc5/horrorcomedy_channellogo_ffffffRDX.png" group-title="Germany",Horror-Comedy
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-688d222aa6fe30698ab41f67.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a3c23ec97845f69835ac533" tvg-id="6a3c23ec97845f69835ac533" tvg-name="HOT BENCH" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/687165d324d452de9f3c3f8f35d64ed7.png" group-title="United States",HOT BENCH
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a3c23ec97845f69835ac533.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6582a1316b91be4547aa153c" tvg-id="6582a1316b91be4547aa153c" tvg-name="Hot Ones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png" group-title="United States",Hot Ones
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6582a1316b91be4547aa153c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a951f07f534d4312a699c2d" tvg-id="6a951f07f534d4312a699c2d" tvg-name="House of Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/05441681-6768-41e6-96c9-19a846bb46e5/Light_LogoHouseofCreators.png" group-title="France",House of Creators
@@ -1287,6 +1291,8 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a0373bd58b7
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-639baa971a12420ff66ae7b1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f5132da62fe160040f26b5b" tvg-id="5f5132da62fe160040f26b5b" tvg-name="Judge Faith" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d32af01-5d94-4992-809c-4dd54b7099ea/judge_faith_White.png" group-title="United States",Judge Faith
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f5132da62fe160040f26b5b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a3c23ef776737893b3d488f" tvg-id="6a3c23ef776737893b3d488f" tvg-name="Judge Judy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0c434858-9cab-4ba6-a5ff-9347b2f337d6/JUDGEJUDY_LIGHT-LOGO_wht.png" group-title="United States",Judge Judy
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a3c23ef776737893b3d488f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f0ff262d71dcb00449ec018" tvg-id="5f0ff262d71dcb00449ec018" tvg-name="Judge Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png" group-title="United States",Judge Nosey
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec018.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704954e536e0faaf10be9f" tvg-id="64704954e536e0faaf10be9f" tvg-name="Just For Laughs Gags" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png" group-title="United States",Just For Laughs Gags
@@ -1637,6 +1643,8 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-66bfb2e6144c
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-61e805952502a7a6fa84d70f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69f4f6c2647c1d14cc38677b" tvg-id="69f4f6c2647c1d14cc38677b" tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" group-title="Canada",NFL Channel
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-69f4f6c2647c1d14cc38677b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6aa04fa6b993101ad3a6b479" tvg-id="6aa04fa6b993101ad3a6b479" tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba297b95-67b2-49a2-9460-7c412e39fa9b/NFL_WHITE.png" group-title="Netherlands",NFL Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa04fa6b993101ad3a6b479.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a10994ab05301ef36a6a8e2" tvg-id="6a10994ab05301ef36a6a8e2" tvg-name="NFL Super Bowl Champions" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ecd94149-87df-46a3-8864-545c91f2d9d1/NFLSuperBowlChampions_Logo_White_1500x1000_-_Harry_Marshall.png" group-title="Canada",NFL Super Bowl Champions
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6a10994ab05301ef36a6a8e2.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60aeb5cd87f9b1002ce12323" tvg-id="60aeb5cd87f9b1002ce12323" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="United States",NHRA TV
@@ -2211,8 +2219,8 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6615522e50e8
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-68e942fd141091437e6c4313.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65944d40cbc51b25e5070a18" tvg-id="65944d40cbc51b25e5070a18" tvg-name="Tennis Channel 2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a4713cf8-8897-41c2-bab4-132f733d3f5f/TC2_Logo_Plex_1500X1000_LightRDX.png" group-title="United States",Tennis Channel 2
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-6a90b2b5c0870218305e909b" tvg-id="6a90b2b5c0870218305e909b" tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png" group-title="Mexico",Tennis TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6a90b2b5c0870218305e909b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6a90b2b5c0870218305e909b" tvg-id="6a90b2b5c0870218305e909b" tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png" group-title="United States",Tennis TV
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a90b2b5c0870218305e909b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6761f91555e174e95ccc4e4c" tvg-id="6761f91555e174e95ccc4e4c" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" group-title="United States",Tennis+
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f170d64b898490041b4938f" tvg-id="5f170d64b898490041b4938f" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-us.png" group-title="United States",TG Junior
