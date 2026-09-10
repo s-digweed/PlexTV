@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T15:32:44.881448+00:00",
+  "generated": "2026-09-10T18:00:50.377565+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1458,19 +1458,6 @@
         ],
         "region": "us"
       },
-      "6377ea0e13bb6b1757e14695": {
-        "id": "6a1610bebdf296985fd95603-6377ea0e13bb6b1757e14695",
-        "slug": "livenow-from-fox",
-        "gridKey": "6377ea0e13bb6b1757e14695",
-        "name": "LiveNOW from FOX",
-        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/724a2b5cb46150f051d492f356de5e0f.png",
-        "callSign": "LIVENOW",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6377ea0e13bb6b1757e14695.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "us"
-      },
       "66b4fcc2530e39ea2ee79545": {
         "id": "6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545",
         "slug": "cnn-headlines",
@@ -1505,6 +1492,19 @@
         "logo": "https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9ab8e371398307f455d0ca348f835792.png",
         "callSign": "BBCWDE",
         "key": "/library/parts/6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "us"
+      },
+      "6377ea0e13bb6b1757e14695": {
+        "id": "6a1610bebdf296985fd95603-6377ea0e13bb6b1757e14695",
+        "slug": "livenow-from-fox",
+        "gridKey": "6377ea0e13bb6b1757e14695",
+        "name": "LiveNOW from FOX",
+        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/724a2b5cb46150f051d492f356de5e0f.png",
+        "callSign": "LIVENOW",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6377ea0e13bb6b1757e14695.m3u8",
         "genres": [
           "News"
         ],
