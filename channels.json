@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T10:50:19.220264+00:00",
+  "generated": "2026-09-13T15:21:05.179852+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -55007,19 +55007,6 @@
         ],
         "region": "nl"
       },
-      "66629450346b86608532dbd9": {
-        "id": "5e20b730f2f8d5003d739db7-66629450346b86608532dbd9",
-        "slug": "fifa-14",
-        "gridKey": "66629450346b86608532dbd9",
-        "name": "FIFA+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7e7e18ee-4ee3-4557-bf42-c85b351611d3/FIFA__Logo_Rectangle_1500x1000_WHT.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66629450346b86608532dbd9.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
       "6aa04fa6b993101ad3a6b479": {
         "id": "5e20b730f2f8d5003d739db7-6aa04fa6b993101ad3a6b479",
         "slug": "nfl-channel-2",
@@ -55028,6 +55015,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/ba297b95-67b2-49a2-9460-7c412e39fa9b/NFL_WHITE.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa04fa6b993101ad3a6b479.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nl"
+      },
+      "66629450346b86608532dbd9": {
+        "id": "5e20b730f2f8d5003d739db7-66629450346b86608532dbd9",
+        "slug": "fifa-14",
+        "gridKey": "66629450346b86608532dbd9",
+        "name": "FIFA+",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7e7e18ee-4ee3-4557-bf42-c85b351611d3/FIFA__Logo_Rectangle_1500x1000_WHT.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-66629450346b86608532dbd9.m3u8",
         "genres": [
           "Sports"
         ],
