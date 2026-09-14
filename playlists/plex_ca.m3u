@@ -5,6 +5,8 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-63eecb32ac23
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66f6b947515e742745f5ca34.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5fd115bab7ef8d002dcf181d" tvg-id="5fd115bab7ef8d002dcf181d" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Movies",24 Hour Free Movies
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-668561babc1490a2f408f30d" tvg-id="668561babc1490a2f408f30d" tvg-name="48 Hours" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png" group-title="True Crime",48 Hours
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63894c1965b848bf2c8a7800" tvg-id="63894c1965b848bf2c8a7800" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="Food, Home & Culture",5-Minute Crafts
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-63894c1965b848bf2c8a7800.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63504925a97bd70eaef54f01" tvg-id="63504925a97bd70eaef54f01" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="Sports",ACL Cornhole TV
