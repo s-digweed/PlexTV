@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T18:37:51.402068+00:00",
+  "generated": "2026-09-16T20:41:23.351538+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1596,6 +1596,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-60df3e18541143002f3b8607.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "us"
+      },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "6a1610bebdf296985fd95603-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "News"
         ],
@@ -5163,14 +5176,14 @@
         ],
         "region": "us"
       },
-      "69d93af4e907240662067861": {
-        "id": "6a1610bebdf296985fd95603-69d93af4e907240662067861",
-        "slug": "the-repair-shop",
-        "gridKey": "69d93af4e907240662067861",
-        "name": "The Repair Shop",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1463a057-431a-4a72-b1ac-e0cfc64bc777/TheRepairShop_Logo_Dark_1500x1000.png",
+      "66a1aa319101f360242499a8": {
+        "id": "6a1610bebdf296985fd95603-66a1aa319101f360242499a8",
+        "slug": "how-to",
+        "gridKey": "66a1aa319101f360242499a8",
+        "name": "How To",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/76b7d118-e71e-4ae7-91a7-db3c1f2a9eef/HowTo_Logo_Dark_1500x1000.png",
         "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69d93af4e907240662067861.m3u8",
+        "key": "/library/parts/6a1610bebdf296985fd95603-66a1aa319101f360242499a8.m3u8",
         "genres": [
           "Explore"
         ],
@@ -5392,19 +5405,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-664292a80e0ec7b4ce5eb28c.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "us"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "6a1610bebdf296985fd95603-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -5826,19 +5826,6 @@
         ],
         "region": "us"
       },
-      "66a1aa319101f360242499a8": {
-        "id": "6a1610bebdf296985fd95603-66a1aa319101f360242499a8",
-        "slug": "how-to",
-        "gridKey": "66a1aa319101f360242499a8",
-        "name": "How To",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/76b7d118-e71e-4ae7-91a7-db3c1f2a9eef/HowTo_Logo_Dark_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-66a1aa319101f360242499a8.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "us"
-      },
       "6348ac7090b96ef5e0eb3288": {
         "id": "6a1610bebdf296985fd95603-6348ac7090b96ef5e0eb3288",
         "slug": "pbs-antiques-roadshow",
@@ -5899,6 +5886,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/7347db2d-3d52-4cd5-96cc-3a6f1ca2dd61/WelcomeHome_Logo_Dark_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66a1abb19101f360242499aa.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "us"
+      },
+      "69d93af4e907240662067861": {
+        "id": "6a1610bebdf296985fd95603-69d93af4e907240662067861",
+        "slug": "the-repair-shop",
+        "gridKey": "69d93af4e907240662067861",
+        "name": "The Repair Shop",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1463a057-431a-4a72-b1ac-e0cfc64bc777/TheRepairShop_Logo_Dark_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-69d93af4e907240662067861.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -10035,6 +10035,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5fb81660b7ad2d002dcb7335.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "ca"
+      },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "647f8d22a2fc3fadb4721685-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "News"
         ],
@@ -15827,6 +15840,19 @@
         ],
         "region": "gb"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "64305451fc3be5947773c339-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "gb"
+      },
       "64c91830ea7db2f52688c52c": {
         "id": "64305451fc3be5947773c339-64c91830ea7db2f52688c52c",
         "slug": "cbc-news-international",
@@ -18089,19 +18115,6 @@
         ],
         "region": "gb"
       },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "64305451fc3be5947773c339-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-69f52ffb6e5708fb20d36d9c.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "gb"
-      },
       "5f0ff266d71dcb00449ec030": {
         "id": "64305451fc3be5947773c339-5f0ff266d71dcb00449ec030",
         "slug": "weatherspy-2",
@@ -20340,6 +20353,19 @@
         ],
         "region": "au"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "697140a85d851f5e69414688-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "au"
+      },
       "69f4f6c2647c1d14cc38677b": {
         "id": "697140a85d851f5e69414688-69f4f6c2647c1d14cc38677b",
         "slug": "nfl-channel-3",
@@ -22251,19 +22277,6 @@
         ],
         "region": "au"
       },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "697140a85d851f5e69414688-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-69f52ffb6e5708fb20d36d9c.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "au"
-      },
       "6a1609442476ab8600b1841c": {
         "id": "697140a85d851f5e69414688-6a1609442476ab8600b1841c",
         "slug": "real-wild-2",
@@ -23901,6 +23914,19 @@
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099c.m3u8",
         "genres": [
           "True Crime"
+        ],
+        "region": "nz"
+      },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
         ],
         "region": "nz"
       },
@@ -25680,19 +25706,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "nz"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -27910,6 +27923,19 @@
         ],
         "region": "mx"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "608049aefa2b8ae93c2c3a63-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "mx"
+      },
       "66633339ebeb02ee8bd1597c": {
         "id": "608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c",
         "slug": "fifa-31",
@@ -29283,19 +29309,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9b504d71-0609-4e22-9301-8913e3158a4e/NATURE_TIMEWHITE_LOGO__1_.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-6970fa30bde579fb712623ff.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "mx"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "608049aefa2b8ae93c2c3a63-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -31643,6 +31656,19 @@
         ],
         "region": "es"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "643054b1fc3be59477853717-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "es"
+      },
       "6662984e346b86608532dbdf": {
         "id": "643054b1fc3be59477853717-6662984e346b86608532dbdf",
         "slug": "fifa-20",
@@ -33055,19 +33081,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-66fd3e25216b603e031725fe.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "es"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "643054b1fc3be59477853717-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -35077,6 +35090,19 @@
         ],
         "region": "fr"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "6430aa45fc3be5947780904e-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "fr"
+      },
       "69f4f6c2647c1d14cc38677b": {
         "id": "6430aa45fc3be5947780904e-69f4f6c2647c1d14cc38677b",
         "slug": "nfl-channel-3",
@@ -36424,19 +36450,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-60a9d105d162b9002d05a60c.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "fr"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "6430aa45fc3be5947780904e-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -38212,6 +38225,19 @@
         ],
         "region": "de"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
       "69f4f6c2647c1d14cc38677b": {
         "id": "635177ecff6cd5445d7f9b0b-69f4f6c2647c1d14cc38677b",
         "slug": "nfl-channel-3",
@@ -39663,19 +39689,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/29129b53-2f46-425d-ac3f-3a76dc2d147f/TPC_PLEX_CHANNEL-LOGOS_WHITE.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-5f170d61b898490041b49369.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "de"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -41516,6 +41529,19 @@
         ],
         "region": "br"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "646546f35db8ada4c8edd7e5-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "br"
+      },
       "66634bd2ca7b22f4c3a2d731": {
         "id": "646546f35db8ada4c8edd7e5-66634bd2ca7b22f4c3a2d731",
         "slug": "fifa-49",
@@ -42876,19 +42902,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-5f0ff263d71dcb00449ec021.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "br"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "646546f35db8ada4c8edd7e5-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -44612,6 +44625,19 @@
         ],
         "region": "in"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "698f7631338300003d436270-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "in"
+      },
       "66628a708dfc36b8c8a399c0": {
         "id": "698f7631338300003d436270-66628a708dfc36b8c8a399c0",
         "slug": "fifa",
@@ -45808,19 +45834,6 @@
         ],
         "region": "in"
       },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "698f7631338300003d436270-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-69f52ffb6e5708fb20d36d9c.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "in"
-      },
       "6a1609442476ab8600b1841c": {
         "id": "698f7631338300003d436270-6a1609442476ab8600b1841c",
         "slug": "real-wild-2",
@@ -46951,6 +46964,19 @@
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27.m3u8",
         "genres": [
           "True Crime"
+        ],
+        "region": "jp"
+      },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
         ],
         "region": "jp"
       },
@@ -48093,19 +48119,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-664292a80e0ec7b4ce5eb28c.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "jp"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -49305,8 +49318,7 @@
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
-          "News",
-          "Explore"
+          "News"
         ],
         "region": "kr"
       },
@@ -51795,6 +51807,19 @@
         ],
         "region": "se"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "se"
+      },
       "5fb81660b7ad2d002dcb7335": {
         "id": "5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335",
         "slug": "newsmax2",
@@ -53420,19 +53445,6 @@
         ],
         "region": "se"
       },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "se"
-      },
       "656fb850cb7e8e6a9bc3f36e": {
         "id": "5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e",
         "slug": "popular-science",
@@ -54943,6 +54955,19 @@
         ],
         "region": "nl"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "nl"
+      },
       "5fb81660b7ad2d002dcb7335": {
         "id": "5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335",
         "slug": "newsmax2",
@@ -56368,19 +56393,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "nl"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -58065,6 +58077,19 @@
         ],
         "region": "no"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "no"
+      },
       "5fb81660b7ad2d002dcb7335": {
         "id": "5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335",
         "slug": "newsmax2",
@@ -59690,19 +59715,6 @@
         ],
         "region": "no"
       },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "no"
-      },
       "656fb850cb7e8e6a9bc3f36e": {
         "id": "5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e",
         "slug": "popular-science",
@@ -61312,6 +61324,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c6b66b76-8050-4cc8-9e61-1ab6cc2b0015/CNN_HeadlinesInternational_RED_wht_logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69b164bc87340e48b7b72247.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "fi"
+      },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "News"
         ],
@@ -64504,6 +64529,19 @@
         ],
         "region": "dk"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "dk"
+      },
       "5fb81660b7ad2d002dcb7335": {
         "id": "5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335",
         "slug": "newsmax2",
@@ -66129,19 +66167,6 @@
         ],
         "region": "dk"
       },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "dk"
-      },
       "656fb850cb7e8e6a9bc3f36e": {
         "id": "5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e",
         "slug": "popular-science",
@@ -67678,6 +67703,19 @@
         ],
         "region": "is"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "is"
+      },
       "5fb81660b7ad2d002dcb7335": {
         "id": "5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335",
         "slug": "newsmax2",
@@ -69051,19 +69089,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "is"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
