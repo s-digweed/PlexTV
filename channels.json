@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T15:49:05.962217+00:00",
+  "generated": "2026-09-16T18:37:51.402068+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -12752,19 +12752,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/7498e884-3fc2-42a7-813d-8294e2ff22a6/PBS_Travel_Logo_Stacked_BLUEWhiteRDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-684c201a3496598cf4003fbc.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "ca"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "647f8d22a2fc3fadb4721685-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -37861,19 +37848,6 @@
         ],
         "region": "de"
       },
-      "673d316c0d39ac306d6f2ced": {
-        "id": "635177ecff6cd5445d7f9b0b-673d316c0d39ac306d6f2ced",
-        "slug": "wedotv-true-stories",
-        "gridKey": "673d316c0d39ac306d6f2ced",
-        "name": "wedotv true stories",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/f52f4a46-ca64-4fdd-b1bf-525ea0cddaf7/WEDOTV_TRUE_STORIES_STACKED_72PPIRDX_WHITE.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-673d316c0d39ac306d6f2ced.m3u8",
-        "genres": [
-          "Movies"
-        ],
-        "region": "de"
-      },
       "642d66522476824150b0a6e7": {
         "id": "635177ecff6cd5445d7f9b0b-642d66522476824150b0a6e7",
         "slug": "wedo-movies",
@@ -38909,6 +38883,19 @@
         "logo": "https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2336e53ed2b8d3d0b3540546c0315695.png",
         "callSign": "BBCLASS",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-68160d8b6da958281f1f7a65.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "de"
+      },
+      "673d316c0d39ac306d6f2ced": {
+        "id": "635177ecff6cd5445d7f9b0b-673d316c0d39ac306d6f2ced",
+        "slug": "wedotv-true-stories",
+        "gridKey": "673d316c0d39ac306d6f2ced",
+        "name": "wedotv true stories",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f52f4a46-ca64-4fdd-b1bf-525ea0cddaf7/WEDOTV_TRUE_STORIES_STACKED_72PPIRDX_WHITE.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-673d316c0d39ac306d6f2ced.m3u8",
         "genres": [
           "Reality"
         ],
@@ -49309,6 +49296,20 @@
         ],
         "region": "kr"
       },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News",
+          "Explore"
+        ],
+        "region": "kr"
+      },
       "5fb81660b7ad2d002dcb7335": {
         "id": "5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335",
         "slug": "newsmax2",
@@ -50448,19 +50449,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-664292a80e0ec7b4ce5eb28c.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "kr"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -62923,19 +62911,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "fi"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
         "genres": [
           "Explore"
         ],

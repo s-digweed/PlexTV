@@ -479,7 +479,7 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-5f0ff266d71d
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-642d66522476824150b0a6e7.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64e6ed5627a915f9b5184e9c" tvg-id="64e6ed5627a915f9b5184e9c" tvg-name="wedo sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb1df9d4-4069-428c-9ca1-d31134833abf/WEDO_SPORTS_ROUND_RED-2_-_Sorin_StoianRDX.png" group-title="Sports",wedo sports
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-64e6ed5627a915f9b5184e9c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-673d316c0d39ac306d6f2ced" tvg-id="673d316c0d39ac306d6f2ced" tvg-name="wedotv true stories" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f52f4a46-ca64-4fdd-b1bf-525ea0cddaf7/WEDOTV_TRUE_STORIES_STACKED_72PPIRDX_WHITE.png" group-title="Movies",wedotv true stories
+#EXTINF:-1 channel-id="plex-673d316c0d39ac306d6f2ced" tvg-id="673d316c0d39ac306d6f2ced" tvg-name="wedotv true stories" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f52f4a46-ca64-4fdd-b1bf-525ea0cddaf7/WEDOTV_TRUE_STORIES_STACKED_72PPIRDX_WHITE.png" group-title="Reality",wedotv true stories
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-673d316c0d39ac306d6f2ced.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60d4edddb2fdec002c141135" tvg-id="60d4edddb2fdec002c141135" tvg-name="WildEarth" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="Explore",WildEarth
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-60d4edddb2fdec002c141135.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
