@@ -485,7 +485,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621670feab20
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f170f01b898490041b49dd1" tvg-id="5f170f01b898490041b49dd1" tvg-name="Yahoo Finance" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" group-title="News",Yahoo Finance
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-66ce3e009ac0b1441b19ca29" tvg-id="66ce3e009ac0b1441b19ca29" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png" group-title="Adrenaline & Sci-Fi",Z Nation
+#EXTINF:-1 channel-id="plex-66ce3e009ac0b1441b19ca29" tvg-id="66ce3e009ac0b1441b19ca29" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png" group-title="Adrenaline & Sci-Fi",Z Nation
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66fd3e25216b603e031725fe" tvg-id="66fd3e25216b603e031725fe" tvg-name="ZenLIFE by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png" group-title="Explore",ZenLIFE by Stingray
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66fd3e25216b603e031725fe.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn

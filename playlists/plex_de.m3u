@@ -503,7 +503,7 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-62ee72cc271f
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-5f170f01b898490041b49dd1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64b1db197d4037206787f382" tvg-id="64b1db197d4037206787f382" tvg-name="Yu-Gi-Oh!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96b1747f-39c7-4526-892a-18988262b7cd/Wurl_Yu-Gi-Oh_Channel_Logo_light_Astridrdx.png" group-title="Global",Yu-Gi-Oh!
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-64b1db197d4037206787f382.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-67d1bd805aa0c7356883331e" tvg-id="67d1bd805aa0c7356883331e" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5641283d-f38a-49f0-839a-997388370fcf/ZNation_Channel_Logo_White__1_.png" group-title="Bingeworthy",Z Nation
+#EXTINF:-1 channel-id="plex-67d1bd805aa0c7356883331e" tvg-id="67d1bd805aa0c7356883331e" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7102c315-5dbf-4af7-bc9c-d9e50e835bb7/ZNation_logo_1500x1000_light.png.png" group-title="Bingeworthy",Z Nation
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-67d1bd805aa0c7356883331e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a63a830a1deb5624927c629" tvg-id="6a63a830a1deb5624927c629" tvg-name="ZDF zu Hause" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e3563c7-26cf-45b4-bf42-489cb5934885/Channel_Logo_ZDF_zu_Hause_Color_for_DarkBG_-_Olivia_Beigh.png" group-title="Food, Home & Culture",ZDF zu Hause
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6a63a830a1deb5624927c629.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn

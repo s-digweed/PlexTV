@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T20:47:16.095076+00:00",
+  "generated": "2026-09-17T23:18:15.985400+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -3816,7 +3816,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -6858,7 +6858,7 @@
         "slug": "z-nation-7",
         "gridKey": "682512b03d06c8e426a2941a",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b4044a25-a901-4ad8-b5ad-de971302f4cf/ZNation_Channel_Logo_White__1_.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f8df807e-bf50-4a3c-8bdc-edbaa438ba00/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-682512b03d06c8e426a2941a.m3u8",
         "genres": [
@@ -6962,7 +6962,7 @@
         "slug": "entravision-ahora",
         "gridKey": "6a8744fdb1b3d334c851bbc5",
         "name": "Entravision Ahora",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/92a36ae3-eb96-4a92-97ad-a9ba5cbc7813/3_1500X1000_transparent_background_white_Logo_for_Attribution.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/26b9f118-779a-42a1-bff4-2fa0c41d0f53/EA_COLOR_1500X1000RDXwWHTLETTERS.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5.m3u8",
         "genres": [
@@ -11774,7 +11774,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -17262,7 +17262,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -21489,7 +21489,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -25183,7 +25183,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -32623,7 +32623,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -37710,7 +37710,7 @@
         "slug": "z-nation-3",
         "gridKey": "67d1bd805aa0c7356883331e",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5641283d-f38a-49f0-839a-997388370fcf/ZNation_Channel_Logo_White__1_.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7102c315-5dbf-4af7-bc9c-d9e50e835bb7/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-67d1bd805aa0c7356883331e.m3u8",
         "genres": [
@@ -45410,7 +45410,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -47869,7 +47869,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -50211,7 +50211,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -52995,7 +52995,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -56065,7 +56065,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -59265,7 +59265,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -62543,7 +62543,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -65717,7 +65717,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
@@ -68800,7 +68800,7 @@
         "slug": "z-nation",
         "gridKey": "66ce3e009ac0b1441b19ca29",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8",
         "genres": [
