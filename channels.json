@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T15:55:45.929441+00:00",
+  "generated": "2026-09-17T18:45:49.610184+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -17668,6 +17668,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6582a1316b91be4547aa153c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "gb"
+      },
+      "6a3c23ec97845f69835ac533": {
+        "id": "64305451fc3be5947773c339-6a3c23ec97845f69835ac533",
+        "slug": "hot-bench",
+        "gridKey": "6a3c23ec97845f69835ac533",
+        "name": "HOT BENCH",
+        "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/687165d324d452de9f3c3f8f35d64ed7.png",
+        "callSign": "HTBENCH",
+        "key": "/library/parts/64305451fc3be5947773c339-6a3c23ec97845f69835ac533.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
