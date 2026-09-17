@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T18:45:49.610184+00:00",
+  "generated": "2026-09-17T20:47:16.095076+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -9551,7 +9551,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -12536,6 +12536,19 @@
         ],
         "region": "ca"
       },
+      "6a3c23ec97845f69835ac533": {
+        "id": "647f8d22a2fc3fadb4721685-6a3c23ec97845f69835ac533",
+        "slug": "hot-bench",
+        "gridKey": "6a3c23ec97845f69835ac533",
+        "name": "HOT BENCH",
+        "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/687165d324d452de9f3c3f8f35d64ed7.png",
+        "callSign": "HTBENCH",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a3c23ec97845f69835ac533.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "ca"
+      },
       "5f0ff262d71dcb00449ec018": {
         "id": "647f8d22a2fc3fadb4721685-5f0ff262d71dcb00449ec018",
         "slug": "judge-nosey",
@@ -15429,7 +15442,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -19872,6 +19885,19 @@
         ],
         "region": "au"
       },
+      "69012324d320237a5a2da1bc": {
+        "id": "697140a85d851f5e69414688-69012324d320237a5a2da1bc",
+        "slug": "rookie-blue",
+        "gridKey": "69012324d320237a5a2da1bc",
+        "name": "Rookie Blue",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-69012324d320237a5a2da1bc.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "au"
+      },
       "626c1753ffda6789d20a452e": {
         "id": "697140a85d851f5e69414688-626c1753ffda6789d20a452e",
         "slug": "cops",
@@ -19898,19 +19924,6 @@
         ],
         "region": "au"
       },
-      "69ad9e60e657bab5f7a9b7e6": {
-        "id": "697140a85d851f5e69414688-69ad9e60e657bab5f7a9b7e6",
-        "slug": "intervention-2",
-        "gridKey": "69ad9e60e657bab5f7a9b7e6",
-        "name": "Intervention",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/01661c3b-201e-4085-9c9b-de6d8f06035c/Intervention_COLOR_WIDE_Logo_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-69ad9e60e657bab5f7a9b7e6.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "au"
-      },
       "6449369eb3ff17382cae5806": {
         "id": "697140a85d851f5e69414688-6449369eb3ff17382cae5806",
         "slug": "heartland",
@@ -19924,19 +19937,6 @@
         ],
         "region": "au"
       },
-      "69012324d320237a5a2da1bc": {
-        "id": "697140a85d851f5e69414688-69012324d320237a5a2da1bc",
-        "slug": "rookie-blue",
-        "gridKey": "69012324d320237a5a2da1bc",
-        "name": "Rookie Blue",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-69012324d320237a5a2da1bc.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "au"
-      },
       "6087ff3ae99ff1002ce1465b": {
         "id": "697140a85d851f5e69414688-6087ff3ae99ff1002ce1465b",
         "slug": "nashville",
@@ -19945,6 +19945,19 @@
         "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7ed379f6fe9fb99d36e235c9e315b03f.png",
         "callSign": "NASH",
         "key": "/library/parts/697140a85d851f5e69414688-6087ff3ae99ff1002ce1465b.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "au"
+      },
+      "69ad9e60e657bab5f7a9b7e6": {
+        "id": "697140a85d851f5e69414688-69ad9e60e657bab5f7a9b7e6",
+        "slug": "intervention-2",
+        "gridKey": "69ad9e60e657bab5f7a9b7e6",
+        "name": "Intervention",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/01661c3b-201e-4085-9c9b-de6d8f06035c/Intervention_COLOR_WIDE_Logo_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-69ad9e60e657bab5f7a9b7e6.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -20007,7 +20020,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -23779,7 +23792,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -27642,7 +27655,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -31024,7 +31037,7 @@
         "slug": "z-nation-5",
         "gridKey": "67d4afc7f6df733141442cb4",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/staging/e81c109b-4ff2-4fa7-92fd-9ca68465a755/ZNation_Channel_Logo_White__1_.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd7f2c5b-4bc1-4b86-a16f-477b5e6e58ce/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-67d4afc7f6df733141442cb4.m3u8",
         "genres": [
@@ -31310,7 +31323,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -34588,7 +34601,7 @@
         "slug": "z-nation-2",
         "gridKey": "6760d828ba503b54def4afd2",
         "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/f859f96d-c7e2-48f7-ac08-9e2fdd166432/ZNation_Channel_Logo_White.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/924cb81f-e08a-4a00-b831-7f82628fe02a/ZNation_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-6760d828ba503b54def4afd2.m3u8",
         "genres": [
@@ -34796,7 +34809,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -37918,7 +37931,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -41261,7 +41274,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -44409,7 +44422,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -46959,7 +46972,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -49301,7 +49314,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -51721,7 +51734,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -54921,7 +54934,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -57991,7 +58004,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -61230,7 +61243,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -64443,7 +64456,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
@@ -67617,7 +67630,7 @@
         "slug": "documentary",
         "gridKey": "614e286b2bac097ffd6fd6ab",
         "name": "Documentary+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8",
         "genres": [
