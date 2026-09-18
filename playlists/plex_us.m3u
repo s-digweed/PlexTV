@@ -1029,7 +1029,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6615522e50e8
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62ba4aaff663580a7238f327.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69d93c22a5c870fb1e88f871" tvg-id="69d93c22a5c870fb1e88f871" tvg-name="Space & Beyond" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3a8ee4c-6123-4f42-97fe-a07e0b38acad/Space_Beyond_Logo_Dark_1500x1000.png" group-title="Explore",Space & Beyond
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d93c22a5c870fb1e88f871.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-614a11bfa6f839154ee3306d" tvg-id="614a11bfa6f839154ee3306d" tvg-name="Spark TV Light & Love" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/SparkTV_logo_dark.png" group-title="Movies",Spark TV Light & Love
+#EXTINF:-1 channel-id="plex-614a11bfa6f839154ee3306d" tvg-id="614a11bfa6f839154ee3306d" tvg-name="Spark TV Light & Love" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fa25b8fc-3d7e-428e-af71-6369dd1596a7/SparkTV_logo_darkWHTLETTERS.png" group-title="Movies",Spark TV Light & Love
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-614a11bfa6f839154ee3306d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-661d6a8db518ef381a85ed60" tvg-id="661d6a8db518ef381a85ed60" tvg-name="Spark TV Luz y Amor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/332040a1-861c-4db8-b4fa-56cdcf686cb4/Plex_SparkTV_key-art_Spanish-RDX.png" group-title="En Español",Spark TV Luz y Amor
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-661d6a8db518ef381a85ed60.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
