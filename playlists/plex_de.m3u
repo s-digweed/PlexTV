@@ -355,8 +355,6 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-69212dfb5cbe
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6349ed0eb1adc4cfa571fd37.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-654d1d8f2a4f3ba59c3ce2d4" tvg-id="654d1d8f2a4f3ba59c3ce2d4" tvg-name="SPIEGEL TV Konflikte" tvg-logo="https://provider-static.plex.tv/epg/cms/production/970ffa31-afcf-49f0-bbe0-3210318e0eae/SpiegelTV-Konflikte-Logo_Color.png" group-title="True Crime",SPIEGEL TV Konflikte
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-654d1d8f2a4f3ba59c3ce2d4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-6216ae22c3bbca2de8704f65" tvg-id="6216ae22c3bbca2de8704f65" tvg-name="Sports Illustrated TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png" group-title="Sports",Sports Illustrated TV
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6216ae22c3bbca2de8704f65.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5ef11485d33ab9004048a1ca" tvg-id="5ef11485d33ab9004048a1ca" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Sports",SportsGrid
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-5ef11485d33ab9004048a1ca.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68160d8b6da958281f1f7a63" tvg-id="68160d8b6da958281f1f7a63" tvg-name="Stand-Up Comedy" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/22277f994720e4b9dd6da8d0a613dcbe.png" group-title="Comedy",Stand-Up Comedy

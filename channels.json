@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T20:01:35.546890+00:00",
+  "generated": "2026-09-20T22:49:35.657357+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -16438,19 +16438,6 @@
         ],
         "region": "gb"
       },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "64305451fc3be5947773c339-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-6216ae22c3bbca2de8704f65.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "gb"
-      },
       "63504925a97bd70eaef54f01": {
         "id": "64305451fc3be5947773c339-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -20886,19 +20873,6 @@
         ],
         "region": "au"
       },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "697140a85d851f5e69414688-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-6216ae22c3bbca2de8704f65.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "au"
-      },
       "69011e71d320237a5a2d9f63": {
         "id": "697140a85d851f5e69414688-69011e71d320237a5a2d9f63",
         "slug": "inter-24-7",
@@ -24432,19 +24406,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nz"
-      },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65.m3u8",
         "genres": [
           "Sports"
         ],
@@ -28243,19 +28204,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "mx"
-      },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65.m3u8",
         "genres": [
           "Sports"
         ],
@@ -32176,19 +32124,6 @@
         ],
         "region": "es"
       },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "643054b1fc3be59477853717-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-6216ae22c3bbca2de8704f65.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "es"
-      },
       "63ec0b739866d8d2120ac759": {
         "id": "643054b1fc3be59477853717-63ec0b739866d8d2120ac759",
         "slug": "pickletv",
@@ -35662,19 +35597,6 @@
         ],
         "region": "fr"
       },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "6430aa45fc3be5947780904e-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-6216ae22c3bbca2de8704f65.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "fr"
-      },
       "6970fdabbde579fb71262401": {
         "id": "6430aa45fc3be5947780904e-6970fdabbde579fb71262401",
         "slug": "bowling-tv",
@@ -38467,19 +38389,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-6761f91555e174e95ccc4e4c.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "635177ecff6cd5445d7f9b0b-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6216ae22c3bbca2de8704f65.m3u8",
         "genres": [
           "Sports"
         ],
@@ -42049,19 +41958,6 @@
         ],
         "region": "br"
       },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "646546f35db8ada4c8edd7e5-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-6216ae22c3bbca2de8704f65.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "br"
-      },
       "68b9f334fc12601028c5651e": {
         "id": "646546f35db8ada4c8edd7e5-68b9f334fc12601028c5651e",
         "slug": "world-billiards-tv",
@@ -44867,19 +44763,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-5f90ebc726350a002d40b136.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "in"
-      },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "698f7631338300003d436270-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-6216ae22c3bbca2de8704f65.m3u8",
         "genres": [
           "Sports"
         ],
@@ -55449,19 +55332,6 @@
         ],
         "region": "nl"
       },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
       "656fbbd6dbcce28c3a41741b": {
         "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
         "slug": "surf-cinema",
@@ -58579,19 +58449,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "no"
-      },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65.m3u8",
         "genres": [
           "Sports"
         ],
@@ -65036,19 +64893,6 @@
         ],
         "region": "dk"
       },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "dk"
-      },
       "656fbbd6dbcce28c3a41741b": {
         "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
         "slug": "surf-cinema",
@@ -68179,19 +68023,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "is"
-      },
-      "6216ae22c3bbca2de8704f65": {
-        "id": "5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65",
-        "slug": "sports-illustrated-tv",
-        "gridKey": "6216ae22c3bbca2de8704f65",
-        "name": "Sports Illustrated TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65.m3u8",
         "genres": [
           "Sports"
         ],

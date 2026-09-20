@@ -547,8 +547,6 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6920da7250fe
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-673d2839d2bcb259fd6b29b0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6349ed0eb1adc4cfa571fd37" tvg-id="6349ed0eb1adc4cfa571fd37" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Food, Home & Culture",SPEEDVISION
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6349ed0eb1adc4cfa571fd37.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-6216ae22c3bbca2de8704f65" tvg-id="6216ae22c3bbca2de8704f65" tvg-name="Sports Illustrated TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png" group-title="Sports",Sports Illustrated TV
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6216ae22c3bbca2de8704f65.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5ef11485d33ab9004048a1ca" tvg-id="5ef11485d33ab9004048a1ca" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Sports",SportsGrid
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-5ef11485d33ab9004048a1ca.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68645e804051ba2be659baac" tvg-id="68645e804051ba2be659baac" tvg-name="Stars Central" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae2c7909-5beb-4651-878d-c74b2512f87b/Star_Central_whitRDXe.png" group-title="Food, Home & Culture",Stars Central
