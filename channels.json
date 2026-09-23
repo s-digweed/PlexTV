@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T18:47:17.429949+00:00",
+  "generated": "2026-09-23T20:53:29.335564+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -4604,19 +4604,6 @@
         ],
         "region": "us"
       },
-      "64f0d3ddc2bc9b9001d46ea4": {
-        "id": "6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4",
-        "slug": "reelz-famous-and-infamous",
-        "gridKey": "64f0d3ddc2bc9b9001d46ea4",
-        "name": "REELZ Famous & Infamous",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
       "66e4cbef38de9754b6b13e90": {
         "id": "6a1610bebdf296985fd95603-66e4cbef38de9754b6b13e90",
         "slug": "dr-phil",
@@ -4638,6 +4625,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec015.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
+      "64f0d3ddc2bc9b9001d46ea4": {
+        "id": "6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4",
+        "slug": "reelz-famous-and-infamous",
+        "gridKey": "64f0d3ddc2bc9b9001d46ea4",
+        "name": "REELZ Famous & Infamous",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
