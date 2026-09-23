@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T20:53:29.335564+00:00",
+  "generated": "2026-09-23T23:22:26.518423+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1450,8 +1450,8 @@
         "slug": "cbs-news-24-7",
         "gridKey": "6571f43a1d2aae780d597196",
         "name": "CBS News 24/7",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/87b48057-7bc7-45af-bae8-d3b713a8733d/CBS-News-24-7-WHITE-1500x1000Vert_Stack__1_.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0dafe6e1678008304620ef7345c77953.png",
+        "callSign": "CBSNSTR",
         "key": "/library/parts/6a1610bebdf296985fd95603-6571f43a1d2aae780d597196.m3u8",
         "genres": [
           "News"
@@ -1515,8 +1515,8 @@
         "slug": "cbs-news-los-angeles",
         "gridKey": "65970654fca6056ca69e3e41",
         "name": "CBS News Los Angeles",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9ed16f74-c3d5-4a8c-9672-db8482a30a97/PlutoTV_Plex_Logo_DarkBkgd_1500x1000_CBSNews_LosAngeles_v1_-_Katherine_ByramRDX.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b7053486071cd57a12227025640fe46d.png",
+        "callSign": "CBSNWLA",
         "key": "/library/parts/6a1610bebdf296985fd95603-65970654fca6056ca69e3e41.m3u8",
         "genres": [
           "News"
@@ -2948,6 +2948,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png",
         "callSign": "WEREAL",
         "key": "/library/parts/6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bec.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "64f0d3ddc2bc9b9001d46ea4": {
+        "id": "6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4",
+        "slug": "reelz-famous-and-infamous",
+        "gridKey": "64f0d3ddc2bc9b9001d46ea4",
+        "name": "REELZ Famous & Infamous",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4.m3u8",
         "genres": [
           "Reality"
         ],
@@ -4625,19 +4638,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec015.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
-      "64f0d3ddc2bc9b9001d46ea4": {
-        "id": "6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4",
-        "slug": "reelz-famous-and-infamous",
-        "gridKey": "64f0d3ddc2bc9b9001d46ea4",
-        "name": "REELZ Famous & Infamous",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -52496,14 +52496,14 @@
         ],
         "region": "se"
       },
-      "69a51ab83eb39481c7edd561": {
-        "id": "5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561",
-        "slug": "world-of-love-island",
-        "gridKey": "69a51ab83eb39481c7edd561",
+      "6aa72ea2fc710687a8b4db3d": {
+        "id": "5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d",
+        "slug": "world-of-love-island-2",
+        "gridKey": "6aa72ea2fc710687a8b4db3d",
         "name": "World of Love Island",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a3a475ee-8fe6-488a-81b9-b17d0aadf58b/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e62ea5d9-4843-48f9-9374-29ba8b166195/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d.m3u8",
         "genres": [
           "Reality"
         ],
@@ -58740,14 +58740,14 @@
         ],
         "region": "no"
       },
-      "69a51ab83eb39481c7edd561": {
-        "id": "5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561",
-        "slug": "world-of-love-island",
-        "gridKey": "69a51ab83eb39481c7edd561",
+      "6aa72ea2fc710687a8b4db3d": {
+        "id": "5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d",
+        "slug": "world-of-love-island-2",
+        "gridKey": "6aa72ea2fc710687a8b4db3d",
         "name": "World of Love Island",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a3a475ee-8fe6-488a-81b9-b17d0aadf58b/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e62ea5d9-4843-48f9-9374-29ba8b166195/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d.m3u8",
         "genres": [
           "Reality"
         ],
@@ -61979,14 +61979,14 @@
         ],
         "region": "fi"
       },
-      "69a51ab83eb39481c7edd561": {
-        "id": "5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561",
-        "slug": "world-of-love-island",
-        "gridKey": "69a51ab83eb39481c7edd561",
+      "6aa72ea2fc710687a8b4db3d": {
+        "id": "5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d",
+        "slug": "world-of-love-island-2",
+        "gridKey": "6aa72ea2fc710687a8b4db3d",
         "name": "World of Love Island",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a3a475ee-8fe6-488a-81b9-b17d0aadf58b/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e62ea5d9-4843-48f9-9374-29ba8b166195/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d.m3u8",
         "genres": [
           "Reality"
         ],
@@ -65166,14 +65166,14 @@
         ],
         "region": "dk"
       },
-      "69a51ab83eb39481c7edd561": {
-        "id": "5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561",
-        "slug": "world-of-love-island",
-        "gridKey": "69a51ab83eb39481c7edd561",
+      "6aa72ea2fc710687a8b4db3d": {
+        "id": "5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d",
+        "slug": "world-of-love-island-2",
+        "gridKey": "6aa72ea2fc710687a8b4db3d",
         "name": "World of Love Island",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a3a475ee-8fe6-488a-81b9-b17d0aadf58b/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e62ea5d9-4843-48f9-9374-29ba8b166195/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d.m3u8",
         "genres": [
           "Reality"
         ],
@@ -68262,14 +68262,14 @@
         ],
         "region": "is"
       },
-      "69a51ab83eb39481c7edd561": {
-        "id": "5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561",
-        "slug": "world-of-love-island",
-        "gridKey": "69a51ab83eb39481c7edd561",
+      "6aa72ea2fc710687a8b4db3d": {
+        "id": "5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d",
+        "slug": "world-of-love-island-2",
+        "gridKey": "6aa72ea2fc710687a8b4db3d",
         "name": "World of Love Island",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a3a475ee-8fe6-488a-81b9-b17d0aadf58b/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e62ea5d9-4843-48f9-9374-29ba8b166195/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d.m3u8",
         "genres": [
           "Reality"
         ],
