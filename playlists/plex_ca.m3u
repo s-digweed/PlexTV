@@ -219,8 +219,6 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6449369eb3ff
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66e4cbef38de9754b6b13e90.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67291bde7f55143b23b66c4f" tvg-id="67291bde7f55143b23b66c4f" tvg-name="Duck Dynasty" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4b5d89a8-add0-47a4-9652-14d460904ce0/DuckDynasty-Channel-Logo-_Light_-1500x1000px.png" group-title="Bingeworthy",Duck Dynasty
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-67291bde7f55143b23b66c4f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-68d7f9b53b1f329cea126993" tvg-id="68d7f9b53b1f329cea126993" tvg-name="Dude Perfect" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png" group-title="Comedy",Dude Perfect
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-68d7f9b53b1f329cea126993.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6216723e2c2627c068e73ad4" tvg-id="6216723e2c2627c068e73ad4" tvg-name="Dungeon TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6927ff31-166c-4ab8-8703-c088ec16f768/DungeonTV_logo_dark.png" group-title="Global",Dungeon TV
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6216723e2c2627c068e73ad4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-653d9d28d3e2e30d889226be" tvg-id="653d9d28d3e2e30d889226be" tvg-name="Dungeons & Dragons Adventures" tvg-logo="https://provider-static.plex.tv/epg/cms/production/628a1ec4-3547-46b1-ac1b-5efe28d38088/DungeonsAndDragonsAdventures_Logo_1500x1000_-_RSD.png" group-title="Global",Dungeons & Dragons Adventures
@@ -405,8 +403,6 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6a0373bd58b7
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5f5132da62fe160040f26b5b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f0ff262d71dcb00449ec018" tvg-id="5f0ff262d71dcb00449ec018" tvg-name="Judge Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png" group-title="Daytime TV & Games",Judge Nosey
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5f0ff262d71dcb00449ec018.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-69153808ca8cd63ab14ece0d" tvg-id="69153808ca8cd63ab14ece0d" tvg-name="Kidoodle TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png" group-title="Kids & Family",Kidoodle TV
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-69153808ca8cd63ab14ece0d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69d57b7d629e24fac06ae529" tvg-id="69d57b7d629e24fac06ae529" tvg-name="Kids" tvg-logo="https://provider-static.plex.tv/epg/cms/production/891c8cb8-4d1b-4393-8de0-d0e9dd53db92/ABC-kids-logo-light-mode_-_Orange_RDX.png" group-title="Kids & Family",Kids
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-69d57b7d629e24fac06ae529.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69bb1f002028859eafc637e1" tvg-id="69bb1f002028859eafc637e1" tvg-name="Legacy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png" group-title="Global",Legacy
@@ -543,8 +539,6 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-63ec0b739866
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6876f76054325376973fd314.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-639ba57d3f4612cc150a5723" tvg-id="639ba57d3f4612cc150a5723" tvg-name="Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png" group-title="Classics",Pitufo TV
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-639ba57d3f4612cc150a5723.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-66fbfd67bde73c589ab2af42" tvg-id="66fbfd67bde73c589ab2af42" tvg-name="PLL Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png" group-title="Sports",PLL Network
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66fbfd67bde73c589ab2af42.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f91c4ea96a391002df9a661" tvg-id="5f91c4ea96a391002df9a661" tvg-name="pocket.watch Game-On" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b580b328-e44f-4554-bc2e-09f9fb7a2ee3/pocket.watchGame-On_Channel_Logo_Stacked_Color_1500x1000.png" group-title="Global",pocket.watch Game-On
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5f91c4ea96a391002df9a661.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60afc726623f2f002c5bb49f" tvg-id="60afc726623f2f002c5bb49f" tvg-name="Poker Night TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e081c886-d798-4438-855b-2f1fb10c50ee/poker-night-tv.png" group-title="Sports",Poker Night TV
@@ -835,8 +829,6 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6674bc83a9c7
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-69b16cbf87340e48b7b72249.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60df3e18541143002f3b8607" tvg-id="60df3e18541143002f3b8607" tvg-name="USA TODAY" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" group-title="News",USA TODAY
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-60df3e18541143002f3b8607.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-695d6e5fe625040869eaebec" tvg-id="695d6e5fe625040869eaebec" tvg-name="Victory+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e2e7dd5e-7be9-41c5-9a3a-55b1af668062/Victory_plus_WHT.png" group-title="Sports",Victory+
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-695d6e5fe625040869eaebec.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-61ddcc6023daf618ed44c29f" tvg-id="61ddcc6023daf618ed44c29f" tvg-name="Wanted: Dead or Alive" tvg-logo="https://provider-static.plex.tv/epg/cms/production/94c5a66f-c118-4d32-b8cf-fbed9e1dd454/WantedDeadorAlive_15000x1000_darkbgd.png" group-title="Classics",Wanted: Dead or Alive
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-61ddcc6023daf618ed44c29f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-621672612c2627c068e73ad6" tvg-id="621672612c2627c068e73ad6" tvg-name="Watch it Kid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="Kids & Family",Watch it Kid

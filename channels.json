@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T16:11:14.241699+00:00",
+  "generated": "2026-09-24T18:48:03.284769+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1978,19 +1978,6 @@
         ],
         "region": "us"
       },
-      "695d6d7908f2e5ca97bc2a1d": {
-        "id": "6a1610bebdf296985fd95603-695d6d7908f2e5ca97bc2a1d",
-        "slug": "victory",
-        "gridKey": "695d6d7908f2e5ca97bc2a1d",
-        "name": "Victory+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e0643c5a-eb0b-4aee-b23f-12a143fc6da1/Victory_plus_WHT.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-695d6d7908f2e5ca97bc2a1d.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
       "69c2a33b77977728f4e71cbd": {
         "id": "6a1610bebdf296985fd95603-69c2a33b77977728f4e71cbd",
         "slug": "slvr-sports-and-entertainment-slvr-socal",
@@ -2342,19 +2329,6 @@
         ],
         "region": "us"
       },
-      "695d6e5fe625040869eaebec": {
-        "id": "6a1610bebdf296985fd95603-695d6e5fe625040869eaebec",
-        "slug": "victory-2",
-        "gridKey": "695d6e5fe625040869eaebec",
-        "name": "Victory+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e2e7dd5e-7be9-41c5-9a3a-55b1af668062/Victory_plus_WHT.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-695d6e5fe625040869eaebec.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
       "69b845bb8b510f5b7fff04b2": {
         "id": "6a1610bebdf296985fd95603-69b845bb8b510f5b7fff04b2",
         "slug": "slvr-sports-and-entertainment-slvr",
@@ -2662,19 +2636,6 @@
         "logo": "https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png",
         "callSign": "FIGHTNS",
         "key": "/library/parts/6a1610bebdf296985fd95603-606605549dbfca002d2ae877.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "6a1610bebdf296985fd95603-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-66fbfd67bde73c589ab2af42.m3u8",
         "genres": [
           "Sports"
         ],
@@ -4586,19 +4547,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a5fd9aad-4f9c-444e-82eb-dac6c00eb314/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5eea605574085f0040ddc791.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "us"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "6a1610bebdf296985fd95603-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -6814,19 +6762,6 @@
         ],
         "region": "us"
       },
-      "69153808ca8cd63ab14ece0d": {
-        "id": "6a1610bebdf296985fd95603-69153808ca8cd63ab14ece0d",
-        "slug": "kidoodle-tv-2",
-        "gridKey": "69153808ca8cd63ab14ece0d",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69153808ca8cd63ab14ece0d.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "us"
-      },
       "63eecb32ac23d1ee072087cb": {
         "id": "6a1610bebdf296985fd95603-63eecb32ac23d1ee072087cb",
         "slug": "123go",
@@ -7082,19 +7017,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f28bb5e9-1ba3-4dea-b4b3-8da91952ea5f/CM-Plex-dark_logo-CanelaTV-Novelas_y_Dramas.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f5132e362fe160040f26c18.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
-      "64149ba2d02609d8a7127ee8": {
-        "id": "6a1610bebdf296985fd95603-64149ba2d02609d8a7127ee8",
-        "slug": "anger-management-en-espanol",
-        "gridKey": "64149ba2d02609d8a7127ee8",
-        "name": "Anger Management en español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a663e04f-8322-45f6-a64d-bafe754d4e09/AngrMngmnt_logo_dark_1500x1000_-_Chris_Connors.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64149ba2d02609d8a7127ee8.m3u8",
         "genres": [
           "En Español"
         ],
@@ -10417,19 +10339,6 @@
         ],
         "region": "ca"
       },
-      "695d6e5fe625040869eaebec": {
-        "id": "647f8d22a2fc3fadb4721685-695d6e5fe625040869eaebec",
-        "slug": "victory-2",
-        "gridKey": "695d6e5fe625040869eaebec",
-        "name": "Victory+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e2e7dd5e-7be9-41c5-9a3a-55b1af668062/Victory_plus_WHT.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-695d6e5fe625040869eaebec.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "ca"
-      },
       "60aeb5cd87f9b1002ce12323": {
         "id": "647f8d22a2fc3fadb4721685-60aeb5cd87f9b1002ce12323",
         "slug": "nhra-tv",
@@ -10815,19 +10724,6 @@
         "logo": "https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png",
         "callSign": "FIGHTNS",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-606605549dbfca002d2ae877.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "ca"
-      },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "647f8d22a2fc3fadb4721685-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-66fbfd67bde73c589ab2af42.m3u8",
         "genres": [
           "Sports"
         ],
@@ -12271,19 +12167,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5ef11486d33ab9004048a1cd.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "ca"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "647f8d22a2fc3fadb4721685-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -13922,19 +13805,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "ca"
-      },
-      "69153808ca8cd63ab14ece0d": {
-        "id": "647f8d22a2fc3fadb4721685-69153808ca8cd63ab14ece0d",
-        "slug": "kidoodle-tv-2",
-        "gridKey": "69153808ca8cd63ab14ece0d",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-69153808ca8cd63ab14ece0d.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -16672,19 +16542,6 @@
         ],
         "region": "gb"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "64305451fc3be5947773c339-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "gb"
-      },
       "643f0ecd76de2b4015ae6c01": {
         "id": "64305451fc3be5947773c339-643f0ecd76de2b4015ae6c01",
         "slug": "pfl-mma",
@@ -17603,19 +17460,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "gb"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "64305451fc3be5947773c339-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -19137,19 +18981,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-5f91c4ea96a391002df9a664.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "gb"
-      },
-      "69153808ca8cd63ab14ece0d": {
-        "id": "64305451fc3be5947773c339-69153808ca8cd63ab14ece0d",
-        "slug": "kidoodle-tv-2",
-        "gridKey": "69153808ca8cd63ab14ece0d",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-69153808ca8cd63ab14ece0d.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -21042,19 +20873,6 @@
         ],
         "region": "au"
       },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "697140a85d851f5e69414688-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-66fbfd67bde73c589ab2af42.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "au"
-      },
       "5fd115b8b7ef8d002dcf1817": {
         "id": "697140a85d851f5e69414688-5fd115b8b7ef8d002dcf1817",
         "slug": "waypoint-tv",
@@ -21713,19 +21531,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "au"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "697140a85d851f5e69414688-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -22961,19 +22766,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "au"
-      },
-      "69153808ca8cd63ab14ece0d": {
-        "id": "697140a85d851f5e69414688-69153808ca8cd63ab14ece0d",
-        "slug": "kidoodle-tv-2",
-        "gridKey": "69153808ca8cd63ab14ece0d",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-69153808ca8cd63ab14ece0d.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -24723,19 +24515,6 @@
         ],
         "region": "nz"
       },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nz"
-      },
       "5fd115b8b7ef8d002dcf1817": {
         "id": "5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817",
         "slug": "waypoint-tv",
@@ -25381,19 +25160,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "nz"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -26564,19 +26330,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/891c8cb8-4d1b-4393-8de0-d0e9dd53db92/ABC-kids-logo-light-mode_-_Orange_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69d57b7d629e24fac06ae529.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "nz"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -28560,19 +28313,6 @@
         ],
         "region": "mx"
       },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "608049aefa2b8ae93c2c3a63-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-66fbfd67bde73c589ab2af42.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "mx"
-      },
       "621670feab2095ca85353ad4": {
         "id": "608049aefa2b8ae93c2c3a63-621670feab2095ca85353ad4",
         "slug": "xfc-tv",
@@ -28958,19 +28698,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "mx"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "608049aefa2b8ae93c2c3a63-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -29803,19 +29530,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "mx"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -31994,19 +31708,6 @@
         ],
         "region": "es"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "643054b1fc3be59477853717-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "es"
-      },
       "5fd115b8b7ef8d002dcf1817": {
         "id": "643054b1fc3be59477853717-5fd115b8b7ef8d002dcf1817",
         "slug": "waypoint-tv",
@@ -32717,19 +32418,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-650b5bb3f4b2d9579946a500.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "es"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "643054b1fc3be59477853717-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -33523,19 +33211,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-62ba4aaff663580a7238f327.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "es"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "643054b1fc3be59477853717-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -35545,19 +35220,6 @@
         ],
         "region": "fr"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "6430aa45fc3be5947780904e-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "fr"
-      },
       "630fa9e577ec3866def38fa2": {
         "id": "6430aa45fc3be5947780904e-630fa9e577ec3866def38fa2",
         "slug": "womens-sports-network",
@@ -36073,19 +35735,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-650b5bb3f4b2d9579946a500.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "fr"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "6430aa45fc3be5947780904e-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -36853,19 +36502,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/38d8759c-fb94-4154-ba4d-8450e99662cd/FilmRiseLogo_WigglesClassic_Color_Logo.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "fr"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "6430aa45fc3be5947780904e-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -38680,19 +38316,6 @@
         ],
         "region": "de"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "635177ecff6cd5445d7f9b0b-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
       "616df1be2cf008a748c8cb53": {
         "id": "635177ecff6cd5445d7f9b0b-616df1be2cf008a748c8cb53",
         "slug": "slopes",
@@ -39351,19 +38974,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-64704954e536e0faaf10be9f.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "de"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "635177ecff6cd5445d7f9b0b-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -40183,19 +39793,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-63d6f6c5a9e88ee909e7ee1f.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "de"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "635177ecff6cd5445d7f9b0b-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -41789,19 +41386,6 @@
         ],
         "region": "br"
       },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "646546f35db8ada4c8edd7e5-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-66fbfd67bde73c589ab2af42.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "br"
-      },
       "652875586425fdb1f32d2169": {
         "id": "646546f35db8ada4c8edd7e5-652875586425fdb1f32d2169",
         "slug": "world-surf-league-24-7",
@@ -42608,19 +42192,6 @@
         ],
         "region": "br"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "646546f35db8ada4c8edd7e5-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "br"
-      },
       "67884bd6d37f2fd48d6220db": {
         "id": "646546f35db8ada4c8edd7e5-67884bd6d37f2fd48d6220db",
         "slug": "creator-television",
@@ -43409,19 +42980,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "br"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "646546f35db8ada4c8edd7e5-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -45119,19 +44677,6 @@
         ],
         "region": "in"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "698f7631338300003d436270-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "in"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "698f7631338300003d436270-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -45491,19 +45036,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "in"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "698f7631338300003d436270-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -46245,19 +45777,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "in"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "698f7631338300003d436270-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -47630,19 +47149,6 @@
         ],
         "region": "jp"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "jp"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -47963,19 +47469,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "jp"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -48587,19 +48080,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "jp"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -49972,19 +49452,6 @@
         ],
         "region": "kr"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "kr"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -50305,19 +49772,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "kr"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -50929,19 +50383,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "kr"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -52587,19 +52028,6 @@
         ],
         "region": "se"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -53193,19 +52621,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "se"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -54077,19 +53492,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69a529f77c245b3390e8a4de.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "se"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -55709,19 +55111,6 @@
         ],
         "region": "nl"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -56185,19 +55574,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "nl"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -57030,19 +56406,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69a529f77c245b3390e8a4de.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "nl"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -58870,19 +58233,6 @@
         ],
         "region": "no"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "no"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -59476,19 +58826,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "no"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -60360,19 +59697,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69a529f77c245b3390e8a4de.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "no"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -62135,19 +61459,6 @@
         ],
         "region": "fi"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "fi"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -62702,19 +62013,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "fi"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -63573,19 +62871,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69a529f77c245b3390e8a4de.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "fi"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -65348,19 +64633,6 @@
         ],
         "region": "dk"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "dk"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -65954,19 +65226,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "dk"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -66838,19 +66097,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69a529f77c245b3390e8a4de.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "dk"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -68483,19 +67729,6 @@
         ],
         "region": "is"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "is"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -68946,19 +68179,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "is"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -69752,19 +68972,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69a529f77c245b3390e8a4de.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "is"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
