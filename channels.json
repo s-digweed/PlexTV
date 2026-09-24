@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T20:58:19.009208+00:00",
+  "generated": "2026-09-24T23:45:07.822477+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -5704,6 +5704,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-63584a0cf8e2be1350f802a4.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "6a1610bebdf296985fd95603-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -12991,6 +13004,19 @@
         ],
         "region": "ca"
       },
+      "6aaa2279083227098739435f": {
+        "id": "647f8d22a2fc3fadb4721685-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "ca"
+      },
       "666e10bece73ed6023b55a0d": {
         "id": "647f8d22a2fc3fadb4721685-666e10bece73ed6023b55a0d",
         "slug": "bon-voyage",
@@ -18219,6 +18245,19 @@
         ],
         "region": "gb"
       },
+      "6aaa2279083227098739435f": {
+        "id": "64305451fc3be5947773c339-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "gb"
+      },
       "62fbf36c1567211fdb82e920": {
         "id": "64305451fc3be5947773c339-62fbf36c1567211fdb82e920",
         "slug": "stingray-naturescape-2",
@@ -22056,6 +22095,19 @@
         ],
         "region": "au"
       },
+      "6aaa2279083227098739435f": {
+        "id": "697140a85d851f5e69414688-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "au"
+      },
       "693cbba358076a970420f597": {
         "id": "697140a85d851f5e69414688-693cbba358076a970420f597",
         "slug": "cesars-pack-leader-tv",
@@ -25711,6 +25763,19 @@
         ],
         "region": "nz"
       },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "nz"
+      },
       "64e437ba7ef2bf9f66b42615": {
         "id": "5e20b730f2f8d5003d739db7-64e437ba7ef2bf9f66b42615",
         "slug": "travel-escapes",
@@ -29010,6 +29075,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "mx"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "608049aefa2b8ae93c2c3a63-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -32722,6 +32800,19 @@
         ],
         "region": "es"
       },
+      "6aaa2279083227098739435f": {
+        "id": "643054b1fc3be59477853717-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "es"
+      },
       "5f0ff263d71dcb00449ec021": {
         "id": "643054b1fc3be59477853717-5f0ff263d71dcb00449ec021",
         "slug": "people-are-awesome-2",
@@ -36000,6 +36091,19 @@
         ],
         "region": "fr"
       },
+      "6aaa2279083227098739435f": {
+        "id": "6430aa45fc3be5947780904e-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "fr"
+      },
       "656fb850cb7e8e6a9bc3f36e": {
         "id": "6430aa45fc3be5947780904e-656fb850cb7e8e6a9bc3f36e",
         "slug": "popular-science",
@@ -37627,6 +37731,19 @@
         ],
         "region": "de"
       },
+      "5ef4e1b40d9ad000423c4430": {
+        "id": "635177ecff6cd5445d7f9b0b-5ef4e1b40d9ad000423c4430",
+        "slug": "maverick-black-cinema",
+        "gridKey": "5ef4e1b40d9ad000423c4430",
+        "name": "Maverick Black Cinema",
+        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5ef4e1b40d9ad000423c4430.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "de"
+      },
       "66bfb17c144c201b8b61c10d": {
         "id": "635177ecff6cd5445d7f9b0b-66bfb17c144c201b8b61c10d",
         "slug": "rcm",
@@ -37648,19 +37765,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-614e286b2bac097ffd6fd6ab.m3u8",
-        "genres": [
-          "Movies"
-        ],
-        "region": "de"
-      },
-      "5ef4e1b40d9ad000423c4430": {
-        "id": "635177ecff6cd5445d7f9b0b-5ef4e1b40d9ad000423c4430",
-        "slug": "maverick-black-cinema",
-        "gridKey": "5ef4e1b40d9ad000423c4430",
-        "name": "Maverick Black Cinema",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5ef4e1b40d9ad000423c4430.m3u8",
         "genres": [
           "Movies"
         ],
@@ -37822,6 +37926,45 @@
         ],
         "region": "de"
       },
+      "5fb81660b7ad2d002dcb7335": {
+        "id": "635177ecff6cd5445d7f9b0b-5fb81660b7ad2d002dcb7335",
+        "slug": "newsmax2",
+        "gridKey": "5fb81660b7ad2d002dcb7335",
+        "name": "Newsmax2",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5fb81660b7ad2d002dcb7335.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
+      "68a799722895f21006e758e4": {
+        "id": "635177ecff6cd5445d7f9b0b-68a799722895f21006e758e4",
+        "slug": "tv5monde-info",
+        "gridKey": "68a799722895f21006e758e4",
+        "name": "TV5MONDE Info",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ac1bf6b-ab6e-4a44-9268-c8c2374befce/TV5MONDE_INFO_WHT_1500x1000_-_Patrice.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-68a799722895f21006e758e4.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
       "61d73c3ca7b7c7f703418518": {
         "id": "635177ecff6cd5445d7f9b0b-61d73c3ca7b7c7f703418518",
         "slug": "bloomberg-originals",
@@ -37830,6 +37973,45 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-61d73c3ca7b7c7f703418518.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
+      "5f170f01b898490041b49dd1": {
+        "id": "635177ecff6cd5445d7f9b0b-5f170f01b898490041b49dd1",
+        "slug": "yahoo-finance",
+        "gridKey": "5f170f01b898490041b49dd1",
+        "name": "Yahoo Finance",
+        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5f170f01b898490041b49dd1.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
+      "60df3e18541143002f3b8607": {
+        "id": "635177ecff6cd5445d7f9b0b-60df3e18541143002f3b8607",
+        "slug": "usa-today-news",
+        "gridKey": "60df3e18541143002f3b8607",
+        "name": "USA TODAY",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-60df3e18541143002f3b8607.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
+      "66bfb2e6144c201b8b61c10f": {
+        "id": "635177ecff6cd5445d7f9b0b-66bfb2e6144c201b8b61c10f",
+        "slug": "newsworld",
+        "gridKey": "66bfb2e6144c201b8b61c10f",
+        "name": "NewsWorld",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66bfb2e6144c201b8b61c10f.m3u8",
         "genres": [
           "News"
         ],
@@ -37900,84 +38082,6 @@
         ],
         "region": "de"
       },
-      "66bfb2e6144c201b8b61c10f": {
-        "id": "635177ecff6cd5445d7f9b0b-66bfb2e6144c201b8b61c10f",
-        "slug": "newsworld",
-        "gridKey": "66bfb2e6144c201b8b61c10f",
-        "name": "NewsWorld",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66bfb2e6144c201b8b61c10f.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
-      "60df3e18541143002f3b8607": {
-        "id": "635177ecff6cd5445d7f9b0b-60df3e18541143002f3b8607",
-        "slug": "usa-today-news",
-        "gridKey": "60df3e18541143002f3b8607",
-        "name": "USA TODAY",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-60df3e18541143002f3b8607.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
-      "5fb81660b7ad2d002dcb7335": {
-        "id": "635177ecff6cd5445d7f9b0b-5fb81660b7ad2d002dcb7335",
-        "slug": "newsmax2",
-        "gridKey": "5fb81660b7ad2d002dcb7335",
-        "name": "Newsmax2",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5fb81660b7ad2d002dcb7335.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
-      "5f170f01b898490041b49dd1": {
-        "id": "635177ecff6cd5445d7f9b0b-5f170f01b898490041b49dd1",
-        "slug": "yahoo-finance",
-        "gridKey": "5f170f01b898490041b49dd1",
-        "name": "Yahoo Finance",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5f170f01b898490041b49dd1.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
-      "68a799722895f21006e758e4": {
-        "id": "635177ecff6cd5445d7f9b0b-68a799722895f21006e758e4",
-        "slug": "tv5monde-info",
-        "gridKey": "68a799722895f21006e758e4",
-        "name": "TV5MONDE Info",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1ac1bf6b-ab6e-4a44-9268-c8c2374befce/TV5MONDE_INFO_WHT_1500x1000_-_Patrice.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-68a799722895f21006e758e4.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
       "69f4f6c2647c1d14cc38677b": {
         "id": "635177ecff6cd5445d7f9b0b-69f4f6c2647c1d14cc38677b",
         "slug": "nfl-channel-3",
@@ -38004,19 +38108,6 @@
         ],
         "region": "de"
       },
-      "64ac687b4192b4e1bab96279": {
-        "id": "635177ecff6cd5445d7f9b0b-64ac687b4192b4e1bab96279",
-        "slug": "pokergo",
-        "gridKey": "64ac687b4192b4e1bab96279",
-        "name": "PokerGO",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-64ac687b4192b4e1bab96279.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
       "64e6ed5627a915f9b5184e9c": {
         "id": "635177ecff6cd5445d7f9b0b-64e6ed5627a915f9b5184e9c",
         "slug": "wedo-sports",
@@ -38038,6 +38129,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/1fd2c9c5-bb62-4de7-8673-5eb611101f54/Marketing_assets_MV_logo_1500X1000_transparent_dark_BGRDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-675a39923c1d4ea8298f8f06.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "de"
+      },
+      "66ccac69fdf9cd3a568ef135": {
+        "id": "635177ecff6cd5445d7f9b0b-66ccac69fdf9cd3a568ef135",
+        "slug": "ufc",
+        "gridKey": "66ccac69fdf9cd3a568ef135",
+        "name": "UFC",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66ccac69fdf9cd3a568ef135.m3u8",
         "genres": [
           "Sports"
         ],
@@ -38090,6 +38194,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-5f6b8e7900b0950040d0f2b2.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "de"
+      },
+      "64ac687b4192b4e1bab96279": {
+        "id": "635177ecff6cd5445d7f9b0b-64ac687b4192b4e1bab96279",
+        "slug": "pokergo",
+        "gridKey": "64ac687b4192b4e1bab96279",
+        "name": "PokerGO",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-64ac687b4192b4e1bab96279.m3u8",
         "genres": [
           "Sports"
         ],
@@ -38407,6 +38524,19 @@
         ],
         "region": "de"
       },
+      "65e0c8c6d899afe817b9d224": {
+        "id": "635177ecff6cd5445d7f9b0b-65e0c8c6d899afe817b9d224",
+        "slug": "cricket-gold",
+        "gridKey": "65e0c8c6d899afe817b9d224",
+        "name": "Cricket Gold",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-65e0c8c6d899afe817b9d224.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "de"
+      },
       "6227c215c9f485cc7afe8c41": {
         "id": "635177ecff6cd5445d7f9b0b-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
@@ -38485,19 +38615,6 @@
         ],
         "region": "de"
       },
-      "646c0dfbfb58444e4e1e262d": {
-        "id": "635177ecff6cd5445d7f9b0b-646c0dfbfb58444e4e1e262d",
-        "slug": "pac-12-insider",
-        "gridKey": "646c0dfbfb58444e4e1e262d",
-        "name": "Pac-12 Insider",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-646c0dfbfb58444e4e1e262d.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
       "63504925a97bd70eaef54f01": {
         "id": "635177ecff6cd5445d7f9b0b-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -38524,6 +38641,19 @@
         ],
         "region": "de"
       },
+      "646c0dfbfb58444e4e1e262d": {
+        "id": "635177ecff6cd5445d7f9b0b-646c0dfbfb58444e4e1e262d",
+        "slug": "pac-12-insider",
+        "gridKey": "646c0dfbfb58444e4e1e262d",
+        "name": "Pac-12 Insider",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-646c0dfbfb58444e4e1e262d.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "de"
+      },
       "656fbbd6dbcce28c3a41741b": {
         "id": "635177ecff6cd5445d7f9b0b-656fbbd6dbcce28c3a41741b",
         "slug": "surf-cinema",
@@ -38532,32 +38662,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-656fbbd6dbcce28c3a41741b.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
-      "66ccac69fdf9cd3a568ef135": {
-        "id": "635177ecff6cd5445d7f9b0b-66ccac69fdf9cd3a568ef135",
-        "slug": "ufc",
-        "gridKey": "66ccac69fdf9cd3a568ef135",
-        "name": "UFC",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66ccac69fdf9cd3a568ef135.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
-      "65e0c8c6d899afe817b9d224": {
-        "id": "635177ecff6cd5445d7f9b0b-65e0c8c6d899afe817b9d224",
-        "slug": "cricket-gold",
-        "gridKey": "65e0c8c6d899afe817b9d224",
-        "name": "Cricket Gold",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-65e0c8c6d899afe817b9d224.m3u8",
         "genres": [
           "Sports"
         ],
@@ -39304,6 +39408,19 @@
         ],
         "region": "de"
       },
+      "6aaa2279083227098739435f": {
+        "id": "635177ecff6cd5445d7f9b0b-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "de"
+      },
       "60d4edddb2fdec002c141135": {
         "id": "635177ecff6cd5445d7f9b0b-60d4edddb2fdec002c141135",
         "slug": "wildearth",
@@ -39551,6 +39668,32 @@
         ],
         "region": "de"
       },
+      "6349ed0eb1adc4cfa571fd37": {
+        "id": "635177ecff6cd5445d7f9b0b-6349ed0eb1adc4cfa571fd37",
+        "slug": "speedvision",
+        "gridKey": "6349ed0eb1adc4cfa571fd37",
+        "name": "SPEEDVISION",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6349ed0eb1adc4cfa571fd37.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "de"
+      },
+      "5efe1de6e0b3f5003f5d9f88": {
+        "id": "635177ecff6cd5445d7f9b0b-5efe1de6e0b3f5003f5d9f88",
+        "slug": "the-bob-ross-channel",
+        "gridKey": "5efe1de6e0b3f5003f5d9f88",
+        "name": "The Bob Ross Channel",
+        "logo": "https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png",
+        "callSign": "TBRCSTR",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5efe1de6e0b3f5003f5d9f88.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "de"
+      },
       "67294a601055ef3897c73477": {
         "id": "635177ecff6cd5445d7f9b0b-67294a601055ef3897c73477",
         "slug": "the-emeril-lagasse-channel",
@@ -39564,6 +39707,32 @@
         ],
         "region": "de"
       },
+      "67c2496d45ae99120c071588": {
+        "id": "635177ecff6cd5445d7f9b0b-67c2496d45ae99120c071588",
+        "slug": "life-down-under",
+        "gridKey": "67c2496d45ae99120c071588",
+        "name": "Life Down Under",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-67c2496d45ae99120c071588.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "de"
+      },
+      "68b74890b5b437bf872b6b72": {
+        "id": "635177ecff6cd5445d7f9b0b-68b74890b5b437bf872b6b72",
+        "slug": "tv5monde-chefs",
+        "gridKey": "68b74890b5b437bf872b6b72",
+        "name": "TV5MONDE Chefs",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-68b74890b5b437bf872b6b72.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "de"
+      },
       "5f07e9fdf313eb0041bbecda": {
         "id": "635177ecff6cd5445d7f9b0b-5f07e9fdf313eb0041bbecda",
         "slug": "cooking-panda",
@@ -39572,19 +39741,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-5f07e9fdf313eb0041bbecda.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
-      "6349ed0eb1adc4cfa571fd37": {
-        "id": "635177ecff6cd5445d7f9b0b-6349ed0eb1adc4cfa571fd37",
-        "slug": "speedvision",
-        "gridKey": "6349ed0eb1adc4cfa571fd37",
-        "name": "SPEEDVISION",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6349ed0eb1adc4cfa571fd37.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -39655,19 +39811,6 @@
         ],
         "region": "de"
       },
-      "68b74890b5b437bf872b6b72": {
-        "id": "635177ecff6cd5445d7f9b0b-68b74890b5b437bf872b6b72",
-        "slug": "tv5monde-chefs",
-        "gridKey": "68b74890b5b437bf872b6b72",
-        "name": "TV5MONDE Chefs",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-68b74890b5b437bf872b6b72.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
       "68b74a235dc5413c905efd62": {
         "id": "635177ecff6cd5445d7f9b0b-68b74a235dc5413c905efd62",
         "slug": "tv5monde-voyage",
@@ -39676,32 +39819,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/1fbf682f-90ba-4318-a649-12c7f89cdc48/LOGO_PLEX_VOYAGE_1500X1000_WHITE.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-68b74a235dc5413c905efd62.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
-      "67c2496d45ae99120c071588": {
-        "id": "635177ecff6cd5445d7f9b0b-67c2496d45ae99120c071588",
-        "slug": "life-down-under",
-        "gridKey": "67c2496d45ae99120c071588",
-        "name": "Life Down Under",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-67c2496d45ae99120c071588.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
-      "5efe1de6e0b3f5003f5d9f88": {
-        "id": "635177ecff6cd5445d7f9b0b-5efe1de6e0b3f5003f5d9f88",
-        "slug": "the-bob-ross-channel",
-        "gridKey": "5efe1de6e0b3f5003f5d9f88",
-        "name": "The Bob Ross Channel",
-        "logo": "https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png",
-        "callSign": "TBRCSTR",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5efe1de6e0b3f5003f5d9f88.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -40175,19 +40292,6 @@
         ],
         "region": "de"
       },
-      "6216723e2c2627c068e73ad4": {
-        "id": "635177ecff6cd5445d7f9b0b-6216723e2c2627c068e73ad4",
-        "slug": "dungeon-tv-2",
-        "gridKey": "6216723e2c2627c068e73ad4",
-        "name": "Dungeon TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6927ff31-166c-4ab8-8703-c088ec16f768/DungeonTV_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6216723e2c2627c068e73ad4.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "de"
-      },
       "64b1e1217d4037206787f384": {
         "id": "635177ecff6cd5445d7f9b0b-64b1e1217d4037206787f384",
         "slug": "nolly-africa-hd",
@@ -40222,6 +40326,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-60e737a4ebef9d002c4d0a0c.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "de"
+      },
+      "6216723e2c2627c068e73ad4": {
+        "id": "635177ecff6cd5445d7f9b0b-6216723e2c2627c068e73ad4",
+        "slug": "dungeon-tv-2",
+        "gridKey": "6216723e2c2627c068e73ad4",
+        "name": "Dungeon TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6927ff31-166c-4ab8-8703-c088ec16f768/DungeonTV_logo_dark.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6216723e2c2627c068e73ad4.m3u8",
         "genres": [
           "Global"
         ],
@@ -42551,6 +42668,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-60a9d105d162b9002d05a60c.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "br"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "646546f35db8ada4c8edd7e5-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -45340,6 +45470,19 @@
         ],
         "region": "in"
       },
+      "6aaa2279083227098739435f": {
+        "id": "698f7631338300003d436270-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "in"
+      },
       "693cbba358076a970420f597": {
         "id": "698f7631338300003d436270-693cbba358076a970420f597",
         "slug": "cesars-pack-leader-tv",
@@ -47747,6 +47890,19 @@
         ],
         "region": "jp"
       },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "jp"
+      },
       "5f170d61b898490041b49369": {
         "id": "5e20b730f2f8d5003d739db7-5f170d61b898490041b49369",
         "slug": "the-pet-collective-2",
@@ -50045,6 +50201,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/e24d3a4c-4948-4155-82c5-b7eec0fa50b8/Cesar_Logo_Transparent_WHTRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-693cbba358076a970420f597.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "kr"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -53029,6 +53198,19 @@
         ],
         "region": "se"
       },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "se"
+      },
       "5f170d61b898490041b49369": {
         "id": "5e20b730f2f8d5003d739db7-5f170d61b898490041b49369",
         "slug": "the-pet-collective-2",
@@ -55977,6 +56159,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/482fe1d5-fb01-416a-857e-ffbf8b6c8cc8/RealWild_Logo_White_-_Simon_Tuquabo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6a1609442476ab8600b1841c.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "nl"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -59234,6 +59429,19 @@
         ],
         "region": "no"
       },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "no"
+      },
       "5f170d61b898490041b49369": {
         "id": "5e20b730f2f8d5003d739db7-5f170d61b898490041b49369",
         "slug": "the-pet-collective-2",
@@ -62429,6 +62637,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/482fe1d5-fb01-416a-857e-ffbf8b6c8cc8/RealWild_Logo_White_-_Simon_Tuquabo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6a1609442476ab8600b1841c.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "fi"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -65634,6 +65855,19 @@
         ],
         "region": "dk"
       },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "dk"
+      },
       "5f170d61b898490041b49369": {
         "id": "5e20b730f2f8d5003d739db7-5f170d61b898490041b49369",
         "slug": "the-pet-collective-2",
@@ -68517,6 +68751,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/482fe1d5-fb01-416a-857e-ffbf8b6c8cc8/RealWild_Logo_White_-_Simon_Tuquabo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6a1609442476ab8600b1841c.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "is"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
