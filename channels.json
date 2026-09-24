@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T02:19:43.664818+00:00",
+  "generated": "2026-09-24T08:01:01.502643+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -457,6 +457,45 @@
         ],
         "region": "us"
       },
+      "6aa73204fc710687a8b4db3f": {
+        "id": "6a1610bebdf296985fd95603-6aa73204fc710687a8b4db3f",
+        "slug": "rookie-blue-2",
+        "gridKey": "6aa73204fc710687a8b4db3f",
+        "name": "Rookie Blue",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/19d7ca0a-bd96-4451-95b4-98f2150bd1e9/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aa73204fc710687a8b4db3f.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "us"
+      },
+      "6aa77752fc710687a8b4db43": {
+        "id": "6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43",
+        "slug": "lionsgate-network",
+        "gridKey": "6aa77752fc710687a8b4db43",
+        "name": "Lionsgate Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b37f858b-d7d1-4456-bc42-871dd4b9c1d9/Plex_LGNetwork_Logo_Light_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "us"
+      },
+      "6aa775d577a95da9cd6a3006": {
+        "id": "6a1610bebdf296985fd95603-6aa775d577a95da9cd6a3006",
+        "slug": "pulse",
+        "gridKey": "6aa775d577a95da9cd6a3006",
+        "name": "Pulse",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/01a708ab-f4f1-4612-aca9-43686348b630/Plex_Pulse_Logo_Light_1500x1000RDXWHT.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aa775d577a95da9cd6a3006.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "us"
+      },
       "68dcbb869beaa3a402966dba": {
         "id": "6a1610bebdf296985fd95603-68dcbb869beaa3a402966dba",
         "slug": "the-graham-norton-show",
@@ -686,6 +725,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/8e9a9c73-613c-47d4-8400-184fda888fbd/Christmas_PLus_WHITE-_1500x1000rdx.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-634700569d64afa6830d1521.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "us"
+      },
+      "6aa779185ceba459edaf9997": {
+        "id": "6a1610bebdf296985fd95603-6aa779185ceba459edaf9997",
+        "slug": "scandal",
+        "gridKey": "6aa779185ceba459edaf9997",
+        "name": "Scandal",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0813fc98-7d64-4d08-8edb-2e48dc886d36/Plex_SCANDAL_Logo_Light_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aa779185ceba459edaf9997.m3u8",
         "genres": [
           "Movies"
         ],
@@ -2979,14 +3031,14 @@
         ],
         "region": "us"
       },
-      "6674bc83a9c715b93ca6ca92": {
-        "id": "6a1610bebdf296985fd95603-6674bc83a9c715b93ca6ca92",
-        "slug": "untold-stories-of-the-er",
-        "gridKey": "6674bc83a9c715b93ca6ca92",
-        "name": "Untold Stories of the ER",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png",
+      "69d940018061ebfbca58c32c": {
+        "id": "6a1610bebdf296985fd95603-69d940018061ebfbca58c32c",
+        "slug": "medical-incredible",
+        "gridKey": "69d940018061ebfbca58c32c",
+        "name": "Medical Incredible",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d56a778a-d52e-440b-847d-a7e118b1c043/MedicalIncredible_Logo_Dark_1500x1000.png",
         "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6674bc83a9c715b93ca6ca92.m3u8",
+        "key": "/library/parts/6a1610bebdf296985fd95603-69d940018061ebfbca58c32c.m3u8",
         "genres": [
           "Reality"
         ],
@@ -3000,32 +3052,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c8f1b6ec-268a-46d3-9b0c-0934c9b89680/Love_Marriage_Logo_Dark_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66a1b02777649467da169f14.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
-      "64275805efc65caa7e9514d6": {
-        "id": "6a1610bebdf296985fd95603-64275805efc65caa7e9514d6",
-        "slug": "mayday-air-disaster-2",
-        "gridKey": "64275805efc65caa7e9514d6",
-        "name": "Mayday: Air Disaster",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/56055a21-e529-4b54-8f9e-42cf8fc41bc5/MaydayAirDisaster_Logo_FullColour_1500x1000_-_Patrick_LeeRED.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64275805efc65caa7e9514d6.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
-      "69d940018061ebfbca58c32c": {
-        "id": "6a1610bebdf296985fd95603-69d940018061ebfbca58c32c",
-        "slug": "medical-incredible",
-        "gridKey": "69d940018061ebfbca58c32c",
-        "name": "Medical Incredible",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/d56a778a-d52e-440b-847d-a7e118b1c043/MedicalIncredible_Logo_Dark_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69d940018061ebfbca58c32c.m3u8",
         "genres": [
           "Reality"
         ],
@@ -3135,6 +3161,45 @@
         ],
         "region": "us"
       },
+      "64275805efc65caa7e9514d6": {
+        "id": "6a1610bebdf296985fd95603-64275805efc65caa7e9514d6",
+        "slug": "mayday-air-disaster-2",
+        "gridKey": "64275805efc65caa7e9514d6",
+        "name": "Mayday: Air Disaster",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/56055a21-e529-4b54-8f9e-42cf8fc41bc5/MaydayAirDisaster_Logo_FullColour_1500x1000_-_Patrick_LeeRED.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-64275805efc65caa7e9514d6.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "6a1610bebdf296985fd95603-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aa9bc040832270987394353.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "67be3cc41a98aab3729899ba": {
+        "id": "6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba",
+        "slug": "chaos-on-cam-by-aande",
+        "gridKey": "67be3cc41a98aab3729899ba",
+        "name": "Chaos on Cam by A&E",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf5b9071-33cc-4eab-a25d-1b291bbde740/Chaos_On_Cam_By_AE_channel_logo_4c_1500x1000_-_Laura_Connolly.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
       "66a2d97c94b6a49cb5054d77": {
         "id": "6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77",
         "slug": "rig-tv",
@@ -3143,6 +3208,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cab375d6-3971-46c5-bd2e-66dc640879d2/RIGTV_Logo_White_1500X1000_.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "6674bc83a9c715b93ca6ca92": {
+        "id": "6a1610bebdf296985fd95603-6674bc83a9c715b93ca6ca92",
+        "slug": "untold-stories-of-the-er",
+        "gridKey": "6674bc83a9c715b93ca6ca92",
+        "name": "Untold Stories of the ER",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6674bc83a9c715b93ca6ca92.m3u8",
         "genres": [
           "Reality"
         ],
@@ -3221,19 +3299,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/dd9af438-b087-47c9-bd15-d7900fffb640/Plex_LogoWhite_-_Simon_Tuquabo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-635847d0d3a668f1cafc1f9d.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
-      "67be3cc41a98aab3729899ba": {
-        "id": "6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba",
-        "slug": "chaos-on-cam-by-aande",
-        "gridKey": "67be3cc41a98aab3729899ba",
-        "name": "Chaos on Cam by A&E",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cf5b9071-33cc-4eab-a25d-1b291bbde740/Chaos_On_Cam_By_AE_channel_logo_4c_1500x1000_-_Laura_Connolly.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba.m3u8",
         "genres": [
           "Reality"
         ],
@@ -5462,6 +5527,19 @@
         ],
         "region": "us"
       },
+      "6a8767b6c0e9ea735da07fd9": {
+        "id": "6a1610bebdf296985fd95603-6a8767b6c0e9ea735da07fd9",
+        "slug": "paranormal-chronicles",
+        "gridKey": "6a8767b6c0e9ea735da07fd9",
+        "name": "Paranormal Chronicles",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5cb43bbc-77b3-45e2-abd1-60128aff6009/ParanormalChronicles_Logo_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a8767b6c0e9ea735da07fd9.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
       "6a10ad97b05301ef36a6a8e6": {
         "id": "6a1610bebdf296985fd95603-6a10ad97b05301ef36a6a8e6",
         "slug": "i-shouldnt-be-alive",
@@ -7108,6 +7186,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/ac25af2a-e4a5-45a1-a54c-715ab8718060/FilmRise_SeriesGratis_1500x1000_logo_light.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5803.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6a3ec58b4ac530f3bac10721": {
+        "id": "6a1610bebdf296985fd95603-6a3ec58b4ac530f3bac10721",
+        "slug": "cindie-tv-3",
+        "gridKey": "6a3ec58b4ac530f3bac10721",
+        "name": "Cindie TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5a65bcc2-33a5-413b-9bd1-75c976269317/Cindie_TV_Horizontal_Attribution_Logo.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a3ec58b4ac530f3bac10721.m3u8",
         "genres": [
           "En Español"
         ],
@@ -9949,19 +10040,6 @@
         ],
         "region": "ca"
       },
-      "65e179f8d581830d25124e1d": {
-        "id": "647f8d22a2fc3fadb4721685-65e179f8d581830d25124e1d",
-        "slug": "cbs-news-canada",
-        "gridKey": "65e179f8d581830d25124e1d",
-        "name": "CBS News Canada",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cc6a6428-8c18-4f72-9809-1084e10e7359/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-65e179f8d581830d25124e1d.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "ca"
-      },
       "69b9d2ce370077bcd1525970": {
         "id": "647f8d22a2fc3fadb4721685-69b9d2ce370077bcd1525970",
         "slug": "cbc-news-windsor",
@@ -11179,6 +11257,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6674bc83a9c715b93ca6ca92.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "ca"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "647f8d22a2fc3fadb4721685-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -12458,6 +12549,19 @@
         ],
         "region": "ca"
       },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "647f8d22a2fc3fadb4721685-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6aa776a1fc710687a8b4db41.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "ca"
+      },
       "64b719768ec13d5dcb7e6bb4": {
         "id": "647f8d22a2fc3fadb4721685-64b719768ec13d5dcb7e6bb4",
         "slug": "supermarket-sweep",
@@ -12778,6 +12882,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/49a06b9c-f5e8-4c81-bc52-0acfdd852a1c/unidentified.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6227e0765e753e6288a86f2f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "ca"
+      },
+      "6a8767b6c0e9ea735da07fd9": {
+        "id": "647f8d22a2fc3fadb4721685-6a8767b6c0e9ea735da07fd9",
+        "slug": "paranormal-chronicles",
+        "gridKey": "6a8767b6c0e9ea735da07fd9",
+        "name": "Paranormal Chronicles",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5cb43bbc-77b3-45e2-abd1-60128aff6009/ParanormalChronicles_Logo_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a8767b6c0e9ea735da07fd9.m3u8",
         "genres": [
           "Explore"
         ],
@@ -14117,6 +14234,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/104dadc6-2e18-4bb5-a606-4b32db242f57/newkmovies_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "ca"
+      },
+      "6a023b768c3c8db908ecaee4": {
+        "id": "647f8d22a2fc3fadb4721685-6a023b768c3c8db908ecaee4",
+        "slug": "feva-tv",
+        "gridKey": "6a023b768c3c8db908ecaee4",
+        "name": "FEVA TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5c73b746-ef57-4c46-9c93-f5a2f25e03d8/1500_x_1000_PNG_w_transparent_background_-_Johnny_MilesCOLOR_WHIT_TEXT.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a023b768c3c8db908ecaee4.m3u8",
         "genres": [
           "Global"
         ],
@@ -15744,19 +15874,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f3cd56a1-3096-4d60-83ad-c8e6ec531384/GB_News_logo_light_-_Angela_Chan.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-66be955c8711311880995282.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "gb"
-      },
-      "65e17b53d581830d25124e21": {
-        "id": "64305451fc3be5947773c339-65e17b53d581830d25124e21",
-        "slug": "cbs-news-united-kingdom",
-        "gridKey": "65e17b53d581830d25124e21",
-        "name": "CBS News United Kingdom",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ebc60563-a74c-438d-b1a0-6c96cf07a8fa/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-65e17b53d581830d25124e21.m3u8",
         "genres": [
           "News"
         ],
@@ -18058,6 +18175,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/616ccdb3-bc16-4546-bfda-3102d114be5a/Go_Wild_Tilef0c5e75034912cf50d05c24ee0530aa8RDXFINAL.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6615360a8423b8d7e61a099b.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "gb"
+      },
+      "6a8767b6c0e9ea735da07fd9": {
+        "id": "64305451fc3be5947773c339-6a8767b6c0e9ea735da07fd9",
+        "slug": "paranormal-chronicles",
+        "gridKey": "6a8767b6c0e9ea735da07fd9",
+        "name": "Paranormal Chronicles",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5cb43bbc-77b3-45e2-abd1-60128aff6009/ParanormalChronicles_Logo_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a8767b6c0e9ea735da07fd9.m3u8",
         "genres": [
           "Explore"
         ],
@@ -21219,6 +21349,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-6578e7b5eef129f30fb38df7.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "au"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "697140a85d851f5e69414688-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -24710,19 +24853,6 @@
         ],
         "region": "nz"
       },
-      "6674bc83a9c715b93ca6ca92": {
-        "id": "5e20b730f2f8d5003d739db7-6674bc83a9c715b93ca6ca92",
-        "slug": "untold-stories-of-the-er",
-        "gridKey": "6674bc83a9c715b93ca6ca92",
-        "name": "Untold Stories of the ER",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6674bc83a9c715b93ca6ca92.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "nz"
-      },
       "66e8d7600a1c525933947792": {
         "id": "5e20b730f2f8d5003d739db7-66e8d7600a1c525933947792",
         "slug": "four-in-a-bed",
@@ -24809,6 +24939,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/efc30ac1-7d8b-4e2f-9db4-0d03b936ba1a/DuckDynasty-Channel-Logo-_Light_-1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ac3ea3e657bab5f7a9b7df.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "nz"
+      },
+      "6674bc83a9c715b93ca6ca92": {
+        "id": "5e20b730f2f8d5003d739db7-6674bc83a9c715b93ca6ca92",
+        "slug": "untold-stories-of-the-er",
+        "gridKey": "6674bc83a9c715b93ca6ca92",
+        "name": "Untold Stories of the ER",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6674bc83a9c715b93ca6ca92.m3u8",
         "genres": [
           "Reality"
         ],
@@ -25498,19 +25641,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "nz"
-      },
-      "65721f23b10e9d22a882bde0": {
-        "id": "5e20b730f2f8d5003d739db7-65721f23b10e9d22a882bde0",
-        "slug": "pbs-history",
-        "gridKey": "65721f23b10e9d22a882bde0",
-        "name": "PBS History",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/578b3975-094b-41e3-b20c-d41cb84afd30/PBS_History_Logo_Stacked_Dark_Backgrounds_1500x1000_-_Antonio_de_la_Torre__Tony_.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-65721f23b10e9d22a882bde0.m3u8",
         "genres": [
           "Explore"
         ],
@@ -28464,6 +28594,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/3e935eb3-3c68-41ee-8e2e-5b8c37a1fbf1/023_FAST-RM-latam_LOGO_1500x100-DARK-Plex.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-68dcb497250f81dfec9091d7.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "mx"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -32176,6 +32319,19 @@
         ],
         "region": "es"
       },
+      "6aa9bc040832270987394353": {
+        "id": "643054b1fc3be59477853717-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6aa9bc040832270987394353.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "es"
+      },
       "6578e7b5eef129f30fb38df7": {
         "id": "643054b1fc3be59477853717-6578e7b5eef129f30fb38df7",
         "slug": "operation-repo",
@@ -35610,6 +35766,19 @@
         ],
         "region": "fr"
       },
+      "6aa9bc040832270987394353": {
+        "id": "6430aa45fc3be5947780904e-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6aa9bc040832270987394353.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "fr"
+      },
       "692229df50fe592fd6d5b7e2": {
         "id": "6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2",
         "slug": "sony-one-or-favoris",
@@ -37692,6 +37861,32 @@
         ],
         "region": "de"
       },
+      "6aa9c3150832270987394359": {
+        "id": "635177ecff6cd5445d7f9b0b-6aa9c3150832270987394359",
+        "slug": "weihnachtskino",
+        "gridKey": "6aa9c3150832270987394359",
+        "name": "Weihnachtskino",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4703c100-a7b6-452e-b34a-3c92cb740c62/Channel_Logo_Weihnachtskino_White_Olivia_BeighRDX.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aa9c3150832270987394359.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "de"
+      },
+      "6aa9c1b00832270987394357": {
+        "id": "635177ecff6cd5445d7f9b0b-6aa9c1b00832270987394357",
+        "slug": "sparkle-movies",
+        "gridKey": "6aa9c1b00832270987394357",
+        "name": "Sparkle Movies",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4b340b29-a0d6-459c-8d99-4820e01f524f/Plex-SparkleMovies-German-Logo_Erik_MonsonWHT.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aa9c1b00832270987394357.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "de"
+      },
       "688d222aa6fe30698ab41f67": {
         "id": "635177ecff6cd5445d7f9b0b-688d222aa6fe30698ab41f67",
         "slug": "horror-comedy",
@@ -38805,6 +39000,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-6578e7b5eef129f30fb38df7.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "de"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "635177ecff6cd5445d7f9b0b-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -42049,6 +42257,19 @@
         ],
         "region": "br"
       },
+      "6aa9bc040832270987394353": {
+        "id": "646546f35db8ada4c8edd7e5-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6aa9bc040832270987394353.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "br"
+      },
       "63489bc190b96ef5e0eb327c": {
         "id": "646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c",
         "slug": "grjngo-filmes-de-faroeste",
@@ -45015,6 +45236,19 @@
         ],
         "region": "in"
       },
+      "6aa9bc040832270987394353": {
+        "id": "698f7631338300003d436270-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-6aa9bc040832270987394353.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "in"
+      },
       "63489a771159f6a5ce819b7b": {
         "id": "698f7631338300003d436270-63489a771159f6a5ce819b7b",
         "slug": "grjngo-western-movies",
@@ -47448,6 +47682,19 @@
         ],
         "region": "jp"
       },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "jp"
+      },
       "666e1820ce73ed6023b55a11": {
         "id": "5e20b730f2f8d5003d739db7-666e1820ce73ed6023b55a11",
         "slug": "ice-pilots-nwt",
@@ -49777,6 +50024,19 @@
         ],
         "region": "kr"
       },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "kr"
+      },
       "666e1820ce73ed6023b55a11": {
         "id": "5e20b730f2f8d5003d739db7-666e1820ce73ed6023b55a11",
         "slug": "ice-pilots-nwt",
@@ -51469,6 +51729,19 @@
         ],
         "region": "se"
       },
+      "6aa9bf6c0832270987394355": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355",
+        "slug": "sparkle-movies-light-and-love-3",
+        "gridKey": "6aa9bf6c0832270987394355",
+        "name": "Sparkle Movies - Light & Love",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f298b7ea-8fae-4b76-a6aa-5bd4b7b5eb25/SparkleMovies_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "se"
+      },
       "614e286b2bac097ffd6fd6ab": {
         "id": "5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab",
         "slug": "documentary",
@@ -52504,6 +52777,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9de17fb6-49cb-4824-8295-d05349523f45/Dance_Moms_Logo_STACKED_WHITE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ac436be657bab5f7a9b7e1.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "se"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -54643,6 +54929,19 @@
         ],
         "region": "nl"
       },
+      "6aa9bf6c0832270987394355": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355",
+        "slug": "sparkle-movies-light-and-love-3",
+        "gridKey": "6aa9bf6c0832270987394355",
+        "name": "Sparkle Movies - Light & Love",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f298b7ea-8fae-4b76-a6aa-5bd4b7b5eb25/SparkleMovies_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "nl"
+      },
       "6578eb63eef129f30fb38dfb": {
         "id": "5e20b730f2f8d5003d739db7-6578eb63eef129f30fb38dfb",
         "slug": "wedo-movies-5",
@@ -55535,6 +55834,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/68810591-ecb0-4c04-95cd-4241a8f06753/DuckDynasty-Channel-Logo-_Light_-1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ad86b24f342aa128c21aba.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "nl"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -57700,6 +58012,19 @@
         ],
         "region": "no"
       },
+      "6aa9bf6c0832270987394355": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355",
+        "slug": "sparkle-movies-light-and-love-3",
+        "gridKey": "6aa9bf6c0832270987394355",
+        "name": "Sparkle Movies - Light & Love",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f298b7ea-8fae-4b76-a6aa-5bd4b7b5eb25/SparkleMovies_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "no"
+      },
       "614e286b2bac097ffd6fd6ab": {
         "id": "5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab",
         "slug": "documentary",
@@ -58735,6 +59060,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9de17fb6-49cb-4824-8295-d05349523f45/Dance_Moms_Logo_STACKED_WHITE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ac436be657bab5f7a9b7e1.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "no"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -60926,6 +61264,19 @@
         ],
         "region": "fi"
       },
+      "6aa9bf6c0832270987394355": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355",
+        "slug": "sparkle-movies-light-and-love-3",
+        "gridKey": "6aa9bf6c0832270987394355",
+        "name": "Sparkle Movies - Light & Love",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f298b7ea-8fae-4b76-a6aa-5bd4b7b5eb25/SparkleMovies_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "fi"
+      },
       "614e286b2bac097ffd6fd6ab": {
         "id": "5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab",
         "slug": "documentary",
@@ -61974,6 +62325,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9de17fb6-49cb-4824-8295-d05349523f45/Dance_Moms_Logo_STACKED_WHITE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ac436be657bab5f7a9b7e1.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "fi"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -64126,6 +64490,19 @@
         ],
         "region": "dk"
       },
+      "6aa9bf6c0832270987394355": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355",
+        "slug": "sparkle-movies-light-and-love-3",
+        "gridKey": "6aa9bf6c0832270987394355",
+        "name": "Sparkle Movies - Light & Love",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f298b7ea-8fae-4b76-a6aa-5bd4b7b5eb25/SparkleMovies_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "dk"
+      },
       "614e286b2bac097ffd6fd6ab": {
         "id": "5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab",
         "slug": "documentary",
@@ -65161,6 +65538,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9de17fb6-49cb-4824-8295-d05349523f45/Dance_Moms_Logo_STACKED_WHITE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ac436be657bab5f7a9b7e1.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "dk"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -68257,6 +68647,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9de17fb6-49cb-4824-8295-d05349523f45/Dance_Moms_Logo_STACKED_WHITE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ac436be657bab5f7a9b7e1.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "is"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],

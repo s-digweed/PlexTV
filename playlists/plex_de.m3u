@@ -321,6 +321,8 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-61a945156547
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-60d4edd8b2fdec002c14112f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66bfb17c144c201b8b61c10d" tvg-id="66bfb17c144c201b8b61c10d" tvg-name="RCM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png" group-title="Movies",RCM
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-66bfb17c144c201b8b61c10d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6aa9bc040832270987394353" tvg-id="6aa9bc040832270987394353" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png" group-title="Reality",Real Emergency
+https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6aa9bc040832270987394353.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-61aa9f50784a2161d3caf7fb" tvg-id="61aa9f50784a2161d3caf7fb" tvg-name="Remember the ‘80s" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png" group-title="Music",Remember the ‘80s
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-61aa9f50784a2161d3caf7fb.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="Food, Home & Culture",Revry
@@ -349,6 +351,8 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6921277f5028
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6921287a50fe592fd6d5b7dc.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69212dfb5cbe620c1f9b6bb3" tvg-id="69212dfb5cbe620c1f9b6bb3" tvg-name="Sony One | Thriller TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7ef18d82-521b-47e4-854c-ed053974f217/DE_FAST_Plex_ThrillerTV_logo_dark.png" group-title="Bingeworthy",Sony One | Thriller TV
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-69212dfb5cbe620c1f9b6bb3.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6aa9c1b00832270987394357" tvg-id="6aa9c1b00832270987394357" tvg-name="Sparkle Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4b340b29-a0d6-459c-8d99-4820e01f524f/Plex-SparkleMovies-German-Logo_Erik_MonsonWHT.png" group-title="Movies",Sparkle Movies
+https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6aa9c1b00832270987394357.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6349ed0eb1adc4cfa571fd37" tvg-id="6349ed0eb1adc4cfa571fd37" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Food, Home & Culture",SPEEDVISION
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6349ed0eb1adc4cfa571fd37.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-654d1d8f2a4f3ba59c3ce2d4" tvg-id="654d1d8f2a4f3ba59c3ce2d4" tvg-name="SPIEGEL TV Konflikte" tvg-logo="https://provider-static.plex.tv/epg/cms/production/970ffa31-afcf-49f0-bbe0-3210318e0eae/SpiegelTV-Konflikte-Logo_Color.png" group-title="True Crime",SPIEGEL TV Konflikte
@@ -477,6 +481,8 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-642d66522476
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-64e6ed5627a915f9b5184e9c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-673d316c0d39ac306d6f2ced" tvg-id="673d316c0d39ac306d6f2ced" tvg-name="wedotv true stories" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f52f4a46-ca64-4fdd-b1bf-525ea0cddaf7/WEDOTV_TRUE_STORIES_STACKED_72PPIRDX_WHITE.png" group-title="Reality",wedotv true stories
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-673d316c0d39ac306d6f2ced.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6aa9c3150832270987394359" tvg-id="6aa9c3150832270987394359" tvg-name="Weihnachtskino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4703c100-a7b6-452e-b34a-3c92cb740c62/Channel_Logo_Weihnachtskino_White_Olivia_BeighRDX.png" group-title="Movies",Weihnachtskino
+https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6aa9c3150832270987394359.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60d4edddb2fdec002c141135" tvg-id="60d4edddb2fdec002c141135" tvg-name="WildEarth" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="Explore",WildEarth
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-60d4edddb2fdec002c141135.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-608a2c722957c9002c6a617b" tvg-id="608a2c722957c9002c6a617b" tvg-name="Wired2Fish" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" group-title="Sports",Wired2Fish
