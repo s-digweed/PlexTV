@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T18:48:03.284769+00:00",
+  "generated": "2026-09-24T20:58:19.009208+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -10040,6 +10040,19 @@
         ],
         "region": "ca"
       },
+      "668561babc1490a2f408f30c": {
+        "id": "647f8d22a2fc3fadb4721685-668561babc1490a2f408f30c",
+        "slug": "60-minutes",
+        "gridKey": "668561babc1490a2f408f30c",
+        "name": "60 Minutes",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/82812784b8473a95c27de471925a490c.png",
+        "callSign": "60MINS",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-668561babc1490a2f408f30c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "ca"
+      },
       "66be955c8711311880995282": {
         "id": "647f8d22a2fc3fadb4721685-66be955c8711311880995282",
         "slug": "gb-news",
@@ -12505,6 +12518,19 @@
         "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8c3aad2c9b28628409cee12512aecb32.png",
         "callSign": "GTVGO",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-64d2bdf1b18b113e0c610113.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "ca"
+      },
+      "6a3c23ef776737893b3d488f": {
+        "id": "647f8d22a2fc3fadb4721685-6a3c23ef776737893b3d488f",
+        "slug": "judge-judy",
+        "gridKey": "6a3c23ef776737893b3d488f",
+        "name": "Judge Judy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0c434858-9cab-4ba6-a5ff-9347b2f337d6/JUDGEJUDY_LIGHT-LOGO_wht.png",
+        "callSign": "JDGJUDY",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a3c23ef776737893b3d488f.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -15762,6 +15788,19 @@
         ],
         "region": "gb"
       },
+      "668561babc1490a2f408f30c": {
+        "id": "64305451fc3be5947773c339-668561babc1490a2f408f30c",
+        "slug": "60-minutes",
+        "gridKey": "668561babc1490a2f408f30c",
+        "name": "60 Minutes",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/82812784b8473a95c27de471925a490c.png",
+        "callSign": "60MINS",
+        "key": "/library/parts/64305451fc3be5947773c339-668561babc1490a2f408f30c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "gb"
+      },
       "5eea71d65252710041e0ccbc": {
         "id": "64305451fc3be5947773c339-5eea71d65252710041e0ccbc",
         "slug": "the-reuters-60",
@@ -17603,6 +17642,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6582a1316b91be4547aa153c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "gb"
+      },
+      "6a3c23ef776737893b3d488f": {
+        "id": "64305451fc3be5947773c339-6a3c23ef776737893b3d488f",
+        "slug": "judge-judy",
+        "gridKey": "6a3c23ef776737893b3d488f",
+        "name": "Judge Judy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0c434858-9cab-4ba6-a5ff-9347b2f337d6/JUDGEJUDY_LIGHT-LOGO_wht.png",
+        "callSign": "JDGJUDY",
+        "key": "/library/parts/64305451fc3be5947773c339-6a3c23ef776737893b3d488f.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
