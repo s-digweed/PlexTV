@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T23:22:26.518423+00:00",
+  "generated": "2026-09-24T02:19:43.664818+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -6666,19 +6666,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a74135d4-23d5-4486-befc-af04b17b733b/strawberryshortcakeSSC_plex_color_logo_-_Chelsea_BandiRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6615522e50e81fa51eb0df62.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "us"
-      },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "6a1610bebdf296985fd95603-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-627ec46a92d8e6a705784bd1.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -13745,19 +13732,6 @@
         ],
         "region": "ca"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "ca"
-      },
       "5f12332eeca6a20040b328e5": {
         "id": "647f8d22a2fc3fadb4721685-5f12332eeca6a20040b328e5",
         "slug": "skwad",
@@ -18908,19 +18882,6 @@
         ],
         "region": "gb"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "64305451fc3be5947773c339-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "gb"
-      },
       "69333216ac5b3f9f53442374": {
         "id": "64305451fc3be5947773c339-69333216ac5b3f9f53442374",
         "slug": "baby-einstein",
@@ -22823,19 +22784,6 @@
         ],
         "region": "au"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "697140a85d851f5e69414688-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "au"
-      },
       "5f91c4ea96a391002df9a664": {
         "id": "697140a85d851f5e69414688-5f91c4ea96a391002df9a664",
         "slug": "ryan-and-friends",
@@ -26465,19 +26413,6 @@
         ],
         "region": "nz"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "nz"
-      },
       "5eea605574085f0040ddc794": {
         "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794",
         "slug": "toon-goggles",
@@ -29725,19 +29660,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "mx"
-      },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -33510,19 +33432,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-621672612c2627c068e73ad6.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "es"
-      },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "643054b1fc3be59477853717-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-627ec46a92d8e6a705784bd1.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -40006,19 +39915,6 @@
         ],
         "region": "de"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "635177ecff6cd5445d7f9b0b-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "de"
-      },
       "63eecb32ac23d1ee072087cb": {
         "id": "635177ecff6cd5445d7f9b0b-63eecb32ac23d1ee072087cb",
         "slug": "123go",
@@ -43305,19 +43201,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-5eea605574085f0040ddc79a.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "br"
-      },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "646546f35db8ada4c8edd7e5-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-627ec46a92d8e6a705784bd1.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -56809,19 +56692,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/38d8759c-fb94-4154-ba4d-8450e99662cd/FilmRiseLogo_WigglesClassic_Color_Logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "nl"
-      },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1.m3u8",
         "genres": [
           "Kids & Family"
         ],

@@ -823,8 +823,6 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-61e805952502
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60aeb5cd87f9b1002ce12323.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69d93b7e8061ebfbca58c324" tvg-id="69d93b7e8061ebfbca58c324" tvg-name="Nikita" tvg-logo="https://provider-static.plex.tv/epg/cms/production/533feb9c-0442-43de-82c2-819ff405bb92/Nikita_Logo_WHT_1500x1000.png" group-title="Bingeworthy",Nikita
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d93b7e8061ebfbca58c324.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-627ec46a92d8e6a705784bd1" tvg-id="627ec46a92d8e6a705784bd1" tvg-name="Ninja Kidz TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png" group-title="Kids & Family",Ninja Kidz TV
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-627ec46a92d8e6a705784bd1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66b13485a9ef8c41ec0841ac" tvg-id="66b13485a9ef8c41ec0841ac" tvg-name="Nip/Tuck" tvg-logo="https://provider-static.plex.tv/epg/cms/production/455dc800-e86d-422a-9698-2bb2723ad08d/NipTuck_plex_dark_1500x1000.png" group-title="Bingeworthy",Nip/Tuck
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66b13485a9ef8c41ec0841ac.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66b141e2a9ef8c41ec0841b2" tvg-id="66b141e2a9ef8c41ec0841b2" tvg-name="No Reservations" tvg-logo="https://provider-static.plex.tv/epg/cms/production/71ad0c57-33d2-4085-a852-c76966ccab43/NoReservations_Logo_Dark_1500x1000.png" group-title="Food, Home & Culture",No Reservations
