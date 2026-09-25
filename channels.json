@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T19:06:03.711245+00:00",
+  "generated": "2026-09-25T20:54:20.872482+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -15348,10 +15348,10 @@
       },
       "6648d6f0a16b3a50177f4dc0": {
         "id": "64305451fc3be5947773c339-6648d6f0a16b3a50177f4dc0",
-        "slug": "great-romance",
+        "slug": "great-christmas",
         "gridKey": "6648d6f0a16b3a50177f4dc0",
-        "name": "GREAT! romance",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/34f15526-0e8a-4d84-aef9-5b1714bbd3ee/Plex_For_Dark_BG_1500x1000_GREAT_RomanceRDX.png",
+        "name": "GREAT! Christmas",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c97af2ba-a804-4761-a65a-064d3fb912e7/Plex_For_Dark_BG_1500x1000_GREAT_christmas__1__-_Nick_FoundoukisWHT_TEXT_W_GREENRDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6648d6f0a16b3a50177f4dc0.m3u8",
         "genres": [
