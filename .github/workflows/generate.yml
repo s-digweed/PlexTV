@@ -53,6 +53,45 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Verify Plex token
+        env:
+          PLEX_TOKEN: ${{ secrets.PLEX_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os, sys, requests
+
+          token = os.environ.get("PLEX_TOKEN", "").strip()
+          if not token:
+              print("::error title=Plex token::PLEX_TOKEN secret is empty or unset.")
+              sys.exit(1)
+
+          try:
+              r = requests.get(
+                  "https://plex.tv/api/v2/user",
+                  headers={
+                      "Accept": "application/json",
+                      "X-Plex-Token": token,
+                      "X-Plex-Client-Identifier": "plextv-actions-healthcheck",
+                  },
+                  timeout=30,
+              )
+          except Exception as e:
+              print(f"::error title=Plex token::Health-check request failed: {e}")
+              sys.exit(1)
+
+          if r.status_code == 200:
+              print("Plex token OK — authenticated.")
+          elif r.status_code in (401, 403):
+              print(f"::error title=Plex token DEAD::HTTP {r.status_code} — "
+                    "token rejected. Every stream URL is dead until you rotate "
+                    "PLEX_TOKEN (re-run PIN auth and update the repo secret). "
+                    "Regeneration skipped to protect the last-good playlists.")
+              sys.exit(1)
+          else:
+              print(f"::warning title=Plex token::Unexpected HTTP {r.status_code} "
+                    "from health check — continuing, but keep an eye on output.")
+          PY
+
       - name: Build command
         id: cmd
         run: |
