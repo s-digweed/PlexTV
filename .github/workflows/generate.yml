@@ -2,9 +2,9 @@ name: Generate Plex Playlists
 
 on:
   schedule:
-    - cron: "0 3 * * *"
-    - cron: "0 15 * * *"
-    - cron: "0 0,6,9,12,18,21 * * *"
+    - cron: "17 3 * * *"
+    - cron: "17 15 * * *"
+    - cron: "17 0,6,9,12,18,21 * * *"
 
   workflow_dispatch:
     inputs:
@@ -71,8 +71,8 @@ jobs:
 
           if [ "${{ github.event_name }}" = "schedule" ]; then
             CMD="$CMD --refresh-channels"
-            HOUR=$(date -u +%H)
-            if [ "$HOUR" != "03" ] && [ "$HOUR" != "15" ]; then
+            SCHED="${{ github.event.schedule }}"
+            if [ "$SCHED" != "17 3 * * *" ] && [ "$SCHED" != "17 15 * * *" ]; then
               CMD="$CMD --no-epg"
               NO_EPG_RUN="true"
             fi
