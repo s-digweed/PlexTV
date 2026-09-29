@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T23:19:04.709673+00:00",
+  "generated": "2026-09-29T05:46:04.991717+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -504,32 +504,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f4b4443f-36c5-4bc2-b361-01358026113a/GrahamNorton_Logo_Colour_1500X1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-68dcbb869beaa3a402966dba.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "us"
-      },
-      "62316e8eb9d292cb4ad7499f": {
-        "id": "6a1610bebdf296985fd95603-62316e8eb9d292cb4ad7499f",
-        "slug": "western-bound",
-        "gridKey": "62316e8eb9d292cb4ad7499f",
-        "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b89e1bed-7f63-46b3-9be4-b72bcf76839a/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-62316e8eb9d292cb4ad7499f.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "us"
-      },
-      "6995ed8173f56d61dc078f0d": {
-        "id": "6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d",
-        "slug": "circle-country",
-        "gridKey": "6995ed8173f56d61dc078f0d",
-        "name": "Circle Country",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -3343,6 +3317,19 @@
         ],
         "region": "us"
       },
+      "62316e8eb9d292cb4ad7499f": {
+        "id": "6a1610bebdf296985fd95603-62316e8eb9d292cb4ad7499f",
+        "slug": "western-bound",
+        "gridKey": "62316e8eb9d292cb4ad7499f",
+        "name": "Western Bound",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b89e1bed-7f63-46b3-9be4-b72bcf76839a/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-62316e8eb9d292cb4ad7499f.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "us"
+      },
       "62b45f15b4508e0eedacdf25": {
         "id": "6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf25",
         "slug": "grit-xtra",
@@ -3377,6 +3364,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-689fb2c329e3c9f1368c04a3.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "us"
+      },
+      "6995ed8173f56d61dc078f0d": {
+        "id": "6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d",
+        "slug": "circle-country",
+        "gridKey": "6995ed8173f56d61dc078f0d",
+        "name": "Circle Country",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d.m3u8",
         "genres": [
           "Classics"
         ],
@@ -9377,19 +9377,6 @@
         ],
         "region": "ca"
       },
-      "6995ed8173f56d61dc078f0d": {
-        "id": "647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d",
-        "slug": "circle-country",
-        "gridKey": "6995ed8173f56d61dc078f0d",
-        "name": "Circle Country",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "ca"
-      },
       "67f592e6c97eb27725c8855f": {
         "id": "647f8d22a2fc3fadb4721685-67f592e6c97eb27725c8855f",
         "slug": "mi-5",
@@ -11387,6 +11374,19 @@
         "logo": "https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png",
         "callSign": "LS",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6196c9241d310bf925e02616.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "ca"
+      },
+      "6995ed8173f56d61dc078f0d": {
+        "id": "647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d",
+        "slug": "circle-country",
+        "gridKey": "6995ed8173f56d61dc078f0d",
+        "name": "Circle Country",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d.m3u8",
         "genres": [
           "Classics"
         ],
@@ -14135,19 +14135,6 @@
         ],
         "region": "ca"
       },
-      "60d4eddab2fdec002c141131": {
-        "id": "647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131",
-        "slug": "new-k-movies",
-        "gridKey": "60d4eddab2fdec002c141131",
-        "name": "NEW K.MOVIES",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/104dadc6-2e18-4bb5-a606-4b32db242f57/newkmovies_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "ca"
-      },
       "6a023b768c3c8db908ecaee4": {
         "id": "647f8d22a2fc3fadb4721685-6a023b768c3c8db908ecaee4",
         "slug": "feva-tv",
@@ -14156,6 +14143,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/5c73b746-ef57-4c46-9c93-f5a2f25e03d8/1500_x_1000_PNG_w_transparent_background_-_Johnny_MilesCOLOR_WHIT_TEXT.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6a023b768c3c8db908ecaee4.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "ca"
+      },
+      "60d4eddab2fdec002c141131": {
+        "id": "647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131",
+        "slug": "new-k-movies",
+        "gridKey": "60d4eddab2fdec002c141131",
+        "name": "NEW K.MOVIES",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/104dadc6-2e18-4bb5-a606-4b32db242f57/newkmovies_logo_dark_v2.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131.m3u8",
         "genres": [
           "Global"
         ],
