@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T12:37:02.220127+00:00",
+  "generated": "2026-09-30T20:08:25.158299+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -5454,8 +5454,8 @@
         "slug": "curiosity-now-5",
         "gridKey": "64831c8be3541c909e96d240",
         "name": "Curiosity NOW",
-        "logo": "https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9cd5ae861f257ae45332af9b63addf18.png",
-        "callSign": "CURINOW",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/3f49ac8c-984f-4b35-ad8a-58a8c0ecfc7a/Curiosity_white_w_yellow9cd5ae861f257ae45332af9b63addf18RDX.png",
+        "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-64831c8be3541c909e96d240.m3u8",
         "genres": [
           "Explore"
