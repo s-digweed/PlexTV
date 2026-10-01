@@ -71,8 +71,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f0ca427b78
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68e03f572cbc7a5d3189394c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f07e9fdf313eb0041bbecda" tvg-id="5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Food, Home & Culture",Cooking Panda
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-626c1753ffda6789d20a452e" tvg-id="626c1753ffda6789d20a452e" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png" group-title="Bingeworthy",COPS
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ab18d62e796962782687698" tvg-id="6ab18d62e796962782687698" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eecf14fb-ad74-4006-8679-1d4e1369b96d/Cops_channel_logo_white_1500x1000RDX.png" group-title="Bingeworthy",COPS
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ab18d62e796962782687698.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a8cc101fc51826f5301a160" tvg-id="6a8cc101fc51826f5301a160" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",COPS Reloaded
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Food, Home & Culture",CraftsyTV
@@ -83,8 +83,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67884bd6d37f
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a2ebe88e11aec3ec320bece" tvg-id="6a2ebe88e11aec3ec320bece" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23d1a684-a08b-42d5-9e43-abef1754d56a/Crime_360_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",Crime 360
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a2ebe88e11aec3ec320bece.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-68c98e7460586565cc56baab" tvg-id="68c98e7460586565cc56baab" tvg-name="Crime Beat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png" group-title="Classics",Crime Beat TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69ac436be657bab5f7a9b7e1" tvg-id="69ac436be657bab5f7a9b7e1" tvg-name="Dance Moms" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9de17fb6-49cb-4824-8295-d05349523f45/Dance_Moms_Logo_STACKED_WHITE_RDX.png" group-title="Reality",Dance Moms
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69ac436be657bab5f7a9b7e1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6674b68af04cf4bb9233c916" tvg-id="6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" group-title="Classics",Death Valley Days
@@ -211,8 +209,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69ada0314ea8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-685f135fa7111a932d28f1a8" tvg-id="685f135fa7111a932d28f1a8" tvg-name="Jade Fever" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5551c223-3703-48c2-baa0-801c5b096119/jade_feverchannel_logo_1500x1000_light.png.png" group-title="Reality",Jade Fever
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-685f135fa7111a932d28f1a8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-6448ba1baf92c31f4a190c27" tvg-id="6448ba1baf92c31f4a190c27" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" group-title="True Crime",JAIL
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ab403c65364aa2377195435" tvg-id="6ab403c65364aa2377195435" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e617f9af-7e0d-417c-b9b7-676ff6bc3b2f/Jail_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",JAIL
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ab403c65364aa2377195435.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60d4edd6b2fdec002c141123" tvg-id="60d4edd6b2fdec002c141123" tvg-name="Johnny Carson TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png" group-title="Classics",Johnny Carson TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60a9d105d162b9002d05a60c" tvg-id="60a9d105d162b9002d05a60c" tvg-name="Journy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png" group-title="Explore",Journy

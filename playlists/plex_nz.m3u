@@ -79,8 +79,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f0ca427b78
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68e03f572cbc7a5d3189394c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f07e9fdf313eb0041bbecda" tvg-id="5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Food, Home & Culture",Cooking Panda
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-626c1753ffda6789d20a452e" tvg-id="626c1753ffda6789d20a452e" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png" group-title="Bingeworthy",COPS
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ab18f57e79696278268769e" tvg-id="6ab18f57e79696278268769e" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/27c5a930-0fc5-4b74-9242-483beacb64c0/Cops_channel_logo_white_1500x1000RDX.png" group-title="Bingeworthy",COPS
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ab18f57e79696278268769e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a8cc101fc51826f5301a160" tvg-id="6a8cc101fc51826f5301a160" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",COPS Reloaded
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66ce3cf459062698a13c39df" tvg-id="66ce3cf459062698a13c39df" tvg-name="Corner Gas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e6696e27-0079-499b-b4c9-b31300a4b511/FilmRise_CornerGas_Logo_FullColor.png" group-title="Comedy",Corner Gas
@@ -93,8 +93,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67884bd6d37f
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a2ebde0768abcd6b78052a9" tvg-id="6a2ebde0768abcd6b78052a9" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f122ac7-1676-49eb-b430-920917e680df/Crime_360_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",Crime 360
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a2ebde0768abcd6b78052a9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-68c98e7460586565cc56baab" tvg-id="68c98e7460586565cc56baab" tvg-name="Crime Beat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png" group-title="Classics",Crime Beat TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6615360a8423b8d7e61a099c" tvg-id="6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15c628ca-8ef6-4074-873c-8f491ed51f55/crime_scene_tv_white.png" group-title="True Crime",Crime Scene TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66855a2a714fe577eb7db920" tvg-id="66855a2a714fe577eb7db920" tvg-name="Deal Or No Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15f53c2f-081e-47a5-aa7d-5bcabc7ee8bd/DOND_Logo_Light_1500x1000_-_Harry_Marshall__1___1_.png" group-title="Daytime TV & Games",Deal Or No Deal
@@ -247,8 +245,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6707cfa5da81
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-666e1a2bce73ed6023b55a13" tvg-id="666e1a2bce73ed6023b55a13" tvg-name="Jade Fever" tvg-logo="https://provider-static.plex.tv/epg/cms/production/abef57ed-8084-4da0-bf57-cf52edf919f7/channel_logo_1500x1000_light.png.png" group-title="Reality",Jade Fever
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-666e1a2bce73ed6023b55a13.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-6448ba1baf92c31f4a190c27" tvg-id="6448ba1baf92c31f4a190c27" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" group-title="True Crime",JAIL
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ab404b15364aa2377195439" tvg-id="6ab404b15364aa2377195439" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/815b495f-3237-45e5-bf52-f427b53c8c52/Jail_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",JAIL
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ab404b15364aa2377195439.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60d4edd6b2fdec002c141123" tvg-id="60d4edd6b2fdec002c141123" tvg-name="Johnny Carson TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png" group-title="Classics",Johnny Carson TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60a9d105d162b9002d05a60c" tvg-id="60a9d105d162b9002d05a60c" tvg-name="Journy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png" group-title="Explore",Journy
