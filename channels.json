@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T22:18:14.707434+00:00",
+  "generated": "2026-10-01T05:56:31.378192+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -693,10 +693,10 @@
       },
       "634700569d64afa6830d1521": {
         "id": "6a1610bebdf296985fd95603-634700569d64afa6830d1521",
-        "slug": "christmas-plus",
+        "slug": "halloween-plus",
         "gridKey": "634700569d64afa6830d1521",
-        "name": "Christmas Plus",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8e9a9c73-613c-47d4-8400-184fda888fbd/Christmas_PLus_WHITE-_1500x1000rdx.png",
+        "name": "Halloween Plus",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53e30e47-98a7-4f53-9a2b-3bee3ca37e09/Halloween_plusLogo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-634700569d64afa6830d1521.m3u8",
         "genres": [
