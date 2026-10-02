@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T12:37:57.675108+00:00",
+  "generated": "2026-10-02T20:00:13.824693+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -8010,6 +8010,19 @@
         ],
         "region": "us"
       },
+      "611152a48f945c002c40021a": {
+        "id": "6a1610bebdf296985fd95603-611152a48f945c002c40021a",
+        "slug": "mhz-mysteries",
+        "gridKey": "611152a48f945c002c40021a",
+        "name": "MHz Mysteries",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1b8e6920-bf10-428e-b603-b2c7b2595857/Plex_MHzMysteries_Logo_White_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-611152a48f945c002c40021a.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "us"
+      },
       "63dea56a2a2abb171ff6dadf": {
         "id": "6a1610bebdf296985fd95603-63dea56a2a2abb171ff6dadf",
         "slug": "anime-x-hidive-2",
@@ -8018,6 +8031,19 @@
         "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png",
         "callSign": "ANIMEH",
         "key": "/library/parts/6a1610bebdf296985fd95603-63dea56a2a2abb171ff6dadf.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "us"
+      },
+      "65d90ec99c7a6da8c3ce57eb": {
+        "id": "6a1610bebdf296985fd95603-65d90ec99c7a6da8c3ce57eb",
+        "slug": "movieitaly-channel",
+        "gridKey": "65d90ec99c7a6da8c3ce57eb",
+        "name": "Movieitaly Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-65d90ec99c7a6da8c3ce57eb.m3u8",
         "genres": [
           "Global"
         ],
@@ -8036,19 +8062,6 @@
         ],
         "region": "us"
       },
-      "611152a48f945c002c40021a": {
-        "id": "6a1610bebdf296985fd95603-611152a48f945c002c40021a",
-        "slug": "mhz-mysteries",
-        "gridKey": "611152a48f945c002c40021a",
-        "name": "MHz Mysteries",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1b8e6920-bf10-428e-b603-b2c7b2595857/Plex_MHzMysteries_Logo_White_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-611152a48f945c002c40021a.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "us"
-      },
       "60d4edd8b2fdec002c14112f": {
         "id": "6a1610bebdf296985fd95603-60d4edd8b2fdec002c14112f",
         "slug": "rakuten-viki",
@@ -8057,19 +8070,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-60d4edd8b2fdec002c14112f.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "us"
-      },
-      "65d90ec99c7a6da8c3ce57eb": {
-        "id": "6a1610bebdf296985fd95603-65d90ec99c7a6da8c3ce57eb",
-        "slug": "movieitaly-channel",
-        "gridKey": "65d90ec99c7a6da8c3ce57eb",
-        "name": "Movieitaly Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-65d90ec99c7a6da8c3ce57eb.m3u8",
         "genres": [
           "Global"
         ],
