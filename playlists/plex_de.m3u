@@ -77,8 +77,6 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-685f158e6c22
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-654bc54830d2712ab098fc9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6674b68af04cf4bb9233c916" tvg-id="6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" group-title="Classics",Death Valley Days
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6674b68af04cf4bb9233c916.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-688d2376324d7b6bc1161bef" tvg-id="688d2376324d7b6bc1161bef" tvg-name="Deutsche Filme" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4b70ef8c-7870-4fa5-8d06-c9a0903ebea6/deutschefilme_channellogo_col_whiteeRDX.png" group-title="Movies",Deutsche Filme
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-688d2376324d7b6bc1161bef.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6449369eb3ff17382cae5801" tvg-id="6449369eb3ff17382cae5801" tvg-name="Dick Van Dyke" tvg-logo="https://provider-static.plex.tv/epg/cms/production/03fe73df-6585-49b7-bdd5-5ea605c4086f/FilmRise_DickVanDykeShow_Logo_Color.png" group-title="Classics",Dick Van Dyke
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6449369eb3ff17382cae5801.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-614e286b2bac097ffd6fd6ab" tvg-id="614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png" group-title="Movies",Documentary+
