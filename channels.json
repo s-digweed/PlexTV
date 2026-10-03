@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T22:16:37.848274+00:00",
+  "generated": "2026-10-03T05:20:36.068321+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -3183,8 +3183,7 @@
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66428faa5116d565e63ae32a.m3u8",
         "genres": [
-          "Reality",
-          "Classics"
+          "Reality"
         ],
         "region": "us"
       },
@@ -10501,8 +10500,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -51839,8 +51838,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
