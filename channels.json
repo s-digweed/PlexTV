@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T13:25:34.003747+00:00",
+  "generated": "2026-10-07T20:41:58.338940+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -7355,19 +7355,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/b8a22bfa-9e21-41cc-a789-84a2f8924af8/LOGO_WAPA__Color_Dark_24MAY_marketing_HMTVRDX_COLOR.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66e0d0c4f70549a9bc1eceb0.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
-      "6477b95b7ba9c0d593859bfc": {
-        "id": "6a1610bebdf296985fd95603-6477b95b7ba9c0d593859bfc",
-        "slug": "cops-en-espanol",
-        "gridKey": "6477b95b7ba9c0d593859bfc",
-        "name": "Cops en Español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6477b95b7ba9c0d593859bfc.m3u8",
         "genres": [
           "En Español"
         ],
@@ -24294,6 +24281,19 @@
         ],
         "region": "nz"
       },
+      "69011e71d320237a5a2d9f63": {
+        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
+        "slug": "inter-24-7",
+        "gridKey": "69011e71d320237a5a2d9f63",
+        "name": "INTER 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nz"
+      },
       "6615885e1eabecf2c9d56495": {
         "id": "5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
         "slug": "monster-jam",
@@ -24471,19 +24471,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nz"
-      },
-      "69011e71d320237a5a2d9f63": {
-        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
-        "slug": "inter-24-7",
-        "gridKey": "69011e71d320237a5a2d9f63",
-        "name": "INTER 24/7",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
         "genres": [
           "Sports"
         ],
@@ -30068,19 +30055,6 @@
         ],
         "region": "mx"
       },
-      "6477b95b7ba9c0d593859bfc": {
-        "id": "608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc",
-        "slug": "cops-en-espanol",
-        "gridKey": "6477b95b7ba9c0d593859bfc",
-        "name": "Cops en Español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "mx"
-      },
       "666e192cd91d13cb4c8cbb6b": {
         "id": "608049aefa2b8ae93c2c3a63-666e192cd91d13cb4c8cbb6b",
         "slug": "ice-pilots-nwt-en-espanol",
@@ -33408,19 +33382,6 @@
         "key": "/library/parts/643054b1fc3be59477853717-69333216ac5b3f9f53442374.m3u8",
         "genres": [
           "Kids & Family"
-        ],
-        "region": "es"
-      },
-      "6477b95b7ba9c0d593859bfc": {
-        "id": "643054b1fc3be59477853717-6477b95b7ba9c0d593859bfc",
-        "slug": "cops-en-espanol",
-        "gridKey": "6477b95b7ba9c0d593859bfc",
-        "name": "Cops en Español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-6477b95b7ba9c0d593859bfc.m3u8",
-        "genres": [
-          "En Español"
         ],
         "region": "es"
       },
@@ -43466,19 +43427,6 @@
         ],
         "region": "br"
       },
-      "6477b95b7ba9c0d593859bfc": {
-        "id": "646546f35db8ada4c8edd7e5-6477b95b7ba9c0d593859bfc",
-        "slug": "cops-en-espanol",
-        "gridKey": "6477b95b7ba9c0d593859bfc",
-        "name": "Cops en Español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-6477b95b7ba9c0d593859bfc.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "br"
-      },
       "685f195f6c220c4e9e333a04": {
         "id": "646546f35db8ada4c8edd7e5-685f195f6c220c4e9e333a04",
         "slug": "todo-drama",
@@ -46850,6 +46798,19 @@
         ],
         "region": "jp"
       },
+      "69011e71d320237a5a2d9f63": {
+        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
+        "slug": "inter-24-7",
+        "gridKey": "69011e71d320237a5a2d9f63",
+        "name": "INTER 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "jp"
+      },
       "6615885e1eabecf2c9d56495": {
         "id": "5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
         "slug": "monster-jam",
@@ -47014,19 +46975,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "jp"
-      },
-      "69011e71d320237a5a2d9f63": {
-        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
-        "slug": "inter-24-7",
-        "gridKey": "69011e71d320237a5a2d9f63",
-        "name": "INTER 24/7",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
         "genres": [
           "Sports"
         ],
@@ -51690,6 +51638,19 @@
         ],
         "region": "se"
       },
+      "69011e71d320237a5a2d9f63": {
+        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
+        "slug": "inter-24-7",
+        "gridKey": "69011e71d320237a5a2d9f63",
+        "name": "INTER 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "se"
+      },
       "6615885e1eabecf2c9d56495": {
         "id": "5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
         "slug": "monster-jam",
@@ -51854,19 +51815,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
-      "69011e71d320237a5a2d9f63": {
-        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
-        "slug": "inter-24-7",
-        "gridKey": "69011e71d320237a5a2d9f63",
-        "name": "INTER 24/7",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
         "genres": [
           "Sports"
         ],
@@ -54812,6 +54760,19 @@
         ],
         "region": "nl"
       },
+      "69011e71d320237a5a2d9f63": {
+        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
+        "slug": "inter-24-7",
+        "gridKey": "69011e71d320237a5a2d9f63",
+        "name": "INTER 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nl"
+      },
       "6615885e1eabecf2c9d56495": {
         "id": "5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
         "slug": "monster-jam",
@@ -54976,19 +54937,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
-      "69011e71d320237a5a2d9f63": {
-        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
-        "slug": "inter-24-7",
-        "gridKey": "69011e71d320237a5a2d9f63",
-        "name": "INTER 24/7",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
         "genres": [
           "Sports"
         ],
@@ -57895,6 +57843,19 @@
         ],
         "region": "no"
       },
+      "69011e71d320237a5a2d9f63": {
+        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
+        "slug": "inter-24-7",
+        "gridKey": "69011e71d320237a5a2d9f63",
+        "name": "INTER 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "no"
+      },
       "6615885e1eabecf2c9d56495": {
         "id": "5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
         "slug": "monster-jam",
@@ -58059,19 +58020,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "no"
-      },
-      "69011e71d320237a5a2d9f63": {
-        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
-        "slug": "inter-24-7",
-        "gridKey": "69011e71d320237a5a2d9f63",
-        "name": "INTER 24/7",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
         "genres": [
           "Sports"
         ],
@@ -61121,6 +61069,19 @@
         ],
         "region": "fi"
       },
+      "69011e71d320237a5a2d9f63": {
+        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
+        "slug": "inter-24-7",
+        "gridKey": "69011e71d320237a5a2d9f63",
+        "name": "INTER 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "fi"
+      },
       "6615885e1eabecf2c9d56495": {
         "id": "5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
         "slug": "monster-jam",
@@ -61285,19 +61246,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "fi"
-      },
-      "69011e71d320237a5a2d9f63": {
-        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
-        "slug": "inter-24-7",
-        "gridKey": "69011e71d320237a5a2d9f63",
-        "name": "INTER 24/7",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
         "genres": [
           "Sports"
         ],
@@ -64295,6 +64243,19 @@
         ],
         "region": "dk"
       },
+      "69011e71d320237a5a2d9f63": {
+        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
+        "slug": "inter-24-7",
+        "gridKey": "69011e71d320237a5a2d9f63",
+        "name": "INTER 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "dk"
+      },
       "6615885e1eabecf2c9d56495": {
         "id": "5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
         "slug": "monster-jam",
@@ -64459,19 +64420,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "dk"
-      },
-      "69011e71d320237a5a2d9f63": {
-        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
-        "slug": "inter-24-7",
-        "gridKey": "69011e71d320237a5a2d9f63",
-        "name": "INTER 24/7",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
         "genres": [
           "Sports"
         ],
@@ -67378,6 +67326,19 @@
         ],
         "region": "is"
       },
+      "69011e71d320237a5a2d9f63": {
+        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
+        "slug": "inter-24-7",
+        "gridKey": "69011e71d320237a5a2d9f63",
+        "name": "INTER 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "is"
+      },
       "6615885e1eabecf2c9d56495": {
         "id": "5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
         "slug": "monster-jam",
@@ -67542,19 +67503,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "is"
-      },
-      "69011e71d320237a5a2d9f63": {
-        "id": "5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63",
-        "slug": "inter-24-7",
-        "gridKey": "69011e71d320237a5a2d9f63",
-        "name": "INTER 24/7",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
         "genres": [
           "Sports"
         ],
