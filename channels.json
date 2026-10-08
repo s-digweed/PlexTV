@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T13:32:12.986954+00:00",
+  "generated": "2026-10-08T20:44:50.180947+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -6400,10 +6400,10 @@
       },
       "66a1ac4877649467da169f0a": {
         "id": "6a1610bebdf296985fd95603-66a1ac4877649467da169f0a",
-        "slug": "unique-lives",
+        "slug": "strangely-addicting",
         "gridKey": "66a1ac4877649467da169f0a",
-        "name": "Unique Lives",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9a360c4b-d9ae-4f45-88fd-7eb2606f201d/UniqueLives_Logo_Dark_1500x1000.png",
+        "name": "Strangely Addicting",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/230b4df3-e2d8-4995-9377-215649023e8e/StrangelyAddicting_Logo_Dark_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66a1ac4877649467da169f0a.m3u8",
         "genres": [
