@@ -359,6 +359,8 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-67a1a8ef2358
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-60db63d29ec966002c9ea6f0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-650b5ea1b2413c46bf584d84" tvg-id="650b5ea1b2413c46bf584d84" tvg-name="MagellanTV Wildest" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d88193dd-489e-4dc8-8c54-04e154435ad3/Plex_MGTVWildest_Logo_DarkBackground_.png" group-title="Explore",MagellanTV Wildest
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-650b5ea1b2413c46bf584d84.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6aa9c4a3083227098739435b" tvg-id="6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png" group-title="Sports",Man City 24/7
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6aa9c4a3083227098739435b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69a529f77c245b3390e8a4de" tvg-id="69a529f77c245b3390e8a4de" tvg-name="Masha and the Bear" tvg-logo="https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png" group-title="Kids & Family",Masha and the Bear
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-69a529f77c245b3390e8a4de.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5ef4e1b40d9ad000423c4430" tvg-id="5ef4e1b40d9ad000423c4430" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Movies",Maverick Black Cinema

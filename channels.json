@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T13:19:11.840361+00:00",
+  "generated": "2026-10-09T20:10:35.965296+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -2459,6 +2459,19 @@
         ],
         "region": "us"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "6a1610bebdf296985fd95603-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "us"
+      },
       "60a53634126de9002e694bc4": {
         "id": "6a1610bebdf296985fd95603-60a53634126de9002e694bc4",
         "slug": "bein-sports-xtra",
@@ -2584,6 +2597,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6a9512a7f534d4312a699c22.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "us"
+      },
+      "6ac0228963b12fad10f73787": {
+        "id": "6a1610bebdf296985fd95603-6ac0228963b12fad10f73787",
+        "slug": "team-usa-tv",
+        "gridKey": "6ac0228963b12fad10f73787",
+        "name": "Team USA TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b67e21fd-6006-4a12-8c41-bf8c4de2a676/TeamUSA_DarkBKG.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ac0228963b12fad10f73787.m3u8",
         "genres": [
           "Sports"
         ],
@@ -10404,6 +10430,19 @@
         ],
         "region": "ca"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "647f8d22a2fc3fadb4721685-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "ca"
+      },
       "6227c215c9f485cc7afe8c41": {
         "id": "647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
@@ -16126,6 +16165,19 @@
         ],
         "region": "gb"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "64305451fc3be5947773c339-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "gb"
+      },
       "65e0c8c6d899afe817b9d224": {
         "id": "64305451fc3be5947773c339-65e0c8c6d899afe817b9d224",
         "slug": "cricket-gold",
@@ -20743,6 +20795,19 @@
         ],
         "region": "au"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "697140a85d851f5e69414688-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "au"
+      },
       "6227c215c9f485cc7afe8c41": {
         "id": "697140a85d851f5e69414688-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
@@ -21076,6 +21141,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/e20d8d73-7b59-4175-84de-69c6337551ea/Bring_It_channel_logo_4c_1500x1000PNKRDX.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-6a160ac72476ab8600b1841e.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "au"
+      },
+      "6abd547da9d133322be5f945": {
+        "id": "697140a85d851f5e69414688-6abd547da9d133322be5f945",
+        "slug": "forged-in-fire",
+        "gridKey": "6abd547da9d133322be5f945",
+        "name": "Forged in Fire",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/57c2c4f5-ec9d-4673-936c-a16ed80fa6d3/Forged_In_Fire_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6abd547da9d133322be5f945.m3u8",
         "genres": [
           "Reality"
         ],
@@ -24289,6 +24367,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nz"
+      },
+      "6aa9c4a3083227098739435b": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -28118,6 +28209,19 @@
         ],
         "region": "mx"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "608049aefa2b8ae93c2c3a63-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "mx"
+      },
       "6227c215c9f485cc7afe8c41": {
         "id": "608049aefa2b8ae93c2c3a63-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
@@ -31838,6 +31942,19 @@
         ],
         "region": "es"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "643054b1fc3be59477853717-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "es"
+      },
       "6227c215c9f485cc7afe8c41": {
         "id": "643054b1fc3be59477853717-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
@@ -35285,6 +35402,19 @@
         ],
         "region": "fr"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "6430aa45fc3be5947780904e-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "fr"
+      },
       "6227c215c9f485cc7afe8c41": {
         "id": "6430aa45fc3be5947780904e-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
@@ -38311,6 +38441,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-608a2c722957c9002c6a617b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "de"
+      },
+      "6aa9c4a3083227098739435b": {
+        "id": "635177ecff6cd5445d7f9b0b-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aa9c4a3083227098739435b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -41529,6 +41672,19 @@
         ],
         "region": "br"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "646546f35db8ada4c8edd7e5-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "br"
+      },
       "6227c215c9f485cc7afe8c41": {
         "id": "646546f35db8ada4c8edd7e5-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
@@ -44534,6 +44690,19 @@
         ],
         "region": "in"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "698f7631338300003d436270-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "in"
+      },
       "62280162c9f485cc7afe8c46": {
         "id": "698f7631338300003d436270-62280162c9f485cc7afe8c46",
         "slug": "powder-tv",
@@ -46806,6 +46975,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "jp"
+      },
+      "6aa9c4a3083227098739435b": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -49096,6 +49278,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "kr"
+      },
+      "6aa9c4a3083227098739435b": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -51646,6 +51841,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "se"
+      },
+      "6aa9c4a3083227098739435b": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -54773,6 +54981,19 @@
         ],
         "region": "nl"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nl"
+      },
       "6615885e1eabecf2c9d56495": {
         "id": "5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
         "slug": "monster-jam",
@@ -57851,6 +58072,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "no"
+      },
+      "6aa9c4a3083227098739435b": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -61082,6 +61316,19 @@
         ],
         "region": "fi"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "fi"
+      },
       "6615885e1eabecf2c9d56495": {
         "id": "5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
         "slug": "monster-jam",
@@ -64256,6 +64503,19 @@
         ],
         "region": "dk"
       },
+      "6aa9c4a3083227098739435b": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "dk"
+      },
       "6615885e1eabecf2c9d56495": {
         "id": "5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495",
         "slug": "monster-jam",
@@ -67334,6 +67594,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "is"
+      },
+      "6aa9c4a3083227098739435b": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b",
+        "slug": "man-city-24-7",
+        "gridKey": "6aa9c4a3083227098739435b",
+        "name": "Man City 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b.m3u8",
         "genres": [
           "Sports"
         ],

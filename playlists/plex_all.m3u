@@ -939,6 +939,8 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-68dcb7146738
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68db6db222efe0c218a90a9d" tvg-id="68db6db222efe0c218a90a9d" tvg-name="Forensic Files" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc7e7351-9dd7-4844-830d-f111796b50e1/FilmRise_ForensicFiles_Color_Logo.png" group-title="Australia",Forensic Files
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68db6db222efe0c218a90a9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6abd547da9d133322be5f945" tvg-id="6abd547da9d133322be5f945" tvg-name="Forged in Fire" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57c2c4f5-ec9d-4673-936c-a16ed80fa6d3/Forged_In_Fire_channel_logo_4c_1500x1000.png" group-title="Australia",Forged in Fire
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6abd547da9d133322be5f945.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66e8d7600a1c525933947792" tvg-id="66e8d7600a1c525933947792" tvg-name="Four in a Bed" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25ed8833-43c9-4e98-b4e0-ffa3b0dadf89/FourInABed_Logo_Jack_ArcherRDX.png" group-title="United States",Four in a Bed
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66e8d7600a1c525933947792.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-659f04ef27ae392d2e204695" tvg-id="659f04ef27ae392d2e204695" tvg-name="FOX Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6bea985-9665-4dca-8ce4-2a8f79c7863c/FXSportsWhite.png" group-title="United States",FOX Sports
@@ -1451,6 +1453,8 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f5132e262fe
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-636abc6d4cbc0319a0bd49c0" tvg-id="636abc6d4cbc0319a0bd49c0" tvg-name="MagellanTV Wildest" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8837fdc0-308d-4a47-bf86-51573d626691/Plex_MGTVWildest_Logo_DarkBackground_.png" group-title="Australia",MagellanTV Wildest
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-636abc6d4cbc0319a0bd49c0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6aa9c4a3083227098739435b" tvg-id="6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png" group-title="United States",Man City 24/7
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6aa9c4a3083227098739435b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69a529f77c245b3390e8a4de" tvg-id="69a529f77c245b3390e8a4de" tvg-name="Masha and the Bear" tvg-logo="https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png" group-title="United Kingdom",Masha and the Bear
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-69a529f77c245b3390e8a4de.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69a526053eb39481c7edd563" tvg-id="69a526053eb39481c7edd563" tvg-name="Masha y el Oso" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a856935d-e422-4826-8ac0-161deb7bc0ad/masha_oso_color.png" group-title="Mexico",Masha y el Oso
@@ -2279,6 +2283,8 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65cd52212638
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65cd316a40ab06259e8168a0" tvg-id="65cd316a40ab06259e8168a0" tvg-name="Tastemade en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc603999-a138-434c-9bd9-ddad49009913/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png" group-title="Spain",Tastemade en Español
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-65cd316a40ab06259e8168a0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ac0228963b12fad10f73787" tvg-id="6ac0228963b12fad10f73787" tvg-name="Team USA TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b67e21fd-6006-4a12-8c41-bf8c4de2a676/TeamUSA_DarkBKG.png" group-title="United States",Team USA TV
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6ac0228963b12fad10f73787.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6874409e46d1d8d8348e6b7e" tvg-id="6874409e46d1d8d8348e6b7e" tvg-name="Teen Wolf by MGM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f4395c4-94b6-48e0-8c24-2a61850211d2/TeenWolf_logo_Attribution_-_Carl_HoffelderRdx.png" group-title="United States",Teen Wolf by MGM
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6874409e46d1d8d8348e6b7e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6478acb5c83f56da796f166f" tvg-id="6478acb5c83f56da796f166f" tvg-name="Telemundo al Dia" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/183209ec7041b4645921574cffd096f4.png" group-title="United States",Telemundo al Dia

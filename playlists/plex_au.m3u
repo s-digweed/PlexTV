@@ -161,6 +161,8 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68db6b54475a
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-62f15810a3ffe928ef806c75.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68db6db222efe0c218a90a9d" tvg-id="68db6db222efe0c218a90a9d" tvg-name="Forensic Files" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc7e7351-9dd7-4844-830d-f111796b50e1/FilmRise_ForensicFiles_Color_Logo.png" group-title="True Crime",Forensic Files
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68db6db222efe0c218a90a9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6abd547da9d133322be5f945" tvg-id="6abd547da9d133322be5f945" tvg-name="Forged in Fire" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57c2c4f5-ec9d-4673-936c-a16ed80fa6d3/Forged_In_Fire_channel_logo_4c_1500x1000.png" group-title="Reality",Forged in Fire
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6abd547da9d133322be5f945.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66e8d7600a1c525933947792" tvg-id="66e8d7600a1c525933947792" tvg-name="Four in a Bed" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25ed8833-43c9-4e98-b4e0-ffa3b0dadf89/FourInABed_Logo_Jack_ArcherRDX.png" group-title="Reality",Four in a Bed
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-66e8d7600a1c525933947792.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="News",FRANCE 24
@@ -273,6 +275,8 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-67a1a8ef2358
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-60db63d29ec966002c9ea6f0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-636abc6d4cbc0319a0bd49c0" tvg-id="636abc6d4cbc0319a0bd49c0" tvg-name="MagellanTV Wildest" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8837fdc0-308d-4a47-bf86-51573d626691/Plex_MGTVWildest_Logo_DarkBackground_.png" group-title="Explore",MagellanTV Wildest
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-636abc6d4cbc0319a0bd49c0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6aa9c4a3083227098739435b" tvg-id="6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png" group-title="Sports",Man City 24/7
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6aa9c4a3083227098739435b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5ef4e1b40d9ad000423c4430" tvg-id="5ef4e1b40d9ad000423c4430" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Movies",Maverick Black Cinema
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-5ef4e1b40d9ad000423c4430.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-690cd1fb750b5c46ff424c8e" tvg-id="690cd1fb750b5c46ff424c8e" tvg-name="Mayday: Air Disaster" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4c908f9-fa67-4a24-9413-b2e735726e89/PTV_Mayday_1500x1000px_Logo_Colored.png" group-title="Reality",Mayday: Air Disaster
