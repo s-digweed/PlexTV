@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T14:14:19.711097+00:00",
+  "generated": "2026-10-13T20:45:42.534223+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -8873,7 +8873,7 @@
         "slug": "xite-the-beatles",
         "gridKey": "68894a9267ddc0ef2cdbf503",
         "name": "XITE The Beatles",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9939030c-fb1c-48cd-97de-d761b934e994/Plex_XITE_TheBeatles_logo_White_attribution_text.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7a14a2b6-b69c-4609-92f0-386b6042136c/Platform_XITE_Logo_Artwork_Beatles_whiteRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-68894a9267ddc0ef2cdbf503.m3u8",
         "genres": [
@@ -14855,7 +14855,7 @@
         "slug": "xite-the-beatles",
         "gridKey": "68894a9267ddc0ef2cdbf503",
         "name": "XITE The Beatles",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9939030c-fb1c-48cd-97de-d761b934e994/Plex_XITE_TheBeatles_logo_White_attribution_text.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7a14a2b6-b69c-4609-92f0-386b6042136c/Platform_XITE_Logo_Artwork_Beatles_whiteRDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-68894a9267ddc0ef2cdbf503.m3u8",
         "genres": [
