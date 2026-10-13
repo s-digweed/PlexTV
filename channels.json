@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T22:32:50.807992+00:00",
+  "generated": "2026-10-13T00:42:06.928261+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -8873,7 +8873,7 @@
         "slug": "xite-the-beatles",
         "gridKey": "68894a9267ddc0ef2cdbf503",
         "name": "XITE The Beatles",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ea24a0cf-9535-4f90-a96c-c8f769ffd7b2/xitecelebrates_logo_light_-_Arlette_FiranRDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9939030c-fb1c-48cd-97de-d761b934e994/Plex_XITE_TheBeatles_logo_White_attribution_text.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-68894a9267ddc0ef2cdbf503.m3u8",
         "genres": [
