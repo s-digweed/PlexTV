@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T19:30:10.517076+00:00",
+  "generated": "2026-10-14T21:43:36.868310+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -8439,6 +8439,19 @@
         ],
         "region": "us"
       },
+      "6aaa1f33083227098739435d": {
+        "id": "6a1610bebdf296985fd95603-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aaa1f33083227098739435d.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "us"
+      },
       "62ee6eae271f393d2d9f7096": {
         "id": "6a1610bebdf296985fd95603-62ee6eae271f393d2d9f7096",
         "slug": "todays-k-pop",
@@ -14512,6 +14525,19 @@
         ],
         "region": "ca"
       },
+      "6aaa1f33083227098739435d": {
+        "id": "647f8d22a2fc3fadb4721685-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6aaa1f33083227098739435d.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "ca"
+      },
       "60d4edd7b2fdec002c14112d": {
         "id": "647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112d",
         "slug": "new-k-id",
@@ -19493,6 +19519,19 @@
         ],
         "region": "gb"
       },
+      "6aaa1f33083227098739435d": {
+        "id": "64305451fc3be5947773c339-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6aaa1f33083227098739435d.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "gb"
+      },
       "60d4edd7b2fdec002c14112d": {
         "id": "64305451fc3be5947773c339-60d4edd7b2fdec002c14112d",
         "slug": "new-k-id",
@@ -23338,6 +23377,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-62ee784852f7d73061eec493.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "au"
+      },
+      "6aaa1f33083227098739435d": {
+        "id": "697140a85d851f5e69414688-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6aaa1f33083227098739435d.m3u8",
         "genres": [
           "Music"
         ],
@@ -33970,6 +34022,19 @@
         ],
         "region": "es"
       },
+      "6aaa1f33083227098739435d": {
+        "id": "643054b1fc3be59477853717-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6aaa1f33083227098739435d.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "es"
+      },
       "61aa9f50784a2161d3caf7fb": {
         "id": "643054b1fc3be59477853717-61aa9f50784a2161d3caf7fb",
         "slug": "remember-the-80s",
@@ -37113,6 +37178,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-60b0f65c0c8ffb002c821a75.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "fr"
+      },
+      "6aaa1f33083227098739435d": {
+        "id": "6430aa45fc3be5947780904e-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6aaa1f33083227098739435d.m3u8",
         "genres": [
           "Music"
         ],
@@ -40276,6 +40354,19 @@
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-6216723e2c2627c068e73ad4.m3u8",
         "genres": [
           "Global"
+        ],
+        "region": "de"
+      },
+      "6aaa1f33083227098739435d": {
+        "id": "635177ecff6cd5445d7f9b0b-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aaa1f33083227098739435d.m3u8",
+        "genres": [
+          "Music"
         ],
         "region": "de"
       },
@@ -43778,6 +43869,19 @@
         ],
         "region": "br"
       },
+      "6aaa1f33083227098739435d": {
+        "id": "646546f35db8ada4c8edd7e5-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6aaa1f33083227098739435d.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "br"
+      },
       "62f15810a3ffe928ef806c75": {
         "id": "646546f35db8ada4c8edd7e5-62f15810a3ffe928ef806c75",
         "slug": "flashback-70s",
@@ -46276,6 +46380,19 @@
         ],
         "region": "in"
       },
+      "6aaa1f33083227098739435d": {
+        "id": "698f7631338300003d436270-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-6aaa1f33083227098739435d.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "in"
+      },
       "61aa97d4113e1e5137fd5325": {
         "id": "698f7631338300003d436270-61aa97d4113e1e5137fd5325",
         "slug": "stingray-greatest-hits",
@@ -48579,6 +48696,19 @@
         ],
         "region": "jp"
       },
+      "6aaa1f33083227098739435d": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "jp"
+      },
       "61aa97d4113e1e5137fd5325": {
         "id": "5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325",
         "slug": "stingray-greatest-hits",
@@ -50877,6 +51007,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "kr"
+      },
+      "6aaa1f33083227098739435d": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d.m3u8",
         "genres": [
           "Music"
         ],
@@ -54025,6 +54168,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "se"
+      },
+      "6aaa1f33083227098739435d": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d.m3u8",
         "genres": [
           "Music"
         ],
@@ -60274,6 +60430,19 @@
         ],
         "region": "no"
       },
+      "6aaa1f33083227098739435d": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "no"
+      },
       "62fbf197c67d52bddf74cc87": {
         "id": "5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87",
         "slug": "movie-music-by-stingray",
@@ -63456,6 +63625,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "fi"
+      },
+      "6aaa1f33083227098739435d": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d.m3u8",
         "genres": [
           "Music"
         ],
@@ -66700,6 +66882,19 @@
         ],
         "region": "dk"
       },
+      "6aaa1f33083227098739435d": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "dk"
+      },
       "62fbf197c67d52bddf74cc87": {
         "id": "5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87",
         "slug": "movie-music-by-stingray",
@@ -69557,6 +69752,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "is"
+      },
+      "6aaa1f33083227098739435d": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d",
+        "slug": "veeps-concert-pass",
+        "gridKey": "6aaa1f33083227098739435d",
+        "name": "VEEPS Concert Pass",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d.m3u8",
         "genres": [
           "Music"
         ],
