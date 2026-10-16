@@ -1037,7 +1037,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-614a11bfa6f8
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-661d6a8db518ef381a85ed60.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69cab85156654a7a82926dad" tvg-id="69cab85156654a7a82926dad" tvg-name="Speed Sport 1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3897a520-f7e3-44f0-a18c-11687795059f/SPEED_SPORT_1_1500X1000_COLOR_LOGO_FOR_DARK_BACKGROUND.png" group-title="Sports",Speed Sport 1
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69cab85156654a7a82926dad.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-6349ed0eb1adc4cfa571fd37" tvg-id="6349ed0eb1adc4cfa571fd37" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Food, Home & Culture",SPEEDVISION
+#EXTINF:-1 channel-id="plex-6349ed0eb1adc4cfa571fd37" tvg-id="6349ed0eb1adc4cfa571fd37" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Food, Home & Culture",SPEEDVISION
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6349ed0eb1adc4cfa571fd37.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64e4084bb5fc5e016613edd4" tvg-id="64e4084bb5fc5e016613edd4" tvg-name="SPIN" tvg-logo="https://provider-static.plex.tv/epg/cms/production/521ef118-0e08-4a18-a2bd-dcca1119f81c/SPIN_circle_logo_white_attributionrdxv2.png" group-title="Music",SPIN
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64e4084bb5fc5e016613edd4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
