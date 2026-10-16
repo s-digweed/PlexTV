@@ -401,8 +401,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-686464b519cc
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67db0a3892cb453db28ab020.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66ea174c9502c5778b828d47" tvg-id="66ea174c9502c5778b828d47" tvg-name="Cine Western" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1be934c5-1520-439c-8b0d-52a4f7716311/CinewesternWhite_LogoRDX.png" group-title="Spain",Cine Western
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66ea174c9502c5778b828d47.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-616df1e90dfa27ee465797fa" tvg-id="616df1e90dfa27ee465797fa" tvg-name="CineLife" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png" group-title="United States",CineLife
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62167144ab2095ca85353ad6" tvg-id="62167144ab2095ca85353ad6" tvg-name="CINEPRIDE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" group-title="Canada",CINEPRIDE
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-62167144ab2095ca85353ad6.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66843a1f20f405b792a3b6b5" tvg-id="66843a1f20f405b792a3b6b5" tvg-name="CinEspanto" tvg-logo="https://provider-static.plex.tv/epg/cms/production/71c3f630-16dd-451f-bca8-f75f6ca16a81/CinEspanto_LAS_Attribution_Logordx.png" group-title="Mexico",CinEspanto
@@ -1453,6 +1451,8 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f5132e262fe
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-636abc6d4cbc0319a0bd49c0" tvg-id="636abc6d4cbc0319a0bd49c0" tvg-name="MagellanTV Wildest" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8837fdc0-308d-4a47-bf86-51573d626691/Plex_MGTVWildest_Logo_DarkBackground_.png" group-title="Australia",MagellanTV Wildest
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-636abc6d4cbc0319a0bd49c0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-616df1e90dfa27ee465797fa" tvg-id="616df1e90dfa27ee465797fa" tvg-name="Magnolia Selects" tvg-logo="https://provider-static.plex.tv/epg/cms/production/71746053-763c-4d2d-9f52-ac5faa09d6f6/MagnoliaSelects_1500x1000.png" group-title="United States",Magnolia Selects
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6aa9c4a3083227098739435b" tvg-id="6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png" group-title="United States",Man City 24/7
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6aa9c4a3083227098739435b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69a529f77c245b3390e8a4de" tvg-id="69a529f77c245b3390e8a4de" tvg-name="Masha and the Bear" tvg-logo="https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png" group-title="United Kingdom",Masha and the Bear

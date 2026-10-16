@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T21:10:35.089004+00:00",
+  "generated": "2026-10-16T23:37:55.029957+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -732,10 +732,10 @@
       },
       "616df1e90dfa27ee465797fa": {
         "id": "6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa",
-        "slug": "cinelife",
+        "slug": "magnolia-selects",
         "gridKey": "616df1e90dfa27ee465797fa",
-        "name": "CineLife",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png",
+        "name": "Magnolia Selects",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/71746053-763c-4d2d-9f52-ac5faa09d6f6/MagnoliaSelects_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa.m3u8",
         "genres": [
