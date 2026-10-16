@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T16:42:02.508003+00:00",
+  "generated": "2026-10-16T18:52:16.756748+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -13178,7 +13178,7 @@
         "slug": "speedvision",
         "gridKey": "6349ed0eb1adc4cfa571fd37",
         "name": "SPEEDVISION",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6349ed0eb1adc4cfa571fd37.m3u8",
         "genres": [
@@ -18484,7 +18484,7 @@
         "slug": "speedvision",
         "gridKey": "6349ed0eb1adc4cfa571fd37",
         "name": "SPEEDVISION",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6349ed0eb1adc4cfa571fd37.m3u8",
         "genres": [
@@ -63050,7 +63050,7 @@
         "slug": "speedvision",
         "gridKey": "6349ed0eb1adc4cfa571fd37",
         "name": "SPEEDVISION",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6349ed0eb1adc4cfa571fd37.m3u8",
         "genres": [
