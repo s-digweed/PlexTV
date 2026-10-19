@@ -245,8 +245,8 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64487508af92
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68b9f5a3d60e5dd29263c7ac" tvg-id="68b9f5a3d60e5dd29263c7ac" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png" group-title="Global",NEW KFOOD
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b9f5a3d60e5dd29263c7ac.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-5fb81660b7ad2d002dcb7335" tvg-id="5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png" group-title="News",Newsmax2
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fb81660b7ad2d002dcb7335.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6abd4743e1b65dffbc995e44" tvg-id="6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png" group-title="News",NEWSMAX
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6abd4743e1b65dffbc995e44.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66bfb2e6144c201b8b61c10f" tvg-id="66bfb2e6144c201b8b61c10f" tvg-name="NewsWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="News",NewsWorld
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66bfb2e6144c201b8b61c10f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69f4f6c2647c1d14cc38677b" tvg-id="69f4f6c2647c1d14cc38677b" tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" group-title="Sports",NFL Channel
