@@ -85,6 +85,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-680ad4e93f3c
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fbc627214cf8b3b54b5ede.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="United States",AfroLandTV
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60e737a4ebef9d002c4d0a0c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ad2667e5374a1e72d134626" tvg-id="6ad2667e5374a1e72d134626" tvg-name="After the First 48" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f67dc3f5-4589-411e-8386-198f9be1d37a/After_the_First_48_channel_logo_white_1500x1000.png" group-title="Australia",After the First 48
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6ad2667e5374a1e72d134626.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62d1ecc8e44d39da220722aa" tvg-id="62d1ecc8e44d39da220722aa" tvg-name="ALF" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff75dc12d5abb10dff1ec781ae19c566.png" group-title="United States",ALF
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62d1ecc8e44d39da220722aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63d6f799a9e88ee909e7ee21" tvg-id="63d6f799a9e88ee909e7ee21" tvg-name="Alien Nation by DUST" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d5598a6-e100-4fab-979a-cbf775aa8aa7/Alien-Nation_logo_blue_1500x1000.png" group-title="United States",Alien Nation by DUST
@@ -225,7 +227,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-646fab0e43d6
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65622ac05dbccec83a87b641.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65622eddb7d737841f30a4fd" tvg-id="65622eddb7d737841f30a4fd" tvg-name="BBC Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="United States",BBC Travel
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65622eddb7d737841f30a4fd.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-60a53634126de9002e694bc4" tvg-id="60a53634126de9002e694bc4" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="United States",beIN SPORTS XTRA
+#EXTINF:-1 channel-id="plex-60a53634126de9002e694bc4" tvg-id="60a53634126de9002e694bc4" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df24287c-ba1c-461f-b686-b1842ba47857/beIN_SPORTS_XTRA_LOGO.png" group-title="United States",beIN SPORTS XTRA
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60a53634126de9002e694bc4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-669994d717c9985deeb74e3b" tvg-id="669994d717c9985deeb74e3b" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3e76404-6e3d-4bb6-946a-0171ebef788a/beIN_SPORTS_XTRA_LOGO.png" group-title="Australia",beIN SPORTS XTRA
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-669994d717c9985deeb74e3b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
@@ -493,6 +495,8 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6ab3fb945364
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6ab3fb245364aa2377195425.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a8cc101fc51826f5301a160" tvg-id="6a8cc101fc51826f5301a160" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png" group-title="Canada",COPS Reloaded
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6a8cc101fc51826f5301a160.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ad26d915374a1e72d13462e" tvg-id="6ad26d915374a1e72d13462e" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/20d75380-4de4-4ae9-9d57-ff0dc092bcf6/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png" group-title="Australia",COPS Reloaded
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6ad26d915374a1e72d13462e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64694d52f73356567a64ce8c" tvg-id="64694d52f73356567a64ce8c" tvg-name="Corazón" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08be4d01-35de-46c7-b600-546316cbaf4a/corazon_logo_light_-_James_Stowe.png" group-title="United States",Corazón
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64694d52f73356567a64ce8c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66ce3cf459062698a13c39df" tvg-id="66ce3cf459062698a13c39df" tvg-name="Corner Gas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e6696e27-0079-499b-b4c9-b31300a4b511/FilmRise_CornerGas_Logo_FullColor.png" group-title="United States",Corner Gas
@@ -969,6 +973,8 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-691d58298432
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-631bbc79a273cc38add9e5e1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-608b7095a09205002da4f295" tvg-id="608b7095a09205002da4f295" tvg-name="FreeTV Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="United States",FreeTV Drama
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-608b7095a09205002da4f295.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ac7d3f79bc31041616d22a4" tvg-id="6ac7d3f79bc31041616d22a4" tvg-name="FreeTV Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/46ce7754-f528-420b-b905-5a4ce8c8bd33/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="United States",FreeTV Drama
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6ac7d3f79bc31041616d22a4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-608b7095a09205002da4f293" tvg-id="608b7095a09205002da4f293" tvg-name="FreeTV Estelar" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b96e6421-c1fa-4773-8a6d-3e980fcd1084/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo__1_.png" group-title="United States",FreeTV Estelar
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-608b7095a09205002da4f293.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6018913ea15130002b284193" tvg-id="6018913ea15130002b284193" tvg-name="FreeTV Estelar" tvg-logo="https://provider-static.plex.tv/epg/cms/production/339acd9f-efde-4536-b6c9-1efb2e72dab8/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Mexico",FreeTV Estelar
@@ -1303,6 +1309,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-685f11ad593a
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-685f13f36c220c4e9e333a00.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-685f10e56c220c4e9e3339fe" tvg-id="685f10e56c220c4e9e3339fe" tvg-name="Jade Fever" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1311651f-8fc6-45c0-ab81-907dd47296e5/jade_feverchannel_logo_1500x1000_light.png.png" group-title="Denmark",Jade Fever
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-685f10e56c220c4e9e3339fe.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6448ba1baf92c31f4a190c27" tvg-id="6448ba1baf92c31f4a190c27" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" group-title="United States",JAIL
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6448ba1baf92c31f4a190c27.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6ab56428177d989ab41dfd3f" tvg-id="6ab56428177d989ab41dfd3f" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/67f3c99e-eb9a-4c35-b29f-c91bc4917da0/Jail_channel_logo_4c_1500x1000RDX.png" group-title="Canada",JAIL
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6ab56428177d989ab41dfd3f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6ab56a0a177d989ab41dfd53" tvg-id="6ab56a0a177d989ab41dfd53" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/78fd3266-e931-4918-9016-525a1f8dd296/Jail_channel_logo_4c_1500x1000RDX.png" group-title="United Kingdom",JAIL

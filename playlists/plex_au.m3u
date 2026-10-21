@@ -15,6 +15,8 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-69d6d88b1790
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6533e9b1df3ccc650a965646.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Global",AfroLandTV
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-60e737a4ebef9d002c4d0a0c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ad2667e5374a1e72d134626" tvg-id="6ad2667e5374a1e72d134626" tvg-name="After the First 48" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f67dc3f5-4589-411e-8386-198f9be1d37a/After_the_First_48_channel_logo_white_1500x1000.png" group-title="True Crime",After the First 48
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6ad2667e5374a1e72d134626.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Music",Alternative
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-62efbb8652f7d73061eec498.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-671ab65359ad9a223f0a5dc3" tvg-id="671ab65359ad9a223f0a5dc3" tvg-name="American Crime Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png" group-title="True Crime",American Crime Channel
@@ -89,6 +91,8 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68e03f572cbc
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-5f07e9fdf313eb0041bbecda.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6ab19f70e7969627826876b4" tvg-id="6ab19f70e7969627826876b4" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/decfc889-30bc-4b21-951b-68fe49cd5ec1/Cops_channel_logo_white_1500x1000RDX.png" group-title="Bingeworthy",COPS
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6ab19f70e7969627826876b4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ad26d915374a1e72d13462e" tvg-id="6ad26d915374a1e72d13462e" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/20d75380-4de4-4ae9-9d57-ff0dc092bcf6/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",COPS Reloaded
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6ad26d915374a1e72d13462e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a8cc101fc51826f5301a160" tvg-id="6a8cc101fc51826f5301a160" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",COPS Reloaded
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6a8cc101fc51826f5301a160.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66ce3cf459062698a13c39df" tvg-id="66ce3cf459062698a13c39df" tvg-name="Corner Gas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e6696e27-0079-499b-b4c9-b31300a4b511/FilmRise_CornerGas_Logo_FullColor.png" group-title="Comedy",Corner Gas

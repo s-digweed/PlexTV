@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T19:23:18.617640+00:00",
+  "generated": "2026-10-21T21:44:58.201745+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1115,6 +1115,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/3dfda714-2c2e-409d-a54a-c386f8110a3d/FilmRise_UnsolvedMysteries_Color_Logo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5816.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "us"
+      },
+      "6448ba1baf92c31f4a190c27": {
+        "id": "6a1610bebdf296985fd95603-6448ba1baf92c31f4a190c27",
+        "slug": "jail",
+        "gridKey": "6448ba1baf92c31f4a190c27",
+        "name": "JAIL",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6448ba1baf92c31f4a190c27.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -2477,7 +2490,7 @@
         "slug": "bein-sports-xtra",
         "gridKey": "60a53634126de9002e694bc4",
         "name": "beIN SPORTS XTRA",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/df24287c-ba1c-461f-b686-b1842ba47857/beIN_SPORTS_XTRA_LOGO.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-60a53634126de9002e694bc4.m3u8",
         "genres": [
@@ -7797,6 +7810,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/fc750061-c748-4016-83e0-9f56a40a493c/Pelimex_red_logo_RDXC2.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-67db3546d66f778a752f7eaa.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6ac7d3f79bc31041616d22a4": {
+        "id": "6a1610bebdf296985fd95603-6ac7d3f79bc31041616d22a4",
+        "slug": "freetv-drama-3",
+        "gridKey": "6ac7d3f79bc31041616d22a4",
+        "name": "FreeTV Drama",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/46ce7754-f528-420b-b905-5a4ce8c8bd33/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ac7d3f79bc31041616d22a4.m3u8",
         "genres": [
           "En Español"
         ],
@@ -20158,6 +20184,19 @@
         ],
         "region": "au"
       },
+      "6ad26d915374a1e72d13462e": {
+        "id": "697140a85d851f5e69414688-6ad26d915374a1e72d13462e",
+        "slug": "cops-reloaded-3",
+        "gridKey": "6ad26d915374a1e72d13462e",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/20d75380-4de4-4ae9-9d57-ff0dc092bcf6/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6ad26d915374a1e72d13462e.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "au"
+      },
       "6a8cc101fc51826f5301a160": {
         "id": "697140a85d851f5e69414688-6a8cc101fc51826f5301a160",
         "slug": "cops-reloaded",
@@ -20179,6 +20218,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/ed859206-0087-4340-9add-b4419ce55029/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-6ab563ad177d989ab41dfd3d.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "au"
+      },
+      "6ad2667e5374a1e72d134626": {
+        "id": "697140a85d851f5e69414688-6ad2667e5374a1e72d134626",
+        "slug": "after-the-first-48-2",
+        "gridKey": "6ad2667e5374a1e72d134626",
+        "name": "After the First 48",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f67dc3f5-4589-411e-8386-198f9be1d37a/After_the_First_48_channel_logo_white_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6ad2667e5374a1e72d134626.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -30284,19 +30336,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "mx"
-      },
-      "608b7095a09205002da4f295": {
-        "id": "608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295",
-        "slug": "freetv-drama-2",
-        "gridKey": "608b7095a09205002da4f295",
-        "name": "FreeTV Drama",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295.m3u8",
         "genres": [
           "En Español"
         ],
@@ -41100,6 +41139,19 @@
         ],
         "region": "br"
       },
+      "608b7095a09205002da4f295": {
+        "id": "646546f35db8ada4c8edd7e5-608b7095a09205002da4f295",
+        "slug": "freetv-drama-2",
+        "gridKey": "608b7095a09205002da4f295",
+        "name": "FreeTV Drama",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-608b7095a09205002da4f295.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "br"
+      },
       "66fd4baab319e182229203b4": {
         "id": "646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4",
         "slug": "crime-e-investigacao",
@@ -43721,19 +43773,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-69d6d88b1790acff6189dea5.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "br"
-      },
-      "608b7095a09205002da4f295": {
-        "id": "646546f35db8ada4c8edd7e5-608b7095a09205002da4f295",
-        "slug": "freetv-drama-2",
-        "gridKey": "608b7095a09205002da4f295",
-        "name": "FreeTV Drama",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-608b7095a09205002da4f295.m3u8",
         "genres": [
           "En Español"
         ],

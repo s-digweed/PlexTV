@@ -147,7 +147,7 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62f15810a3ffe928ef806c75.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="News",FRANCE 24
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-678fe7959407a53556d3e8eb.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-608b7095a09205002da4f295" tvg-id="608b7095a09205002da4f295" tvg-name="FreeTV Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="En Español",FreeTV Drama
+#EXTINF:-1 channel-id="plex-608b7095a09205002da4f295" tvg-id="608b7095a09205002da4f295" tvg-name="FreeTV Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Movies",FreeTV Drama
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-608b7095a09205002da4f295.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Adrenaline & Sci-Fi",FrightFlix
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
