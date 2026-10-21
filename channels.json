@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T17:14:24.087032+00:00",
+  "generated": "2026-10-21T19:23:18.617640+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -7495,7 +7495,7 @@
         "slug": "bein-sports-xtra-en-espanol",
         "gridKey": "64a8903d273b89c4e7396553",
         "name": "beIN Sports Xtra en Español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5e247c07-7b64-422a-87e5-b07091c15702/beIN_SPORTS_XTRA_EN_ESPAN__OL_LOGO.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-64a8903d273b89c4e7396553.m3u8",
         "genres": [
@@ -14075,7 +14075,7 @@
         "slug": "bein-sports-xtra-en-espanol",
         "gridKey": "64a8903d273b89c4e7396553",
         "name": "beIN Sports Xtra en Español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5e247c07-7b64-422a-87e5-b07091c15702/beIN_SPORTS_XTRA_EN_ESPAN__OL_LOGO.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553.m3u8",
         "genres": [
@@ -20709,7 +20709,7 @@
         "slug": "bein-sports-xtra-2",
         "gridKey": "669994d717c9985deeb74e3b",
         "name": "beIN SPORTS XTRA",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2188ad12-5a12-4fd1-b1be-8b104513f0ec/BSXtra_logo_fordark_bg_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f3e76404-6e3d-4bb6-946a-0171ebef788a/beIN_SPORTS_XTRA_LOGO.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-669994d717c9985deeb74e3b.m3u8",
         "genres": [
