@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T21:44:58.201745+00:00",
+  "generated": "2026-10-22T04:47:54.380961+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -7659,19 +7659,6 @@
         ],
         "region": "us"
       },
-      "608b7095a09205002da4f295": {
-        "id": "6a1610bebdf296985fd95603-608b7095a09205002da4f295",
-        "slug": "freetv-drama-2",
-        "gridKey": "608b7095a09205002da4f295",
-        "name": "FreeTV Drama",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-608b7095a09205002da4f295.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
       "608b7095a09205002da4f293": {
         "id": "6a1610bebdf296985fd95603-608b7095a09205002da4f293",
         "slug": "freetv-estelar-2",
@@ -13264,6 +13251,19 @@
         ],
         "region": "ca"
       },
+      "6ad25a35b3edba59b49aabbe": {
+        "id": "647f8d22a2fc3fadb4721685-6ad25a35b3edba59b49aabbe",
+        "slug": "carwow",
+        "gridKey": "6ad25a35b3edba59b49aabbe",
+        "name": "Carwow",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/73e31642-ce17-4b41-b286-4d3c7fd4f9cf/CarWow_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6ad25a35b3edba59b49aabbe.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "ca"
+      },
       "63d6f9b67c3070b6e06e0aad": {
         "id": "647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad",
         "slug": "garden-with-monty-don",
@@ -15619,6 +15619,19 @@
         ],
         "region": "gb"
       },
+      "6ad26e9c5374a1e72d134630": {
+        "id": "64305451fc3be5947773c339-6ad26e9c5374a1e72d134630",
+        "slug": "cops-reloaded-4",
+        "gridKey": "6ad26e9c5374a1e72d134630",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d7b95220-3128-4b81-bbcf-91f5537a4bc8/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6ad26e9c5374a1e72d134630.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "gb"
+      },
       "6a8cc101fc51826f5301a160": {
         "id": "64305451fc3be5947773c339-6a8cc101fc51826f5301a160",
         "slug": "cops-reloaded",
@@ -15640,6 +15653,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/78fd3266-e931-4918-9016-525a1f8dd296/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6ab56a0a177d989ab41dfd53.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "gb"
+      },
+      "6abd525ba9d133322be5f943": {
+        "id": "64305451fc3be5947773c339-6abd525ba9d133322be5f943",
+        "slug": "the-first-48-and-beyond",
+        "gridKey": "6abd525ba9d133322be5f943",
+        "name": "The First 48 & Beyond",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e8480888-bf03-4a20-8723-a3737887db5d/First_48_and_Beyond_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6abd525ba9d133322be5f943.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -18474,6 +18500,32 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/305dc437-2a99-4e98-a872-08ae23e102f6/MDDH_WHITE_-_Principal_MediaRDX__1_.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-684c2379e32026b0c1f53793.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "gb"
+      },
+      "6ad26b965374a1e72d13462a": {
+        "id": "64305451fc3be5947773c339-6ad26b965374a1e72d13462a",
+        "slug": "counting-cars-2",
+        "gridKey": "6ad26b965374a1e72d13462a",
+        "name": "Counting Cars+",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/02e08094-4ad5-47b6-8867-57f17652c908/Counting_Cars_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6ad26b965374a1e72d13462a.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "gb"
+      },
+      "6ad25b115374a1e72d134620": {
+        "id": "64305451fc3be5947773c339-6ad25b115374a1e72d134620",
+        "slug": "carwow-2",
+        "gridKey": "6ad25b115374a1e72d134620",
+        "name": "Carwow",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/2b7aa62a-bb5e-4844-a1c6-549a1bbdeb03/CarWow_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6ad25b115374a1e72d134620.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -22532,6 +22584,32 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/305dc437-2a99-4e98-a872-08ae23e102f6/MDDH_WHITE_-_Principal_MediaRDX__1_.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-684c2379e32026b0c1f53793.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "au"
+      },
+      "6ad25babb3edba59b49aabc0": {
+        "id": "697140a85d851f5e69414688-6ad25babb3edba59b49aabc0",
+        "slug": "carwow-3",
+        "gridKey": "6ad25babb3edba59b49aabc0",
+        "name": "Carwow",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d8e4adb1-d357-4459-9670-647dae6022d6/CarWow_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6ad25babb3edba59b49aabc0.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "au"
+      },
+      "6ad26abd5374a1e72d134628": {
+        "id": "697140a85d851f5e69414688-6ad26abd5374a1e72d134628",
+        "slug": "counting-cars",
+        "gridKey": "6ad26abd5374a1e72d134628",
+        "name": "Counting Cars+",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/345642f1-edf4-4726-90e9-c6c5b44d3629/Counting_Cars_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6ad26abd5374a1e72d134628.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -27658,6 +27736,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/48a7973c-64ac-46af-9e9d-6d93b06fbeba/Free-TV_Clasico_1500X1000_dark_and_light.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-691d582984325d49bfa06ab2.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "mx"
+      },
+      "608b7095a09205002da4f295": {
+        "id": "608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295",
+        "slug": "freetv-drama-2",
+        "gridKey": "608b7095a09205002da4f295",
+        "name": "FreeTV Drama",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295.m3u8",
         "genres": [
           "Movies"
         ],
