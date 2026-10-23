@@ -143,9 +143,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           if [ "${{ steps.cmd.outputs.no_epg_run }}" = "true" ]; then
-            git add playlists/*.m3u channels.json 2>/dev/null || git add playlists/*.m3u
+            git add playlists/*.m3u playlists/direct_report.txt channels.json direct_urls.json 2>/dev/null || git add playlists/*.m3u
           else
-            git add playlists/ channels.json 2>/dev/null || git add playlists/
+            git add playlists/ channels.json direct_urls.json 2>/dev/null || git add playlists/
           fi
 
           if git diff --cached --quiet; then
@@ -172,4 +172,5 @@ jobs:
           path: |
             playlists/
             channels.json
+            direct_urls.json
           retention-days: 3
