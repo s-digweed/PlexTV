@@ -57,8 +57,20 @@ EPG_DAYS            = 2                 # days of EPG to fetch (today + N-1)
 REQUEST_TIMEOUT     = 30
 
 REPO_RAW_BASE = (
-    "https://raw.githubusercontent.com/BuddyChewChew/plex-alt-fast-channels/main"
+    "https://raw.githubusercontent.com/s-digweed/PlexTV/main"
 )
+
+# VPN-free direct links: many Plex channels are really Amagi feeds. Plex's own
+# playlist (epg.provider.plex.tv) is geo-blocked (HTTP 451 outside the region), but
+# the Amagi playlist behind it is not. Each run we follow Plex's playlist down to a
+# video segment, read the Amagi host + channel slug out of it, and write
+#   https://<host>/playlist/<slug>/playlist.m3u8
+# into the M3U instead. Anything we can't resolve keeps its Plex link (VPN needed).
+DIRECT_LINKS       = True
+DIRECT_CACHE_FILE  = "direct_urls.json"   # committed; remembers resolved links
+DIRECT_RETRY_HOURS = 24                   # retry a failed channel after this long
+DIRECT_WORKERS     = 8
+DIRECT_REPORT      = "direct_report.txt"  # written into playlists/
 
 # Geographic spoofing IPs – update if a region stops returning channels
 GEO_IPS = {
@@ -457,6 +469,160 @@ def get_channels_for_regions(regions: list[str], force_refresh: bool = False) ->
 
 
 # ---------------------------------------------------------------------------
+# VPN-free direct links (Amagi)
+# ---------------------------------------------------------------------------
+
+_AMAGI_SLUG = re.compile(r"/(?:beacon|playlist)/(amg\d+-[A-Za-z0-9_-]+)/")
+
+
+def _first_uri(text: str, base: str) -> list[str]:
+    """Non-comment lines of an HLS playlist, made absolute."""
+    out = []
+    for ln in text.splitlines():
+        ln = ln.strip()
+        if not ln or ln.startswith("#"):
+            continue
+        if not ln.startswith("http"):
+            ln = requests.compat.urljoin(base, ln)
+        out.append(ln)
+    return out
+
+
+def _is_live_playlist(session, url: str) -> bool:
+    try:
+        r = session.get(url, timeout=15)
+        return r.status_code == 200 and r.text.lstrip().startswith("#EXTM3U")
+    except Exception:
+        return False
+
+
+def _resolve_direct(ch: dict, token: str, region: str) -> tuple[str | None, str]:
+    """Follow Plex master -> variant -> segments; return (direct_url, note)."""
+    key = ch.get("key", "")
+    if not key:
+        return None, "no-key"
+    headers = {"User-Agent": BASE_HEADERS["User-Agent"],
+               "X-Forwarded-For": GEO_IPS.get(region, GEO_IPS["us"])}
+    s = _make_session(retries=2, backoff=1.0)
+    s.headers.update(headers)
+    try:
+        master_url = f"https://epg.provider.plex.tv{key}?X-Plex-Token={token}"
+        r = s.get(master_url, timeout=20)
+        if r.status_code != 200:
+            return None, f"plex-{r.status_code}"
+        variants = _first_uri(r.text, r.url)
+        if not variants:
+            return None, "no-variant"
+        r2 = s.get(variants[0], timeout=20)
+        if r2.status_code != 200:
+            return None, f"variant-{r2.status_code}"
+        segs = _first_uri(r2.text, r2.url)
+        if not segs:
+            return None, "no-segments"
+        host = requests.utils.urlparse(segs[0]).netloc
+        if not host.endswith(".amagi.tv"):
+            return None, "host:" + (host or "?")
+        for seg in segs:
+            if requests.utils.urlparse(seg).netloc != host:
+                continue
+            m = _AMAGI_SLUG.search(seg)
+            if m:
+                direct = f"https://{host}/playlist/{m.group(1)}/playlist.m3u8"
+                if _is_live_playlist(s, direct):
+                    return direct, "ok"
+                return None, "amagi-guess-failed"
+        return None, "amagi-no-slug"
+    except Exception as exc:
+        return None, "error:" + type(exc).__name__
+    finally:
+        s.close()
+
+
+def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]) -> dict[str, str]:
+    """Return {gridKey: direct_url}. Uses/updates DIRECT_CACHE_FILE."""
+    now = time.time()
+    try:
+        with open(DIRECT_CACHE_FILE, encoding="utf-8") as fh:
+            cache = json.load(fh)
+    except Exception:
+        cache = {}
+
+    # one entry per channel, tagged with the first region it appears in
+    todo: dict[str, tuple[dict, str]] = {}
+    for region in regions:
+        for gk, ch in (channels_by_region.get(region) or {}).items():
+            todo.setdefault(gk, (ch, region))
+
+    tokens: dict[str, str | None] = {}
+    def tok(region):
+        if region not in tokens:
+            tokens[region] = token_for(region)
+        return tokens[region]
+
+    verify_s = _make_session(retries=1, backoff=1.0)
+    verify_s.headers["User-Agent"] = BASE_HEADERS["User-Agent"]
+
+    def work(gk):
+        ch, region = todo[gk]
+        ent = cache.get(gk) or {}
+        if ent.get("url"):
+            if _is_live_playlist(verify_s, ent["url"]):
+                return gk, ent["url"], "cached"
+        elif ent.get("fail_ts") and now - ent["fail_ts"] < DIRECT_RETRY_HOURS * 3600:
+            return gk, None, ent.get("note", "failed")
+        t = tok(region)
+        if not t:
+            return gk, None, "no-token"
+        url, note = _resolve_direct(ch, t, region)
+        return gk, url, note
+
+    for r in {r for _, r in todo.values()}:
+        tok(r)   # fetch tokens up-front (not thread-raced)
+
+    results: dict[str, str] = {}
+    notes: dict[str, int] = {}
+    hosts: dict[str, int] = {}
+    with ThreadPoolExecutor(max_workers=DIRECT_WORKERS) as pool:
+        for fut in as_completed([pool.submit(work, gk) for gk in todo]):
+            gk, url, note = fut.result()
+            if url:
+                results[gk] = url
+                cache[gk] = {"url": url, "ts": now, "name": todo[gk][0].get("name", "")}
+                notes["direct (" + ("cached" if note == "cached" else "new") + ")"] = \
+                    notes.get("direct (" + ("cached" if note == "cached" else "new") + ")", 0) + 1
+            else:
+                prev = cache.get(gk) or {}
+                fail_ts = prev.get("fail_ts") if (not prev.get("url") and prev.get("fail_ts")
+                                                  and now - prev["fail_ts"] < DIRECT_RETRY_HOURS * 3600) else now
+                cache[gk] = {"fail_ts": fail_ts, "note": note, "name": todo[gk][0].get("name", "")}
+                bucket = "other host" if note.startswith("host:") else note
+                notes[bucket] = notes.get(bucket, 0) + 1
+                if note.startswith("host:"):
+                    hosts[note[5:]] = hosts.get(note[5:], 0) + 1
+    verify_s.close()
+
+    # drop cache entries for channels that no longer exist anywhere
+    cache = {gk: v for gk, v in cache.items() if gk in todo}
+    with open(DIRECT_CACHE_FILE, "w", encoding="utf-8") as fh:
+        json.dump(cache, fh, indent=1, ensure_ascii=False, sort_keys=True)
+
+    lines = [f"Plex VPN-free direct links  ({datetime.now(timezone.utc):%Y-%m-%d %H:%M UTC})",
+             f"Channels checked: {len(todo)}   VPN-free: {len(results)}   "
+             f"Still Plex link (VPN needed): {len(todo) - len(results)}", ""]
+    lines += [f"  {k:28s} {v}" for k, v in sorted(notes.items(), key=lambda x: -x[1])]
+    if hosts:
+        lines += ["", "Non-Amagi video hosts (candidates for future support):"]
+        lines += [f"  {h:60s} {n}" for h, n in sorted(hosts.items(), key=lambda x: -x[1])[:40]]
+    report = "\n".join(lines) + "\n"
+    with open(os.path.join(OUTPUT_DIR, DIRECT_REPORT), "w", encoding="utf-8") as fh:
+        fh.write(report)
+    logger.info("Direct links: %d/%d channels VPN-free", len(results), len(todo))
+    for ln in lines[1:]:
+        logger.info(ln)
+    return results
+
+
+# ---------------------------------------------------------------------------
 # M3U generation
 # ---------------------------------------------------------------------------
 
@@ -465,6 +631,7 @@ def build_m3u(
     token: str,
     region: str,
     repo_raw_base: str,
+    direct: dict | None = None,
 ) -> str:
     """
     Build M3U content for *region*.
@@ -488,7 +655,8 @@ def build_m3u(
         if not plex_key:
             continue   # no stream path → skip
 
-        stream_url = f"https://epg.provider.plex.tv{plex_key}?X-Plex-Token={token}"
+        stream_url = (direct or {}).get(gk) or \
+            f"https://epg.provider.plex.tv{plex_key}?X-Plex-Token={token}"
 
         extinf = (
             f'#EXTINF:-1 '
@@ -786,6 +954,10 @@ def parse_args():
         help=f"Days of EPG to fetch (default: {EPG_DAYS})",
     )
     p.add_argument(
+        "--no-direct", action="store_true",
+        help="Skip VPN-free direct-link resolution (use Plex links only)",
+    )
+    p.add_argument(
         "--repo", default=REPO_RAW_BASE,
         help="Raw base URL of the repo (used in url-tvg= links)",
     )
@@ -805,6 +977,16 @@ def main():
         logger.error("No channel data – aborting.")
         return
 
+    # ── 1b. VPN-free direct links ─────────────────────────────────────────
+    direct: dict[str, str] = {}
+    if DIRECT_LINKS and not args.no_direct:
+        try:
+            direct = resolve_direct_links(
+                channels_by_region, lambda r: get_anonymous_token(r)[0], args.regions)
+        except Exception as exc:
+            logger.warning("Direct-link step failed (%s) – using Plex links only.", exc)
+            direct = {}
+
     # ── 2. Per-region M3U + EPG ───────────────────────────────────────────
     all_channels: dict[str, dict] = {}   # merged set for plex_all.*
 
@@ -823,7 +1005,7 @@ def main():
             continue
 
         # M3U  (url-tvg= header points to repo XML)
-        m3u = build_m3u(channels, token, region, args.repo)
+        m3u = build_m3u(channels, token, region, args.repo, direct)
         write_playlist(f"plex_{region}.m3u", m3u)
 
         # EPG
@@ -845,7 +1027,7 @@ def main():
         all_token, all_client_id = get_anonymous_token(fallback_region)
 
         if all_token:
-            all_m3u = build_m3u(all_channels, all_token, "all", args.repo)
+            all_m3u = build_m3u(all_channels, all_token, "all", args.repo, direct)
             write_playlist("plex_all.m3u", all_m3u)
 
             if not args.no_epg:
