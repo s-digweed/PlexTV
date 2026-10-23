@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T11:41:29.709898+00:00",
+  "generated": "2026-10-23T17:09:09.875299+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -51677,6 +51677,19 @@
         ],
         "region": "se"
       },
+      "6ad280025374a1e72d13463d": {
+        "id": "5e20b730f2f8d5003d739db7-6ad280025374a1e72d13463d",
+        "slug": "cops-reloaded-9",
+        "gridKey": "6ad280025374a1e72d13463d",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/98cc5137-f398-47b3-b359-bc0ecec80dbc/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ad280025374a1e72d13463d.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "se"
+      },
       "6a2ab5b3fcfe17a33213c418": {
         "id": "5e20b730f2f8d5003d739db7-6a2ab5b3fcfe17a33213c418",
         "slug": "60-days-in-jail-8",
@@ -54838,14 +54851,14 @@
         ],
         "region": "nl"
       },
-      "6a8cc101fc51826f5301a160": {
-        "id": "5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160",
-        "slug": "cops-reloaded",
-        "gridKey": "6a8cc101fc51826f5301a160",
+      "6ad2706d5374a1e72d134632": {
+        "id": "5e20b730f2f8d5003d739db7-6ad2706d5374a1e72d134632",
+        "slug": "cops-reloaded-5",
+        "gridKey": "6ad2706d5374a1e72d134632",
         "name": "COPS Reloaded",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/29cc2f34-e5c2-4347-9561-115ece14a268/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ad2706d5374a1e72d134632.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -57929,6 +57942,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "no"
+      },
+      "6ad27eaa5374a1e72d134639": {
+        "id": "5e20b730f2f8d5003d739db7-6ad27eaa5374a1e72d134639",
+        "slug": "cops-reloaded-7",
+        "gridKey": "6ad27eaa5374a1e72d134639",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7ff635c3-c799-4fc2-848c-cbe4f54e9e7a/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ad27eaa5374a1e72d134639.m3u8",
         "genres": [
           "True Crime"
         ],
