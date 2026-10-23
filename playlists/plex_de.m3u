@@ -63,6 +63,8 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-69b164bc8734
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-63f0ca427b78030ed9990309.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f07e9fdf313eb0041bbecda" tvg-id="5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Food, Home & Culture",Cooking Panda
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-5f07e9fdf313eb0041bbecda.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ad262c45374a1e72d134624" tvg-id="6ad262c45374a1e72d134624" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/75027b02-54b4-47b6-bf05-4c2f8f69b02d/Cops_channel_logo_4c_1500x100RDX0.png" group-title="Bingeworthy",COPS
+https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6ad262c45374a1e72d134624.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-635c61cc797a33fa4193cc93" tvg-id="635c61cc797a33fa4193cc93" tvg-name="Cosmic Frontiers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a514ca78-cb8d-4c2f-9d21-cdb8e6ed8197/Plex_CosmicFrontiers__Logo_DarkBackground_.png" group-title="Explore",Cosmic Frontiers
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-635c61cc797a33fa4193cc93.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Food, Home & Culture",CraftsyTV
@@ -183,6 +185,8 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6674c3c0a9c7
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-69011e71d320237a5a2d9f63.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-688d3402a6fe30698ab42007" tvg-id="688d3402a6fe30698ab42007" tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" group-title="En Español",ITV Deportes
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-688d3402a6fe30698ab42007.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ad261db5374a1e72d134622" tvg-id="6ad261db5374a1e72d134622" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5dc3875f-b112-48a3-a39c-4a62fa5bd485/Jail_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",JAIL
+https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6ad261db5374a1e72d134622.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60d4edd6b2fdec002c141123" tvg-id="60d4edd6b2fdec002c141123" tvg-name="Johnny Carson TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png" group-title="Classics",Johnny Carson TV
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-60d4edd6b2fdec002c141123.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60a9d105d162b9002d05a60c" tvg-id="60a9d105d162b9002d05a60c" tvg-name="Journy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png" group-title="Explore",Journy
