@@ -750,8 +750,8 @@ def _friendly_note(note: str) -> str:
             "geo-blocked-host": "host blocks outside US"}.get(note, note)
 
 
-def write_status(channels_by_region: dict, regions: list[str], direct: dict):
-    from status_page import update_status
+def write_status(channels_by_region: dict, regions: list[str], direct: dict, built_epg: bool = False):
+    from status_page import update_status, epg_stats
     try:
         with open(DIRECT_CACHE_FILE, encoding="utf-8") as fh:
             cache = json.load(fh)
@@ -773,7 +773,23 @@ def write_status(channels_by_region: dict, regions: list[str], direct: dict):
             rows.append({"id": gk, "name": ch.get("name", gk), "logo": ch.get("logo", ""),
                          "group": (ch.get("genres") or [""])[0], "status": status, "detail": detail})
         out[region] = {"name": REGION_NAMES.get(region, region.upper()), "channels": rows}
-    update_status("Plex", out, "status.json", "status_state.json")
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    total = len({gk for r in regions for gk in (channels_by_region.get(r) or {})})
+    missing = [r for r in regions if not channels_by_region.get(r)]
+    notes = [f"{len(direct)} of {total} channels have a VPN-free direct link"]
+    if missing:
+        notes.append("No channels this run for: " + ", ".join(r.upper() for r in missing))
+    if not built_epg:
+        notes.append("M3U-only run (guide is rebuilt at 03:17 and 15:17 UTC)")
+    health = {
+        "repo": "s-digweed/PlexTV", "every_h": 3,
+        "m3u_updated": now,
+        "epg_updated": now if built_epg else None,
+        "notes": notes,
+    }
+    if built_epg:
+        health.update(epg_stats(os.path.join(OUTPUT_DIR, "plex_all.xml.gz")))
+    update_status("Plex", out, "status.json", "status_state.json", health=health)
 
 
 # ---------------------------------------------------------------------------
@@ -1173,12 +1189,6 @@ def main():
             logger.warning("Direct-link step failed (%s) – using Plex links only.", exc)
             direct = {}
 
-    # ── 1c. Status page data (status.json for status.html) ─────────────────
-    try:
-        write_status(channels_by_region, args.regions, direct)
-    except Exception as exc:
-        logger.warning("Status page step failed (%s) – continuing.", exc)
-
     # ── 2. Per-region M3U + EPG ───────────────────────────────────────────
     all_channels: dict[str, dict] = {}   # merged set for plex_all.*
 
@@ -1280,6 +1290,12 @@ def main():
                     len(seen_channel_ids), len(programme_blocks),
                     os.path.getsize(all_out_path),
                 )
+
+    # ── 4. Status page data (status.json for status.html) ────────────────
+    try:
+        write_status(channels_by_region, args.regions, direct, built_epg=not args.no_epg)
+    except Exception as exc:
+        logger.warning("Status page step failed (%s) – continuing.", exc)
 
     logger.info("Done – files in ./%s/", OUTPUT_DIR)
 
