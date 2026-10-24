@@ -525,6 +525,42 @@ def _amagi_candidates(host: str, segs: list[str]) -> list[str]:
     return cands[:6]
 
 
+# Hosts that can't be freed: Plex stitches their channels from individual
+# on-demand files (no live playlist exists), so don't waste requests probing them.
+_SKIP_HOST = re.compile(r"(xumo\.com|kaltura\.com|galxy\.tv|dai\.google\.com)$")
+_PL_NAMES = ("playlist.m3u8", "index.m3u8", "master.m3u8")
+
+
+def _generic_candidates(seg: str, limit: int = 16) -> list[str]:
+    """Guess a live playlist from a segment URL by walking up its folders:
+    at each level try <folder>.m3u8 in the parent, plus playlist/index/master.m3u8."""
+    from urllib.parse import urlparse, parse_qs
+    u = urlparse(seg)
+    # ad/beacon wrappers carry the real segment in a query param
+    for k in ("url", "u", "redirect_url"):
+        v = parse_qs(u.query).get(k)
+        if v and v[0].startswith("http"):
+            u = urlparse(v[0])
+            break
+    base = f"{u.scheme}://{u.netloc}"
+    parts = [p for p in u.path.split("/") if p][:-1]      # folders only
+    out: list[str] = []
+    # Stingray lotus: segments live under /segment-cache/<channel>/<partner>/...,
+    # the live manifest under /manifest/<channel>/<partner>/master.m3u8
+    if u.netloc == "lotus.stingray.com" and len(parts) >= 3 and parts[0] == "segment-cache":
+        for n in ("master.m3u8", "playlist.m3u8"):
+            out.append(f"{base}/manifest/{parts[1]}/{parts[2]}/{n}")
+    for i in range(len(parts), 0, -1):
+        folder = "/" + "/".join(parts[:i]) + "/"
+        parent = "/" + "/".join(parts[:i - 1]) + ("/" if i > 1 else "")
+        for c in (f"{base}{parent}{parts[i-1]}.m3u8",
+                  *(f"{base}{folder}{n}" for n in _PL_NAMES)):
+            if c not in out:
+                out.append(c)
+    out.append(f"{base}/playlist.m3u8")
+    return out[:limit]
+
+
 def _resolve_direct(ch: dict, token: str, region: str) -> tuple[str | None, str, str]:
     """Follow Plex master -> variant -> segments; return (direct_url, note, sample_segment)."""
     key = ch.get("key", "")
@@ -551,7 +587,17 @@ def _resolve_direct(ch: dict, token: str, region: str) -> tuple[str | None, str,
         sample = segs[0][:400]                 # segment URLs carry no Plex token
         host = requests.utils.urlparse(segs[0]).netloc
         if not host.endswith(".amagi.tv"):
-            return None, "host:" + (host or "?"), sample
+            if _SKIP_HOST.search(host or ""):
+                return None, "host:" + (host or "?"), sample
+            tried = []
+            for direct in _generic_candidates(segs[0]):
+                res = _probe_playlist(s, direct)
+                if res == "ok":
+                    return direct, "ok", ""
+                tried.append(res)
+            from collections import Counter as _C
+            summary = ",".join(f"{k}x{n}" for k, n in _C(tried).most_common())
+            return None, "host:" + (host or "?"), (sample[:250] + "  || tried " + summary)[:600]
         cands = _amagi_candidates(host, segs)
         if not cands:
             return None, "amagi-no-slug", sample
@@ -600,7 +646,7 @@ def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]
         if ent.get("url"):
             if _is_live_playlist(verify_s, ent["url"]):
                 return gk, ent["url"], "cached", ""
-        elif (ent.get("v") == 3 and ent.get("fail_ts")
+        elif (ent.get("v") == 4 and ent.get("fail_ts")
               and now - ent["fail_ts"] < DIRECT_RETRY_HOURS * 3600):
             return gk, None, ent.get("note", "failed"), ent.get("sample", "")
         t = tok(region)
@@ -626,9 +672,9 @@ def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]
                 prev = cache.get(gk) or {}
                 fail_ts = prev.get("fail_ts") if (not prev.get("url") and prev.get("fail_ts")
                                                   and now - prev["fail_ts"] < DIRECT_RETRY_HOURS * 3600) else now
-                if prev.get("v") != 3:
+                if prev.get("v") != 4:
                     fail_ts = now
-                cache[gk] = {"fail_ts": fail_ts, "note": note, "name": todo[gk][0].get("name", ""), "v": 3}
+                cache[gk] = {"fail_ts": fail_ts, "note": note, "name": todo[gk][0].get("name", ""), "v": 4}
                 if sample:
                     cache[gk]["sample"] = sample
                 bucket = "other host" if note.startswith("host:") else note
