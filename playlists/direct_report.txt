@@ -1,16 +1,15 @@
-Plex VPN-free direct links  (2026-10-24 02:24 UTC)
+Plex VPN-free direct links  (2026-10-24 04:39 UTC)
 Channels checked: 1409   VPN-free: 486   Still Plex link (VPN needed): 923
 
   other host                   837
-  direct (cached)              377
-  direct (new)                 109
+  direct (cached)              486
   amagi-guess-failed           57
   plex-404                     12
   plex-400                     7
   plex-403                     5
   plex-500                     2
-  variant-401                  1
   plex-504                     1
+  variant-401                  1
   variant-429                  1
 
 Non-Amagi video hosts (candidates for future support):
@@ -24,8 +23,8 @@ Non-Amagi video hosts (candidates for future support):
   hls-beacons-eu.xumo.com                                      4
   oly-frc.otteravision.com                                     3
   oly-freba.otteravision.com                                   3
-  linear-276.frequency.stream                                  2
   linear-859.frequency.stream                                  2
+  linear-276.frequency.stream                                  2
   o300801-mp-lura-live.akamaized.net                           2
   stream-us-east-1.getpublica.com                              2
   azt-dep.otteravision.com                                     2
@@ -39,20 +38,20 @@ Non-Amagi video hosts (candidates for future support):
   oly-ftvht.otteravision.com                                   2
   imps-smrfs.otteravision.com                                  2
   default-tcs.fast.tcscdn.net                                  2
+  ca888b2b.wurl.com                                            1
   amc-twdfanexperience-1-us.plex.wurl.tv                       1
-  9e2698fd.wurl.com                                            1
-  amc-amcpresents-1-us.plex.wurl.tv                            1
-  67923b26.wurl.com                                            1
-  linear-866.frequency.stream                                  1
-  amc-networks-acorntvmysteries-1-us.plex.wurl.tv              1
-  fa942f77.wurl.com                                            1
   linear-1143.frequency.stream                                 1
   linear-851.frequency.stream                                  1
-  all3media-midsomer-1-us.plex.wurl.tv                         1
   linear-850.frequency.stream                                  1
-  ca888b2b.wurl.com                                            1
-  plex-xumoent-ch823-esulx.fast.nbcuni.com                     1
+  linear-866.frequency.stream                                  1
+  9e2698fd.wurl.com                                            1
+  amc-networks-acorntvmysteries-1-us.plex.wurl.tv              1
+  amc-amcpresents-1-us.plex.wurl.tv                            1
+  67923b26.wurl.com                                            1
+  fa942f77.wurl.com                                            1
+  all3media-midsomer-1-us.plex.wurl.tv                         1
   linear-684.frequency.stream                                  1
+  plex-xumoent-ch823-esulx.fast.nbcuni.com                     1
   plex-xumoent-ch814-wygp0.fast.nbcuni.com                     1
 
 Example segment URLs (for working out new patterns):
