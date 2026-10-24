@@ -1030,7 +1030,7 @@ https://amg00711-zylo-amg00711c4-plex-us-693.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="United States",FTF Sports
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5fc705f68aba71002d8b7b37" tvg-id="5fc705f68aba71002d8b7b37" tvg-name="Fubo Sports Network" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/ac0e90e4853f26cfbcfd401790e7ab28.png" group-title="United States",Fubo Sports Network
-https://playout.fubo.tv/plex/master.m3u8
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705f68aba71002d8b7b37.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62d15f16001c04178f555e40" tvg-id="62d15f16001c04178f555e40" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-title="United States",FUEL TV
 https://amg01074-fueltv-fueltv-us-en-plex-plex-aiv2t.amagi.tv/playlist/amg01074-fueltv-fueltv-us-en-plex-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Canada",FUEL TV

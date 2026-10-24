@@ -1,13 +1,14 @@
-Plex VPN-free direct links  (2026-10-24 08:06 UTC)
-Channels checked: 1409   VPN-free: 793   Still Plex link (VPN needed): 616
+Plex VPN-free direct links  (2026-10-24 09:48 UTC)
+Channels checked: 1409   VPN-free: 792   Still Plex link (VPN needed): 617
 
-  direct (cached)              793
+  direct (cached)              792
   other host                   530
   amagi-guess-failed           57
   plex-404                     12
   plex-400                     7
   plex-403                     5
   plex-500                     2
+  geo-blocked-host             1
   plex-504                     1
   variant-400                  1
   variant-401                  1
@@ -22,9 +23,9 @@ Non-Amagi video hosts (candidates for future support):
   o300801-mp-lura-live.akamaized.net                           3
   ov-static.otteravision.com                                   2
   default-tcs.fast.tcscdn.net                                  2
-  67923b26.wurl.com                                            1
   9e2698fd.wurl.com                                            1
   amc-amcpresents-1-us.plex.wurl.tv                            1
+  67923b26.wurl.com                                            1
   ca888b2b.wurl.com                                            1
   fa942f77.wurl.com                                            1
   all3media-midsomer-1-us.plex.wurl.tv                         1
