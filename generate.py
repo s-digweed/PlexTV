@@ -733,6 +733,50 @@ def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]
 
 
 # ---------------------------------------------------------------------------
+# Status page (status.json -> status.html)
+# ---------------------------------------------------------------------------
+
+def _friendly_note(note: str) -> str:
+    if note.startswith("host:"):
+        host = note[5:]
+        for key, label in (("xumo", "Xumo"), ("kaltura", "Kaltura (on-demand)"),
+                           ("galxy", "Galxy (on-demand)"), ("dai.google", "Google DAI"),
+                           ("wurl", "Wurl"), ("frequency", "Frequency"),
+                           ("otteravision", "Otteravision"), ("akamaized", "Akamai")):
+            if key in host:
+                return label
+        return host
+    return {"amagi-guess-failed": "Amagi refuses direct", "amagi-no-slug": "Amagi",
+            "geo-blocked-host": "host blocks outside US"}.get(note, note)
+
+
+def write_status(channels_by_region: dict, regions: list[str], direct: dict):
+    from status_page import update_status
+    try:
+        with open(DIRECT_CACHE_FILE, encoding="utf-8") as fh:
+            cache = json.load(fh)
+    except Exception:
+        cache = {}
+    out = {}
+    for region in regions:
+        chs = channels_by_region.get(region) or {}
+        rows = []
+        for gk, ch in chs.items():
+            if gk in direct:
+                host = requests.utils.urlparse(direct[gk]).netloc
+                fam = host.split(".")[-2] if host.count(".") >= 1 else host
+                status, detail = "free", f"direct · {fam}"
+            elif DIRECT_LINKS:
+                status, detail = "blocked", _friendly_note((cache.get(gk) or {}).get("note", ""))
+            else:
+                status, detail = "unknown", ""
+            rows.append({"id": gk, "name": ch.get("name", gk), "logo": ch.get("logo", ""),
+                         "group": (ch.get("genres") or [""])[0], "status": status, "detail": detail})
+        out[region] = {"name": REGION_NAMES.get(region, region.upper()), "channels": rows}
+    update_status("Plex", out, "status.json", "status_state.json")
+
+
+# ---------------------------------------------------------------------------
 # M3U generation
 # ---------------------------------------------------------------------------
 
@@ -1096,6 +1140,12 @@ def main():
         except Exception as exc:
             logger.warning("Direct-link step failed (%s) – using Plex links only.", exc)
             direct = {}
+
+    # ── 1c. Status page data (status.json for status.html) ─────────────────
+    try:
+        write_status(channels_by_region, args.regions, direct)
+    except Exception as exc:
+        logger.warning("Status page step failed (%s) – continuing.", exc)
 
     # ── 2. Per-region M3U + EPG ───────────────────────────────────────────
     all_channels: dict[str, dict] = {}   # merged set for plex_all.*

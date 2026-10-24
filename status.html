@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Channel Status</title>
+<style>
+:root{
+  --bg:#f6f5f2; --panel:#ffffff; --ink:#1c1b19; --muted:#6b675f; --line:#e4e1da;
+  --free:#1f8a4c; --free-bg:#e5f4ea; --block:#b8432f; --block-bg:#f9e7e2;
+  --unk:#7a7466; --unk-bg:#efede7; --accent:#2b5fd9; --accent-bg:#e6edfc;
+  --add:#1f8a4c; --rem:#b8432f; --ren:#a06a00;
+  --shadow:0 1px 2px rgba(0,0,0,.05),0 2px 8px rgba(0,0,0,.04);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#121212; --panel:#1b1b1a; --ink:#ecebe7; --muted:#9a968d; --line:#2c2b29;
+    --free:#5fcf8c; --free-bg:#16301f; --block:#f08a74; --block-bg:#3a1d17;
+    --unk:#a8a294; --unk-bg:#26251f; --accent:#7ea2ff; --accent-bg:#1c2540;
+    --add:#5fcf8c; --rem:#f08a74; --ren:#e2b04a; --shadow:none;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#121212; --panel:#1b1b1a; --ink:#ecebe7; --muted:#9a968d; --line:#2c2b29;
+  --free:#5fcf8c; --free-bg:#16301f; --block:#f08a74; --block-bg:#3a1d17;
+  --unk:#a8a294; --unk-bg:#26251f; --accent:#7ea2ff; --accent-bg:#1c2540;
+  --add:#5fcf8c; --rem:#f08a74; --ren:#e2b04a; --shadow:none;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans",sans-serif}
+.wrap{max-width:1080px;margin:0 auto;padding:20px 16px 60px}
+header{display:flex;flex-wrap:wrap;align-items:center;gap:12px 16px;margin-bottom:16px}
+h1{font-size:22px;margin:0;letter-spacing:-.01em}
+.sub{color:var(--muted);font-size:13px}
+.grow{flex:1}
+.seg{display:inline-flex;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:3px;gap:2px}
+.seg button{border:0;background:transparent;color:var(--muted);font:inherit;font-weight:600;
+  padding:6px 12px;border-radius:7px;cursor:pointer;white-space:nowrap}
+.seg button[aria-pressed="true"]{background:var(--accent-bg);color:var(--accent)}
+.iconbtn{border:1px solid var(--line);background:var(--panel);color:var(--muted);border-radius:8px;
+  padding:7px 9px;cursor:pointer;font:inherit;display:inline-flex}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:14px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;box-shadow:var(--shadow)}
+.card .k{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.card .v{font-size:24px;font-weight:700;font-variant-numeric:tabular-nums;margin-top:2px}
+.card .v small{font-size:13px;font-weight:600;color:var(--muted)}
+.v.free{color:var(--free)} .v.block{color:var(--block)}
+.regions{display:flex;gap:8px;overflow-x:auto;padding:2px 2px 10px;margin:0 -2px 6px;scrollbar-width:thin}
+.chip{flex:0 0 auto;border:1px solid var(--line);background:var(--panel);border-radius:12px;
+  padding:8px 11px;cursor:pointer;text-align:left;color:var(--ink);font:inherit;min-width:112px}
+.chip[aria-pressed="true"]{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent) inset}
+.chip .t{font-weight:650;font-size:14px;display:flex;gap:6px;align-items:center;white-space:nowrap}
+.chip .flag{font-size:17px;line-height:1}
+.chip .n{font-size:12px;color:var(--muted);margin-top:3px;font-variant-numeric:tabular-nums}
+.bar{height:4px;border-radius:3px;background:var(--block-bg);margin-top:6px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--free)}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:6px 0 12px}
+.tabs button{border:0;background:transparent;font:inherit;font-weight:600;color:var(--muted);
+  padding:9px 12px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}
+.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tabs .count{font-weight:500;color:var(--muted);font-size:12px;margin-left:4px}
+.toolbar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}
+.toolbar input{flex:1 1 220px;min-width:0;border:1px solid var(--line);background:var(--panel);color:var(--ink);
+  border-radius:9px;padding:8px 11px;font:inherit}
+.list{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;box-shadow:var(--shadow)}
+.row{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:center;padding:9px 12px;border-top:1px solid var(--line)}
+.row:first-child{border-top:0}
+.logo{width:44px;height:30px;border-radius:6px;background:var(--unk-bg);object-fit:contain}
+.nm{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.meta{font-size:12.5px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pill{font-size:12px;font-weight:650;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.pill.free{background:var(--free-bg);color:var(--free)}
+.pill.blocked{background:var(--block-bg);color:var(--block)}
+.pill.unknown{background:var(--unk-bg);color:var(--unk)}
+.more{display:block;width:100%;border:0;border-top:1px solid var(--line);background:transparent;color:var(--accent);
+  font:inherit;font-weight:600;padding:11px;cursor:pointer}
+.empty{padding:28px;text-align:center;color:var(--muted)}
+.day{margin-bottom:16px}
+.day h3{font-size:14px;margin:0 0 6px;color:var(--muted);font-weight:650}
+.chg{display:grid;grid-template-columns:22px 150px 1fr;gap:8px;align-items:baseline;padding:7px 12px;border-top:1px solid var(--line)}
+.chg:first-child{border-top:0}
+.chg .s{font-weight:800;text-align:center}
+.chg.added .s{color:var(--add)} .chg.removed .s{color:var(--rem)} .chg.renamed .s{color:var(--ren)}
+.chg .rg{font-size:12.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.chg .o{color:var(--muted);text-decoration:line-through}
+.note{font-size:13px;color:var(--muted);margin:10px 2px}
+.err{background:var(--block-bg);color:var(--block);border-radius:10px;padding:12px 14px;margin:10px 0}
+@media (max-width:700px){
+  .cards{grid-template-columns:repeat(2,1fr)}
+  .card .v{font-size:20px}
+  .row{grid-template-columns:36px 1fr;}
+  .row .pill{grid-column:2;justify-self:start;margin-top:-2px}
+  .logo{width:36px;height:26px}
+  .chg{grid-template-columns:18px 1fr}
+  .chg .rg{grid-column:2}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Channel Status</h1>
+      <div class="sub" id="updated">Loading…</div>
+    </div>
+    <div class="grow"></div>
+    <div class="seg" role="group" aria-label="Service" id="svc"></div>
+    <button class="iconbtn" id="theme" title="Toggle light/dark" aria-label="Toggle light/dark"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 0 0 18z" fill="currentColor"/></svg></button>
+  </header>
+
+  <div class="cards" id="cards"></div>
+  <div class="regions" id="regions" role="group" aria-label="Region"></div>
+
+  <div class="tabs" role="tablist">
+    <button role="tab" id="tab-ch" aria-selected="true">Channels<span class="count" id="c-ch"></span></button>
+    <button role="tab" id="tab-cg" aria-selected="false">Changes · 7 days<span class="count" id="c-cg"></span></button>
+  </div>
+
+  <section id="pane-ch">
+    <div class="toolbar">
+      <input id="q" type="search" placeholder="Search channels or genres…" autocomplete="off">
+      <div class="seg" role="group" aria-label="Filter" id="flt">
+        <button data-f="all" aria-pressed="true">All</button>
+        <button data-f="free" aria-pressed="false">VPN-free</button>
+        <button data-f="blocked" aria-pressed="false">Needs VPN</button>
+      </div>
+    </div>
+    <div class="list" id="list"></div>
+  </section>
+
+  <section id="pane-cg" hidden>
+    <div class="toolbar">
+      <div class="seg" role="group" aria-label="Change type" id="cflt">
+        <button data-f="all" aria-pressed="true">All</button>
+        <button data-f="added" aria-pressed="false">Added</button>
+        <button data-f="removed" aria-pressed="false">Removed</button>
+        <button data-f="renamed" aria-pressed="false">Renamed</button>
+      </div>
+    </div>
+    <div id="changes"></div>
+  </section>
+</div>
+
+<script>
+// Data sources: each repo commits a status.json every run. Override for testing
+// with ?plex=<url>&samsung=<url>.
+const P = new URLSearchParams(location.search);
+const SOURCES = [
+  {key:"plex",    label:"Plex",       url:P.get("plex")    || "https://raw.githubusercontent.com/s-digweed/PlexTV/main/status.json"},
+  {key:"samsung", label:"Samsung TV+", url:P.get("samsung") || "https://raw.githubusercontent.com/s-digweed/SamsungTVPlus/main/output/status.json"},
+];
+const ORDER = ["us","ca","gb","au","nz","de","at","ch","fr","es","it","nl","se","no","dk","fi","is","mx","br","in","jp","kr"];
+const PAGE = 200;
+
+const store = {
+  get(k,d){ try{ const v = localStorage.getItem("chs."+k); return v===null?d:v; }catch(e){ return d; } },
+  set(k,v){ try{ localStorage.setItem("chs."+k,v); }catch(e){} }
+};
+const state = {svc: store.get("svc","plex"), region: "all", tab:"ch", f:"all", cf:"all", q:"", shown:PAGE};
+const cache = {};
+const $ = id => document.getElementById(id);
+const esc = s => String(s??"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const flag = r => r==="all" ? "🌐" : (r.length===2 ? String.fromCodePoint(...[...r.toUpperCase()].map(c=>127397+c.charCodeAt(0))) : "🏳️");
+const fmtDate = d => new Date(d+"T00:00:00Z").toLocaleDateString(undefined,{weekday:"short",month:"short",day:"numeric",timeZone:"UTC"});
+const ago = iso => { const m = Math.round((Date.now()-Date.parse(iso))/60000);
+  return m<60 ? `${m} min ago` : m<1440 ? `${Math.round(m/60)} h ago` : `${Math.round(m/1440)} d ago`; };
+
+// theme toggle (remembered per viewer)
+(function(){ const t = store.get("theme",""); if(t) document.documentElement.dataset.theme = t; })();
+$("theme").onclick = () => {
+  const dark = document.documentElement.dataset.theme ? document.documentElement.dataset.theme==="dark"
+               : matchMedia("(prefers-color-scheme: dark)").matches;
+  const t = dark ? "light" : "dark"; document.documentElement.dataset.theme = t; store.set("theme", t);
+};
+
+function regionKeys(d){
+  const ks = Object.keys(d.regions);
+  return ks.sort((a,b)=>{ const ia=ORDER.indexOf(a), ib=ORDER.indexOf(b);
+    return (ia<0?99:ia)-(ib<0?99:ib) || a.localeCompare(b); });
+}
+function rowsFor(d, r){
+  if (r !== "all") return d.regions[r] ? d.regions[r].channels.map(c=>[...c, r]) : [];
+  // "All": one row per channel id, listing every region it appears in
+  const m = new Map();
+  for (const k of regionKeys(d)) for (const c of d.regions[k].channels){
+    const e = m.get(c[0]); if (e) e[6].push(k); else m.set(c[0], [...c, [k]]);
+  }
+  return [...m.values()].sort((a,b)=>a[1].localeCompare(b[1]));
+}
+function counts(rows){ let f=0,b=0,u=0; for(const c of rows){ c[4]==="free"?f++:c[4]==="blocked"?b++:u++; } return {f,b,u,t:rows.length}; }
+
+function renderSvc(){
+  $("svc").innerHTML = SOURCES.map(s=>`<button data-k="${s.key}" aria-pressed="${s.key===state.svc}">${esc(s.label)}</button>`).join("");
+  $("svc").querySelectorAll("button").forEach(b=>b.onclick=()=>{ state.svc=b.dataset.k; store.set("svc",state.svc); state.region="all"; state.shown=PAGE; load(); });
+}
+
+async function load(){
+  renderSvc();
+  const src = SOURCES.find(s=>s.key===state.svc) || SOURCES[0];
+  if (!cache[src.key]){
+    $("updated").textContent = "Loading…";
+    $("list").innerHTML = `<div class="empty">Loading ${esc(src.label)}…</div>`;
+    try{
+      const r = await fetch(src.url + (src.url.includes("?")?"&":"?") + "t=" + Date.now(), {cache:"no-store"});
+      if(!r.ok) throw new Error("HTTP "+r.status);
+      cache[src.key] = await r.json();
+    }catch(e){
+      $("updated").textContent = "";
+      $("cards").innerHTML = ""; $("regions").innerHTML = "";
+      $("list").innerHTML = `<div class="err">Couldn't load ${esc(src.label)} data (${esc(e.message)}).<br>
+        The repo writes <code>status.json</code> on its next run, so it may not exist yet.</div>`;
+      $("changes").innerHTML = ""; return;
+    }
+  }
+  render();
+}
+
+function render(){
+  const d = cache[state.svc]; if(!d) return;
+  const keys = regionKeys(d);
+  if (state.region!=="all" && !d.regions[state.region]) state.region="all";
+  $("updated").textContent = `${d.service} · updated ${ago(d.updated)} · ${new Date(d.updated).toLocaleString()}`;
+
+  // summary cards for the selected region
+  const rows = rowsFor(d, state.region), c = counts(rows);
+  const chg = d.changes.filter(x=>state.region==="all"||x.r===state.region);
+  const pct = c.t ? Math.round(100*c.f/c.t) : 0;
+  $("cards").innerHTML = `
+    <div class="card"><div class="k">Channels</div><div class="v">${c.t.toLocaleString()}</div></div>
+    <div class="card"><div class="k">VPN-free</div><div class="v free">${c.f.toLocaleString()} <small>${pct}%</small></div></div>
+    <div class="card"><div class="k">Needs VPN</div><div class="v block">${c.b.toLocaleString()}</div></div>
+    <div class="card"><div class="k">Changes · 7 days</div><div class="v">${chg.length}</div></div>`;
+
+  // region chips
+  const all = counts(rowsFor(d,"all"));
+  const chip = (k, name, cc) => `<button class="chip" data-r="${k}" aria-pressed="${state.region===k}">
+      <div class="t"><span class="flag">${flag(k)}</span>${esc(name)}</div>
+      <div class="n">${cc.f}/${cc.t} VPN-free</div>
+      <div class="bar"><i style="width:${cc.t?100*cc.f/cc.t:0}%"></i></div></button>`;
+  $("regions").innerHTML = chip("all","All", all) +
+    keys.map(k=>chip(k, d.regions[k].name, counts(d.regions[k].channels))).join("");
+  $("regions").querySelectorAll(".chip").forEach(b=>b.onclick=()=>{ state.region=b.dataset.r; state.shown=PAGE; render(); });
+
+  $("c-ch").textContent = c.t.toLocaleString(); $("c-cg").textContent = chg.length;
+  renderList(rows); renderChanges(chg, d);
+}
+
+function renderList(rows){
+  const q = state.q.trim().toLowerCase();
+  let r = rows;
+  if (state.f!=="all") r = r.filter(c => state.f==="free" ? c[4]==="free" : c[4]!=="free");
+  if (q) r = r.filter(c => c[1].toLowerCase().includes(q) || (c[3]||"").toLowerCase().includes(q) || (c[5]||"").toLowerCase().includes(q));
+  if (!r.length){ $("list").innerHTML = `<div class="empty">No channels match.</div>`; return; }
+  const label = {free:"VPN-free", blocked:"Needs VPN", unknown:"Unknown"};
+  const html = r.slice(0, state.shown).map(c=>{
+    const regs = Array.isArray(c[6]) ? c[6] : [c[6]];
+    const flags = state.region==="all" ? regs.map(flag).join(" ")+" · " : "";
+    return `<div class="row">
+      ${c[2] ? `<img class="logo" loading="lazy" src="${esc(c[2])}" alt="" onerror="this.style.visibility='hidden'">` : `<div class="logo"></div>`}
+      <div style="min-width:0"><div class="nm">${esc(c[1])}</div>
+        <div class="meta">${flags}${esc(c[3]||"")}${c[5] ? " · "+esc(c[5]) : ""}</div></div>
+      <span class="pill ${c[4]}">${label[c[4]]||c[4]}</span></div>`;
+  }).join("");
+  const more = r.length > state.shown ? `<button class="more" id="more">Show more (${(r.length-state.shown).toLocaleString()} left)</button>` : "";
+  $("list").innerHTML = html + more;
+  if (more) $("more").onclick = () => { state.shown += PAGE * 2; renderList(rows); };
+}
+
+function renderChanges(chg, d){
+  let c = state.cf==="all" ? chg : chg.filter(x=>x.t===state.cf);
+  if (!c.length){
+    const msg = d.first_run || d.tracking_since === d.updated.slice(0,10)
+      ? "Tracking started today. Added, removed and renamed channels will appear here from the next run."
+      : "No changes in the last 7 days.";
+    $("changes").innerHTML = `<div class="list"><div class="empty">${msg}</div></div>`; return;
+  }
+  const byDay = {};
+  for (const x of c) (byDay[x.d] ||= []).push(x);
+  const sym = {added:"+", removed:"−", renamed:"~"};
+  $("changes").innerHTML = Object.keys(byDay).sort().reverse().map(day => `
+    <div class="day"><h3>${fmtDate(day)} · ${byDay[day].length}</h3><div class="list">
+      ${byDay[day].map(x=>`<div class="chg ${x.t}"><span class="s" title="${x.t}">${sym[x.t]}</span>
+        <span class="rg">${flag(x.r)} ${esc((d.regions[x.r]||{}).name||x.r.toUpperCase())}</span>
+        <span>${x.t==="renamed" ? `<span class="o">${esc(x.o)}</span> → ` : ""}${esc(x.n)}</span></div>`).join("")}
+    </div></div>`).join("") +
+    `<p class="note">Tracking since ${fmtDate(d.tracking_since)}. Older days drop off after a week.</p>`;
+}
+
+// controls
+$("q").oninput = e => { state.q = e.target.value; state.shown = PAGE; render(); };
+$("flt").querySelectorAll("button").forEach(b=>b.onclick=()=>{
+  state.f=b.dataset.f; state.shown=PAGE; $("flt").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed", x===b)); render(); });
+$("cflt").querySelectorAll("button").forEach(b=>b.onclick=()=>{
+  state.cf=b.dataset.f; $("cflt").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed", x===b)); render(); });
+function tab(t){ state.tab=t; $("tab-ch").setAttribute("aria-selected", t==="ch"); $("tab-cg").setAttribute("aria-selected", t==="cg");
+  $("pane-ch").hidden = t!=="ch"; $("pane-cg").hidden = t!=="cg"; }
+$("tab-ch").onclick = () => tab("ch"); $("tab-cg").onclick = () => tab("cg");
+
+load();
+</script>
+</body>
+</html>
