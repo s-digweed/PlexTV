@@ -530,6 +530,15 @@ def _amagi_candidates(host: str, segs: list[str]) -> list[str]:
 _SKIP_HOST = re.compile(r"(xumo\.com|kaltura\.com|galxy\.tv|dai\.google\.com)$")
 _PL_NAMES = ("playlist.m3u8", "index.m3u8", "master.m3u8")
 
+# Direct links that verify fine from the (US) runner but are refused outside the US.
+# Channels on these hosts keep their Plex link. Tested from Saudi, Oct 2026:
+#   fubo.tv -> 403.   Add more host patterns here if a direct link won't play.
+DIRECT_GEO_BLOCKED = re.compile(r"(^|\.)fubo\.tv$")
+
+
+def _geo_blocked(url: str) -> bool:
+    return bool(DIRECT_GEO_BLOCKED.search(requests.utils.urlparse(url).netloc))
+
 
 def _generic_candidates(seg: str, limit: int = 16) -> list[str]:
     """Guess a live playlist from a segment URL by walking up its folders:
@@ -643,6 +652,8 @@ def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]
     def work(gk):
         ch, region = todo[gk]
         ent = cache.get(gk) or {}
+        if ent.get("url") and _geo_blocked(ent["url"]):
+            ent = {}                                    # forget it; fall through to re-resolve
         if ent.get("url"):
             if _is_live_playlist(verify_s, ent["url"]):
                 return gk, ent["url"], "cached", ""
@@ -652,7 +663,10 @@ def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]
         t = tok(region)
         if not t:
             return gk, None, "no-token", ""
-        return (gk, *_resolve_direct(ch, t, region))
+        url, note, sample = _resolve_direct(ch, t, region)
+        if url and _geo_blocked(url):
+            return gk, None, "geo-blocked-host", url[:250]
+        return gk, url, note, sample
 
     for r in {r for _, r in todo.values()}:
         tok(r)   # fetch tokens up-front (not thread-raced)
