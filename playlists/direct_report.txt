@@ -1,9 +1,10 @@
-Plex VPN-free direct links  (2026-10-24 01:22 UTC)
-Channels checked: 1409   VPN-free: 377   Still Plex link (VPN needed): 1032
+Plex VPN-free direct links  (2026-10-24 02:24 UTC)
+Channels checked: 1409   VPN-free: 486   Still Plex link (VPN needed): 923
 
   other host                   837
   direct (cached)              377
-  amagi-guess-failed           166
+  direct (new)                 109
+  amagi-guess-failed           57
   plex-404                     12
   plex-400                     7
   plex-403                     5
@@ -13,101 +14,101 @@ Channels checked: 1409   VPN-free: 377   Still Plex link (VPN needed): 1032
   variant-429                  1
 
 Non-Amagi video hosts (candidates for future support):
-  live-content-cf.xumo.com                                     103
-  live-content.cdn.xumo.com                                    52
-  lotus.stingray.com                                           27
-  hls-beacons-us.xumo.com                                      12
-  cfvod.kaltura.com                                            12
-  content.galxy.tv                                             8
-  stream.ads.ottera.tv                                         7
-  hls-beacons-eu.xumo.com                                      5
+  live-content-cf.xumo.com                                     99
+  live-content.cdn.xumo.com                                    53
+  lotus.stingray.com                                           29
+  hls-beacons-us.xumo.com                                      16
+  cfvod.kaltura.com                                            11
+  content.galxy.tv                                             7
+  stream.ads.ottera.tv                                         6
+  hls-beacons-eu.xumo.com                                      4
   oly-frc.otteravision.com                                     3
   oly-freba.otteravision.com                                   3
   linear-276.frequency.stream                                  2
   linear-859.frequency.stream                                  2
-  dai.google.com                                               2
+  o300801-mp-lura-live.akamaized.net                           2
+  stream-us-east-1.getpublica.com                              2
   azt-dep.otteravision.com                                     2
   ime-wbes.otteravision.com                                    2
+  plx-gatsa.otteravision.com                                   2
   lcf-gmv.otteravision.com                                     2
   oly-fresur.otteravision.com                                  2
   oly-fredr.otteravision.com                                   2
-  oly-freliv.otteravision.com                                  2
   linear-142.frequency.stream                                  2
+  oly-freliv.otteravision.com                                  2
   oly-ftvht.otteravision.com                                   2
   imps-smrfs.otteravision.com                                  2
-  o300801-mp-lura-live.fsy.nfl.com                             2
   default-tcs.fast.tcscdn.net                                  2
-  9e2698fd.wurl.com                                            1
-  67923b26.wurl.com                                            1
-  amc-amcpresents-1-us.plex.wurl.tv                            1
   amc-twdfanexperience-1-us.plex.wurl.tv                       1
+  9e2698fd.wurl.com                                            1
+  amc-amcpresents-1-us.plex.wurl.tv                            1
+  67923b26.wurl.com                                            1
   linear-866.frequency.stream                                  1
-  linear-850.frequency.stream                                  1
   amc-networks-acorntvmysteries-1-us.plex.wurl.tv              1
-  ca888b2b.wurl.com                                            1
-  linear-851.frequency.stream                                  1
-  linear-1143.frequency.stream                                 1
-  all3media-midsomer-1-us.plex.wurl.tv                         1
   fa942f77.wurl.com                                            1
+  linear-1143.frequency.stream                                 1
+  linear-851.frequency.stream                                  1
+  all3media-midsomer-1-us.plex.wurl.tv                         1
+  linear-850.frequency.stream                                  1
+  ca888b2b.wurl.com                                            1
   plex-xumoent-ch823-esulx.fast.nbcuni.com                     1
   linear-684.frequency.stream                                  1
   plex-xumoent-ch814-wygp0.fast.nbcuni.com                     1
-  99dd446e.wurl.com                                            1
 
 Example segment URLs (for working out new patterns):
-  [amagi-guess-failed]
-    SportsGrid: https://plexaaaaa-sportsgrid-plex-1xnmu.amagi.tv/ts-us-w2-n2/beacon/plexAAAAA-sportsgrid-plex/cb503b18657a649093d4396ff2ae3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895bee68429f14ce06533357596cdb51d87818d7af3ae80d611b4226e1c1f664dc9a1517b1de1f3251cb1e632de21e49897e0632feec19038a74f55a0d01e7046b1963deeb47ad6852db801ae82e7fdaef847e3c7e5d419c5b4ff1f657a0aee90b408d71f2e7184e882e44b1835fc0854dbc9dd20e
-    Tastemade: https://tastemade-tastemadefreetv16-plex-3antb.amagi.tv/ts-us-e2-n1/beacon/tastemade-tastemadefreetv16-plex/cb503b18657a649093d4396ff2ae3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895bee68429f14ce06533357596cdb51d87818d7af3ae80d611b4226e1c1f664dc9a1517b1de1f3251cb1e632de21e49897e0632feec19038a74f55a0d01e7046b1963deeb47ad6852db801ae82e7fdaef847e3c7e5d419c5b4ff1a959a6aeb255418d71f2e7184f882e44b1835f
-    Nosey: https://amg00514-amg00514c7-amgplt0020.playout.now3.amagi.tv/ts-us-e2-n2/beacon/amg00514-amg00514c7-amgplt0020/6dc7c583-cf47-11f1-8a64-c6cff4dc0a10/426x240_511680?bcn=1&ca=0&cid=JS-1885_JERRY_021712_Final_V3_N2&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00514-amg00514c7-amgplt0020.playout.now3.amagi.tv%2Fnosey-lg%2F240p-cc%2Fseg_0055018.ts&seen-ad=1&seg_id=55018&user_id=6dc7c583-cf47-
   [live-content-cf.xumo.com]
-    Wu Tang Collection: https://live-content-cf.xumo.com/2185/content/XM081KHVOMGB8N/22607421/0_307.ts
-    Fifth Gear (UK): https://live-content-cf.xumo.com/3867/content/XM06GYBKUOCUAZ/25764682/0_338.ts
-    FilmRise Películas Gratis: https://live-content-cf.xumo.com/1082/content/XM0AH1A1Z2J41M/23136125/0_208.ts
+    Wu Tang Collection: https://live-content-cf.xumo.com/2185/content/XM081KHVOMGB8N/22607421/0_850.ts
+    Fifth Gear (UK): https://live-content-cf.xumo.com/3867/content/XM01VW6XUCB3SP/25764722/0_419.ts
+    FilmRise Películas Gratis: https://live-content-cf.xumo.com/149/content/XM09JV25BF3D9J/29077335/2_017.ts
+  [amagi-guess-failed]
+    Nosey: https://amg00514-amg00514c7-amgplt0020.playout.now3.amagi.tv/ts-us-e2-n2/beacon/amg00514-amg00514c7-amgplt0020/2f966970-cf50-11f1-add9-6e0054de32e2/426x240_511680?bcn=1&ca=0&cid=JS-18159_JERRY_022004_Final_N2&dur=6.006000&media_type=C&redirect_url=ht  || tried: 403 https://amg00514-amg00514c7-amgplt0020.playout.now3.amagi.tv/playlist/amg00514-amg00514c7-amgplt0020/playlist.m3u8 ; 403 https://amg00514-amg00514c7-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+    Judge Nosey: https://amg00514-amg00514c5-amgplt0020.playout.now3.amagi.tv/ts-us-w2-n1/beacon/amg00514-amg00514c5-amgplt0020/309e554a-cf50-11f1-9698-9a76ac319d15/426x240_511680?bcn=1&ca=0&cid=CU-0190_CUTLERS01090H_final_JN&dur=6.006000&media_type=C&redirect_url=ht  || tried: 403 https://amg00514-amg00514c5-amgplt0020.playout.now3.amagi.tv/playlist/amg00514-amg00514c5-amgplt0020/playlist.m3u8 ; 403 https://amg00514-amg00514c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+    Nosey Escándalos: https://amg00514-amg00514c13-amgplt0020.playout.now3.amagi.tv/ts-us-w2-n2/beacon/amg00514-amg00514c13-amgplt0020/8073f702-cf50-11f1-8ed7-3af006e7977a/1920x1080_4870800?bcn=1&ca=0&cid=SW-1868_WILKOS_022015_es-la_BURN_SUB_D86999&dur=6.006000&media_type  || tried: 404 https://amg00514-amg00514c13-amgplt0020.playout.now3.amagi.tv/playlist/amg00514-amg00514c13-amgplt0020/playlist.m3u8 ; 404 https://amg00514-amg00514c13-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
   [live-content.cdn.xumo.com]
-    Beyblade: https://live-content.cdn.xumo.com/149/content/XM0VL21NTUGTMS/23760606/0_013.ts
-    Beyond Belief: https://live-content.cdn.xumo.com/2070/content/XM0HHJRXM3IJJM/23037634/0_046.ts
-    Highway to Heaven: https://live-content.cdn.xumo.com/2070/content/XM0GO01EGZS4AV/23908400/0_053.ts
+    Beyblade: https://live-content.cdn.xumo.com/2071/content/XM0NKTP56SA0YD/24097366/0_119.ts
+    Beyond Belief: https://live-content.cdn.xumo.com/2070/content/XM0LLD32MXN7Z1/23037633/0_096.ts
+    Highway to Heaven: https://live-content.cdn.xumo.com/2070/content/XM003TF9T7UBUA/23908419/0_090.ts
   [lotus.stingray.com]
-    Stingray Karaoke: https://lotus.stingray.com/segment-cache/karaoke-kar000-montreal/plextv/66383e27-025f-4c88-be22-c5e5a96f8f63/segment.ts?lotus-session-id=ab4eeb60-cd0e-3014-a909-66a30b8c0d67
-    Stingray Naturescape: https://lotus.stingray.com/segment-cache/naturescape-a003-montreal/plextv/e7c3646c-da19-4af1-80fe-f9c1461696f1/segment.ts?lotus-session-id=a4e200a5-66ac-3609-8b5f-49eb2db17cd3
-    Stingray Greatest Hits: https://lotus.stingray.com/segment-cache/ose-155ads-montreal/plextv/fed4b66b-88fe-4572-99b6-f493a6138359/segment.ts?lotus-session-id=8de3184e-8551-3868-adcf-8a4caf0065ab
-  [cfvod.kaltura.com]
-    KidsFlix: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/0_qfipc2qw/v/2/pv/1/ev/11/flavorId/0_r5npxgrt/clipFrom/2400000/clipTo/2880000/name/a.mp4/index.m3u8/seg-4-v1-a1.ts
-    Cooking Panda: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/0_etdhaad1/v/2/pv/1/ev/11/flavorId/0_ms7vsbmf/name/a.mp4/index.m3u8/seg-41-v1-a1.ts
-    SKWAD: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_108vibeh/clipTo/1800000/v/1/pv/1/ev/7/flavorId/1_r7cg3ig2/name/a.mp4/index.m3u8/seg-132-v1-a1.ts
+    Stingray Karaoke: https://lotus.stingray.com/segment-cache/karaoke-kar000-montreal/plextv/307040f6-6a47-41f0-933b-2123e2619a77/segment.ts?lotus-session-id=ab4eeb60-cd0e-3014-a909-66a30b8c0d67
+    Qello Concerts: https://lotus.stingray.com/segment-cache/qello-qello001-montreal/plextv/baf5bb36-1f78-4704-9f05-f7bb0bae3b93/segment.ts?lotus-session-id=f20f35fe-bb1c-3bc8-9104-ecb9aef94933
+    Stingray Naturescape: https://lotus.stingray.com/segment-cache/naturescape-a003-montreal/plextv/1b34e763-24b8-400a-9085-10062843f534/segment.ts?lotus-session-id=a4e200a5-66ac-3609-8b5f-49eb2db17cd3
   [hls-beacons-us.xumo.com]
-    Dr. G: Medical Examiner: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM0Q3YEHNB02J2%2F22853917%2F0_183.ts&aid=XM0Q3YEHNB02J2&eventType=ASSET&cid=88889307&did=19618a58832f4833&playId=1792803453571&eventSubType=playInterval&pid=260
-    FilmRise Anime: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F197%2Fcontent%2FXM04YP292SSLXH%2F24244713%2F0_323.ts&aid=XM04YP292SSLXH&eventType=ASSET&cid=88889303&did=19618a58832f4833&playId=1792803896361&eventSubType=playInterval&pid=197
-    FilmRise True Crime: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM07O1UFZNP0Q2%2F24412528%2F0_347.ts&aid=XM07O1UFZNP0Q2&eventType=ASSET&cid=88889316&did=19618a58832f4833&playId=1792803664228&eventSubType=playInterval&pid=260
+    FilmRise Concursos de Cocina: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM0I7FMJ1OYDOU%2F24049541%2F0_072.ts&aid=XM0I7FMJ1OYDOU&eventType=ASSET&cid=88889305&did=19618a58832f4833&playId=1792807570993&eventSubType=playInterval&pid=260
+    Hell's Kitchen & Kitchen Nightmares: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM0SJEHUDOQNAX%2F22227144%2F0_022.ts&aid=XM0SJEHUDOQNAX&eventType=ASSET&cid=88889312&did=19618a58832f4833&playId=1792807604000&eventSubType=playInterval&pid=260
+    FilmRise Sci-Fi: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM0OUGY28BWA7L%2F29089047%2F0_173.ts&aid=XM0OUGY28BWA7L&eventType=ASSET&cid=88889314&did=19618a58832f4833&playId=1792807756785&eventSubType=playInterval&pid=260
+  [cfvod.kaltura.com]
+    KidsFlix: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_wvem7zoy/v/1/pv/1/ev/10/flavorId/1_mqnwisu3/clipFrom/480000/clipTo/960000/name/a.mp4/index.m3u8/seg-37-v1-a1.ts
+    Cooking Panda: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/0_05zhdgob/v/12/pv/1/flavorId/0_vuku6haz/name/a.mp4/index.m3u8/seg-53-v1-a1.ts
+    SKWAD: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_p0kr3u8s/v/1/pv/1/ev/7/flavorId/1_nx7p41x1/clipFrom/480000/clipTo/960000/name/a.mp4/index.m3u8/seg-60-v1-a1.ts
   [content.galxy.tv]
-    SLOPES: https://content.galxy.tv/e6379dd1fe914b4796461d1b1b49e721/a/D0000000D.ts
-    CINEPRIDE: https://content.galxy.tv/0f1e0d53cb5c43bca5b845cee20a4d77/a/D00000532.ts
-    Watch it SCREAM: https://content.galxy.tv/3c648bb0f02e4991a48161d1761e7945/a/D0000042E.ts
+    SLOPES: https://content.galxy.tv/184d0020735c40cc8dd879d0915809f3/a/D00000077.ts
+    CINEPRIDE: https://content.galxy.tv/e6379dd1fe914b4796461d1b1b49e721/a/D00000015.ts
+    Watch it SCREAM: https://content.galxy.tv/179dce83ac664d00a0aede2aefbfd3cf/a/D00000234.ts
   [stream.ads.ottera.tv]
-    Qello Concerts: https://stream.ads.ottera.tv/mf2/1280x720_2500000?u=https%3A%2F%2Fd35p4ep9ync6qx.cloudfront.net%2Ff4eda2b7e04d41c96af708a90297539a%2Fprog_index_2-1.ts&v=1280x720_2500000&c=261024dbe0bn17hdms73aqhff0&a=0&s=0&n=568&d=107
-    Qello Concerts: https://stream.ads.ottera.tv/mf2/1280x720_2500000?u=https%3A%2F%2Fd35p4ep9ync6qx.cloudfront.net%2F0a06b377226d1e8f79e72662f182d48f%2Fprog_index_2-1.ts&v=1280x720_2500000&c=261024dbe0da5canec73c54qd0&a=0&s=0&n=3042&d=125
-    Today's K-Pop: https://stream.ads.ottera.tv/mf2/720x404_600000?u=https%3A%2F%2Fd35p4ep9ync6qx.cloudfront.net%2Ff4eda2b7e04d41c96af708a90297539a%2Fprog_index_7-1.ts&v=720x404_600000&c=261024dbe0bnf17g3c73e8rqo0&a=0&s=0&n=3018&d=115
+    Hit List: https://stream.ads.ottera.tv/mf2/720x404_600000?u=https%3A%2F%2Fd35p4ep9ync6qx.cloudfront.net%2Ff425508c476d92d26b953c2d58e503ca%2Fprog_index_7-1.ts&v=720x404_600000&c=261024dbe192v2esuc738divig&a=0&s=0&n=1388&d=55
+    Pop Adult: https://stream.ads.ottera.tv/mf2/720x404_600000?u=https%3A%2F%2Fd35p4ep9ync6qx.cloudfront.net%2F6ee88454709f66fb8c2d5dab1535872d%2Fprog_index_7-1.ts&v=720x404_600000&c=261024dbe192vs39is73ebcpbg&a=0&s=0&n=3023&d=31
+    Hip-Hop/R&B: https://stream.ads.ottera.tv/mf2/720x404_600000?u=https%3A%2F%2Fd35p4ep9ync6qx.cloudfront.net%2Ff425508c476d92d26b953c2d58e503ca%2Fprog_index_7-1.ts&v=720x404_600000&c=261024dbe192sq1tlc73al7gl0&a=0&s=0&n=3024&d=37
   [hls-beacons-eu.xumo.com]
-    Mutant X: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2701%2Fcontent%2FXM0IR4KFLN205N%2F23111088%2F0_100.ts&aid=XM0IR4KFLN205N&eventType=ASSET&cid=88889375&did=19618a58832f4833&playId=1792804417804&eventSubType=playInterval&pid=2701
-    FilmRise Free Movies: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2071%2Fcontent%2FXM0RB5P3A9YMXA%2F29045715%2F0_005.ts&aid=XM0RB5P3A9YMXA&eventType=ASSET&cid=88889350&did=0cd709930e754fdf&playId=1792804423274&eventSubType=playInterval&pid=2071
-    FilmRise Serien: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2070%2Fcontent%2FXM0XD4FLAVL3DH%2F24529667%2F0_218.ts&aid=XM0XD4FLAVL3DH&eventType=ASSET&cid=88889336&did=19618a58832f4833&playId=1792804367804&eventSubType=playInterval&pid=2070
+    Beyond Belief: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2071%2Fcontent%2FXM0HMH8LFCU1JP%2F23150882%2F0_058.ts&aid=XM0HMH8LFCU1JP&eventType=ASSET&cid=88889361&did=19618a58832f4833&playId=1792807525000&eventSubType=playInterval&pid=2071
+    FilmRise Sci-Fi: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2779%2Fcontent%2FXM0ICCKEVDDPC6%2F23277291%2F0_069.ts&aid=XM0ICCKEVDDPC6&eventType=ASSET&cid=88889342&did=19618a58832f4833&playId=1792808197912&eventSubType=playInterval&pid=2779
+    Echos du Monde: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F4231%2Fcontent%2FXM0VNKUWHZKJ6O%2F27950433%2F0_289.ts&aid=XM0VNKUWHZKJ6O&eventType=ASSET&cid=88889492&did=19618a58832f4833&playId=1792808209584&eventSubType=playInterval&pid=4231
   [oly-frc.otteravision.com]
-    FreeTV Clásico: https://oly-frc.otteravision.com/oly/frc/frc_720/05042/frc_720_00096.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=&platform=&network_id=16404
-    FreeTV Clásico: https://oly-frc.otteravision.com/oly/frc/frc_720/05042/frc_720_00084.ts?device_model=&device_type=&device_manufacturer=&device_id=&partner=plex&platform=&network_id=16215
-    FreeTV Clásico: https://oly-frc.otteravision.com/oly/frc/frc_720/05042/frc_720_00025.ts?device_model=&device_type=&device_manufacturer=&device_id=&partner=plex_us&platform=&network_id=16405
+    FreeTV Clásico: https://oly-frc.otteravision.com/oly/frc/frc_720/05049/frc_720_00025.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=&platform=&network_id=16404
+    FreeTV Clásico: https://oly-frc.otteravision.com/oly/frc/frc_720/05049/frc_720_00014.ts?device_model=&device_type=&device_manufacturer=&device_id=&partner=plex&platform=&network_id=16215
+    FreeTV Clásico: https://oly-frc.otteravision.com/oly/frc/frc_720/05048/frc_720_00055.ts?device_model=&device_type=&device_manufacturer=&device_id=&partner=plex_us&platform=&network_id=16405
   [oly-freba.otteravision.com]
-    FreeTV Banda: https://oly-freba.otteravision.com/oly/freba/freba_720/00126/freba_720_00044.ts?device_model=&device_type=&device_manufacturer=&device_id=&partner=plex&platform=&network_id=16216
-    FreeTV Banda: https://oly-freba.otteravision.com/oly/freba/freba_720/00126/freba_720_00045.ts?device_model=&device_type=&device_manufacturer=&device_id=&partner=plex_es&platform=&network_id=16340
-    FreeTV Banda: https://oly-freba.otteravision.com/oly/freba/freba_720/00125/freba_720_00075.ts?device_model=&device_type=&device_manufacturer=&device_id=&partner=plex_us&platform=&network_id=16509
+    FreeTV Banda: https://oly-freba.otteravision.com/oly/freba/freba_720/00132/freba_720_00072.ts?device_model=&device_type=&device_manufacturer=&device_id=&partner=plex&platform=&network_id=16216
+    FreeTV Banda: https://oly-freba.otteravision.com/oly/freba/freba_720/00132/freba_720_00073.ts?device_model=&device_type=&device_manufacturer=&device_id=&partner=plex_es&platform=&network_id=16340
+    FreeTV Banda: https://oly-freba.otteravision.com/oly/freba/freba_720/00132/freba_720_00006.ts?device_model=&device_type=&device_manufacturer=&device_id=&partner=plex_us&platform=&network_id=16509
   [azt-dep.otteravision.com]
-    Azteca Deportes Network: https://azt-dep.otteravision.com/azt/dep/dep_720p_high/00004/dep_720p_high_04704.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=&platform=&network_id=17197
-    Azteca Deportes Network: https://azt-dep.otteravision.com/azt/dep/dep_720p_high/00004/dep_720p_high_04645.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=&platform=&network_id=17196
-  [dai.google.com]
-    60 Minutes: https://dai.google.com/linear/pods/v1/p/nrb-l85CR7SIr-rGXqz4zA/d54bd154-d932-454d-83d9-d614e8d9a1aa:DLS/103376/0/0/230c50eec3082fc020ccc6f5de13e8c7/0.ts
-    48 Hours: https://dai.google.com/linear/pods/v1/p/JUr94WL2QAiVpGNHY5n5dA/654906f8-374a-4f2f-b8d0-245de5f0ac4e:TUL/125244/0/0/e4d6f26662448010dc810f7a40b209fd/1.ts
+    Azteca Deportes Network: https://azt-dep.otteravision.com/azt/dep/dep_720p_high/00004/dep_720p_high_05335.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=&platform=&network_id=17197
+    Azteca Deportes Network: https://azt-dep.otteravision.com/azt/dep/dep_720p_high/00004/dep_720p_high_05280.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=&platform=&network_id=17196
   [default-tcs.fast.tcscdn.net]
-    Stand-Up Comedy: https://default-tcs.fast.tcscdn.net/fast-bestofstandupcomedy/e907b6a9-2a59-9b50-6bc0-d02da0201287/HLS_GOP6_CLEAR_PREMIUM/20240316.131730.098331/data_0_733.ts
-    Big Brother Classics: https://default-tcs.fast.tcscdn.net/tefo2bigbrother/1ad58637-fc2d-21ce-ef0e-295bf74c1176/HLS_GOP6_CLEAR_PREMIUM/20260619.191637.280307/data_0_132.ts
+    Stand-Up Comedy: https://default-tcs.fast.tcscdn.net/fast-bestofstandupcomedy/bd8f2d8d-0b6d-5730-38f8-ce59d6ef800c/HLS_GOP6_CLEAR_PREMIUM/20240316.053655.225322/data_0_299.ts
+    Big Brother Classics: https://default-tcs.fast.tcscdn.net/tefo2bigbrother/6976c85e-d4a4-913b-4481-264c088acf67/HLS_GOP6_CLEAR_PREMIUM/20260619.201116.643571/data_0_272.ts
   [ime-wbes.otteravision.com]
-    Western Bound Español: https://ime-wbes.otteravision.com/ime/wbes/wbes_720p/00009/wbes_720p_02313.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=plex_latam&platform=&network_id=16447
-    Western Bound Español: https://ime-wbes.otteravision.com/ime/wbes/wbes_720p/00009/wbes_720p_02257.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=plex_us&platform=&network_id=16611
+    Western Bound Español: https://ime-wbes.otteravision.com/ime/wbes/wbes_720p/00009/wbes_720p_02946.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=plex_latam&platform=&network_id=16447
+    Western Bound Español: https://ime-wbes.otteravision.com/ime/wbes/wbes_720p/00009/wbes_720p_02890.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=plex_us&platform=&network_id=16611
+  [imps-smrfs.otteravision.com]
+    Pitufo TV: https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720/00613/smrfs_720_00055.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=&platform=&network_id=4256
+    Pitufo TV: https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720/00613/smrfs_720_00043.ts?device_model=&device_type=&device_manufacturer=&device_id=22145854-9155-5b8e-bd1b-7f2ea36a1a1f&partner=&platform=&network_id=17129
