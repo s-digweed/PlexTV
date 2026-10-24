@@ -257,17 +257,21 @@ function render(){
   $("updated").textContent = `${d.service} · updated ${ago(d.updated)} · ${new Date(d.updated).toLocaleString()}`;
 
   // summary cards for the selected region
-  const rows = rowsFor(d, state.region), c = counts(rows);
+  const rows = rowsFor(d, state.region);
+  // "All" counts every playlist entry (a channel in 5 regions counts 5 times, like
+  // TiviMate shows it); the list itself still shows each channel once with its flags.
+  const entries = state.region==="all" ? keys.flatMap(k=>d.regions[k].channels) : rows;
+  const c = counts(entries), uniq = rows.length;
   const chg = d.changes.filter(x=>state.region==="all"||x.r===state.region);
   const pct = c.t ? Math.round(100*c.f/c.t) : 0;
   $("cards").innerHTML = `
-    <div class="card"><div class="k">Channels</div><div class="v">${c.t.toLocaleString()}</div></div>
+    <div class="card"><div class="k">Channels</div><div class="v">${c.t.toLocaleString()}${state.region==="all" && uniq!==c.t ? ` <small>${uniq.toLocaleString()} unique</small>` : ""}</div></div>
     <div class="card"><div class="k">VPN-free</div><div class="v free">${c.f.toLocaleString()} <small>${pct}%</small></div></div>
     <div class="card"><div class="k">Needs VPN</div><div class="v block">${c.b.toLocaleString()}</div></div>
     <div class="card"><div class="k">Changes · 7 days</div><div class="v">${chg.length}</div></div>`;
 
   // region chips
-  const all = counts(rowsFor(d,"all"));
+  const all = counts(keys.flatMap(k=>d.regions[k].channels));
   const chip = (k, name, cc) => `<button class="chip" data-r="${k}" aria-pressed="${state.region===k}">
       <div class="t"><span class="flag">${flag(k)}</span>${esc(name)}</div>
       <div class="n">${cc.f}/${cc.t} VPN-free</div>
@@ -276,7 +280,7 @@ function render(){
     keys.map(k=>chip(k, d.regions[k].name, counts(d.regions[k].channels))).join("");
   $("regions").querySelectorAll(".chip").forEach(b=>b.onclick=()=>{ state.region=b.dataset.r; state.shown=PAGE; render(); });
 
-  $("c-ch").textContent = c.t.toLocaleString(); $("c-cg").textContent = chg.length;
+  $("c-ch").textContent = uniq.toLocaleString(); $("c-cg").textContent = chg.length;
   renderList(rows); renderChanges(chg, d);
 }
 
