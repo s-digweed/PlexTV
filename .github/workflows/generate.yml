@@ -28,6 +28,7 @@ on:
   push:
     paths:
       - "generate.py"
+      - "status_page.py"
       - ".github/workflows/generate.yml"
 
 jobs:
@@ -143,9 +144,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           if [ "${{ steps.cmd.outputs.no_epg_run }}" = "true" ]; then
-            git add playlists/*.m3u playlists/direct_report.txt channels.json direct_urls.json 2>/dev/null || git add playlists/*.m3u
+            for f in playlists/*.m3u playlists/direct_report.txt channels.json direct_urls.json status.json status_state.json; do if [ -e "$f" ]; then git add "$f"; fi; done
           else
-            git add playlists/ channels.json direct_urls.json 2>/dev/null || git add playlists/
+            for f in playlists channels.json direct_urls.json status.json status_state.json; do if [ -e "$f" ]; then git add "$f"; fi; done
           fi
 
           if git diff --cached --quiet; then
