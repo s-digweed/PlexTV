@@ -472,7 +472,7 @@ def get_channels_for_regions(regions: list[str], force_refresh: bool = False) ->
 # VPN-free direct links (Amagi)
 # ---------------------------------------------------------------------------
 
-_AMAGI_SLUG = re.compile(r"/(?:beacon|playlist)/(amg\d+-[A-Za-z0-9_-]+)/")
+_AMAGI_SLUG = re.compile(r"/(?:beacon|playlist)/([A-Za-z0-9_-]{6,})/")
 
 
 def _first_uri(text: str, base: str) -> list[str]:
@@ -488,12 +488,24 @@ def _first_uri(text: str, base: str) -> list[str]:
     return out
 
 
-def _is_live_playlist(session, url: str) -> bool:
+def _probe_playlist(session, url: str) -> str:
+    """'ok' for a live HLS playlist, else a short reason (HTTP code / not-m3u8 / vod)."""
     try:
         r = session.get(url, timeout=15)
-        return r.status_code == 200 and r.text.lstrip().startswith("#EXTM3U")
-    except Exception:
-        return False
+    except Exception as exc:
+        return type(exc).__name__
+    if r.status_code != 200:
+        return str(r.status_code)
+    t = r.text.lstrip()
+    if not t.startswith("#EXTM3U"):
+        return "not-m3u8"
+    if "#EXT-X-ENDLIST" in t:
+        return "vod"
+    return "ok"
+
+
+def _is_live_playlist(session, url: str) -> bool:
+    return _probe_playlist(session, url) == "ok"
 
 
 def _amagi_candidates(host: str, segs: list[str]) -> list[str]:
@@ -507,7 +519,8 @@ def _amagi_candidates(host: str, segs: list[str]) -> list[str]:
             for m in _AMAGI_SLUG.finditer(seg):
                 add(m.group(1))
     sub = host.split(".")[0]                           # e.g. amg02051-...-plex-us-341
-    add(re.sub(r"-\d+$", "", sub))                     # drop the trailing node number
+    add(re.sub(r"-\d+$", "", sub))                     # drop a trailing node number
+    add(re.sub(r"-[a-z0-9]{5}$", "", sub))             # drop a random 5-char suffix (…-plex-3antb)
     add(sub)
     return cands[:6]
 
@@ -542,11 +555,15 @@ def _resolve_direct(ch: dict, token: str, region: str) -> tuple[str | None, str,
         cands = _amagi_candidates(host, segs)
         if not cands:
             return None, "amagi-no-slug", sample
-        for slug in cands:
-            direct = f"https://{host}/playlist/{slug}/playlist.m3u8"
-            if _is_live_playlist(s, direct):
+        tried = []
+        urls = [f"https://{host}/playlist/{slug}/playlist.m3u8" for slug in cands]
+        urls.append(f"https://{host}/playlist.m3u8")
+        for direct in urls:
+            res = _probe_playlist(s, direct)
+            if res == "ok":
                 return direct, "ok", ""
-        return None, "amagi-guess-failed", sample
+            tried.append(f"{res} {direct}")
+        return None, "amagi-guess-failed", (sample[:250] + "  || tried: " + " ; ".join(tried))[:900]
     except Exception as exc:
         return None, "error:" + type(exc).__name__, ""
     finally:
@@ -583,7 +600,7 @@ def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]
         if ent.get("url"):
             if _is_live_playlist(verify_s, ent["url"]):
                 return gk, ent["url"], "cached", ""
-        elif (ent.get("v") == 2 and ent.get("fail_ts")
+        elif (ent.get("v") == 3 and ent.get("fail_ts")
               and now - ent["fail_ts"] < DIRECT_RETRY_HOURS * 3600):
             return gk, None, ent.get("note", "failed"), ent.get("sample", "")
         t = tok(region)
@@ -609,9 +626,9 @@ def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]
                 prev = cache.get(gk) or {}
                 fail_ts = prev.get("fail_ts") if (not prev.get("url") and prev.get("fail_ts")
                                                   and now - prev["fail_ts"] < DIRECT_RETRY_HOURS * 3600) else now
-                if prev.get("v") != 2:
+                if prev.get("v") != 3:
                     fail_ts = now
-                cache[gk] = {"fail_ts": fail_ts, "note": note, "name": todo[gk][0].get("name", ""), "v": 2}
+                cache[gk] = {"fail_ts": fail_ts, "note": note, "name": todo[gk][0].get("name", ""), "v": 3}
                 if sample:
                     cache[gk]["sample"] = sample
                 bucket = "other host" if note.startswith("host:") else note
