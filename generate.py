@@ -496,11 +496,27 @@ def _is_live_playlist(session, url: str) -> bool:
         return False
 
 
-def _resolve_direct(ch: dict, token: str, region: str) -> tuple[str | None, str]:
-    """Follow Plex master -> variant -> segments; return (direct_url, note)."""
+def _amagi_candidates(host: str, segs: list[str]) -> list[str]:
+    """Candidate /playlist/<slug>/ names for an Amagi host, best guess first."""
+    cands: list[str] = []
+    def add(x):
+        if x and x not in cands:
+            cands.append(x)
+    for seg in segs:                                   # slugs seen in segment paths
+        if requests.utils.urlparse(seg).netloc == host:
+            for m in _AMAGI_SLUG.finditer(seg):
+                add(m.group(1))
+    sub = host.split(".")[0]                           # e.g. amg02051-...-plex-us-341
+    add(re.sub(r"-\d+$", "", sub))                     # drop the trailing node number
+    add(sub)
+    return cands[:6]
+
+
+def _resolve_direct(ch: dict, token: str, region: str) -> tuple[str | None, str, str]:
+    """Follow Plex master -> variant -> segments; return (direct_url, note, sample_segment)."""
     key = ch.get("key", "")
     if not key:
-        return None, "no-key"
+        return None, "no-key", ""
     headers = {"User-Agent": BASE_HEADERS["User-Agent"],
                "X-Forwarded-For": GEO_IPS.get(region, GEO_IPS["us"])}
     s = _make_session(retries=2, backoff=1.0)
@@ -509,31 +525,30 @@ def _resolve_direct(ch: dict, token: str, region: str) -> tuple[str | None, str]
         master_url = f"https://epg.provider.plex.tv{key}?X-Plex-Token={token}"
         r = s.get(master_url, timeout=20)
         if r.status_code != 200:
-            return None, f"plex-{r.status_code}"
+            return None, f"plex-{r.status_code}", ""
         variants = _first_uri(r.text, r.url)
         if not variants:
-            return None, "no-variant"
+            return None, "no-variant", ""
         r2 = s.get(variants[0], timeout=20)
         if r2.status_code != 200:
-            return None, f"variant-{r2.status_code}"
+            return None, f"variant-{r2.status_code}", ""
         segs = _first_uri(r2.text, r2.url)
         if not segs:
-            return None, "no-segments"
+            return None, "no-segments", ""
+        sample = segs[0][:400]                 # segment URLs carry no Plex token
         host = requests.utils.urlparse(segs[0]).netloc
         if not host.endswith(".amagi.tv"):
-            return None, "host:" + (host or "?")
-        for seg in segs:
-            if requests.utils.urlparse(seg).netloc != host:
-                continue
-            m = _AMAGI_SLUG.search(seg)
-            if m:
-                direct = f"https://{host}/playlist/{m.group(1)}/playlist.m3u8"
-                if _is_live_playlist(s, direct):
-                    return direct, "ok"
-                return None, "amagi-guess-failed"
-        return None, "amagi-no-slug"
+            return None, "host:" + (host or "?"), sample
+        cands = _amagi_candidates(host, segs)
+        if not cands:
+            return None, "amagi-no-slug", sample
+        for slug in cands:
+            direct = f"https://{host}/playlist/{slug}/playlist.m3u8"
+            if _is_live_playlist(s, direct):
+                return direct, "ok", ""
+        return None, "amagi-guess-failed", sample
     except Exception as exc:
-        return None, "error:" + type(exc).__name__
+        return None, "error:" + type(exc).__name__, ""
     finally:
         s.close()
 
@@ -567,14 +582,14 @@ def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]
         ent = cache.get(gk) or {}
         if ent.get("url"):
             if _is_live_playlist(verify_s, ent["url"]):
-                return gk, ent["url"], "cached"
-        elif ent.get("fail_ts") and now - ent["fail_ts"] < DIRECT_RETRY_HOURS * 3600:
-            return gk, None, ent.get("note", "failed")
+                return gk, ent["url"], "cached", ""
+        elif (ent.get("v") == 2 and ent.get("fail_ts")
+              and now - ent["fail_ts"] < DIRECT_RETRY_HOURS * 3600):
+            return gk, None, ent.get("note", "failed"), ent.get("sample", "")
         t = tok(region)
         if not t:
-            return gk, None, "no-token"
-        url, note = _resolve_direct(ch, t, region)
-        return gk, url, note
+            return gk, None, "no-token", ""
+        return (gk, *_resolve_direct(ch, t, region))
 
     for r in {r for _, r in todo.values()}:
         tok(r)   # fetch tokens up-front (not thread-raced)
@@ -584,7 +599,7 @@ def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]
     hosts: dict[str, int] = {}
     with ThreadPoolExecutor(max_workers=DIRECT_WORKERS) as pool:
         for fut in as_completed([pool.submit(work, gk) for gk in todo]):
-            gk, url, note = fut.result()
+            gk, url, note, sample = fut.result()
             if url:
                 results[gk] = url
                 cache[gk] = {"url": url, "ts": now, "name": todo[gk][0].get("name", "")}
@@ -594,7 +609,11 @@ def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]
                 prev = cache.get(gk) or {}
                 fail_ts = prev.get("fail_ts") if (not prev.get("url") and prev.get("fail_ts")
                                                   and now - prev["fail_ts"] < DIRECT_RETRY_HOURS * 3600) else now
-                cache[gk] = {"fail_ts": fail_ts, "note": note, "name": todo[gk][0].get("name", "")}
+                if prev.get("v") != 2:
+                    fail_ts = now
+                cache[gk] = {"fail_ts": fail_ts, "note": note, "name": todo[gk][0].get("name", ""), "v": 2}
+                if sample:
+                    cache[gk]["sample"] = sample
                 bucket = "other host" if note.startswith("host:") else note
                 notes[bucket] = notes.get(bucket, 0) + 1
                 if note.startswith("host:"):
@@ -613,6 +632,20 @@ def resolve_direct_links(channels_by_region: dict, token_for, regions: list[str]
     if hosts:
         lines += ["", "Non-Amagi video hosts (candidates for future support):"]
         lines += [f"  {h:60s} {n}" for h, n in sorted(hosts.items(), key=lambda x: -x[1])[:40]]
+    # a few example segment URLs per failure type / host, to work out new patterns
+    ex: dict[str, list[str]] = {}
+    for gk, v in cache.items():
+        if v.get("url") or not v.get("sample"):
+            continue
+        n = v.get("note", "")
+        bucket = n if not n.startswith("host:") else n[5:]
+        if len(ex.setdefault(bucket, [])) < 3:
+            ex[bucket].append(f"{v.get('name','')}: {v['sample']}")
+    if ex:
+        lines += ["", "Example segment URLs (for working out new patterns):"]
+        for b in sorted(ex, key=lambda k: (-sum(1 for v in cache.values() if v.get('note','') in (k, 'host:'+k)), k))[:15]:
+            lines.append(f"  [{b}]")
+            lines += [f"    {x}" for x in ex[b]]
     report = "\n".join(lines) + "\n"
     with open(os.path.join(OUTPUT_DIR, DIRECT_REPORT), "w", encoding="utf-8") as fh:
         fh.write(report)
