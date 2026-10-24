@@ -1,0 +1,56 @@
+Plex VPN-free direct links  (2026-10-24 00:21 UTC)
+Channels checked: 1409   VPN-free: 377   Still Plex link (VPN needed): 1032
+
+  other host                   835
+  direct (new)                 377
+  amagi-guess-failed           142
+  amagi-no-slug                24
+  plex-404                     12
+  plex-400                     7
+  plex-403                     5
+  variant-429                  3
+  plex-500                     2
+  plex-504                     1
+  variant-401                  1
+
+Non-Amagi video hosts (candidates for future support):
+  live-content-cf.xumo.com                                     106
+  live-content.cdn.xumo.com                                    48
+  lotus.stingray.com                                           25
+  cfvod.kaltura.com                                            13
+  stream.ads.ottera.tv                                         10
+  hls-beacons-us.xumo.com                                      9
+  hls-beacons-eu.xumo.com                                      9
+  content.galxy.tv                                             8
+  oly-freba.otteravision.com                                   3
+  linear-276.frequency.stream                                  2
+  linear-859.frequency.stream                                  2
+  azt-dep.otteravision.com                                     2
+  ime-wbes.otteravision.com                                    2
+  plx-gatsa.otteravision.com                                   2
+  lcf-gmv.otteravision.com                                     2
+  oly-fresur.otteravision.com                                  2
+  oly-fredr.otteravision.com                                   2
+  oly-freliv.otteravision.com                                  2
+  linear-142.frequency.stream                                  2
+  oly-ftvht.otteravision.com                                   2
+  imps-smrfs.otteravision.com                                  2
+  o300801-mp-lura-live.fsy.nfl.com                             2
+  oly-frc.otteravision.com                                     2
+  amc-twdfanexperience-1-us.plex.wurl.tv                       1
+  amc-amcpresents-1-us.plex.wurl.tv                            1
+  67923b26.wurl.com                                            1
+  9e2698fd.wurl.com                                            1
+  ca888b2b.wurl.com                                            1
+  linear-850.frequency.stream                                  1
+  linear-866.frequency.stream                                  1
+  amc-networks-acorntvmysteries-1-us.plex.wurl.tv              1
+  all3media-midsomer-1-us.plex.wurl.tv                         1
+  fa942f77.wurl.com                                            1
+  linear-851.frequency.stream                                  1
+  linear-1143.frequency.stream                                 1
+  plex-xumoent-ch823-esulx.fast.nbcuni.com                     1
+  linear-684.frequency.stream                                  1
+  plex-xumoent-ch814-wygp0.fast.nbcuni.com                     1
+  a25cabe4.wurl.com                                            1
+  99dd446e.wurl.com                                            1
