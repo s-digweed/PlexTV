@@ -826,6 +826,38 @@ def build_m3u(
     return "".join(lines)
 
 
+# Group names for plex_all.m3u. The 8 regions of the old Google-Script playlist keep
+# that playlist's exact group names ("GB", "FR" ...) so TiviMate favourites carry over.
+ALL_GROUP_NAMES = {
+    "us": "United States", "ca": "Canada", "gb": "GB", "au": "Australia",
+    "mx": "Mexico", "nz": "New Zealand", "es": "Spain", "fr": "FR",
+}
+
+
+def build_m3u_all(channels_by_region: dict, regions: list[str], token: str,
+                  repo_raw_base: str, direct: dict | None = None) -> str:
+    """plex_all.m3u: every channel listed under EVERY region it's in (one group per
+    region), like the old playlist - so a channel never vanishes from a region group."""
+    epg_url = f"{repo_raw_base}/playlists/plex_all.xml.gz"
+    lines = [f'#EXTM3U url-tvg="{epg_url}"\n']
+    for region in regions:
+        chans = channels_by_region.get(region) or {}
+        group = ALL_GROUP_NAMES.get(region) or REGION_NAMES.get(region, region.upper())
+        for gk, ch in sorted(chans.items(), key=lambda x: x[1].get("name", "").lower()):
+            plex_key = ch.get("key", "")
+            if not plex_key:
+                continue
+            name = _sanitize(ch.get("name", gk))
+            url = (direct or {}).get(gk) or \
+                f"https://epg.provider.plex.tv{plex_key}?X-Plex-Token={token}"
+            lines.append(
+                f'#EXTINF:-1 channel-id="plex-{gk}-{region}" tvg-id="{gk}" '
+                f'tvg-name="{name.replace(chr(34), chr(39))}" tvg-logo="{ch.get("logo", "")}" '
+                f'group-title="{group}",{name}\n')
+            lines.append(url + "\n")
+    return "".join(lines)
+
+
 # ---------------------------------------------------------------------------
 # EPG / XMLTV generation
 # ---------------------------------------------------------------------------
@@ -1187,7 +1219,7 @@ def main():
         all_token, all_client_id = get_anonymous_token(fallback_region)
 
         if all_token:
-            all_m3u = build_m3u(all_channels, all_token, "all", args.repo, direct)
+            all_m3u = build_m3u_all(channels_by_region, args.regions, all_token, args.repo, direct)
             write_playlist("plex_all.m3u", all_m3u)
 
             if not args.no_epg:
