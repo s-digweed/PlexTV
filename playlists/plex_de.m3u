@@ -48,7 +48,7 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6970fdabbde5
 #EXTINF:-1 channel-id="plex-63d6f6c5a9e88ee909e7ee1f" tvg-id="63d6f6c5a9e88ee909e7ee1f" tvg-name="Brat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png" group-title="Kids & Family",Brat TV
 https://amg00350-bratstudio-brat-plex-z6svw.amagi.tv/playlist/amg00350-bratstudio-brat-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6967ddc9d09de5839997b5fb" tvg-id="6967ddc9d09de5839997b5fb" tvg-name="Bronco" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bc3b143-a014-4373-982c-71d46335567c/Channel_Logo_Color_BroncoRDX.png" group-title="Classics",Bronco
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6967ddc9d09de5839997b5fb.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://plaion-pictures-gmbh-bronco-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-65b1568052aa31b8f64da064" tvg-id="65b1568052aa31b8f64da064" tvg-name="C4 en Alerta" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="En Español",C4 en Alerta
 https://mul-cea.otteravision.com/mul/cea/cea_720.m3u8
 #EXTINF:-1 channel-id="plex-6164a963766ab4f9f57e81b1" tvg-id="6164a963766ab4f9f57e81b1" tvg-name="Camp Spoopy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png" group-title="Kids & Family",Camp Spoopy
@@ -208,7 +208,7 @@ https://amg01821-amg01821c12-plex-germany-5428.playouts.now.amagi.tv/playlist/am
 #EXTINF:-1 channel-id="plex-67a1a8ef2358ef4dd5c3018e" tvg-id="67a1a8ef2358ef4dd5c3018e" tvg-name="Lucha Plus" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png" group-title="En Español",Lucha Plus
 https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60db63d29ec966002c9ea6f0" tvg-id="60db63d29ec966002c9ea6f0" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="Daytime TV & Games",Made In Hollywood
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-60db63d29ec966002c9ea6f0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://connection3-ent-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6aa9c4a3083227098739435b" tvg-id="6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png" group-title="Sports",Man City 24/7
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6aa9c4a3083227098739435b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69a529f77c245b3390e8a4de" tvg-id="69a529f77c245b3390e8a4de" tvg-name="Masha and the Bear" tvg-logo="https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png" group-title="Kids & Family",Masha and the Bear
@@ -504,6 +504,6 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-67d1bd805aa0
 #EXTINF:-1 channel-id="plex-6a63a830a1deb5624927c629" tvg-id="6a63a830a1deb5624927c629" tvg-name="ZDF zu Hause" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e3563c7-26cf-45b4-bf42-489cb5934885/Channel_Logo_ZDF_zu_Hause_Color_for_DarkBG_-_Olivia_Beigh.png" group-title="Food, Home & Culture",ZDF zu Hause
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6a63a830a1deb5624927c629.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66fd3e25216b603e031725fe" tvg-id="66fd3e25216b603e031725fe" tvg-name="ZenLIFE by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png" group-title="Explore",ZenLIFE by Stingray
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-66fd3e25216b603e031725fe.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://lotus.stingray.com/manifest/zenlife-zen001-paris/plex/master.m3u8
 #EXTINF:-1 channel-id="plex-62efba6588a16bb7d6b6fb58" tvg-id="62efba6588a16bb7d6b6fb58" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Music",Éxitos del Momento
 https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
