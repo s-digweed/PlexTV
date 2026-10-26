@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-10-25 23:18 UTC)
+Plex VPN-free direct links  (2026-10-26 04:49 UTC)
 Channels checked: 1409   VPN-free: 805   Still Plex link (VPN needed): 604
 
   direct (cached)              805
@@ -22,8 +22,8 @@ Non-Amagi video hosts (candidates for future support):
   o300801-mp-lura-live.fsy.nfl.com                             2
   default-tcs.fast.tcscdn.net                                  2
   67923b26.wurl.com                                            1
-  9e2698fd.wurl.com                                            1
   amc-amcpresents-1-us.plex.wurl.tv                            1
+  9e2698fd.wurl.com                                            1
   ca888b2b.wurl.com                                            1
   fa942f77.wurl.com                                            1
   all3media-midsomer-1-us.plex.wurl.tv                         1
