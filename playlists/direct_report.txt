@@ -1,17 +1,16 @@
-Plex VPN-free direct links  (2026-10-26 09:02 UTC)
+Plex VPN-free direct links  (2026-10-26 13:05 UTC)
 Channels checked: 1409   VPN-free: 812   Still Plex link (VPN needed): 597
 
-  direct (cached)              805
+  direct (cached)              812
   other host                   512
   amagi-guess-failed           56
   plex-404                     12
-  direct (new)                 7
   plex-400                     7
   plex-403                     5
   plex-500                     2
   geo-blocked-host             1
-  variant-401                  1
   plex-504                     1
+  variant-401                  1
 
 Non-Amagi video hosts (candidates for future support):
   live-content-cf.xumo.com                                     98
@@ -26,33 +25,33 @@ Non-Amagi video hosts (candidates for future support):
   9e2698fd.wurl.com                                            1
   amc-amcpresents-1-us.plex.wurl.tv                            1
   ca888b2b.wurl.com                                            1
-  all3media-midsomer-1-us.plex.wurl.tv                         1
   fa942f77.wurl.com                                            1
+  all3media-midsomer-1-us.plex.wurl.tv                         1
   a25cabe4.wurl.com                                            1
-  amc-allblk-gems-1-us.plex.wurl.tv                            1
   99dd446e.wurl.com                                            1
-  plex-ono-3-us.plex.wurl.tv                                   1
+  amc-allblk-gems-1-us.plex.wurl.tv                            1
   e8df38f7.wurl.com                                            1
+  plex-ono-3-us.plex.wurl.tv                                   1
   candlelightmedia-sparklightlove-1-us.plex.wurl.tv            1
-  mansa-mansamix-1-us.plex.wurl.tv                             1
-  29d259f5.wurl.com                                            1
-  8bf58746.wurl.com                                            1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
+  mansa-mansamix-1-us.plex.wurl.tv                             1
+  8bf58746.wurl.com                                            1
+  29d259f5.wurl.com                                            1
   4b85927c.wurl.com                                            1
   fc68c857.wurl.com                                            1
-  a3c67275.wurl.com                                            1
-  f288da96.wurl.com                                            1
   22c2efa2.wurl.com                                            1
+  a3c67275.wurl.com                                            1
   dce88dcc.wurl.com                                            1
+  trublufactual-trublu-1-us.plex.wurl.tv                       1
+  f288da96.wurl.com                                            1
   fdf989f5.wurl.com                                            1
   news20e7hhcb.airspace-cdn.cbsivideo.com                      1
   2255b2ae.wurl.com                                            1
-  trublufactual-trublu-1-us.plex.wurl.tv                       1
   dai.google.com                                               1
   be3ec8e4.wurl.com                                            1
-  9f9bb6fa.wurl.com                                            1
-  da47cba8.wurl.com                                            1
   da2884db.wurl.com                                            1
+  da47cba8.wurl.com                                            1
+  9f9bb6fa.wurl.com                                            1
   55d28294.wurl.com                                            1
 
 Example segment URLs (for working out new patterns):
