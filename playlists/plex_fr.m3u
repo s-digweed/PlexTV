@@ -10,7 +10,7 @@ https://bbb-aclco.otteravision.com/bbb/aclco/aclco_720p.m3u8
 #EXTINF:-1 channel-id="plex-66be944f8711311880995280" tvg-id="66be944f8711311880995280" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Adrenaline & Sci-Fi",Action Hollywood Movies
 https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69d6d88b1790acff6189dea5" tvg-id="69d6d88b1790acff6189dea5" tvg-name="AddictaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png" group-title="En Español",AddictaTV
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69d6d88b1790acff6189dea5.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://6bc89793.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a285269915c7c0d3211be8b" tvg-id="6a285269915c7c0d3211be8b" tvg-name="ADRENALINE SPICA LIFE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8fb17498-49c7-4b4b-9149-dd92d51a8516/Adrenaline_logo_1500x1000_all_white_for_attribution.png" group-title="True Crime",ADRENALINE SPICA LIFE
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a285269915c7c0d3211be8b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Global",AfroLandTV
@@ -220,7 +220,7 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6aa9c4a30832
 #EXTINF:-1 channel-id="plex-69a529f77c245b3390e8a4de" tvg-id="69a529f77c245b3390e8a4de" tvg-name="Masha and the Bear" tvg-logo="https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png" group-title="Kids & Family",Masha and the Bear
 https://amg01954-amg01954c2-plex-international-11279.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5ef4e1b40d9ad000423c4430" tvg-id="5ef4e1b40d9ad000423c4430" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Movies",Maverick Black Cinema
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef4e1b40d9ad000423c4430.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://maverick-maverick-black-cinema-2-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-693caec5e2cae3f1bc73ae28" tvg-id="693caec5e2cae3f1bc73ae28" tvg-name="Mayday: Catastrophe Aérienne" tvg-logo="https://provider-static.plex.tv/epg/cms/production/053a9dcb-a667-4aa2-9476-373bfc023f56/Logo_MaydayFR_1500x1500_AllWhite_-_Belen_BrunoRDX.png" group-title="Reality",Mayday: Catastrophe Aérienne
 https://amg01821-amg01821c40-plex-france-10722.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68e9436dda6bb987138625c7" tvg-id="68e9436dda6bb987138625c7" tvg-name="Metal.Rocks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png" group-title="Music",Metal.Rocks

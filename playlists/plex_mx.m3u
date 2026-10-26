@@ -12,7 +12,7 @@ https://bbb-aclco.otteravision.com/bbb/aclco/aclco_720p.m3u8
 #EXTINF:-1 channel-id="plex-66be944f8711311880995280" tvg-id="66be944f8711311880995280" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Adrenaline & Sci-Fi",Action Hollywood Movies
 https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69d6d88b1790acff6189dea5" tvg-id="69d6d88b1790acff6189dea5" tvg-name="AddictaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png" group-title="En Español",AddictaTV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-69d6d88b1790acff6189dea5.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://6bc89793.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Global",AfroLandTV
 https://alt-al.otteravision.com/alt/al/al_720p.m3u8
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Music",Alternative
@@ -262,7 +262,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-69a526053eb3
 #EXTINF:-1 channel-id="plex-657221540c7d9b1f1ebc515b" tvg-id="657221540c7d9b1f1ebc515b" tvg-name="MasterChef Mexico" tvg-logo="https://provider-static.plex.tv/epg/cms/production/007599ee-1005-478f-8da1-e1bf0c9998c6/MasterchefMexico_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Bingeworthy",MasterChef Mexico
 https://amg00627-banijay-amg00627c10-plex-us-2000.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefmexico-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5ef4e1b40d9ad000423c4430" tvg-id="5ef4e1b40d9ad000423c4430" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Movies",Maverick Black Cinema
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5ef4e1b40d9ad000423c4430.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://maverick-maverick-black-cinema-2-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68e9436dda6bb987138625c7" tvg-id="68e9436dda6bb987138625c7" tvg-name="Metal.Rocks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png" group-title="Music",Metal.Rocks
 https://amg00771-amg00771c5-plex-us-9714.playouts.now.amagi.tv/playlist/amg00771-kochfilmsfast-metalrocks-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-666e1c83d91d13cb4c8cbb71" tvg-id="666e1c83d91d13cb4c8cbb71" tvg-name="Mi Casa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png" group-title="En Español",Mi Casa

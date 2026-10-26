@@ -38,7 +38,7 @@ https://amc-networks-acorntvmysteries-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66be944f8711311880995280" tvg-id="66be944f8711311880995280" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Adrenaline & Sci-Fi",Action Hollywood Movies
 https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69d6d88b1790acff6189dea5" tvg-id="69d6d88b1790acff6189dea5" tvg-name="AddictaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png" group-title="En Español",AddictaTV
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d6d88b1790acff6189dea5.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://6bc89793.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a4afa08410e0eea561f76b1" tvg-id="6a4afa08410e0eea561f76b1" tvg-name="ADN NOTICIAS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/223b82fa-afa1-46e5-a7f1-11e0365bc77c/Logo_ADN_NEUTRO.png" group-title="En Español",ADN NOTICIAS
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Global",AfroLandTV
@@ -368,7 +368,7 @@ https://amg01705-amg01705c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-a
 #EXTINF:-1 channel-id="plex-6434540bf43c8cfbfdc6e600" tvg-id="6434540bf43c8cfbfdc6e600" tvg-name="ElectricNOW en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ba8f950-5d83-4adb-8fd5-e0bf4426de43/ENow_ES_Logo_-_Dark_Backgrounds_1500x1000RDX.png" group-title="En Español",ElectricNOW en Español
 https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c2-amgplt0020/playlist.m3u8
 #EXTINF:-1 channel-id="plex-65f0e049046e6131ecc31847" tvg-id="65f0e049046e6131ecc31847" tvg-name="Emoción Atres" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd8c1a3e-61d1-402c-b998-efb1a8276621/EMOCIONATRES_COLORRDX.png" group-title="En Español",Emoción Atres
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65f0e049046e6131ecc31847.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69d57d295a891b1ff36c0c5c" tvg-id="69d57d295a891b1ff36c0c5c" tvg-name="Entertains" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d5fc6d1-628c-459a-afd8-061feab68458/ABC-enertains-logo-dark-mode_wht_pink_text.png" group-title="Comedy",Entertains
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d57d295a891b1ff36c0c5c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a8744fdb1b3d334c851bbc5" tvg-id="6a8744fdb1b3d334c851bbc5" tvg-name="Entravision Ahora" tvg-logo="https://provider-static.plex.tv/epg/cms/production/26b9f118-779a-42a1-bff4-2fa0c41d0f53/EA_COLOR_1500X1000RDXwWHTLETTERS.png" group-title="En Español",Entravision Ahora
@@ -636,7 +636,7 @@ https://linear-291.frequency.stream/mt/plex/291/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a0373bd58b72ffa94d84b6a" tvg-id="6a0373bd58b72ffa94d84b6a" tvg-name="JoySauce" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7aca1592fc47bf951d6dcbf77109a98d.png" group-title="Global",JoySauce
 https://linear-1035.frequency.stream/dist/cineverse/1035/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-639baa971a12420ff66ae7b1" tvg-id="639baa971a12420ff66ae7b1" tvg-name="Jubao" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e14f2078-3820-466e-8b9f-41fb618a7ce6/jubao_logo_dark_-_Ali_Clausenrdx_1500x1000.png" group-title="Global",Jubao
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-639baa971a12420ff66ae7b1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/93e7d9ea772c2453847cb34ee19862ee/master.m3u8
 #EXTINF:-1 channel-id="plex-5f5132da62fe160040f26b5b" tvg-id="5f5132da62fe160040f26b5b" tvg-name="Judge Faith" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d32af01-5d94-4992-809c-4dd54b7099ea/judge_faith_White.png" group-title="Daytime TV & Games",Judge Faith
 https://amg18477-mycode-amg18477c1-plex-us-9636.playouts.now.amagi.tv/playlist/amg18477-mycode-judgefaith-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a3c23ef776737893b3d488f" tvg-id="6a3c23ef776737893b3d488f" tvg-name="Judge Judy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0c434858-9cab-4ba6-a5ff-9347b2f337d6/JUDGEJUDY_LIGHT-LOGO_wht.png" group-title="Daytime TV & Games",Judge Judy
@@ -682,7 +682,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-682511d9ae45
 #EXTINF:-1 channel-id="plex-66a1b02777649467da169f14" tvg-id="66a1b02777649467da169f14" tvg-name="Love & Marriage" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c8f1b6ec-268a-46d3-9b0c-0934c9b89680/Love_Marriage_Logo_Dark_1500x1000.png" group-title="Reality",Love & Marriage
 https://amg00136-wbd-amg00136c6-plex-us-4281.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvloveandmarriage-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-684059c5f36ba25bbd7fb81d" tvg-id="684059c5f36ba25bbd7fb81d" tvg-name="Love After Lockup We TV" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/523ba8f27e7a00c542f555eee93ddbb4.png" group-title="Reality",Love After Lockup We TV
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-684059c5f36ba25bbd7fb81d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amc-networks-loveafterlockupwetv-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60995eb136c72d002da7bbcb" tvg-id="60995eb136c72d002da7bbcb" tvg-name="Love Nature" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="Explore",Love Nature
 https://plexaaaaa-bamus-lovenature-eng-plex-7834a.amagi.tv/playlist/plexAAAAA-bamus-lovenature-eng-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63fe7d7eb6312779f56504d3" tvg-id="63fe7d7eb6312779f56504d3" tvg-name="Love Pets" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2cdf51b9-c535-4795-836d-ec1e97b124e9/PlexTV_LovePets_Logos-Primary-ForDarkBG_1500x1000_-_Rashmi_Palvannan.png" group-title="Explore",Love Pets
@@ -704,7 +704,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6aa9c4a30832
 #EXTINF:-1 channel-id="plex-63ec126f9866d8d2120ac75b" tvg-id="63ec126f9866d8d2120ac75b" tvg-name="Matched Married Meet" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ff3050c8-c078-450e-a1c4-2765c7911f1f/MatchedMarriedMeet-Channel-Logo-_Light_-1500x1000px.png" group-title="Reality",Matched Married Meet
 https://amg00276-aetelevisionnet-matchedmarriedmeet-plex-9llyp.amagi.tv/playlist/amg00276-aetelevisionnet-matchedmarriedmeet-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5ef4e1b40d9ad000423c4430" tvg-id="5ef4e1b40d9ad000423c4430" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Movies",Maverick Black Cinema
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5ef4e1b40d9ad000423c4430.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://maverick-maverick-black-cinema-2-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64275805efc65caa7e9514d6" tvg-id="64275805efc65caa7e9514d6" tvg-name="Mayday: Air Disaster" tvg-logo="https://provider-static.plex.tv/epg/cms/production/56055a21-e529-4b54-8f9e-42cf8fc41bc5/MaydayAirDisaster_Logo_FullColour_1500x1000_-_Patrick_LeeRED.png" group-title="Reality",Mayday: Air Disaster
 https://linear-475-1.frequency.stream/mt/plex/475/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6515fd4f2ff655e77635c628" tvg-id="6515fd4f2ff655e77635c628" tvg-name="McLeods Daughters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2eba068-98bd-4070-a669-7573db4224a4/McLeodsDaughters_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Classics",McLeods Daughters

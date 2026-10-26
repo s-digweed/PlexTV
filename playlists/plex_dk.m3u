@@ -12,7 +12,7 @@ https://bbb-aclco.otteravision.com/bbb/aclco/aclco_720p.m3u8
 #EXTINF:-1 channel-id="plex-66be944f8711311880995280" tvg-id="66be944f8711311880995280" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Adrenaline & Sci-Fi",Action Hollywood Movies
 https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69d6d88b1790acff6189dea5" tvg-id="69d6d88b1790acff6189dea5" tvg-name="AddictaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png" group-title="En Español",AddictaTV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69d6d88b1790acff6189dea5.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://6bc89793.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-680ad4e93f3c406c06d73929" tvg-id="680ad4e93f3c406c06d73929" tvg-name="Adventure Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/48c1daab-9d4a-4381-8bb7-c551efd5d054/Adventure_Earth_ChannelLogo_White_1500x1000_TilmanRDX.png" group-title="Explore",Adventure Earth
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-680ad4e93f3c406c06d73929.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Global",AfroLandTV
@@ -240,7 +240,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a30832
 #EXTINF:-1 channel-id="plex-69a529f77c245b3390e8a4de" tvg-id="69a529f77c245b3390e8a4de" tvg-name="Masha and the Bear" tvg-logo="https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png" group-title="Kids & Family",Masha and the Bear
 https://amg01954-amg01954c2-plex-international-11279.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5ef4e1b40d9ad000423c4430" tvg-id="5ef4e1b40d9ad000423c4430" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Movies",Maverick Black Cinema
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://maverick-maverick-black-cinema-2-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-690cd1fb750b5c46ff424c8e" tvg-id="690cd1fb750b5c46ff424c8e" tvg-name="Mayday: Air Disaster" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4c908f9-fa67-4a24-9413-b2e735726e89/PTV_Mayday_1500x1000px_Logo_Colored.png" group-title="Reality",Mayday: Air Disaster
 https://linear-1023.frequency.stream/mt/plex-uk/1023/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68e9436dda6bb987138625c7" tvg-id="68e9436dda6bb987138625c7" tvg-name="Metal.Rocks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png" group-title="Music",Metal.Rocks
@@ -368,7 +368,7 @@ https://dgnqcdrn0288a.cloudfront.net/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6924c93e16131bf9651354e0" tvg-id="6924c93e16131bf9651354e0" tvg-name="Sony One | Thriller TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8a4b92f3-3160-45d3-8cc3-2bc322eeb0d2/UK_FAST_Plex_ThrillerTV_logo_dark.png" group-title="Bingeworthy",Sony One | Thriller TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6924c93e16131bf9651354e0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6aa9bf6c0832270987394355" tvg-id="6aa9bf6c0832270987394355" tvg-name="Sparkle Movies - Light & Love" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f298b7ea-8fae-4b76-a6aa-5bd4b7b5eb25/SparkleMovies_WhiteRDX.png" group-title="Movies",Sparkle Movies - Light & Love
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://52b777b5.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6349ed0eb1adc4cfa571fd37" tvg-id="6349ed0eb1adc4cfa571fd37" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Food, Home & Culture",SPEEDVISION
 https://linear-1683.frequency.stream/mt/plex/1683/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5ef11485d33ab9004048a1ca" tvg-id="5ef11485d33ab9004048a1ca" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Sports",SportsGrid
