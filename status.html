@@ -113,6 +113,7 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
   .logo{width:36px;height:26px}
   .chg{grid-template-columns:18px 1fr}
   .chg .rg{grid-column:2}
+  .chg .cn{grid-column:2;min-width:0}
 }
 </style>
 </head>
@@ -320,7 +321,7 @@ function renderChanges(chg, d){
     <div class="day"><h3>${fmtDate(day)} · ${byDay[day].length}</h3><div class="list">
       ${byDay[day].map(x=>`<div class="chg ${x.t}"><span class="s" title="${x.t}">${sym[x.t]}</span>
         <span class="rg">${flag(x.r)} ${esc((d.regions[x.r]||{}).name||x.r.toUpperCase())}</span>
-        <span>${x.t==="renamed" ? `<span class="o">${esc(x.o)}</span> → ` : ""}${esc(x.n)}</span></div>`).join("")}
+        <span class="cn">${x.t==="renamed" ? `<span class="o">${esc(x.o)}</span> → ` : ""}${esc(x.n)}</span></div>`).join("")}
     </div></div>`).join("") +
     `<p class="note">Tracking since ${fmtDate(d.tracking_since)}. Older days drop off after a week.</p>`;
 }
