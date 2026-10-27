@@ -167,7 +167,7 @@ https://amg01074-fueltv-fueltv-international-en-plex-6hc6y.amagi.tv/playlist/amg
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-621672e42c2627c068e73ad8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67c24d5a45ae99120c07158c" tvg-id="67c24d5a45ae99120c07158c" tvg-name="Gata Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c4604da1-d6b6-4043-95fb-9a90f4f0273c/Plex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png" group-title="Bingeworthy",Gata Salvaje
 https://plx-gatsa.otteravision.com/plx/gatsa/gatsa_720p.m3u8
-#EXTINF:-1 channel-id="plex-67c247c345ae99120c071586" tvg-id="67c247c345ae99120c071586" tvg-name="GFN Football TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db267869-c485-4e8d-985a-8876cf62790a/Channel_Logo_-_1500x1000.png" group-title="Sports",GFN Football TV
+#EXTINF:-1 channel-id="plex-67c247c345ae99120c071586" tvg-id="67c247c345ae99120c071586" tvg-name="GFN Football TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f365a9e-9802-422b-b715-f394a2e411fb/AFNFootballWHITEChannel_Logo_-_1500x1000.png" group-title="Sports",GFN Football TV
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67c247c345ae99120c071586.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5eea605474085f0040ddc76d" tvg-id="5eea605474085f0040ddc76d" tvg-name="Glewed TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="Food, Home & Culture",Glewed TV
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5eea605474085f0040ddc76d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn

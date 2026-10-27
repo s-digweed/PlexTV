@@ -155,7 +155,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5ac
 https://amg01074-fueltv-fueltv-international-en-plex-6hc6y.amagi.tv/playlist/amg01074-fueltv-fueltv-international-en-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621672e42c2627c068e73ad8" tvg-id="621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png" group-title="Adrenaline & Sci-Fi",Galxy TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-67c247c345ae99120c071586" tvg-id="67c247c345ae99120c071586" tvg-name="GFN Football TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db267869-c485-4e8d-985a-8876cf62790a/Channel_Logo_-_1500x1000.png" group-title="Sports",GFN Football TV
+#EXTINF:-1 channel-id="plex-67c247c345ae99120c071586" tvg-id="67c247c345ae99120c071586" tvg-name="GFN Football TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f365a9e-9802-422b-b715-f394a2e411fb/AFNFootballWHITEChannel_Logo_-_1500x1000.png" group-title="Sports",GFN Football TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67c247c345ae99120c071586.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a2abc52fcfe17a33213c41e" tvg-id="6a2abc52fcfe17a33213c41e" tvg-name="Ghost" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96ca12d5-1b1c-454c-8e68-a6996bb212a7/Ghost_channel_logo_white_1500x1000RDX.png" group-title="Explore",Ghost
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a2abc52fcfe17a33213c41e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
