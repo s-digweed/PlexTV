@@ -77,6 +77,23 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
 .more{display:block;width:100%;border:0;border-top:1px solid var(--line);background:transparent;color:var(--accent);
   font:inherit;font-weight:600;padding:11px;cursor:pointer}
 .empty{padding:28px;text-align:center;color:var(--muted)}
+.nmrow{display:flex;align-items:center;gap:8px;min-width:0}
+.nmrow .nm{min-width:0}
+.idbtn{flex:0 0 auto;border:1px solid var(--line);background:transparent;color:var(--muted);border-radius:6px;
+  font:600 11px/1 system-ui,sans-serif;letter-spacing:.04em;padding:4px 6px;cursor:pointer;display:inline-flex;gap:3px;align-items:center}
+.idbtn svg{transition:transform .15s}
+.idbtn[aria-expanded="true"]{color:var(--accent);border-color:var(--accent)}
+.idbtn[aria-expanded="true"] svg{transform:rotate(90deg)}
+.idbox{margin-top:6px;border-left:2px solid var(--accent);padding:2px 0 2px 10px;font-size:12.5px}
+.idl{display:flex;align-items:center;gap:8px;min-width:0;margin:3px 0}
+.idl .lb{color:var(--muted);flex:0 0 auto;white-space:nowrap}
+.idl code{font:12.5px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+  background:var(--unk-bg);padding:2px 6px;border-radius:5px;min-width:0;user-select:all}
+.cp{flex:0 0 auto;border:1px solid var(--line);background:var(--panel);color:var(--muted);border-radius:6px;
+  font:600 11.5px system-ui,sans-serif;padding:3px 8px;cursor:pointer}
+.cp.ok{color:var(--free);border-color:var(--free)}
+.idsub{color:var(--muted);margin:8px 0 2px;font-size:12px}
+.toolbar .seg.small button{padding:6px 10px}
 .day{margin-bottom:16px}
 .day h3{font-size:14px;margin:0 0 6px;color:var(--muted);font-weight:650}
 .chg{display:grid;grid-template-columns:22px 150px 1fr;gap:8px;align-items:baseline;padding:7px 12px;border-top:1px solid var(--line)}
@@ -140,12 +157,13 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
 
   <section id="pane-ch">
     <div class="toolbar">
-      <input id="q" type="search" placeholder="Search channels or genres…" autocomplete="off">
+      <input id="q" type="search" placeholder="Search channels, genres or tvg-id…" autocomplete="off">
       <div class="seg" role="group" aria-label="Filter" id="flt">
         <button data-f="all" aria-pressed="true">All</button>
         <button data-f="free" aria-pressed="false">VPN-free</button>
         <button data-f="blocked" aria-pressed="false">Needs VPN</button>
       </div>
+      <div class="seg small" role="group" aria-label="IDs"><button id="allids" aria-pressed="false" title="Show every channel's tvg-id">Show IDs</button></div>
     </div>
     <div class="list" id="list"></div>
   </section>
@@ -185,7 +203,8 @@ const store = {
   get(k,d){ try{ const v = localStorage.getItem("chs."+k); return v===null?d:v; }catch(e){ return d; } },
   set(k,v){ try{ localStorage.setItem("chs."+k,v); }catch(e){} }
 };
-const state = {svc: store.get("svc","plex"), region: "all", tab:"ch", f:"all", cf:"all", q:"", shown:PAGE};
+const state = {svc: store.get("svc","plex"), region: "all", tab:"ch", f:"all", cf:"all", q:"", shown:PAGE,
+               ids: store.get("ids","0")==="1", open: new Set()};
 const cache = {};
 const $ = id => document.getElementById(id);
 const esc = s => String(s??"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -217,6 +236,35 @@ function rowsFor(d, r){
   }
   return [...m.values()].sort((a,b)=>a[1].localeCompare(b[1]));
 }
+// same channel name in other regions (Pluto TV Action has a different tvg-id per country)
+const normName = n => String(n||"").toLowerCase().replace(/[^a-z0-9\u00c0-\uffff]+/g,"");
+function nameIndex(d){
+  if (d._names) return d._names;
+  const m = new Map();
+  for (const k of regionKeys(d)) for (const c of d.regions[k].channels){
+    const n = normName(c[1]); if (!m.has(n)) m.set(n, []); m.get(n).push([k, c[0]]);
+  }
+  return (d._names = m);
+}
+const CHEV = `<svg width="9" height="9" viewBox="0 0 10 10"><path d="M3 1l4 4-4 4" fill="none" stroke="currentColor" stroke-width="1.8"/></svg>`;
+const idLine = (label, id) => `<div class="idl"><span class="lb">${label}</span><code>${esc(id)}</code>
+  <button class="cp" data-id="${esc(id)}">Copy</button></div>`;
+function idBox(c, d){
+  const own = Array.isArray(c[6]) ? c[6] : [c[6]];
+  const regName = k => (d.regions[k]||{}).name || k.toUpperCase();
+  const regLabel = ks => `${ks.map(flag).join(" ")} ${esc(ks.length>2 ? ks.length+" regions" : ks.map(regName).join(", "))}`;
+  let h = idLine(regLabel(own), c[0]);
+  if (own.length > 1) h += `<div class="idsub">Same id in ${own.map(regName).join(", ")} (shared feed, one guide)</div>`;
+  const others = (nameIndex(d).get(normName(c[1]))||[]).filter(([k,id]) => id !== c[0]);
+  if (others.length){
+    const seen = new Map();                                  // id -> regions
+    for (const [k,id] of others){ if(!seen.has(id)) seen.set(id, []); seen.get(id).push(k); }
+    h += `<div class="idsub">Same name, other regions:</div>` +
+         [...seen].map(([id, ks]) => idLine(regLabel(ks), id)).join("");
+  }
+  return `<div class="idbox">${h}</div>`;
+}
+
 function counts(rows){ let f=0,b=0,u=0; for(const c of rows){ c[4]==="free"?f++:c[4]==="blocked"?b++:u++; } return {f,b,u,t:rows.length}; }
 
 function renderSvc(){
@@ -289,16 +337,20 @@ function renderList(rows){
   const q = state.q.trim().toLowerCase();
   let r = rows;
   if (state.f!=="all") r = r.filter(c => state.f==="free" ? c[4]==="free" : c[4]!=="free");
-  if (q) r = r.filter(c => c[1].toLowerCase().includes(q) || (c[3]||"").toLowerCase().includes(q) || (c[5]||"").toLowerCase().includes(q));
+  if (q) r = r.filter(c => c[1].toLowerCase().includes(q) || (c[3]||"").toLowerCase().includes(q) || (c[5]||"").toLowerCase().includes(q)
+                          || String(c[0]).toLowerCase().includes(q));
+  const d = cache[state.svc];
   if (!r.length){ $("list").innerHTML = `<div class="empty">No channels match.</div>`; return; }
   const label = {free:"VPN-free", blocked:"Needs VPN", unknown:"Unknown"};
+  const isOpen = c => state.ids || state.open.has(c[0]);
   const html = r.slice(0, state.shown).map(c=>{
     const regs = Array.isArray(c[6]) ? c[6] : [c[6]];
     const meta = [state.region==="all" ? regs.map(flag).join(" ") : "", c[3]||"", c[5]||""].filter(Boolean).map(esc).join(" · ");
     return `<div class="row">
       ${c[2] ? `<img class="logo" loading="lazy" src="${esc(c[2])}" alt="" onerror="this.style.visibility='hidden'">` : `<div class="logo"></div>`}
-      <div style="min-width:0"><div class="nm">${esc(c[1])}</div>
-        <div class="meta">${meta}</div></div>
+      <div style="min-width:0"><div class="nmrow"><div class="nm">${esc(c[1])}</div>
+          <button class="idbtn" data-k="${esc(c[0])}" aria-expanded="${isOpen(c)}" title="tvg-id">${CHEV}TVG-ID</button></div>
+        <div class="meta">${meta}</div>${isOpen(c) ? idBox(c, d) : ""}</div>
       <span class="pill ${c[4]}">${label[c[4]]||c[4]}</span></div>`;
   }).join("");
   const more = r.length > state.shown ? `<button class="more" id="more">Show more (${(r.length-state.shown).toLocaleString()} left)</button>` : "";
@@ -321,12 +373,41 @@ function renderChanges(chg, d){
     <div class="day"><h3>${fmtDate(day)} · ${byDay[day].length}</h3><div class="list">
       ${byDay[day].map(x=>`<div class="chg ${x.t}"><span class="s" title="${x.t}">${sym[x.t]}</span>
         <span class="rg">${flag(x.r)} ${esc((d.regions[x.r]||{}).name||x.r.toUpperCase())}</span>
-        <span class="cn">${x.t==="renamed" ? `<span class="o">${esc(x.o)}</span> → ` : ""}${esc(x.n)}</span></div>`).join("")}
+        <span class="cn" title="tvg-id ${esc(x.id)}">${x.t==="renamed" ? `<span class="o">${esc(x.o)}</span> → ` : ""}${esc(x.n)}</span></div>`).join("")}
     </div></div>`).join("") +
     `<p class="note">Tracking since ${fmtDate(d.tracking_since)}. Older days drop off after a week.</p>`;
 }
 
 // controls
+// ID panels: one click toggles a row, "Show IDs" opens them all; Copy puts the id on the clipboard
+$("allids").setAttribute("aria-pressed", state.ids);
+$("allids").onclick = () => { state.ids = !state.ids; store.set("ids", state.ids ? "1" : "0");
+  $("allids").setAttribute("aria-pressed", state.ids); if (!state.ids) state.open.clear(); render(); };
+$("list").addEventListener("click", e => {
+  const t = e.target.closest(".idbtn, .cp"); if (!t) return;
+  if (t.classList.contains("idbtn")){
+    const k = t.dataset.k;
+    if (state.ids){ state.ids = false; store.set("ids","0"); $("allids").setAttribute("aria-pressed", false);
+      // switching to per-row mode: keep everything visible open except the one clicked
+      document.querySelectorAll("#list .idbtn").forEach(b => { if (b.dataset.k !== k) state.open.add(b.dataset.k); });
+    } else if (state.open.has(k)) state.open.delete(k); else state.open.add(k);
+    const y = t.getBoundingClientRect().top;
+    render();
+    const nb = document.querySelector(`#list .idbtn[data-k="${CSS.escape(k)}"]`);
+    if (nb) window.scrollBy(0, nb.getBoundingClientRect().top - y);       // keep the row under the finger
+    return;
+  }
+  const id = t.dataset.id, done = () => { t.textContent = "Copied"; t.classList.add("ok");
+    setTimeout(() => { t.textContent = "Copy"; t.classList.remove("ok"); }, 1400); };
+  if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(id).then(done, () => fallbackCopy(id) && done());
+  else if (fallbackCopy(id)) done();
+});
+function fallbackCopy(text){
+  const ta = document.createElement("textarea"); ta.value = text; ta.style.position = "fixed"; ta.style.opacity = "0";
+  document.body.appendChild(ta); ta.select(); let ok = false;
+  try { ok = document.execCommand("copy"); } catch(e) {}
+  ta.remove(); return ok;
+}
 $("q").oninput = e => { state.q = e.target.value; state.shown = PAGE; render(); };
 $("flt").querySelectorAll("button").forEach(b=>b.onclick=()=>{
   state.f=b.dataset.f; state.shown=PAGE; $("flt").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed", x===b)); render(); });
