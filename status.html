@@ -56,9 +56,9 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
 .chip .n{font-size:12px;color:var(--muted);margin-top:3px;font-variant-numeric:tabular-nums}
 .bar{height:4px;border-radius:3px;background:var(--block-bg);margin-top:6px;overflow:hidden}
 .bar i{display:block;height:100%;background:var(--free)}
-.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:6px 0 12px}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:6px 0 12px;overflow-x:auto;scrollbar-width:none}
 .tabs button{border:0;background:transparent;font:inherit;font-weight:600;color:var(--muted);
-  padding:9px 12px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}
+  padding:9px 12px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap}
 .tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
 .tabs .count{font-weight:500;color:var(--muted);font-size:12px;margin-left:4px}
 .toolbar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}
@@ -94,6 +94,27 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
 .cp.ok{color:var(--free);border-color:var(--free)}
 .idsub{color:var(--muted);margin:8px 0 2px;font-size:12px}
 .toolbar .seg.small button{padding:6px 10px}
+/* On Now */
+.onrow{display:grid;grid-template-columns:44px 1fr;gap:12px;padding:10px 12px;border-top:1px solid var(--line);cursor:pointer}
+.onrow:first-child{border-top:0}
+.onrow:hover{background:color-mix(in srgb,var(--accent-bg) 35%,transparent)}
+.onch{font-size:12.5px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ont{font-weight:650;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ont .ep{font-weight:500;color:var(--muted)}
+.prog{display:flex;align-items:center;gap:8px;margin-top:5px;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.prog .b{flex:1;height:4px;border-radius:3px;background:var(--line);overflow:hidden;max-width:220px}
+.prog .b i{display:block;height:100%;background:var(--accent)}
+.onnext{font-size:12.5px;color:var(--muted);margin-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.onnext b{font-weight:600;color:var(--ink)}
+.tl{margin-top:8px;border-left:2px solid var(--line);padding-left:10px}
+.tl .it{display:grid;grid-template-columns:72px 1fr;gap:8px;padding:4px 0;font-size:13px}
+.tl .tm{color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+.tl .it.past .ti{color:var(--muted)}
+.tl .it.now{background:var(--accent-bg);border-radius:6px;padding:6px;margin:2px 0 2px -6px}
+.tl .it.now .tm{color:var(--accent);font-weight:650}
+.tl .tag{font-size:10.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:6px 0 0}
+.tl .ds{font-size:12.5px;color:var(--muted);margin-top:3px;white-space:normal}
+.tl .ti{min-width:0;white-space:normal}
 .day{margin-bottom:16px}
 .day h3{font-size:14px;margin:0 0 6px;color:var(--muted);font-weight:650}
 .chg{display:grid;grid-template-columns:22px 150px 1fr;gap:8px;align-items:baseline;padding:7px 12px;border-top:1px solid var(--line)}
@@ -131,6 +152,8 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
   .chg{grid-template-columns:18px 1fr}
   .chg .rg{grid-column:2}
   .chg .cn{grid-column:2;min-width:0}
+  .tabs button{padding:9px 9px}
+  .tl .it{grid-template-columns:64px 1fr}
 }
 </style>
 </head>
@@ -151,6 +174,7 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
 
   <div class="tabs" role="tablist">
     <button role="tab" id="tab-ch" aria-selected="true">Channels<span class="count" id="c-ch"></span></button>
+    <button role="tab" id="tab-on" aria-selected="false">On Now</button>
     <button role="tab" id="tab-cg" aria-selected="false">Changes<span class="count" id="c-cg"></span></button>
     <button role="tab" id="tab-hl" aria-selected="false">Health</button>
   </div>
@@ -178,6 +202,14 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
       </div>
     </div>
     <div id="changes"></div>
+  </section>
+
+  <section id="pane-on" hidden>
+    <div class="toolbar">
+      <input id="oq" type="search" placeholder="Search channels or what's on…" autocomplete="off">
+    </div>
+    <div class="note" id="onnote" style="margin-top:0"></div>
+    <div class="list" id="onlist"></div>
   </section>
 
   <section id="pane-hl" hidden>
@@ -331,6 +363,7 @@ function render(){
 
   $("c-ch").textContent = uniq.toLocaleString(); $("c-cg").textContent = chg.length;
   renderList(rows); renderChanges(chg, d);
+  if (state.tab === "on") renderOnNow();
 }
 
 function renderList(rows){
@@ -414,13 +447,128 @@ $("flt").querySelectorAll("button").forEach(b=>b.onclick=()=>{
 $("cflt").querySelectorAll("button").forEach(b=>b.onclick=()=>{
   state.cf=b.dataset.f; $("cflt").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed", x===b)); render(); });
 function tab(t){ const was = state.tab; state.tab=t;
-  for (const k of ["ch","cg","hl"]) { $("tab-"+k).setAttribute("aria-selected", t===k); $("pane-"+k).hidden = t!==k; }
+  for (const k of ["ch","cg","on","hl"]) { $("tab-"+k).setAttribute("aria-selected", t===k); $("pane-"+k).hidden = t!==k; }
   // Health covers all services at once, so the per-service controls step aside
   $("cards").hidden = $("regions").hidden = (t==="hl");
   $("svc").style.display = t==="hl" ? "none" : "";
   store.set("tab", t);
-  if (t==="hl" || was==="hl") load(); }
-$("tab-ch").onclick = () => tab("ch"); $("tab-cg").onclick = () => tab("cg"); $("tab-hl").onclick = () => tab("hl");
+  if (t==="hl" || was==="hl" || t==="on") load(); }
+$("tab-on").onclick = () => tab("on"); $("tab-ch").onclick = () => tab("ch"); $("tab-cg").onclick = () => tab("cg"); $("tab-hl").onclick = () => tab("hl");
+
+// ── On Now: reads the region's XMLTV guide straight from the repo ───────────
+// Guides are big, so they load one country at a time and are cached for the visit.
+const RAW = "https://raw.githubusercontent.com/s-digweed/";
+const GUIDE = {
+  plex:    r => `${RAW}PlexTV/main/playlists/plex_${r}.xml.gz`,
+  pluto:   r => `${RAW}AltPluto/main/output/pluto_${r}.xml.gz`,
+  samsung: r => `${RAW}SamsungTVPlus/main/output/samsung_tvplus.xml`,     // one file, all countries
+};
+const guideCache = {};            // url -> Promise<Map(id -> [programmes])>
+const onOpen = new Set();
+let onShown = PAGE, onTimer = null, onSeq = 0;
+const ent = s => s.replace(/&(#x[0-9a-f]+|#\d+|amp|lt|gt|quot|apos);/gi, (m, e) =>
+  e[0]==="#" ? String.fromCodePoint(e[1].toLowerCase()==="x" ? parseInt(e.slice(2),16) : parseInt(e.slice(1),10))
+             : ({amp:"&",lt:"<",gt:">",quot:'"',apos:"'"})[e.toLowerCase()]);
+const xmlt = t => { const m = /^(\d{4})(\d\d)(\d\d)(\d\d)(\d\d)(\d\d)\s*([+-]\d{4})?/.exec(t||""); if(!m) return NaN;
+  let ms = Date.UTC(+m[1], m[2]-1, +m[3], +m[4], +m[5], +m[6]);
+  if (m[7]) ms -= (m[7][0]==="-"?-1:1) * (parseInt(m[7].slice(1,3))*60 + parseInt(m[7].slice(3)))*60000;
+  return ms; };
+function loadGuide(url){
+  if (guideCache[url]) return guideCache[url];
+  return (guideCache[url] = (async () => {
+    const r = await fetch(url, {cache:"no-store"});
+    if (!r.ok) throw new Error("HTTP "+r.status);
+    let text;
+    if (url.endsWith(".gz")){
+      if (!("DecompressionStream" in window)) throw new Error("this browser can't unzip guides - update it");
+      text = await new Response(r.body.pipeThrough(new DecompressionStream("gzip"))).text();
+    } else text = await r.text();
+    const lo = Date.now() - 12*3600e3, hi = Date.now() + 36*3600e3, map = new Map();
+    const re = /<programme\b([^>]*)>([\s\S]*?)<\/programme>/g; let m;
+    const at = (a, k) => { const x = new RegExp(k+'="([^"]*)"').exec(a); return x ? x[1] : ""; };
+    const tag = (b, k) => { const x = new RegExp("<"+k+"\\b[^>]*>([\\s\\S]*?)</"+k+">").exec(b); return x ? ent(x[1].trim()) : ""; };
+    while ((m = re.exec(text))){
+      const a = m[1], st = xmlt(at(a,"start")), sp = xmlt(at(a,"stop"));
+      if (!(sp > lo && st < hi)) continue;
+      const b = m[2], se = /system="onscreen"[^>]*>([^<]+)</.exec(b);
+      const p = {st, sp, t: tag(b,"title"), s: tag(b,"sub-title"), e: se ? se[1].trim() : "", d: tag(b,"desc")};
+      const id = ent(at(a,"channel"));
+      if (!map.has(id)) map.set(id, []); map.get(id).push(p);
+    }
+    for (const v of map.values()) v.sort((x,y)=>x.st-y.st);
+    return map;
+  })().catch(e => { delete guideCache[url]; throw e; }));
+}
+const hm = ms => new Date(ms).toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"});
+const left = ms => { const m = Math.max(0, Math.round((ms-Date.now())/60000)); return m<60 ? `${m} min left` : `${Math.floor(m/60)} h ${m%60} min left`; };
+function slice(list){
+  const now = Date.now(); if (!list || !list.length) return null;
+  let i = list.findIndex(p => p.st <= now && now < p.sp), gap = false;
+  if (i < 0){ i = list.findIndex(p => p.st > now); gap = true; if (i < 0) return {past:list.slice(-2), now:null, next:[]}; }
+  return gap ? {past:list.slice(Math.max(0,i-2), i), now:null, next:list.slice(i, i+3)}
+             : {past:list.slice(Math.max(0,i-2), i), now:list[i], next:list.slice(i+1, i+4)};
+}
+const epTxt = p => [p.e, p.s && p.s !== p.t ? p.s : ""].filter(Boolean).join(" · ");
+function tlItem(p, cls){
+  return `<div class="it ${cls}"><span class="tm">${hm(p.st)}</span><span class="ti">${esc(p.t)}${epTxt(p) ? ` <span class="ep" style="color:var(--muted)">${esc(epTxt(p))}</span>` : ""}
+    ${cls==="now" && p.d ? `<div class="ds">${esc(p.d)}</div>` : ""}</span></div>`;
+}
+
+async function renderOnNow(){
+  clearInterval(onTimer); const my = ++onSeq;
+  const d = cache[state.svc]; if (!d) return;
+  if (state.region === "all"){
+    const pick = store.get("onregion_"+state.svc, "");
+    state.region = d.regions[pick] ? pick : (d.regions.us ? "us" : regionKeys(d)[0]);
+    render(); return;                                     // render() calls back here
+  }
+  store.set("onregion_"+state.svc, state.region);
+  const url = GUIDE[state.svc](state.region), rname = d.regions[state.region].name;
+  $("onnote").textContent = `Loading the ${rname} guide…`;
+  if (!guideCache[url]) $("onlist").innerHTML = `<div class="empty">Loading the ${esc(rname)} guide…</div>`;
+  let g;
+  try { g = await loadGuide(url); }
+  catch(e){ $("onnote").textContent = ""; $("onlist").innerHTML = `<div class="err">Couldn't load the guide (${esc(e.message)}).</div>`; return; }
+  if (state.tab !== "on" || my !== onSeq) return;        // a newer request (other country/service) took over
+  const draw = () => {
+    const q = ($("oq").value||"").trim().toLowerCase();
+    let rows = d.regions[state.region].channels.map(c => ({c, s: slice(g.get(c[0]))}));
+    if (q) rows = rows.filter(({c,s}) => c[1].toLowerCase().includes(q) || (s && [s.now, ...s.next, ...s.past].some(p => p && p.t.toLowerCase().includes(q))));
+    const withNow = rows.filter(r => r.s && r.s.now).length;
+    $("onnote").textContent = q ? `${rname} · ${rows.length.toLocaleString()} channel${rows.length===1?"":"s"} match "${$("oq").value.trim()}" (channel name or a show airing earlier, now or next)` : `${rname} · ${withNow.toLocaleString()} of ${d.regions[state.region].channels.length.toLocaleString()} channels have a listing right now · times in your time zone · tap a channel for earlier & next`;
+    if (!rows.length){ $("onlist").innerHTML = `<div class="empty">Nothing matches.</div>`; return; }
+    const html = rows.slice(0, onShown).map(({c, s}) => {
+      const open = onOpen.has(c[0]), now = s && s.now;
+      const pct = now ? Math.min(100, 100*(Date.now()-now.st)/(now.sp-now.st)) : 0;
+      let body = `<div class="onch">${esc(c[1])}</div>`;
+      if (!s) body += `<div class="ont" style="color:var(--muted);font-weight:500">No guide data</div>`;
+      else {
+        body += now ? `<div class="ont">${esc(now.t)}${epTxt(now) ? ` <span class="ep">${esc(epTxt(now))}</span>` : ""}</div>
+                       <div class="prog"><span>${hm(now.st)}–${hm(now.sp)}</span><span class="b"><i style="width:${pct}%"></i></span><span>${left(now.sp)}</span></div>`
+                    : `<div class="ont" style="color:var(--muted);font-weight:500">No listing right now</div>`;
+        if (!open && s.next[0]) body += `<div class="onnext">Next ${hm(s.next[0].st)} · <b>${esc(s.next[0].t)}</b></div>`;
+        if (open) body += `<div class="tl">
+            ${s.past.length ? `<div class="tag">Earlier</div>${s.past.map(p=>tlItem(p,"past")).join("")}` : ""}
+            ${now ? `<div class="tag">Now</div>${tlItem(now,"now")}` : ""}
+            ${s.next.length ? `<div class="tag">Next</div>${s.next.map(p=>tlItem(p,"")).join("")}` : ""}</div>`;
+      }
+      return `<div class="onrow" data-k="${esc(c[0])}">
+        ${c[2] ? `<img class="logo" loading="lazy" src="${esc(c[2])}" alt="" onerror="this.style.visibility='hidden'">` : `<div class="logo"></div>`}
+        <div style="min-width:0">${body}</div></div>`;
+    }).join("");
+    const more = rows.length > onShown ? `<button class="more" id="onmore">Show more (${(rows.length-onShown).toLocaleString()} left)</button>` : "";
+    $("onlist").innerHTML = html + more;
+    if (more) $("onmore").onclick = e => { e.stopPropagation(); onShown += PAGE*2; draw(); };
+  };
+  draw();
+  onTimer = setInterval(() => { if (state.tab === "on" && !document.hidden) draw(); }, 60000);   // keep "now" current
+  $("oq").oninput = () => { onShown = PAGE; draw(); };
+  $("onlist").onclick = e => {
+    if (e.target.closest("#onmore")) return;
+    const r = e.target.closest(".onrow"); if (!r) return;
+    const k = r.dataset.k; onOpen.has(k) ? onOpen.delete(k) : onOpen.add(k); draw();
+  };
+}
 
 // ── Health: freshness + liveness of all three repos ─────────────────────────
 const runsCache = {};
@@ -491,7 +639,7 @@ async function renderHealth(){
   }));
 }
 
-if (["ch","cg","hl"].includes(store.get("tab","ch"))) tab(store.get("tab","ch")); else load();
+if (["ch","cg","on","hl"].includes(store.get("tab","ch"))) tab(store.get("tab","ch")); else load();
 if (state.tab !== "hl") load();
 </script>
 </body>
