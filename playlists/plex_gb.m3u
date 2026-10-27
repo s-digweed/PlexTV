@@ -656,7 +656,7 @@ https://amg01131-tracetv-traceurban-plex-xuf85.amagi.tv/playlist/amg01131-tracet
 #EXTINF:-1 channel-id="plex-61d738b5a7b7c7f703418514" tvg-id="61d738b5a7b7c7f703418514" tvg-name="Trailers From Hell" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png" group-title="Daytime TV & Games",Trailers From Hell
 https://bec-trailersfromhell-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64e437ba7ef2bf9f66b42615" tvg-id="64e437ba7ef2bf9f66b42615" tvg-name="Travel Escapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3834bc-2b60-4394-b403-57b82868af86/travel_escapes_WHITE_Bryan_Mcdaid.png" group-title="Explore",Travel Escapes
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-64e437ba7ef2bf9f66b42615.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://videoelephantlimited-travelescapes-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64e43b37200cd2f67473e0d4" tvg-id="64e43b37200cd2f67473e0d4" tvg-name="True Crime Now" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f5bb066-e3be-497a-8efd-b6b1cccdefcf/true_crime_now_logo.png" group-title="True Crime",True Crime Now
 https://amg00376-magellan-amg00376c9-plex-international-1942.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowcauk-plexinternational/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6888e72c053adc1e3a34e40e" tvg-id="6888e72c053adc1e3a34e40e" tvg-name="True Crime UK" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9b2e24be-ea1a-4d23-8a0e-d2c1ae742e01/TRUE_CRIME_UK_PLEX_LOGO_COLOUR_NEGATIVE_-_Tanya_Ranasinghe.png" group-title="True Crime",True Crime UK

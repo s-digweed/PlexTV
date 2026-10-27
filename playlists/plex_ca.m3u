@@ -22,7 +22,7 @@ https://autentic-adventure-earth-1-ca.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Global",AfroLandTV
 https://alt-al.otteravision.com/alt/al/al_720p.m3u8
 #EXTINF:-1 channel-id="plex-64d4ee537b323f6abbd19e59" tvg-id="64d4ee537b323f6abbd19e59" tvg-name="Aliwko" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e20f693c-bf2d-448e-884b-36ec8d382eb7/Aliwko_Plexlogo_1500x1000_-_Ali_Clausen_color.png" group-title="Global",Aliwko
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-64d4ee537b323f6abbd19e59.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/63400fdf0df81ba0c225fdd2159dbae2/master.m3u8
 #EXTINF:-1 channel-id="plex-697144cdbde579fb71262405" tvg-id="697144cdbde579fb71262405" tvg-name="All My Children" tvg-logo="https://provider-static.plex.tv/epg/cms/production/48d74976-a600-4cf5-8fd7-cbda6aa92348/AMC_channel_logo_1500x1000_WHT_TEXT_Brian_MartinRDX.png" group-title="Daytime TV & Games",All My Children
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-697144cdbde579fb71262405.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a2063fe51e93d77d9a65e44" tvg-id="6a2063fe51e93d77d9a65e44" tvg-name="All Reality We TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/001158af-973c-41ad-9c40-fa3aed48298d/AR_Rebrand_TT_Stacked_RDXColor.png" group-title="Reality",All Reality We TV
@@ -138,7 +138,7 @@ https://d35p4ep9ync6qx.cloudfront.net/c2d5e9fc60a0ef7389ac0a37241fda74/master.m3
 #EXTINF:-1 channel-id="plex-6995ed8173f56d61dc078f0d" tvg-id="6995ed8173f56d61dc078f0d" tvg-name="Circle Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png" group-title="Classics",Circle Country
 https://amg00432-amg00432c1-plex-us-11380.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63068b870bbec3b06755a0ee" tvg-id="63068b870bbec3b06755a0ee" tvg-name="Classic Doctor Who" tvg-logo="https://provider-static.plex.tv/epg/cms/production/898a6ea0-15c2-476e-a7a9-18bbe0aa6e0e/PLEX_DOCTOR_WHO_CLASSIC_Logo_Light_1500X1000.png" group-title="Adrenaline & Sci-Fi",Classic Doctor Who
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-63068b870bbec3b06755a0ee.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://bbc-classicdrwho-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64b710b44612b1f48e9ad31a" tvg-id="64b710b44612b1f48e9ad31a" tvg-name="Classic Family Feud" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4a755121-3503-4036-9727-5a301db01c17/Plex_Classic_Family_Feud_Logo_1500x1000-Full_Color_-_Patty_Gopez.png" group-title="Daytime TV & Games",Classic Family Feud
 https://amg00145-fremantlemedian-familyfeudclassics-plex-rwbwp.amagi.tv/playlist/amg00145-fremantlemedian-familyfeudclassics-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aaa0cc784a2161d3caf7ff" tvg-id="61aaa0cc784a2161d3caf7ff" tvg-name="Classic Rock" tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="Music",Classic Rock
@@ -808,7 +808,7 @@ https://bec-trailersfromhell-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-644a675d5b1d51b6a8d18607" tvg-id="644a675d5b1d51b6a8d18607" tvg-name="Transformers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e69e53d-ac31-45a3-9e35-2c9e40aa3ae9/Logo_suitable_for_light_backgrounds_-_lucas_arechaga__2_rdx.png" group-title="Kids & Family",Transformers
 https://amg00461-eone-amg00461c1-plex-us-538.playouts.now.amagi.tv/playlist/amg00461-entertainmentone-transformers-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64e437ba7ef2bf9f66b42615" tvg-id="64e437ba7ef2bf9f66b42615" tvg-name="Travel Escapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3834bc-2b60-4394-b403-57b82868af86/travel_escapes_WHITE_Bryan_Mcdaid.png" group-title="Explore",Travel Escapes
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-64e437ba7ef2bf9f66b42615.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://videoelephantlimited-travelescapes-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60ede94f7da2ef002c55ce9b" tvg-id="60ede94f7da2ef002c55ce9b" tvg-name="Tribeca Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3609f1e-21bc-4899-9399-2f6ab8f9b49d/TribecaChannel_Logo_Dark.png" group-title="Movies",Tribeca Channel
 https://amg02507-giantpictures-tribeca-plex-3dllj.amagi.tv/playlist/amg02507-giantpictures-tribeca-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-678fe95d389daa346544d501" tvg-id="678fe95d389daa346544d501" tvg-name="Triton Poker" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3083db91-a573-4a57-aa4b-5313378c4b7f/Triton_1500x1000_white_-_Eddie_Hunter-Higgins.png" group-title="Sports",Triton Poker

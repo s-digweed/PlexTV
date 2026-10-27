@@ -12,7 +12,7 @@ https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076
 #EXTINF:-1 channel-id="plex-69d6d88b1790acff6189dea5" tvg-id="69d6d88b1790acff6189dea5" tvg-name="AddictaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png" group-title="En Español",AddictaTV
 https://6bc89793.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6533eaa0df3ccc650a965648" tvg-id="6533eaa0df3ccc650a965648" tvg-name="Adventure Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8a899f4f-9962-4dcc-8230-7df6aa14d97d/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman.png" group-title="Explore",Adventure Earth
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6533eaa0df3ccc650a965648.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://autentic-adventure-earth-1-nz.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Global",AfroLandTV
 https://alt-al.otteravision.com/alt/al/al_720p.m3u8
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Music",Alternative
@@ -482,7 +482,7 @@ https://amg01131-tracetv-traceurban-plex-xuf85.amagi.tv/playlist/amg01131-tracet
 #EXTINF:-1 channel-id="plex-61d738b5a7b7c7f703418514" tvg-id="61d738b5a7b7c7f703418514" tvg-name="Trailers From Hell" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png" group-title="Daytime TV & Games",Trailers From Hell
 https://bec-trailersfromhell-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64e437ba7ef2bf9f66b42615" tvg-id="64e437ba7ef2bf9f66b42615" tvg-name="Travel Escapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3834bc-2b60-4394-b403-57b82868af86/travel_escapes_WHITE_Bryan_Mcdaid.png" group-title="Explore",Travel Escapes
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e437ba7ef2bf9f66b42615.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://videoelephantlimited-travelescapes-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64e43cfe200cd2f67473e0d6" tvg-id="64e43cfe200cd2f67473e0d6" tvg-name="True Crime Now" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c337bb5b-7a7a-4207-88f0-0e83f995582d/true_crime_now_logordx_white.png" group-title="True Crime",True Crime Now
 https://amg00376-magellan-amg00376c12-plex-international-1701.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-plexinternational/playlist.m3u8
 #EXTINF:-1 channel-id="plex-614398a08f30fa61e0da7c97" tvg-id="614398a08f30fa61e0da7c97" tvg-name="True History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png" group-title="Explore",True History
