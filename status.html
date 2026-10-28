@@ -39,6 +39,8 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
 .seg button{border:0;background:transparent;color:var(--muted);font:inherit;font-weight:600;
   padding:6px 12px;border-radius:7px;cursor:pointer;white-space:nowrap}
 .seg button[aria-pressed="true"]{background:var(--accent-bg);color:var(--accent)}
+#svc button{display:inline-flex;align-items:center;gap:7px}
+.svclogo{width:20px;height:20px;object-fit:contain;border-radius:5px;flex:0 0 auto}
 .iconbtn{border:1px solid var(--line);background:var(--panel);color:var(--muted);border-radius:8px;
   padding:7px 9px;cursor:pointer;font:inherit;display:inline-flex}
 .cards{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:14px}
@@ -153,6 +155,9 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
   .chg .rg{grid-column:2}
   .chg .cn{grid-column:2;min-width:0}
   .tabs button{padding:9px 9px}
+  #svc button{padding:6px 8px;gap:5px}
+  .svclogo{width:18px;height:18px}
+  header{gap:12px 10px}
   .tl .it{grid-template-columns:64px 1fr}
 }
 </style>
@@ -224,9 +229,9 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
 // with ?plex=<url>&samsung=<url>&pluto=<url>.
 const P = new URLSearchParams(location.search);
 const SOURCES = [
-  {key:"plex",    label:"Plex",       url:P.get("plex")    || "https://raw.githubusercontent.com/s-digweed/PlexTV/main/status.json"},
-  {key:"samsung", label:"Samsung TV+", url:P.get("samsung") || "https://raw.githubusercontent.com/s-digweed/SamsungTVPlus/main/output/status.json"},
-  {key:"pluto",   label:"Pluto",       url:P.get("pluto")   || "https://raw.githubusercontent.com/s-digweed/AltPluto/main/status.json"},
+  {key:"pluto",   label:"Pluto",       logo:"https://i.imgur.com/ViYQKds.png", url:P.get("pluto")   || "https://raw.githubusercontent.com/s-digweed/AltPluto/main/status.json"},
+  {key:"plex",    label:"Plex",        logo:"https://i.imgur.com/E821cxa.png", url:P.get("plex")    || "https://raw.githubusercontent.com/s-digweed/PlexTV/main/status.json"},
+  {key:"samsung", label:"Samsung TV+", logo:"https://i.imgur.com/wOslUfw.png", url:P.get("samsung") || "https://raw.githubusercontent.com/s-digweed/SamsungTVPlus/main/output/status.json"},
 ];
 const ORDER = ["us","ca","gb","uk","au","nz","de","at","ch","fr","es","it","nl","se","no","dk","fi","is","mx","ar","br","cl","in","jp","kr"];
 const PAGE = 200;
@@ -235,7 +240,7 @@ const store = {
   get(k,d){ try{ const v = localStorage.getItem("chs."+k); return v===null?d:v; }catch(e){ return d; } },
   set(k,v){ try{ localStorage.setItem("chs."+k,v); }catch(e){} }
 };
-const state = {svc: store.get("svc","plex"), region: "all", tab:"ch", f:"all", cf:"all", q:"", shown:PAGE,
+const state = {svc: store.get("svc","pluto"), region: "all", tab:"ch", f:"all", cf:"all", q:"", shown:PAGE,
                ids: store.get("ids","0")==="1", open: new Set()};
 const cache = {};
 const $ = id => document.getElementById(id);
@@ -300,7 +305,7 @@ function idBox(c, d){
 function counts(rows){ let f=0,b=0,u=0; for(const c of rows){ c[4]==="free"?f++:c[4]==="blocked"?b++:u++; } return {f,b,u,t:rows.length}; }
 
 function renderSvc(){
-  $("svc").innerHTML = SOURCES.map(s=>`<button data-k="${s.key}" aria-pressed="${s.key===state.svc}">${esc(s.label)}</button>`).join("");
+  $("svc").innerHTML = SOURCES.map(s=>`<button data-k="${s.key}" aria-pressed="${s.key===state.svc}">${s.logo ? `<img class="svclogo" src="${esc(s.logo)}" alt="" onerror="this.remove()">` : ""}${esc(s.label)}</button>`).join("");
   $("svc").querySelectorAll("button").forEach(b=>b.onclick=()=>{ state.svc=b.dataset.k; store.set("svc",state.svc); state.region="all"; state.shown=PAGE; load(); });
 }
 
