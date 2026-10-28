@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T20:23:29.792854+00:00",
+  "generated": "2026-10-28T22:37:24.977058+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -735,7 +735,7 @@
         "slug": "magnolia-selects",
         "gridKey": "616df1e90dfa27ee465797fa",
         "name": "Magnolia Selects",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/71746053-763c-4d2d-9f52-ac5faa09d6f6/MagnoliaSelects_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/784721ba-e71b-47d1-9e85-6477441fa673/MagnoliaSelects_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa.m3u8",
         "genres": [
@@ -3348,7 +3348,7 @@
         "slug": "western-bound",
         "gridKey": "62316e8eb9d292cb4ad7499f",
         "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b89e1bed-7f63-46b3-9be4-b72bcf76839a/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/82efd8b8-1dcf-4193-9fdd-4c4d1c4bc476/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-62316e8eb9d292cb4ad7499f.m3u8",
         "genres": [
@@ -5415,7 +5415,7 @@
         "slug": "combat-war-channel",
         "gridKey": "65e87f35335524a69e8e0ce1",
         "name": "Combat War Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b376f55c-aa7f-43c5-9c26-c20509874201/combat_war72b13823df22f4e6ea012a4b54cc6b02RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1445e2d7-5d65-433c-8a32-c420b19be511/combat_war72b13823df22f4e6ea012a4b54cc6b02RDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-65e87f35335524a69e8e0ce1.m3u8",
         "genres": [
@@ -5558,7 +5558,7 @@
         "slug": "paranormal-files",
         "gridKey": "65e87f35335524a69e8e0ce0",
         "name": "Paranormal Files",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/49a8a03a-1346-4f3c-981b-47f07fe02ac5/Paranormal4f0624f276e0ec4283e7940c80fc70feRDXWHITE.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/81768ac4-efec-40b6-9b27-1140f7a0ccf0/Paranormal4f0624f276e0ec4283e7940c80fc70feRDXWHITE.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-65e87f35335524a69e8e0ce0.m3u8",
         "genres": [
@@ -9377,19 +9377,6 @@
         ],
         "region": "ca"
       },
-      "66fd3a76216b603e031725fc": {
-        "id": "647f8d22a2fc3fadb4721685-66fd3a76216b603e031725fc",
-        "slug": "western-bound-2",
-        "gridKey": "66fd3a76216b603e031725fc",
-        "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-66fd3a76216b603e031725fc.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "ca"
-      },
       "67f592e6c97eb27725c8855f": {
         "id": "647f8d22a2fc3fadb4721685-67f592e6c97eb27725c8855f",
         "slug": "mi-5",
@@ -11413,6 +11400,19 @@
         "logo": "https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png",
         "callSign": "LS",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6196c9241d310bf925e02616.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "ca"
+      },
+      "66fd3a76216b603e031725fc": {
+        "id": "647f8d22a2fc3fadb4721685-66fd3a76216b603e031725fc",
+        "slug": "western-bound-2",
+        "gridKey": "66fd3a76216b603e031725fc",
+        "name": "Western Bound",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c6a9af29-de3a-4b62-ae0d-29514322a6ae/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-66fd3a76216b603e031725fc.m3u8",
         "genres": [
           "Classics"
         ],
@@ -15268,19 +15268,6 @@
         ],
         "region": "gb"
       },
-      "66fd3a76216b603e031725fc": {
-        "id": "64305451fc3be5947773c339-66fd3a76216b603e031725fc",
-        "slug": "western-bound-2",
-        "gridKey": "66fd3a76216b603e031725fc",
-        "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-66fd3a76216b603e031725fc.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "gb"
-      },
       "69864df9f937c5afe5a060d6": {
         "id": "64305451fc3be5947773c339-69864df9f937c5afe5a060d6",
         "slug": "soap-2",
@@ -17135,6 +17122,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-66f6b6baac1a1890ef197a4b.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "gb"
+      },
+      "66fd3a76216b603e031725fc": {
+        "id": "64305451fc3be5947773c339-66fd3a76216b603e031725fc",
+        "slug": "western-bound-2",
+        "gridKey": "66fd3a76216b603e031725fc",
+        "name": "Western Bound",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c6a9af29-de3a-4b62-ae0d-29514322a6ae/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-66fd3a76216b603e031725fc.m3u8",
         "genres": [
           "Classics"
         ],
@@ -20015,19 +20015,6 @@
         ],
         "region": "au"
       },
-      "66fd3a76216b603e031725fc": {
-        "id": "697140a85d851f5e69414688-66fd3a76216b603e031725fc",
-        "slug": "western-bound-2",
-        "gridKey": "66fd3a76216b603e031725fc",
-        "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-66fd3a76216b603e031725fc.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "au"
-      },
       "6449369eb3ff17382cae5806": {
         "id": "697140a85d851f5e69414688-6449369eb3ff17382cae5806",
         "slug": "heartland",
@@ -21455,6 +21442,19 @@
         "key": "/library/parts/697140a85d851f5e69414688-68db6b54475aa6420c85f230.m3u8",
         "genres": [
           "Reality"
+        ],
+        "region": "au"
+      },
+      "66fd3a76216b603e031725fc": {
+        "id": "697140a85d851f5e69414688-66fd3a76216b603e031725fc",
+        "slug": "western-bound-2",
+        "gridKey": "66fd3a76216b603e031725fc",
+        "name": "Western Bound",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c6a9af29-de3a-4b62-ae0d-29514322a6ae/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-66fd3a76216b603e031725fc.m3u8",
+        "genres": [
+          "Classics"
         ],
         "region": "au"
       },

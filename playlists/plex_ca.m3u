@@ -857,7 +857,7 @@ https://amg00735-amg00735c50-plex-us-8607.playouts.now.amagi.tv/playlist/amg0073
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6ad29dac5374a1e72d134647.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66915d35086cb6d46eae12c8" tvg-id="66915d35086cb6d46eae12c8" tvg-name="Weeds & Nurse Jackie" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1b7362dd-d411-4eec-8c39-908896146f79/Weeds_NurseJackie_Logo_1500x1000_DarkBG.png" group-title="Bingeworthy",Weeds & Nurse Jackie
 https://amg00353-amg00353c38-plex-us-4262.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-weeds-plexus/playlist.m3u8
-#EXTINF:-1 channel-id="plex-66fd3a76216b603e031725fc" tvg-id="66fd3a76216b603e031725fc" tvg-name="Western Bound" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png" group-title="Bingeworthy",Western Bound
+#EXTINF:-1 channel-id="plex-66fd3a76216b603e031725fc" tvg-id="66fd3a76216b603e031725fc" tvg-name="Western Bound" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6a9af29-de3a-4b62-ae0d-29514322a6ae/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png" group-title="Classics",Western Bound
 https://ime-cbwww.otteravision.com/ime/cbwww/cbwww_720p.m3u8
 #EXTINF:-1 channel-id="plex-693ebecae2cae3f1bc73ae45" tvg-id="693ebecae2cae3f1bc73ae45" tvg-name="Western Bound Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f0f82a9b-52a8-48ae-8964-846c15cd22b9/WB_Plex_LogoPackage_1500x1000_Light_LAS_-_Megan_Jones.png" group-title="En Español",Western Bound Español
 https://ime-wbes.otteravision.com/ime/wbes/wbes_720p.m3u8

@@ -697,7 +697,7 @@ https://amg00735-videosolutions-amg00735c14-plex-us-1855.playouts.now.amagi.tv/p
 https://amg00735-videosolutionsa-wedomoviesen-plex-p2e8w.amagi.tv/playlist/amg00735-videosolutionsa-wedomoviesen-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6ad29dac5374a1e72d134647" tvg-id="6ad29dac5374a1e72d134647" tvg-name="Wedotv Cars" tvg-logo="https://provider-static.plex.tv/epg/cms/production/347380b0-d74b-425a-88ee-ccb54054203e/wedocars_red_white_logo.png" group-title="Food, Home & Culture",Wedotv Cars
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6ad29dac5374a1e72d134647.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-66fd3a76216b603e031725fc" tvg-id="66fd3a76216b603e031725fc" tvg-name="Western Bound" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png" group-title="Bingeworthy",Western Bound
+#EXTINF:-1 channel-id="plex-66fd3a76216b603e031725fc" tvg-id="66fd3a76216b603e031725fc" tvg-name="Western Bound" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6a9af29-de3a-4b62-ae0d-29514322a6ae/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png" group-title="Classics",Western Bound
 https://ime-cbwww.otteravision.com/ime/cbwww/cbwww_720p.m3u8
 #EXTINF:-1 channel-id="plex-6920d8b950fe592fd6d5b7d1" tvg-id="6920d8b950fe592fd6d5b7d1" tvg-name="Who Wants to Be a Millionaire" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9da6ae6e-88ae-4272-b077-63bd2903a74a/UK_FAST_Plex_WWTBAM_logo_dark.png" group-title="Daytime TV & Games",Who Wants to Be a Millionaire
 https://d183z714yc2z9p.cloudfront.net/playlist.m3u8
