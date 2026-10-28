@@ -1,101 +1,103 @@
-Plex VPN-free direct links  (2026-10-28 05:44 UTC)
-Channels checked: 1410   VPN-free: 822   Still Plex link (VPN needed): 588
+Plex VPN-free direct links  (2026-10-28 09:48 UTC)
+Channels checked: 1410   VPN-free: 829   Still Plex link (VPN needed): 581
 
   direct (cached)              822
-  other host                   501
+  other host                   495
   amagi-guess-failed           58
   plex-404                     12
-  plex-400                     7
+  direct (new)                 7
+  plex-400                     6
   plex-403                     5
   plex-500                     2
   geo-blocked-host             1
-  plex-504                     1
   variant-401                  1
+  plex-504                     1
 
 Non-Amagi video hosts (candidates for future support):
-  live-content-cf.xumo.com                                     100
-  live-content.cdn.xumo.com                                    47
-  hls-beacons-us.xumo.com                                      15
-  hls-beacons-eu.xumo.com                                      10
+  live-content-cf.xumo.com                                     101
+  live-content.cdn.xumo.com                                    48
+  hls-beacons-us.xumo.com                                      14
   cfvod.kaltura.com                                            10
+  hls-beacons-eu.xumo.com                                      9
   content.galxy.tv                                             7
+  o300801-mp-lura-live.fsy.nfl.com                             2
   9e2698fd.wurl.com                                            1
   67923b26.wurl.com                                            1
   ca888b2b.wurl.com                                            1
-  fa942f77.wurl.com                                            1
   all3media-midsomer-1-us.plex.wurl.tv                         1
   a25cabe4.wurl.com                                            1
-  99dd446e.wurl.com                                            1
+  fa942f77.wurl.com                                            1
   amc-allblk-gems-1-us.plex.wurl.tv                            1
+  99dd446e.wurl.com                                            1
   e8df38f7.wurl.com                                            1
   plex-ono-3-us.plex.wurl.tv                                   1
   candlelightmedia-sparklightlove-1-us.plex.wurl.tv            1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
-  mansa-mansamix-1-us.plex.wurl.tv                             1
-  8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
+  8bf58746.wurl.com                                            1
   4b85927c.wurl.com                                            1
   fc68c857.wurl.com                                            1
   22c2efa2.wurl.com                                            1
   a3c67275.wurl.com                                            1
   dce88dcc.wurl.com                                            1
-  trublufactual-trublu-1-us.plex.wurl.tv                       1
   f288da96.wurl.com                                            1
-  fdf989f5.wurl.com                                            1
-  news20e7hhcb.airspace-cdn.cbsivideo.com                      1
   2255b2ae.wurl.com                                            1
-  dai.google.com                                               1
+  news20e7hhcb.airspace-cdn.cbsivideo.com                      1
   be3ec8e4.wurl.com                                            1
+  fdf989f5.wurl.com                                            1
+  9f9bb6fa.wurl.com                                            1
+  losandd87138.airspace-cdn.cbsivideo.com                      1
   da2884db.wurl.com                                            1
   da47cba8.wurl.com                                            1
-  9f9bb6fa.wurl.com                                            1
   55d28294.wurl.com                                            1
-  o300801.mp.lura.live                                         1
-  ed6ec5d8.wurl.com                                            1
   786f64b9.wurl.com                                            1
+  ed6ec5d8.wurl.com                                            1
+  c8358772.wurl.com                                            1
+  7d86e29e.wurl.com                                            1
 
 Example segment URLs (for working out new patterns):
   [live-content-cf.xumo.com]
-    Wu Tang Collection: https://live-content-cf.xumo.com/2185/content/XM0INH8WNTE9YF/26365649/0_250.ts
-    FilmRise Películas Gratis: https://live-content-cf.xumo.com/260/content/XM09B68GXMO65F/24218438/0_416.ts
-    FilmRise Western: https://live-content-cf.xumo.com/149/content/XM0X3BPTXZQWD5/28795834/0_020.ts
+    Wu Tang Collection: https://live-content-cf.xumo.com/2185/content/XM0NYCKJND6C70/22598569/0_271.ts
+    Fifth Gear (UK): https://live-content-cf.xumo.com/3867/content/XM0XVLJX0F8NUO/24445462/0_007.ts
+    FilmRise Películas Gratis: https://live-content-cf.xumo.com/260/content/XM01UP1DR9K8LX/27978180/0_800.ts
   [amagi-guess-failed]
-    Nosey: https://amg00514-amg00514c7-amgplt0020.playout.now3.amagi.tv/ts-us-e2-n2/beacon/amg00514-amg00514c7-amgplt0020/d04ff3e3-d1e4-11f1-b268-9ea432c49b5e/426x240_511680?bcn=1&ca=0&cid=SW-2305_SW022017R_FINAL_N2&dur=6.006000&media_type=C&redirect_url=https%  || tried: 403 https://amg00514-amg00514c7-amgplt0020.playout.now3.amagi.tv/playlist/amg00514-amg00514c7-amgplt0020/playlist.m3u8 ; 403 https://amg00514-amg00514c7-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
-    Judge Nosey: https://amg00514-amg00514c5-amgplt0020.playout.now3.amagi.tv/ts-us-w2-n1/beacon/amg00514-amg00514c5-amgplt0020/d12c3cb6-d1e4-11f1-86d1-9e995ca5b6bd/426x240_511680?bcn=1&ca=0&cid=CU-0233_CUTLERS02033H_064_final_JN&dur=6.006000&media_type=C&redirect_ur  || tried: 403 https://amg00514-amg00514c5-amgplt0020.playout.now3.amagi.tv/playlist/amg00514-amg00514c5-amgplt0020/playlist.m3u8 ; 403 https://amg00514-amg00514c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
-    Nosey Escándalos: https://amg00514-amg00514c13-amgplt0020.playout.now3.amagi.tv/ts-us-w2-n2/beacon/amg00514-amg00514c13-amgplt0020/fcd88ad7-d1e4-11f1-8ed7-3af006e7977a/1920x1080_4870800?bcn=1&ca=0&cid=SO-2302_SEPTIMO_DIA_CAP_667_FINAL_232782&dur=6.006000&media_type=C&  || tried: 404 https://amg00514-amg00514c13-amgplt0020.playout.now3.amagi.tv/playlist/amg00514-amg00514c13-amgplt0020/playlist.m3u8 ; 404 https://amg00514-amg00514c13-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+    Nosey: https://amg00514-amg00514c7-amgplt0020.playout.now3.amagi.tv/ts-us-e2-n2/beacon/amg00514-amg00514c7-amgplt0020/8ef8e941-d2b3-11f1-9bd9-527c63a68835/426x240_511680?bcn=1&ca=0&cid=SW-17173_WILKOS_022613_N1&dur=6.006000&media_type=C&redirect_url=https%3  || tried: 403 https://amg00514-amg00514c7-amgplt0020.playout.now3.amagi.tv/playlist/amg00514-amg00514c7-amgplt0020/playlist.m3u8 ; 403 https://amg00514-amg00514c7-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+    Judge Nosey: https://amg00514-amg00514c5-amgplt0020.playout.now3.amagi.tv/ts-us-w2-n1/beacon/amg00514-amg00514c5-amgplt0020/8f9a31fd-d2b3-11f1-90b6-72488e834503/426x240_511680?bcn=1&ca=0&cid=CU-0180_CUTLERS01080H_final_JN&dur=6.006000&media_type=C&redirect_url=ht  || tried: 403 https://amg00514-amg00514c5-amgplt0020.playout.now3.amagi.tv/playlist/amg00514-amg00514c5-amgplt0020/playlist.m3u8 ; 403 https://amg00514-amg00514c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+    Nosey Escándalos: https://amg00514-amg00514c13-amgplt0020.playout.now3.amagi.tv/ts-us-w2-n2/beacon/amg00514-amg00514c13-amgplt0020/baa722ba-d2b3-11f1-82ed-0acc69352c95/1920x1080_4870800?bcn=1&ca=0&cid=SO-0263_SEPTIMO_DIA_EP_780_WALLACH_final_D29E44&dur=6.006000&media_  || tried: 404 https://amg00514-amg00514c13-amgplt0020.playout.now3.amagi.tv/playlist/amg00514-amg00514c13-amgplt0020/playlist.m3u8 ; 404 https://amg00514-amg00514c13-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
   [live-content.cdn.xumo.com]
-    Beyblade: https://live-content.cdn.xumo.com/149/content/XM0VL21NTUGTMS/23760606/0_010.ts
-    Beyond Belief: https://live-content.cdn.xumo.com/2070/content/XM0LLD32MXN7Z1/23037633/0_330.ts
-    Highway to Heaven: https://live-content.cdn.xumo.com/149/content/XM0VL21NTUGTMS/23760606/0_000.ts
+    Beyond Belief: https://live-content.cdn.xumo.com/149/modified_bumpers/149/content/XM0MZVQ8SRXKDX/23910391/1_000.ts
+    Highway to Heaven: https://live-content.cdn.xumo.com/2070/content/XM0B6WYJRVLR5Z/23908416/0_418.ts
+    Iron Chef: https://live-content.cdn.xumo.com/2071/content/XM0JKP1KGZVWQA/23386402/0_275.ts
   [hls-beacons-us.xumo.com]
-    Fifth Gear (UK): https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F3867%2Fcontent%2FXM0CGI207GFIM1%2F24445269%2F0_148.ts&aid=XM0CGI207GFIM1&eventType=ASSET&cid=88889355&did=19618a58832f4833&playId=1793091352680&eventSubType=playInterval&pid=3867
-    Dick Van Dyke: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM0MHECA2TLGF0%2F23464813%2F0_168.ts&aid=XM0MHECA2TLGF0&eventType=ASSET&cid=88889306&did=19618a58832f4833&playId=1793091123171&eventSubType=playInterval&pid=260
-    Cheaters: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM0LMM6W4QSV28%2F24262257%2F4_150.ts&aid=XM0LMM6W4QSV28&eventType=ASSET&cid=88889362&did=19618a58832f4833&playId=1793091444968&eventSubType=playInterval&pid=260
+    Dick Van Dyke: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM0LXOTZT3YMR5%2F23464820%2F0_185.ts&aid=XM0LXOTZT3YMR5&eventType=ASSET&cid=88889306&did=19618a58832f4833&playId=1793179878987&eventSubType=playInterval&pid=260
+    FilmRise Anime: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F197%2Fcontent%2FXM0VG65E7L1JAH%2F26768692%2F0_034.ts&aid=XM0VG65E7L1JAH&eventType=ASSET&cid=88889303&did=19618a58832f4833&playId=1793180285348&eventSubType=playInterval&pid=197
+    The Rifleman: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM0XPEBOFU8CLQ%2F22043162%2F0_169.ts&aid=XM0XPEBOFU8CLQ&eventType=ASSET&cid=88889366&did=19618a58832f4833&playId=1793180197339&eventSubType=playInterval&pid=260
   [cfvod.kaltura.com]
-    KidsFlix: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_cfju3nj5/v/1/pv/1/ev/10/flavorId/1_rut0t0vy/clipFrom/0/clipTo/480000/name/a.mp4/index.m3u8/seg-9-v1-a1.ts
-    Cooking Panda: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_ny00qokf/v/1/pv/1/ev/10/flavorId/1_0l8hh97x/clipFrom/0/name/a.mp4/index.m3u8/seg-16-v1-a1.ts
-    SKWAD: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/0_6jdf08gi/v/12/pv/1/ev/20/flavorId/0_mqam6ra9/clipFrom/0/clipTo/672000/name/a.mp4/index.m3u8/seg-27-v1-a1.ts
+    KidsFlix: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_cfju3nj5/v/1/pv/1/ev/10/flavorId/1_rut0t0vy/clipFrom/1920000/clipTo/2400000/name/a.mp4/index.m3u8/seg-8-v1-a1.ts
+    Cooking Panda: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/0_4cb5v6k5/v/12/pv/1/flavorId/0_4vxa5qjx/clipFrom/0/name/a.mp4/index.m3u8/seg-21-v1-a1.ts
+    SKWAD: https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_xa0n7sbf/v/1/pv/1/ev/7/flavorId/1_m8y924b2/name/a.mp4/index.m3u8/seg-126-v1-a1.ts
   [hls-beacons-eu.xumo.com]
-    Beyond Belief: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2071%2Fcontent%2FXM0XY1FZ3EP28E%2F23150923%2F0_190.ts&aid=XM0XY1FZ3EP28E&eventType=ASSET&cid=88889361&did=19618a58832f4833&playId=1793091508779&eventSubType=playInterval&pid=2071
-    Andromeda: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2701%2Fcontent%2FXM00PZ5EU9MKWB%2F23111293%2F0_311.ts&aid=XM00PZ5EU9MKWB&eventType=ASSET&cid=88889374&did=19618a58832f4833&playId=1793091648284&eventSubType=playInterval&pid=2701
-    FilmRise Free Series: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2071%2Fcontent%2FXM06FRZHCX8HST%2F29527371%2F0_250.ts&aid=XM06FRZHCX8HST&eventType=ASSET&cid=88889351&did=19618a58832f4833&playId=1793091370275&eventSubType=playInterval&pid=2071
+    Beyblade: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2071%2Fcontent%2FXM09SEYE7OVQTQ%2F24071395%2F4_145.ts&aid=XM09SEYE7OVQTQ&eventType=ASSET&cid=88889345&did=19618a58832f4833&playId=1793180208435&eventSubType=playInterval&pid=2071
+    Andromeda: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2701%2Fcontent%2FXM080CH321WIAO%2F23111290%2F0_193.ts&aid=XM080CH321WIAO&eventType=ASSET&cid=88889374&did=19618a58832f4833&playId=1793180452461&eventSubType=playInterval&pid=2701
+    FilmRise Free Series: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2837%2Fcontent%2FXM0OT5R1WMRA1W%2F23469991%2F0_370.ts&aid=XM0OT5R1WMRA1W&eventType=ASSET&cid=88889339&did=19618a58832f4833&playId=1793180484999&eventSubType=playInterval&pid=2837
   [content.galxy.tv]
-    SLOPES: https://content.galxy.tv/a3105f70445e4ee3b2df8f5209287a73/a/D00000105.ts
-    Watch it SCREAM: https://content.galxy.tv/744b3982efcf4b6b81d2b0b87468002d/a/D00000223.ts
-    Dungeon TV: https://content.galxy.tv/43da1baa29af4ab0a7762ee5f2535951/a/D00000007.ts
+    SLOPES: https://content.galxy.tv/d6b6b8f88b244f1ebce4ecd50365131e/a/D000000F5.ts
+    Watch it SCREAM: https://content.galxy.tv/c5bc984b960a4227a7aa255bd71a7991/a/D00000158.ts
+    Dungeon TV: https://content.galxy.tv/fab1c8d4950b496d9ca4b78194e815fd/a/D00000199.ts
+  [o300801-mp-lura-live.fsy.nfl.com]
+    NFL Channel: https://o300801-mp-lura-live.fsy.nfl.com/live/ephemeral/aV6qRMoj01gysw3sKomhM3VvbLkpEAG2/nfldigital1_plex/3128k/Cz2tJehGhdv/179384/segment_179384027.ts?token=1793183781_b6d7903b201b7ee28716e992274618f52ff7c771  || tried 403x16
+    NFL Channel: https://o300801-mp-lura-live.fsy.nfl.com/live/ephemeral/4Z9nGq8j6ED7UWRs23QIO50bylw1za3X/dc1_intl_2_plex_intl/3128k/NywNjmZQva0/179396/segment_179396079.ts?token=1793184341_3cb4331630de9a423fbed7d468cc507b60916040  || tried 403x16
   [22472f78.wurl.com]
-    The Pet Collective: https://22472f78.wurl.com/dist/wurl/174/hls/master/playlist_1280x720_085913__370160.ts  || tried 403x16
+    The Pet Collective: https://22472f78.wurl.com/dist/wurl/174/hls/master/playlist_1280x720_093911__385503.ts  || tried 403x16
   [224a4259.wurl.com]
-    Carwow: https://224a4259.wurl.com/ppc-ae_networks_carwow_1-EST-wfo-0-bd947729/playlist_512k_20261027T090353_200212.ts  || tried 403x5
+    Carwow: https://224a4259.wurl.com/ppc-ae_networks_carwow_1-EST-wfo-0-bd947729/playlist_512k_20261028T094352_215144.ts  || tried 403x5
   [2255b2ae.wurl.com]
-    BBC News (North America): https://2255b2ae.wurl.com/playlist_192k_5642235.ts  || tried 403x1
+    BBC News (North America): https://2255b2ae.wurl.com/playlist_192k_5657147.ts  || tried 403x1
   [22c2efa2.wurl.com]
-    A&E Alaska State Troopers: https://22c2efa2.wurl.com/ppc-ae_networks_alaskastatetroopers_1-EST-wfo-0-54574c66/playlist_512k_20261027T085656_200722.ts  || tried 403x5
+    A&E Alaska State Troopers: https://22c2efa2.wurl.com/ppc-ae_networks_alaskastatetroopers_1-EST-wfo-0-54574c66/playlist_512k_20261028T093649_215689.ts  || tried 403x5
   [22fcfa2f.wurl.com]
-    UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261027T085919_201026.ts  || tried 403x5
+    UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261028T093912_216000.ts  || tried 403x5
   [23e952ae.wurl.com]
-    Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261026T160721_190426.ts  || tried 403x5
+    Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261027T164714_205361.ts  || tried 403x5
   [2473296b.wurl.com]
-    FIFA+: https://2473296b.wurl.com/ppc-sysdata_s_p_a_fifa_8-UTC-wfo-0-ef71a23b/playlist_192k_20261027T090357_185800.ts  || tried 403x5
-  [24b89cbd.wurl.com]
-    Ice Road Truckers: https://24b89cbd.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261026T160721_190426.ts  || tried 403x5
+    FIFA+: https://2473296b.wurl.com/ppc-sysdata_s_p_a_fifa_8-UTC-wfo-0-ef71a23b/playlist_192k_20261028T094356_200715.ts  || tried 403x5

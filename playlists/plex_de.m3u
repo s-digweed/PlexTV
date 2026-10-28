@@ -276,7 +276,7 @@ https://amg00384-pac12network-pac12-plex-n43ix.amagi.tv/playlist/amg00384-pac12n
 #EXTINF:-1 channel-id="plex-688d2040a6fe30698ab41f29" tvg-id="688d2040a6fe30698ab41f29" tvg-name="Pastewka powered by myspass" tvg-logo="https://provider-static.plex.tv/epg/cms/production/409a2556-7b82-4cb8-825a-b37beff126d8/Pastewka_Plex_ChannelLogo_white_Mirjan_Hildebrandt.png" group-title="Comedy",Pastewka powered by myspass
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-688d2040a6fe30698ab41f29.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67db3546d66f778a752f7eaa" tvg-id="67db3546d66f778a752f7eaa" tvg-name="PeliMex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc750061-c748-4016-83e0-9f56a40a493c/Pelimex_red_logo_RDXC2.png" group-title="En Español",PeliMex
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-67db3546d66f778a752f7eaa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://telecine-pelimex-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f0ff263d71dcb00449ec021" tvg-id="5f0ff263d71dcb00449ec021" tvg-name="People are Awesome" tvg-logo="https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png" group-title="Explore",People are Awesome
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-5f0ff263d71dcb00449ec021.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-643f0ecd76de2b4015ae6c01" tvg-id="643f0ecd76de2b4015ae6c01" tvg-name="PFL MMA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" group-title="Sports",PFL MMA
