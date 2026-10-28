@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T12:57:29.928977+00:00",
+  "generated": "2026-10-28T20:23:29.792854+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -894,19 +894,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/87658f08-b42f-4fff-b2d6-b729fd2dae71/Plex_GravitasMovies_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5efe1de7e0b3f5003f5d9f8e.m3u8",
-        "genres": [
-          "Movies"
-        ],
-        "region": "us"
-      },
-      "65282d2615c307b5dfda8bc4": {
-        "id": "6a1610bebdf296985fd95603-65282d2615c307b5dfda8bc4",
-        "slug": "the-black-effect",
-        "gridKey": "65282d2615c307b5dfda8bc4",
-        "name": "The Black Effect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/82ad066a-3748-4b64-8e20-d8f976d1c604/dark-mode_-_Brielle_Urssery.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-65282d2615c307b5dfda8bc4.m3u8",
         "genres": [
           "Movies"
         ],
@@ -7849,19 +7836,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-63f0ca427b78030ed9990309.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
-      "60240f57676235002df19f49": {
-        "id": "6a1610bebdf296985fd95603-60240f57676235002df19f49",
-        "slug": "freetv-familia",
-        "gridKey": "60240f57676235002df19f49",
-        "name": "FreeTV Familia",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-60240f57676235002df19f49.m3u8",
         "genres": [
           "En Español"
         ],
@@ -30128,19 +30102,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-6154a863e3e4d9577f96b31a.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "mx"
-      },
-      "60240f57676235002df19f49": {
-        "id": "608049aefa2b8ae93c2c3a63-60240f57676235002df19f49",
-        "slug": "freetv-familia",
-        "gridKey": "60240f57676235002df19f49",
-        "name": "FreeTV Familia",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-60240f57676235002df19f49.m3u8",
         "genres": [
           "En Español"
         ],

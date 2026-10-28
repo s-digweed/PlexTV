@@ -169,8 +169,6 @@ https://oly-frc.otteravision.com/oly/frc/frc_720.m3u8
 https://oly-fredr.otteravision.com/oly/fredr/fredr_720.m3u8
 #EXTINF:-1 channel-id="plex-6018913ea15130002b284193" tvg-id="6018913ea15130002b284193" tvg-name="FreeTV Estelar" tvg-logo="https://provider-static.plex.tv/epg/cms/production/339acd9f-efde-4536-b6c9-1efb2e72dab8/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Bingeworthy",FreeTV Estelar
 https://oly-frees.otteravision.com/oly/frees/frees_720.m3u8
-#EXTINF:-1 channel-id="plex-60240f57676235002df19f49" tvg-id="60240f57676235002df19f49" tvg-name="FreeTV Familia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png" group-title="En Español",FreeTV Familia
-https://oly-frefa.otteravision.com/oly/frefa/frefa_720.m3u8
 #EXTINF:-1 channel-id="plex-6018913ea15130002b284191" tvg-id="6018913ea15130002b284191" tvg-name="FreeTV Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1c2a69a-6ca6-4c92-b090-53de85f49c8f/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="En Español",FreeTV Hits
 https://d35p4ep9ync6qx.cloudfront.net/e7403e7d9913fd828b1602fa7cef6902/master.m3u8
 #EXTINF:-1 channel-id="plex-697278d331b12b32a91db6b1" tvg-id="697278d331b12b32a91db6b1" tvg-name="FreeTV Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80f85557-96d6-4ad9-814d-486a729dd9ee/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Music",FreeTV Hits

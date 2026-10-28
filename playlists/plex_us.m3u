@@ -473,8 +473,6 @@ https://oly-frc.otteravision.com/oly/frc/frc_720.m3u8
 https://oly-fredr.otteravision.com/oly/fredr/fredr_720.m3u8
 #EXTINF:-1 channel-id="plex-608b7095a09205002da4f293" tvg-id="608b7095a09205002da4f293" tvg-name="FreeTV Estelar" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b96e6421-c1fa-4773-8a6d-3e980fcd1084/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo__1_.png" group-title="En Español",FreeTV Estelar
 https://oly-ftveu.otteravision.com/oly/ftveu/ftveu_720.m3u8
-#EXTINF:-1 channel-id="plex-60240f57676235002df19f49" tvg-id="60240f57676235002df19f49" tvg-name="FreeTV Familia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png" group-title="En Español",FreeTV Familia
-https://oly-frefa.otteravision.com/oly/frefa/frefa_720.m3u8
 #EXTINF:-1 channel-id="plex-6018913ea15130002b284191" tvg-id="6018913ea15130002b284191" tvg-name="FreeTV Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1c2a69a-6ca6-4c92-b090-53de85f49c8f/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="En Español",FreeTV Hits
 https://d35p4ep9ync6qx.cloudfront.net/e7403e7d9913fd828b1602fa7cef6902/master.m3u8
 #EXTINF:-1 channel-id="plex-69727a4631b12b32a91db6b3" tvg-id="69727a4631b12b32a91db6b3" tvg-name="FreeTV Horror" tvg-logo="https://provider-static.plex.tv/epg/cms/production/420ddff5-f7d5-4ac5-8a43-722d3c940ed0/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo_WHITE_ATTRIBUTIONRDX__1_.png" group-title="En Español",FreeTV Horror
@@ -1127,8 +1125,6 @@ https://linear-1146.frequency.stream/mt/plex/1146/hls/master/playlist.m3u8
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6627ab12580825e8a7bc4f04.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6515ff231fc969615e69d170" tvg-id="6515ff231fc969615e69d170" tvg-name="The Biggest Loser" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee6167ad-08b7-4d83-ae79-51392c4c244a/TBL_Logo_Dark_1500x1000_-_Harry_Marshall_WHITE_COLOR.png" group-title="Daytime TV & Games",The Biggest Loser
 https://amg00627-banijay-amg00627c4-plex-us-1007.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-plexus/playlist.m3u8
-#EXTINF:-1 channel-id="plex-65282d2615c307b5dfda8bc4" tvg-id="65282d2615c307b5dfda8bc4" tvg-name="The Black Effect" tvg-logo="https://provider-static.plex.tv/epg/cms/production/82ad066a-3748-4b64-8e20-d8f976d1c604/dark-mode_-_Brielle_Urssery.png" group-title="Movies",The Black Effect
-https://mansa-mansamix-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5efe1de6e0b3f5003f5d9f88" tvg-id="5efe1de6e0b3f5003f5d9f88" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png" group-title="Food, Home & Culture",The Bob Ross Channel
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5efe1de6e0b3f5003f5d9f88.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67d9a3d663c5439aeaf61305" tvg-id="67d9a3d663c5439aeaf61305" tvg-name="The Bold and the Beautiful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png" group-title="Daytime TV & Games",The Bold and the Beautiful
