@@ -279,6 +279,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a30832
 https://maverick-maverick-black-cinema-2-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-690cd1fb750b5c46ff424c8e" tvg-id="690cd1fb750b5c46ff424c8e" tvg-name="Mayday: Air Disaster" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4c908f9-fa67-4a24-9413-b2e735726e89/PTV_Mayday_1500x1000px_Logo_Colored.png" group-title="Reality",Mayday: Air Disaster
 https://linear-1023.frequency.stream/mt/plex-uk/1023/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6ad29fe25374a1e72d134649" tvg-id="6ad29fe25374a1e72d134649" tvg-name="Mega Machines" tvg-logo="https://provider-static.plex.tv/epg/cms/production/368f0a2f-2a0e-4fa5-8704-19a094b408a3/MMC_logo_dark-bg_1500x1000.png" group-title="Explore",Mega Machines
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ad29fe25374a1e72d134649.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68e9436dda6bb987138625c7" tvg-id="68e9436dda6bb987138625c7" tvg-name="Metal.Rocks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png" group-title="Music",Metal.Rocks
 https://amg00771-amg00771c5-plex-us-9714.playouts.now.amagi.tv/playlist/amg00771-kochfilmsfast-metalrocks-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-684c2379e32026b0c1f53793" tvg-id="684c2379e32026b0c1f53793" tvg-name="Million Dollar Dream Home" tvg-logo="https://provider-static.plex.tv/epg/cms/production/305dc437-2a99-4e98-a872-08ae23e102f6/MDDH_WHITE_-_Principal_MediaRDX__1_.png" group-title="Food, Home & Culture",Million Dollar Dream Home

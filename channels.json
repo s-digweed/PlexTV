@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T13:03:17.924531+00:00",
+  "generated": "2026-10-29T20:22:59.066504+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -4461,19 +4461,6 @@
         ],
         "region": "us"
       },
-      "6348b2cb1159f6a5ce819b89": {
-        "id": "6a1610bebdf296985fd95603-6348b2cb1159f6a5ce819b89",
-        "slug": "trailer-park-boys-the-swearnet-show",
-        "gridKey": "6348b2cb1159f6a5ce819b89",
-        "name": "Trailer Park Boys: The SwearNet Show",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/21d4400e-0933-461b-9850-2f5f1e98fd97/TrailerParkBoys_logo_light_-_Paige_Shermanrdxwhiterdxbad.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6348b2cb1159f6a5ce819b89.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "us"
-      },
       "628ea9fcffe4cec6361f5310": {
         "id": "6a1610bebdf296985fd95603-628ea9fcffe4cec6361f5310",
         "slug": "lol-network-2",
@@ -7420,19 +7407,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6469502df73356567a64ce8e.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
-      "661d6a8db518ef381a85ed60": {
-        "id": "6a1610bebdf296985fd95603-661d6a8db518ef381a85ed60",
-        "slug": "spark-tv-luz-y-amor",
-        "gridKey": "661d6a8db518ef381a85ed60",
-        "name": "Spark TV Luz y Amor",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/332040a1-861c-4db8-b4fa-56cdcf686cb4/Plex_SparkTV_key-art_Spanish-RDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-661d6a8db518ef381a85ed60.m3u8",
         "genres": [
           "En Español"
         ],
@@ -12042,19 +12016,6 @@
         ],
         "region": "ca"
       },
-      "6348b2cb1159f6a5ce819b89": {
-        "id": "647f8d22a2fc3fadb4721685-6348b2cb1159f6a5ce819b89",
-        "slug": "trailer-park-boys-the-swearnet-show",
-        "gridKey": "6348b2cb1159f6a5ce819b89",
-        "name": "Trailer Park Boys: The SwearNet Show",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/21d4400e-0933-461b-9850-2f5f1e98fd97/TrailerParkBoys_logo_light_-_Paige_Shermanrdxwhiterdxbad.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-6348b2cb1159f6a5ce819b89.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "ca"
-      },
       "6685c10e2deb7f424133b08b": {
         "id": "647f8d22a2fc3fadb4721685-6685c10e2deb7f424133b08b",
         "slug": "ctv-laughs",
@@ -13064,6 +13025,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6470477fe536e0faaf10be9d.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "ca"
+      },
+      "6ad29fe25374a1e72d134649": {
+        "id": "647f8d22a2fc3fadb4721685-6ad29fe25374a1e72d134649",
+        "slug": "mega-machines",
+        "gridKey": "6ad29fe25374a1e72d134649",
+        "name": "Mega Machines",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/368f0a2f-2a0e-4fa5-8704-19a094b408a3/MMC_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6ad29fe25374a1e72d134649.m3u8",
         "genres": [
           "Explore"
         ],
@@ -18310,6 +18284,19 @@
         ],
         "region": "gb"
       },
+      "6ad29fe25374a1e72d134649": {
+        "id": "64305451fc3be5947773c339-6ad29fe25374a1e72d134649",
+        "slug": "mega-machines",
+        "gridKey": "6ad29fe25374a1e72d134649",
+        "name": "Mega Machines",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/368f0a2f-2a0e-4fa5-8704-19a094b408a3/MMC_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6ad29fe25374a1e72d134649.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "gb"
+      },
       "60a9d105d162b9002d05a60c": {
         "id": "64305451fc3be5947773c339-60a9d105d162b9002d05a60c",
         "slug": "journy-2",
@@ -22238,6 +22225,19 @@
         ],
         "region": "au"
       },
+      "6ad29fe25374a1e72d134649": {
+        "id": "697140a85d851f5e69414688-6ad29fe25374a1e72d134649",
+        "slug": "mega-machines",
+        "gridKey": "6ad29fe25374a1e72d134649",
+        "name": "Mega Machines",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/368f0a2f-2a0e-4fa5-8704-19a094b408a3/MMC_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6ad29fe25374a1e72d134649.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "au"
+      },
       "60d4edddb2fdec002c141135": {
         "id": "697140a85d851f5e69414688-60d4edddb2fdec002c141135",
         "slug": "wildearth",
@@ -26109,6 +26109,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66fd3e25216b603e031725fe.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "nz"
+      },
+      "6ad29fe25374a1e72d134649": {
+        "id": "5e20b730f2f8d5003d739db7-6ad29fe25374a1e72d134649",
+        "slug": "mega-machines",
+        "gridKey": "6ad29fe25374a1e72d134649",
+        "name": "Mega Machines",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/368f0a2f-2a0e-4fa5-8704-19a094b408a3/MMC_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ad29fe25374a1e72d134649.m3u8",
         "genres": [
           "Explore"
         ],
