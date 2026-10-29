@@ -1,8 +1,8 @@
-Plex VPN-free direct links  (2026-10-28 22:37 UTC)
-Channels checked: 1408   VPN-free: 827   Still Plex link (VPN needed): 581
+Plex VPN-free direct links  (2026-10-29 05:50 UTC)
+Channels checked: 1409   VPN-free: 827   Still Plex link (VPN needed): 582
 
   direct (cached)              827
-  other host                   495
+  other host                   496
   amagi-guess-failed           58
   plex-404                     12
   plex-400                     6

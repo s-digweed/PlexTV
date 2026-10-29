@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T22:37:24.977058+00:00",
+  "generated": "2026-10-29T05:49:52.417296+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -790,6 +790,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/fa25b8fc-3d7e-428e-af71-6369dd1596a7/SparkTV_logo_darkWHTLETTERS.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-614a11bfa6f839154ee3306d.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "us"
+      },
+      "6ad29b265374a1e72d134645": {
+        "id": "6a1610bebdf296985fd95603-6ad29b265374a1e72d134645",
+        "slug": "always-christmas",
+        "gridKey": "6ad29b265374a1e72d134645",
+        "name": "Always Christmas",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e10faf1a-d8bc-4f61-aac1-0e27f7c1c838/Always_Christmas_Logo_-_1500x1000WHITERDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ad29b265374a1e72d134645.m3u8",
         "genres": [
           "Movies"
         ],
