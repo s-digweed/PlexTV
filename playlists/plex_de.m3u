@@ -30,7 +30,7 @@ https://bas-bassm.otteravision.com/bas/bassm/bassm_720.m3u8
 #EXTINF:-1 channel-id="plex-64d78d48950759afa2523ee9" tvg-id="64d78d48950759afa2523ee9" tvg-name="Beyond Belief" tvg-logo="https://provider-static.plex.tv/epg/cms/production/630c8156-8a00-40a1-a3d8-b5f7b7bf076d/Plex_FilmRise_XFactorDasUnfassbare_Color_Logo.png" group-title="Explore",Beyond Belief
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-64d78d48950759afa2523ee9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68160d8b6da958281f1f7a65" tvg-id="68160d8b6da958281f1f7a65" tvg-name="Big Brother Classics" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2336e53ed2b8d3d0b3540546c0315695.png" group-title="Reality",Big Brother Classics
-https://tcs.fast.tcscdn.net/ads/default/dai/0bf2a79d51c929f48c88149c6ff31f10/index.m3u8
+https://tcs.fast.tcscdn.net/ads/default/dai/dcbecd933b4dfbcb20ebf3143c7a3f65/index.m3u8
 #EXTINF:-1 channel-id="plex-6a3c2c8c14e447db7984cc3a" tvg-id="6a3c2c8c14e447db7984cc3a" tvg-name="Billboard Español TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png" group-title="En Español",Billboard Español TV
 https://amg00375-amg00375c33-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6334a8e48a7b2a349d903b8c" tvg-id="6334a8e48a7b2a349d903b8c" tvg-name="Billiard TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png" group-title="Sports",Billiard TV
@@ -248,7 +248,7 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-666e1e35ce73
 #EXTINF:-1 channel-id="plex-690cd9447e937a2031d9bbf1" tvg-id="690cd9447e937a2031d9bbf1" tvg-name="Netzkino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a03747a5-4a00-4bc9-a850-0a09a7d54d92/Channel_Logo_Netzkino_Color_for_Dark_BG_-_Caroline_GrauRDX.png" group-title="Movies",Netzkino
 https://plaionpictures-netzkino-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68b9f5a3d60e5dd29263c7ac" tvg-id="68b9f5a3d60e5dd29263c7ac" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png" group-title="Global",NEW KFOOD
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-68b9f5a3d60e5dd29263c7ac.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://newidco-newkfood-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6abd4743e1b65dffbc995e44" tvg-id="6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png" group-title="News",NEWSMAX
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6abd4743e1b65dffbc995e44.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66bfb2e6144c201b8b61c10f" tvg-id="66bfb2e6144c201b8b61c10f" tvg-name="NewsWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="News",NewsWorld

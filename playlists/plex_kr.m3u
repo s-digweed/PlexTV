@@ -172,7 +172,7 @@ https://d35p4ep9ync6qx.cloudfront.net/d89e61c72d4a3f23718a948cefb583ad/master.m3
 #EXTINF:-1 channel-id="plex-650b5bb3f4b2d9579946a500" tvg-id="650b5bb3f4b2d9579946a500" tvg-name="Mythical 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png" group-title="Comedy",Mythical 24/7
 https://amg00275-amg00275c1-amgplt0020.playout.now3.amagi.tv/playlist/amg00275-amg00275c1-amgplt0020/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68b9f5a3d60e5dd29263c7ac" tvg-id="68b9f5a3d60e5dd29263c7ac" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png" group-title="Global",NEW KFOOD
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68b9f5a3d60e5dd29263c7ac.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://newidco-newkfood-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6abd4743e1b65dffbc995e44" tvg-id="6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png" group-title="News",NEWSMAX
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66bfb2e6144c201b8b61c10f" tvg-id="66bfb2e6144c201b8b61c10f" tvg-name="NewsWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="News",NewsWorld

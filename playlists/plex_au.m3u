@@ -316,7 +316,7 @@ https://amg00275-amg00275c1-amgplt0020.playout.now3.amagi.tv/playlist/amg00275-a
 #EXTINF:-1 channel-id="plex-6087ff3ae99ff1002ce1465b" tvg-id="6087ff3ae99ff1002ce1465b" tvg-name="Nashville" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7ed379f6fe9fb99d36e235c9e315b03f.png" group-title="Bingeworthy",Nashville
 https://amg00353-amg00353c23-plex-us-2886.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-nashvilleenglish-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68b9f5a3d60e5dd29263c7ac" tvg-id="68b9f5a3d60e5dd29263c7ac" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png" group-title="Global",NEW KFOOD
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68b9f5a3d60e5dd29263c7ac.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://newidco-newkfood-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6abd4743e1b65dffbc995e44" tvg-id="6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png" group-title="News",NEWSMAX
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6abd4743e1b65dffbc995e44.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66bfb2e6144c201b8b61c10f" tvg-id="66bfb2e6144c201b8b61c10f" tvg-name="NewsWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="News",NewsWorld
@@ -538,7 +538,7 @@ https://linear-893.frequency.stream/mt/plex-uk/893/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67f45ef989089d917e1b1634" tvg-id="67f45ef989089d917e1b1634" tvg-name="Unbeaten" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png" group-title="Sports",Unbeaten
 https://amg00721-amg00721c7-plex-us-7673.playouts.now.amagi.tv/playlist/amg00721-inverleigh-unbeaten3row-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69154308e449c6fdde65a661" tvg-id="69154308e449c6fdde65a661" tvg-name="Undercover Boss" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55dfbe72-b7f5-4aa6-8d39-06fc2f94de6a/UndercoverBoss_DarkLogo.png" group-title="Reality",Undercover Boss
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-69154308e449c6fdde65a661.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-international-undercoverboss-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6674baf1a9c715b93ca6ca90" tvg-id="6674baf1a9c715b93ca6ca90" tvg-name="Unspeakable" tvg-logo="https://provider-static.plex.tv/epg/cms/production/557e2a37-20f0-4e1f-8dc5-b99cbebaa33e/FilmRise_Unspeakable_Color_LogoRDX.png" group-title="Comedy",Unspeakable
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6674baf1a9c715b93ca6ca90.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6674bc83a9c715b93ca6ca92" tvg-id="6674bc83a9c715b93ca6ca92" tvg-name="Untold Stories of the ER" tvg-logo="https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png" group-title="Reality",Untold Stories of the ER
