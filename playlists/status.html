@@ -1,0 +1,677 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Channel Status</title>
+<style>
+:root{
+  --bg:#f6f5f2; --panel:#ffffff; --ink:#1c1b19; --muted:#6b675f; --line:#e4e1da;
+  --free:#1f8a4c; --free-bg:#e5f4ea; --block:#b8432f; --block-bg:#f9e7e2;
+  --unk:#7a7466; --unk-bg:#efede7; --accent:#2b5fd9; --accent-bg:#e6edfc;
+  --add:#1f8a4c; --rem:#b8432f; --ren:#a06a00;
+  --shadow:0 1px 2px rgba(0,0,0,.05),0 2px 8px rgba(0,0,0,.04);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#121212; --panel:#1b1b1a; --ink:#ecebe7; --muted:#9a968d; --line:#2c2b29;
+    --free:#5fcf8c; --free-bg:#16301f; --block:#f08a74; --block-bg:#3a1d17;
+    --unk:#a8a294; --unk-bg:#26251f; --accent:#7ea2ff; --accent-bg:#1c2540;
+    --add:#5fcf8c; --rem:#f08a74; --ren:#e2b04a; --shadow:none;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#121212; --panel:#1b1b1a; --ink:#ecebe7; --muted:#9a968d; --line:#2c2b29;
+  --free:#5fcf8c; --free-bg:#16301f; --block:#f08a74; --block-bg:#3a1d17;
+  --unk:#a8a294; --unk-bg:#26251f; --accent:#7ea2ff; --accent-bg:#1c2540;
+  --add:#5fcf8c; --rem:#f08a74; --ren:#e2b04a; --shadow:none;
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html,body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans",sans-serif}
+.wrap{max-width:1080px;margin:0 auto;padding:20px 16px 60px}
+header{display:flex;flex-wrap:wrap;align-items:center;gap:12px 16px;margin-bottom:16px}
+h1{font-size:22px;margin:0;letter-spacing:-.01em}
+.sub{color:var(--muted);font-size:13px}
+.grow{flex:1}
+.seg{display:inline-flex;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:3px;gap:2px}
+.seg button{border:0;background:transparent;color:var(--muted);font:inherit;font-weight:600;
+  padding:6px 12px;border-radius:7px;cursor:pointer;white-space:nowrap}
+.seg button[aria-pressed="true"]{background:var(--accent-bg);color:var(--accent)}
+#svc button{display:inline-flex;align-items:center;gap:7px}
+.svclogo{width:20px;height:20px;object-fit:contain;border-radius:5px;flex:0 0 auto}
+.iconbtn{border:1px solid var(--line);background:var(--panel);color:var(--muted);border-radius:8px;
+  padding:7px 9px;cursor:pointer;font:inherit;display:inline-flex}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:14px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;box-shadow:var(--shadow)}
+.card .k{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.card .v{font-size:24px;font-weight:700;font-variant-numeric:tabular-nums;margin-top:2px}
+.card .v small{font-size:13px;font-weight:600;color:var(--muted)}
+.v.free{color:var(--free)} .v.block{color:var(--block)}
+.regions{display:flex;gap:8px;overflow-x:auto;padding:2px 2px 10px;margin:0 -2px 6px;scrollbar-width:thin}
+.chip{flex:0 0 auto;border:1px solid var(--line);background:var(--panel);border-radius:12px;
+  padding:8px 11px;cursor:pointer;text-align:left;color:var(--ink);font:inherit;min-width:112px}
+.chip[aria-pressed="true"]{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent) inset}
+.chip .t{font-weight:650;font-size:14px;display:flex;gap:6px;align-items:center;white-space:nowrap}
+.chip .flag{font-size:17px;line-height:1}
+.chip .n{font-size:12px;color:var(--muted);margin-top:3px;font-variant-numeric:tabular-nums}
+.bar{height:4px;border-radius:3px;background:var(--block-bg);margin-top:6px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--free)}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:6px 0 12px;overflow-x:auto;scrollbar-width:none}
+.tabs button{border:0;background:transparent;font:inherit;font-weight:600;color:var(--muted);
+  padding:9px 12px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap}
+.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tabs .count{font-weight:500;color:var(--muted);font-size:12px;margin-left:4px}
+.toolbar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}
+.toolbar input{flex:1 1 220px;min-width:0;border:1px solid var(--line);background:var(--panel);color:var(--ink);
+  border-radius:9px;padding:8px 11px;font:inherit}
+.list{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;box-shadow:var(--shadow)}
+.row{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:center;padding:9px 12px;border-top:1px solid var(--line)}
+.row:first-child{border-top:0}
+.logo{width:44px;height:30px;border-radius:6px;background:var(--unk-bg);object-fit:contain}
+.nm{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.meta{font-size:12.5px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pill{font-size:12px;font-weight:650;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.pill.free{background:var(--free-bg);color:var(--free)}
+.pill.blocked{background:var(--block-bg);color:var(--block)}
+.pill.unknown{background:var(--unk-bg);color:var(--unk)}
+.pill.guide{background:var(--accent-bg);color:var(--accent)}
+.pill.noguide{background:var(--unk-bg);color:var(--unk)}
+.more{display:block;width:100%;border:0;border-top:1px solid var(--line);background:transparent;color:var(--accent);
+  font:inherit;font-weight:600;padding:11px;cursor:pointer}
+.empty{padding:28px;text-align:center;color:var(--muted)}
+.nmrow{display:flex;align-items:center;gap:8px;min-width:0}
+.nmrow .nm{min-width:0}
+.idbtn{flex:0 0 auto;border:1px solid var(--line);background:transparent;color:var(--muted);border-radius:6px;
+  font:600 11px/1 system-ui,sans-serif;letter-spacing:.04em;padding:4px 6px;cursor:pointer;display:inline-flex;gap:3px;align-items:center}
+.idbtn svg{transition:transform .15s}
+.idbtn[aria-expanded="true"]{color:var(--accent);border-color:var(--accent)}
+.idbtn[aria-expanded="true"] svg{transform:rotate(90deg)}
+.idbox{margin-top:6px;border-left:2px solid var(--accent);padding:2px 0 2px 10px;font-size:12.5px}
+.idl{display:flex;align-items:center;gap:8px;min-width:0;margin:3px 0}
+.idl .lb{color:var(--muted);flex:0 0 auto;white-space:nowrap}
+.idl code{font:12.5px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+  background:var(--unk-bg);padding:2px 6px;border-radius:5px;min-width:0;user-select:all}
+.cp{flex:0 0 auto;border:1px solid var(--line);background:var(--panel);color:var(--muted);border-radius:6px;
+  font:600 11.5px system-ui,sans-serif;padding:3px 8px;cursor:pointer}
+.cp.ok{color:var(--free);border-color:var(--free)}
+.idsub{color:var(--muted);margin:8px 0 2px;font-size:12px}
+.toolbar .seg.small button{padding:6px 10px}
+/* On Now */
+.onrow{display:grid;grid-template-columns:44px 1fr;gap:12px;padding:10px 12px;border-top:1px solid var(--line);cursor:pointer}
+.onrow:first-child{border-top:0}
+.onrow:hover{background:color-mix(in srgb,var(--accent-bg) 35%,transparent)}
+.onch{font-size:12.5px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ont{font-weight:650;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ont .ep{font-weight:500;color:var(--muted)}
+.prog{display:flex;align-items:center;gap:8px;margin-top:5px;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.prog .b{flex:1;height:4px;border-radius:3px;background:var(--line);overflow:hidden;max-width:220px}
+.prog .b i{display:block;height:100%;background:var(--accent)}
+.onnext{font-size:12.5px;color:var(--muted);margin-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.onnext b{font-weight:600;color:var(--ink)}
+.tl{margin-top:8px;border-left:2px solid var(--line);padding-left:10px}
+.tl .it{display:grid;grid-template-columns:72px 1fr;gap:8px;padding:4px 0;font-size:13px}
+.tl .tm{color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+.tl .it.past .ti{color:var(--muted)}
+.tl .it.now{background:var(--accent-bg);border-radius:6px;padding:6px;margin:2px 0 2px -6px}
+.tl .it.now .tm{color:var(--accent);font-weight:650}
+.tl .tag{font-size:10.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:6px 0 0}
+.tl .ds{font-size:12.5px;color:var(--muted);margin-top:3px;white-space:normal}
+.tl .ti{min-width:0;white-space:normal}
+.day{margin-bottom:16px}
+.day h3{font-size:14px;margin:0 0 6px;color:var(--muted);font-weight:650}
+.chg{display:grid;grid-template-columns:22px 150px 1fr;gap:8px;align-items:baseline;padding:7px 12px;border-top:1px solid var(--line)}
+.chg:first-child{border-top:0}
+.chg .s{font-weight:800;text-align:center}
+.chg.added .s{color:var(--add)} .chg.removed .s{color:var(--rem)} .chg.renamed .s{color:var(--ren)}
+.chg .rg{font-size:12.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.chg .o{color:var(--muted);text-decoration:line-through}
+.note{font-size:13px;color:var(--muted);margin:10px 2px}
+.hgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.hcard{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px;box-shadow:var(--shadow);min-width:0}
+.hcard h3{margin:0 0 2px;font-size:16px;display:flex;align-items:center;gap:8px;justify-content:space-between}
+.hcard .repo{font-size:12px;color:var(--muted)}
+.hcard .repo a{color:inherit}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:6px 10px;margin-top:12px;font-size:13.5px;align-items:baseline}
+.kv .k{color:var(--muted)}
+.kv .v{font-weight:600;font-variant-numeric:tabular-nums;min-width:0}
+.kv .v small{font-weight:500;color:var(--muted)}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;vertical-align:1px}
+.dot.ok{background:var(--free)} .dot.warn{background:var(--ren)} .dot.bad{background:var(--block)} .dot.unk{background:var(--unk)}
+.runs{margin-top:12px;border-top:1px solid var(--line);padding-top:10px;font-size:13px}
+.runs div{display:flex;gap:6px;align-items:baseline;margin:3px 0;min-width:0}
+.runs a{color:var(--ink);text-decoration:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.runs .t{color:var(--muted);margin-left:auto;white-space:nowrap}
+.hnotes{margin:12px 0 0;padding:0 0 0 18px;font-size:13px;color:var(--muted)}
+.hnotes li{margin:3px 0}
+@media (max-width:900px){ .hgrid{grid-template-columns:1fr} }
+.err{background:var(--block-bg);color:var(--block);border-radius:10px;padding:12px 14px;margin:10px 0}
+@media (max-width:700px){
+  .cards{grid-template-columns:repeat(2,1fr)}
+  .card .v{font-size:20px}
+  .row{grid-template-columns:36px 1fr;}
+  .row .pill{grid-column:2;justify-self:start;margin-top:-2px}
+  .logo{width:36px;height:26px}
+  .chg{grid-template-columns:18px 1fr}
+  .chg .rg{grid-column:2}
+  .chg .cn{grid-column:2;min-width:0}
+  .tabs button{padding:9px 9px}
+  header{position:relative}
+  header>div:first-child{padding-right:46px}
+  #theme{position:absolute;top:0;right:0}
+  #svc{width:100%;justify-content:space-between}
+  #svc button{padding:6px 6px;font-size:13.5px}
+}
+@media (max-width:380px){
+  #svc button{padding:5px 4px;font-size:12.5px;gap:4px}
+  .svclogo{width:15px;height:15px}
+  #svc button{padding:6px 8px;gap:5px}
+  .svclogo{width:18px;height:18px}
+  header{gap:12px 10px}
+  .tl .it{grid-template-columns:64px 1fr}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Channel Status</h1>
+      <div class="sub" id="updated">Loading…</div>
+    </div>
+    <div class="grow"></div>
+    <div class="seg" role="group" aria-label="Service" id="svc"></div>
+    <button class="iconbtn" id="theme" title="Toggle light/dark" aria-label="Toggle light/dark"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 0 0 18z" fill="currentColor"/></svg></button>
+  </header>
+
+  <div class="cards" id="cards"></div>
+  <div class="regions" id="regions" role="group" aria-label="Region"></div>
+
+  <div class="tabs" role="tablist">
+    <button role="tab" id="tab-ch" aria-selected="true">Channels<span class="count" id="c-ch"></span></button>
+    <button role="tab" id="tab-on" aria-selected="false">On Now</button>
+    <button role="tab" id="tab-cg" aria-selected="false">Changes<span class="count" id="c-cg"></span></button>
+    <button role="tab" id="tab-hl" aria-selected="false">Health</button>
+  </div>
+
+  <section id="pane-ch">
+    <div class="toolbar">
+      <input id="q" type="search" placeholder="Search channels, genres or tvg-id…" autocomplete="off">
+      <div class="seg" role="group" aria-label="Filter" id="flt">
+        <button data-f="all" aria-pressed="true">All</button>
+        <button data-f="free" aria-pressed="false">VPN-free</button>
+        <button data-f="blocked" aria-pressed="false">Needs VPN</button>
+      </div>
+      <div class="seg small" role="group" aria-label="IDs"><button id="allids" aria-pressed="false" title="Show every channel's tvg-id">Show IDs</button></div>
+    </div>
+    <div class="list" id="list"></div>
+  </section>
+
+  <section id="pane-cg" hidden>
+    <div class="toolbar">
+      <div class="seg" role="group" aria-label="Change type" id="cflt">
+        <button data-f="all" aria-pressed="true">All</button>
+        <button data-f="added" aria-pressed="false">Added</button>
+        <button data-f="removed" aria-pressed="false">Removed</button>
+        <button data-f="renamed" aria-pressed="false">Renamed</button>
+      </div>
+    </div>
+    <div id="changes"></div>
+  </section>
+
+  <section id="pane-on" hidden>
+    <div class="toolbar">
+      <input id="oq" type="search" placeholder="Search channels or what's on…" autocomplete="off">
+    </div>
+    <div class="note" id="onnote" style="margin-top:0"></div>
+    <div class="list" id="onlist"></div>
+  </section>
+
+  <section id="pane-hl" hidden>
+    <div class="hgrid" id="health"></div>
+    <p class="note">Live = the repo's last update arrived on schedule. Guide reach = how far ahead a typical
+      channel's guide goes (median channel). Workflow runs are read live from GitHub.</p>
+  </section>
+</div>
+
+<script>
+// Data sources: each repo commits a status.json every run. Override for testing
+// with ?plex=<url>&samsung=<url>&pluto=<url>.
+const P = new URLSearchParams(location.search);
+const SOURCES = [
+  {key:"pluto",   label:"Pluto",       logo:"https://i.imgur.com/ViYQKds.png", url:P.get("pluto")   || "https://raw.githubusercontent.com/s-digweed/AltPluto/main/status.json"},
+  {key:"plex",    label:"Plex",        logo:"https://i.imgur.com/E821cxa.png", url:P.get("plex")    || "https://raw.githubusercontent.com/s-digweed/PlexTV/main/status.json"},
+  {key:"samsung", label:"Samsung TV+", logo:"https://i.imgur.com/wOslUfw.png", url:P.get("samsung") || "https://raw.githubusercontent.com/s-digweed/SamsungTVPlus/main/output/status.json"},
+  {key:"prime",   label:"Prime",       logo:"https://i.imgur.com/IByAyHW.png", guideOnly:true, url:P.get("prime") || "https://raw.githubusercontent.com/s-digweed/Pryme/main/status.json"},
+];
+const ORDER = ["us","ca","gb","uk","au","nz","de","at","ch","fr","es","it","nl","se","no","dk","fi","is","mx","ar","br","cl","in","jp","kr"];
+const PAGE = 200;
+
+const store = {
+  get(k,d){ try{ const v = localStorage.getItem("chs."+k); return v===null?d:v; }catch(e){ return d; } },
+  set(k,v){ try{ localStorage.setItem("chs."+k,v); }catch(e){} }
+};
+const state = {svc: store.get("svc","pluto"), region: "all", tab:"ch", f:"all", cf:"all", q:"", shown:PAGE,
+               ids: store.get("ids","0")==="1", open: new Set()};
+const cache = {};
+const $ = id => document.getElementById(id);
+const esc = s => String(s??"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const flag = r => { if (r==="all") return "🌐"; if (r==="uk") r="gb";
+  return r.length===2 ? String.fromCodePoint(...[...r.toUpperCase()].map(c=>127397+c.charCodeAt(0))) : "🏳️"; };
+const fmtDate = d => new Date(d+"T00:00:00Z").toLocaleDateString(undefined,{weekday:"short",month:"short",day:"numeric",timeZone:"UTC"});
+const ago = iso => { const m = Math.round((Date.now()-Date.parse(iso))/60000);
+  return m<60 ? `${m} min ago` : m<1440 ? `${Math.round(m/60)} h ago` : `${Math.round(m/1440)} d ago`; };
+
+// theme toggle (remembered per viewer)
+(function(){ const t = store.get("theme",""); if(t) document.documentElement.dataset.theme = t; })();
+$("theme").onclick = () => {
+  const dark = document.documentElement.dataset.theme ? document.documentElement.dataset.theme==="dark"
+               : matchMedia("(prefers-color-scheme: dark)").matches;
+  const t = dark ? "light" : "dark"; document.documentElement.dataset.theme = t; store.set("theme", t);
+};
+
+function regionKeys(d){
+  const ks = Object.keys(d.regions);
+  return ks.sort((a,b)=>{ const ia=ORDER.indexOf(a), ib=ORDER.indexOf(b);
+    return (ia<0?99:ia)-(ib<0?99:ib) || a.localeCompare(b); });
+}
+function rowsFor(d, r){
+  if (r !== "all") return d.regions[r] ? d.regions[r].channels.map(c=>[...c, r]) : [];
+  // "All": one row per channel id, listing every region it appears in
+  const m = new Map();
+  for (const k of regionKeys(d)) for (const c of d.regions[k].channels){
+    const e = m.get(c[0]); if (e) e[6].push(k); else m.set(c[0], [...c, [k]]);
+  }
+  return [...m.values()].sort((a,b)=>a[1].localeCompare(b[1]));
+}
+// same channel name in other regions (Pluto TV Action has a different tvg-id per country)
+const normName = n => String(n||"").toLowerCase().replace(/[^a-z0-9\u00c0-\uffff]+/g,"");
+function nameIndex(d){
+  if (d._names) return d._names;
+  const m = new Map();
+  for (const k of regionKeys(d)) for (const c of d.regions[k].channels){
+    const n = normName(c[1]); if (!m.has(n)) m.set(n, []); m.get(n).push([k, c[0]]);
+  }
+  return (d._names = m);
+}
+const CHEV = `<svg width="9" height="9" viewBox="0 0 10 10"><path d="M3 1l4 4-4 4" fill="none" stroke="currentColor" stroke-width="1.8"/></svg>`;
+const idLine = (label, id) => `<div class="idl"><span class="lb">${label}</span><code>${esc(id)}</code>
+  <button class="cp" data-id="${esc(id)}">Copy</button></div>`;
+function idBox(c, d){
+  const own = Array.isArray(c[6]) ? c[6] : [c[6]];
+  const regName = k => (d.regions[k]||{}).name || k.toUpperCase();
+  const regLabel = ks => `${ks.map(flag).join(" ")} ${esc(ks.length>2 ? ks.length+" regions" : ks.map(regName).join(", "))}`;
+  let h = idLine(regLabel(own), c[0]);
+  if (own.length > 1) h += `<div class="idsub">Same id in ${own.map(regName).join(", ")} (shared feed, one guide)</div>`;
+  const others = (nameIndex(d).get(normName(c[1]))||[]).filter(([k,id]) => id !== c[0]);
+  if (others.length){
+    const seen = new Map();                                  // id -> regions
+    for (const [k,id] of others){ if(!seen.has(id)) seen.set(id, []); seen.get(id).push(k); }
+    h += `<div class="idsub">Same name, other regions:</div>` +
+         [...seen].map(([id, ks]) => idLine(regLabel(ks), id)).join("");
+  }
+  return `<div class="idbox">${h}</div>`;
+}
+
+// "good" = VPN-free (stream services) or has a guide (guide-only services like Prime)
+const isGood = st => st==="free" || st==="guide";
+const isBad  = st => st==="blocked" || st==="noguide";
+const LBL = () => (SOURCES.find(s=>s.key===state.svc)||{}).guideOnly
+  ? {good:"With guide", bad:"No listings", chip:"with guide"} : {good:"VPN-free", bad:"Needs VPN", chip:"VPN-free"};
+function counts(rows){ let f=0,b=0,u=0; for(const c of rows){ isGood(c[4])?f++:isBad(c[4])?b++:u++; } return {f,b,u,t:rows.length}; }
+
+function renderSvc(){
+  $("svc").innerHTML = SOURCES.map(s=>`<button data-k="${s.key}" aria-pressed="${s.key===state.svc}">${s.logo ? `<img class="svclogo" src="${esc(s.logo)}" alt="" onerror="this.remove()">` : ""}${esc(s.label)}</button>`).join("");
+  $("svc").querySelectorAll("button").forEach(b=>b.onclick=()=>{ state.svc=b.dataset.k; store.set("svc",state.svc); state.region="all"; state.shown=PAGE; load(); });
+}
+
+async function getData(src){
+  if (cache[src.key]) return cache[src.key];
+  const r = await fetch(src.url + (src.url.includes("?")?"&":"?") + "t=" + Date.now(), {cache:"no-store"});
+  if(!r.ok) throw new Error("HTTP "+r.status);
+  return (cache[src.key] = await r.json());
+}
+
+async function load(){
+  renderSvc();
+  if (state.tab === "hl") { renderHealth(); return; }
+  const src = SOURCES.find(s=>s.key===state.svc) || SOURCES[0];
+  if (!cache[src.key]){
+    $("updated").textContent = "Loading…";
+    $("list").innerHTML = `<div class="empty">Loading ${esc(src.label)}…</div>`;
+    try{
+      await getData(src);
+    }catch(e){
+      $("updated").textContent = "";
+      $("cards").innerHTML = ""; $("regions").innerHTML = "";
+      $("list").innerHTML = `<div class="err">Couldn't load ${esc(src.label)} data (${esc(e.message)}).<br>
+        The repo writes <code>status.json</code> on its next run, so it may not exist yet.</div>`;
+      $("changes").innerHTML = ""; return;
+    }
+  }
+  render();
+}
+
+function render(){
+  const d = cache[state.svc]; if(!d) return;
+  const keys = regionKeys(d);
+  if (state.region!=="all" && !d.regions[state.region]) state.region="all";
+  $("updated").textContent = `${d.service} · updated ${ago(d.updated)} · ${new Date(d.updated).toLocaleString()}`;
+
+  // summary cards for the selected region
+  const rows = rowsFor(d, state.region);
+  // "All" counts every playlist entry (a channel in 5 regions counts 5 times, like
+  // TiviMate shows it); the list itself still shows each channel once with its flags.
+  const entries = state.region==="all" ? keys.flatMap(k=>d.regions[k].channels) : rows;
+  const c = counts(entries), uniq = rows.length, L = LBL();
+  $("flt").querySelector('[data-f="free"]').textContent = L.good;
+  $("flt").querySelector('[data-f="blocked"]').textContent = L.bad;
+  // guide-only services (Prime): no VPN filter, every channel is the same kind
+  const guideOnly = !!(SOURCES.find(s=>s.key===state.svc)||{}).guideOnly;
+  $("flt").style.display = guideOnly ? "none" : "";
+  if (guideOnly && state.f !== "all"){ state.f = "all";
+    $("flt").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed", x.dataset.f==="all")); }
+  const chg = d.changes.filter(x=>state.region==="all"||x.r===state.region);
+  const pct = c.t ? Math.round(100*c.f/c.t) : 0;
+  $("cards").innerHTML = `
+    <div class="card"><div class="k">Channels</div><div class="v">${c.t.toLocaleString()}${state.region==="all" && uniq!==c.t ? ` <small>${uniq.toLocaleString()} unique</small>` : ""}</div></div>
+    <div class="card"><div class="k">${L.good}</div><div class="v free">${c.f.toLocaleString()} <small>${pct}%</small></div></div>
+    <div class="card"><div class="k">${L.bad}</div><div class="v block">${c.b.toLocaleString()}</div></div>
+    <div class="card"><div class="k">Changes · 7 days</div><div class="v">${chg.length}</div></div>`;
+
+  // region chips
+  const all = counts(keys.flatMap(k=>d.regions[k].channels));
+  const chip = (k, name, cc) => `<button class="chip" data-r="${k}" aria-pressed="${state.region===k}">
+      <div class="t"><span class="flag">${flag(k)}</span>${esc(name)}</div>
+      <div class="n">${cc.f}/${cc.t} ${L.chip}</div>
+      <div class="bar"><i style="width:${cc.t?100*cc.f/cc.t:0}%"></i></div></button>`;
+  $("regions").innerHTML = chip("all","All", all) +
+    keys.map(k=>chip(k, d.regions[k].name, counts(d.regions[k].channels))).join("");
+  $("regions").querySelectorAll(".chip").forEach(b=>b.onclick=()=>{ state.region=b.dataset.r; state.shown=PAGE; render(); });
+
+  $("c-ch").textContent = uniq.toLocaleString(); $("c-cg").textContent = chg.length;
+  renderList(rows); renderChanges(chg, d);
+  if (state.tab === "on") renderOnNow();
+}
+
+function renderList(rows){
+  const q = state.q.trim().toLowerCase();
+  let r = rows;
+  if (state.f!=="all") r = r.filter(c => state.f==="free" ? isGood(c[4]) : !isGood(c[4]));
+  if (q) r = r.filter(c => c[1].toLowerCase().includes(q) || (c[3]||"").toLowerCase().includes(q) || (c[5]||"").toLowerCase().includes(q)
+                          || String(c[0]).toLowerCase().includes(q));
+  const d = cache[state.svc];
+  if (!r.length){ $("list").innerHTML = `<div class="empty">No channels match.</div>`; return; }
+  const label = {free:"VPN-free", blocked:"Needs VPN", unknown:"Unknown", guide:"Guide only", noguide:"No listings"};
+  const isOpen = c => state.ids || state.open.has(c[0]);
+  const html = r.slice(0, state.shown).map(c=>{
+    const regs = Array.isArray(c[6]) ? c[6] : [c[6]];
+    const meta = [state.region==="all" ? regs.map(flag).join(" ") : "", c[3]||"", c[5]||""].filter(Boolean).map(esc).join(" · ");
+    return `<div class="row">
+      ${c[2] ? `<img class="logo" loading="lazy" src="${esc(c[2])}" alt="" onerror="this.style.visibility='hidden'">` : `<div class="logo"></div>`}
+      <div style="min-width:0"><div class="nmrow"><div class="nm">${esc(c[1])}</div>
+          <button class="idbtn" data-k="${esc(c[0])}" aria-expanded="${isOpen(c)}" title="tvg-id">${CHEV}TVG-ID</button></div>
+        <div class="meta">${meta}</div>${isOpen(c) ? idBox(c, d) : ""}</div>
+      ${c[4]==="guide" ? "<span></span>" : `<span class="pill ${c[4]}">${label[c[4]]||c[4]}</span>`}</div>`;
+  }).join("");
+  const more = r.length > state.shown ? `<button class="more" id="more">Show more (${(r.length-state.shown).toLocaleString()} left)</button>` : "";
+  $("list").innerHTML = html + more;
+  if (more) $("more").onclick = () => { state.shown += PAGE * 2; renderList(rows); };
+}
+
+function renderChanges(chg, d){
+  let c = state.cf==="all" ? chg : chg.filter(x=>x.t===state.cf);
+  if (!c.length){
+    const msg = d.first_run || d.tracking_since === d.updated.slice(0,10)
+      ? "Tracking started today. Added, removed and renamed channels will appear here from the next run."
+      : "No changes in the last 7 days.";
+    $("changes").innerHTML = `<div class="list"><div class="empty">${msg}</div></div>`; return;
+  }
+  const byDay = {};
+  for (const x of c) (byDay[x.d] ||= []).push(x);
+  const sym = {added:"+", removed:"−", renamed:"~"};
+  $("changes").innerHTML = Object.keys(byDay).sort().reverse().map(day => `
+    <div class="day"><h3>${fmtDate(day)} · ${byDay[day].length}</h3><div class="list">
+      ${byDay[day].map(x=>`<div class="chg ${x.t}"><span class="s" title="${x.t}">${sym[x.t]}</span>
+        <span class="rg">${flag(x.r)} ${esc((d.regions[x.r]||{}).name||x.r.toUpperCase())}</span>
+        <span class="cn" title="tvg-id ${esc(x.id)}">${x.t==="renamed" ? `<span class="o">${esc(x.o)}</span> → ` : ""}${esc(x.n)}</span></div>`).join("")}
+    </div></div>`).join("") +
+    `<p class="note">Tracking since ${fmtDate(d.tracking_since)}. Older days drop off after a week.</p>`;
+}
+
+// controls
+// ID panels: one click toggles a row, "Show IDs" opens them all; Copy puts the id on the clipboard
+$("allids").setAttribute("aria-pressed", state.ids);
+$("allids").onclick = () => { state.ids = !state.ids; store.set("ids", state.ids ? "1" : "0");
+  $("allids").setAttribute("aria-pressed", state.ids); if (!state.ids) state.open.clear(); render(); };
+$("list").addEventListener("click", e => {
+  const t = e.target.closest(".idbtn, .cp"); if (!t) return;
+  if (t.classList.contains("idbtn")){
+    const k = t.dataset.k;
+    if (state.ids){ state.ids = false; store.set("ids","0"); $("allids").setAttribute("aria-pressed", false);
+      // switching to per-row mode: keep everything visible open except the one clicked
+      document.querySelectorAll("#list .idbtn").forEach(b => { if (b.dataset.k !== k) state.open.add(b.dataset.k); });
+    } else if (state.open.has(k)) state.open.delete(k); else state.open.add(k);
+    const y = t.getBoundingClientRect().top;
+    render();
+    const nb = document.querySelector(`#list .idbtn[data-k="${CSS.escape(k)}"]`);
+    if (nb) window.scrollBy(0, nb.getBoundingClientRect().top - y);       // keep the row under the finger
+    return;
+  }
+  const id = t.dataset.id, done = () => { t.textContent = "Copied"; t.classList.add("ok");
+    setTimeout(() => { t.textContent = "Copy"; t.classList.remove("ok"); }, 1400); };
+  if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(id).then(done, () => fallbackCopy(id) && done());
+  else if (fallbackCopy(id)) done();
+});
+function fallbackCopy(text){
+  const ta = document.createElement("textarea"); ta.value = text; ta.style.position = "fixed"; ta.style.opacity = "0";
+  document.body.appendChild(ta); ta.select(); let ok = false;
+  try { ok = document.execCommand("copy"); } catch(e) {}
+  ta.remove(); return ok;
+}
+$("q").oninput = e => { state.q = e.target.value; state.shown = PAGE; render(); };
+$("flt").querySelectorAll("button").forEach(b=>b.onclick=()=>{
+  state.f=b.dataset.f; state.shown=PAGE; $("flt").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed", x===b)); render(); });
+$("cflt").querySelectorAll("button").forEach(b=>b.onclick=()=>{
+  state.cf=b.dataset.f; $("cflt").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed", x===b)); render(); });
+function tab(t){ const was = state.tab; state.tab=t;
+  for (const k of ["ch","cg","on","hl"]) { $("tab-"+k).setAttribute("aria-selected", t===k); $("pane-"+k).hidden = t!==k; }
+  // Health covers all services at once, so the per-service controls step aside
+  $("cards").hidden = $("regions").hidden = (t==="hl");
+  $("svc").style.display = t==="hl" ? "none" : "";
+  store.set("tab", t);
+  if (t==="hl" || was==="hl" || t==="on") load(); }
+$("tab-on").onclick = () => tab("on"); $("tab-ch").onclick = () => tab("ch"); $("tab-cg").onclick = () => tab("cg"); $("tab-hl").onclick = () => tab("hl");
+
+// ── On Now: reads the region's XMLTV guide straight from the repo ───────────
+// Guides are big, so they load one country at a time and are cached for the visit.
+const RAW = "https://raw.githubusercontent.com/s-digweed/";
+const GUIDE = {
+  plex:    r => `${RAW}PlexTV/main/playlists/plex_${r}.xml.gz`,
+  pluto:   r => `${RAW}AltPluto/main/output/pluto_${r}.xml.gz`,
+  samsung: r => `${RAW}SamsungTVPlus/main/output/samsung_tvplus.xml`,     // one file, all countries
+  prime:   r => `${RAW}Pryme/main/amazon_epg.xml`,                        // US only
+};
+const guideCache = {};            // url -> Promise<Map(id -> [programmes])>
+const onOpen = new Set();
+let onShown = PAGE, onTimer = null, onSeq = 0;
+const ent = s => s.replace(/&(#x[0-9a-f]+|#\d+|amp|lt|gt|quot|apos);/gi, (m, e) =>
+  e[0]==="#" ? String.fromCodePoint(e[1].toLowerCase()==="x" ? parseInt(e.slice(2),16) : parseInt(e.slice(1),10))
+             : ({amp:"&",lt:"<",gt:">",quot:'"',apos:"'"})[e.toLowerCase()]);
+const xmlt = t => { const m = /^(\d{4})(\d\d)(\d\d)(\d\d)(\d\d)(\d\d)\s*([+-]\d{4})?/.exec(t||""); if(!m) return NaN;
+  let ms = Date.UTC(+m[1], m[2]-1, +m[3], +m[4], +m[5], +m[6]);
+  if (m[7]) ms -= (m[7][0]==="-"?-1:1) * (parseInt(m[7].slice(1,3))*60 + parseInt(m[7].slice(3)))*60000;
+  return ms; };
+function loadGuide(url){
+  if (guideCache[url]) return guideCache[url];
+  return (guideCache[url] = (async () => {
+    const r = await fetch(url, {cache:"no-store"});
+    if (!r.ok) throw new Error("HTTP "+r.status);
+    let text;
+    if (url.endsWith(".gz")){
+      if (!("DecompressionStream" in window)) throw new Error("this browser can't unzip guides - update it");
+      text = await new Response(r.body.pipeThrough(new DecompressionStream("gzip"))).text();
+    } else text = await r.text();
+    const lo = Date.now() - 12*3600e3, hi = Date.now() + 36*3600e3, map = new Map();
+    const re = /<programme\b([^>]*)>([\s\S]*?)<\/programme>/g; let m;
+    const at = (a, k) => { const x = new RegExp(k+'="([^"]*)"').exec(a); return x ? x[1] : ""; };
+    const tag = (b, k) => { const x = new RegExp("<"+k+"\\b[^>]*>([\\s\\S]*?)</"+k+">").exec(b); return x ? ent(x[1].trim()) : ""; };
+    while ((m = re.exec(text))){
+      const a = m[1], st = xmlt(at(a,"start")), sp = xmlt(at(a,"stop"));
+      if (!(sp > lo && st < hi)) continue;
+      const b = m[2], se = /system="onscreen"[^>]*>([^<]+)</.exec(b);
+      const p = {st, sp, t: tag(b,"title"), s: tag(b,"sub-title"), e: se ? se[1].trim() : "", d: tag(b,"desc")};
+      const id = ent(at(a,"channel"));
+      if (!map.has(id)) map.set(id, []); map.get(id).push(p);
+    }
+    for (const v of map.values()) v.sort((x,y)=>x.st-y.st);
+    return map;
+  })().catch(e => { delete guideCache[url]; throw e; }));
+}
+const hm = ms => new Date(ms).toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"});
+const left = ms => { const m = Math.max(0, Math.round((ms-Date.now())/60000)); return m<60 ? `${m} min left` : `${Math.floor(m/60)} h ${m%60} min left`; };
+function slice(list){
+  const now = Date.now(); if (!list || !list.length) return null;
+  let i = list.findIndex(p => p.st <= now && now < p.sp), gap = false;
+  if (i < 0){ i = list.findIndex(p => p.st > now); gap = true; if (i < 0) return {past:list.slice(-2), now:null, next:[]}; }
+  return gap ? {past:list.slice(Math.max(0,i-2), i), now:null, next:list.slice(i, i+3)}
+             : {past:list.slice(Math.max(0,i-2), i), now:list[i], next:list.slice(i+1, i+4)};
+}
+const epTxt = p => [p.e, p.s && p.s !== p.t ? p.s : ""].filter(Boolean).join(" · ");
+function tlItem(p, cls){
+  return `<div class="it ${cls}"><span class="tm">${hm(p.st)}</span><span class="ti">${esc(p.t)}${epTxt(p) ? ` <span class="ep" style="color:var(--muted)">${esc(epTxt(p))}</span>` : ""}
+    ${cls==="now" && p.d ? `<div class="ds">${esc(p.d)}</div>` : ""}</span></div>`;
+}
+
+async function renderOnNow(){
+  clearInterval(onTimer); const my = ++onSeq;
+  const d = cache[state.svc]; if (!d) return;
+  if (state.region === "all"){
+    const pick = store.get("onregion_"+state.svc, "");
+    state.region = d.regions[pick] ? pick : (d.regions.us ? "us" : regionKeys(d)[0]);
+    render(); return;                                     // render() calls back here
+  }
+  store.set("onregion_"+state.svc, state.region);
+  const url = GUIDE[state.svc](state.region), rname = d.regions[state.region].name;
+  $("onnote").textContent = `Loading the ${rname} guide…`;
+  if (!guideCache[url]) $("onlist").innerHTML = `<div class="empty">Loading the ${esc(rname)} guide…</div>`;
+  let g;
+  try { g = await loadGuide(url); }
+  catch(e){ $("onnote").textContent = ""; $("onlist").innerHTML = `<div class="err">Couldn't load the guide (${esc(e.message)}).</div>`; return; }
+  if (state.tab !== "on" || my !== onSeq) return;        // a newer request (other country/service) took over
+  const draw = () => {
+    const q = ($("oq").value||"").trim().toLowerCase();
+    let rows = d.regions[state.region].channels.map(c => ({c, s: slice(g.get(c[0]))}));
+    if (q) rows = rows.filter(({c,s}) => c[1].toLowerCase().includes(q) || (s && [s.now, ...s.next, ...s.past].some(p => p && p.t.toLowerCase().includes(q))));
+    const withNow = rows.filter(r => r.s && r.s.now).length;
+    $("onnote").textContent = q ? `${rname} · ${rows.length.toLocaleString()} channel${rows.length===1?"":"s"} match "${$("oq").value.trim()}" (channel name or a show airing earlier, now or next)` : `${rname} · ${withNow.toLocaleString()} of ${d.regions[state.region].channels.length.toLocaleString()} channels have a listing right now · times in your time zone · tap a channel for earlier & next`;
+    if (!rows.length){ $("onlist").innerHTML = `<div class="empty">Nothing matches.</div>`; return; }
+    const html = rows.slice(0, onShown).map(({c, s}) => {
+      const open = onOpen.has(c[0]), now = s && s.now;
+      const pct = now ? Math.min(100, 100*(Date.now()-now.st)/(now.sp-now.st)) : 0;
+      let body = `<div class="onch">${esc(c[1])}</div>`;
+      if (!s) body += `<div class="ont" style="color:var(--muted);font-weight:500">No guide data</div>`;
+      else {
+        body += now ? `<div class="ont">${esc(now.t)}${epTxt(now) ? ` <span class="ep">${esc(epTxt(now))}</span>` : ""}</div>
+                       <div class="prog"><span>${hm(now.st)}–${hm(now.sp)}</span><span class="b"><i style="width:${pct}%"></i></span><span>${left(now.sp)}</span></div>`
+                    : `<div class="ont" style="color:var(--muted);font-weight:500">No listing right now</div>`;
+        if (!open && s.next[0]) body += `<div class="onnext">Next ${hm(s.next[0].st)} · <b>${esc(s.next[0].t)}</b></div>`;
+        if (open) body += `<div class="tl">
+            ${s.past.length ? `<div class="tag">Earlier</div>${s.past.map(p=>tlItem(p,"past")).join("")}` : ""}
+            ${now ? `<div class="tag">Now</div>${tlItem(now,"now")}` : ""}
+            ${s.next.length ? `<div class="tag">Next</div>${s.next.map(p=>tlItem(p,"")).join("")}` : ""}</div>`;
+      }
+      return `<div class="onrow" data-k="${esc(c[0])}">
+        ${c[2] ? `<img class="logo" loading="lazy" src="${esc(c[2])}" alt="" onerror="this.style.visibility='hidden'">` : `<div class="logo"></div>`}
+        <div style="min-width:0">${body}</div></div>`;
+    }).join("");
+    const more = rows.length > onShown ? `<button class="more" id="onmore">Show more (${(rows.length-onShown).toLocaleString()} left)</button>` : "";
+    $("onlist").innerHTML = html + more;
+    if (more) $("onmore").onclick = e => { e.stopPropagation(); onShown += PAGE*2; draw(); };
+  };
+  draw();
+  onTimer = setInterval(() => { if (state.tab === "on" && !document.hidden) draw(); }, 60000);   // keep "now" current
+  $("oq").oninput = () => { onShown = PAGE; draw(); };
+  $("onlist").onclick = e => {
+    if (e.target.closest("#onmore")) return;
+    const r = e.target.closest(".onrow"); if (!r) return;
+    const k = r.dataset.k; onOpen.has(k) ? onOpen.delete(k) : onOpen.add(k); draw();
+  };
+}
+
+// ── Health: freshness + liveness of all three repos ─────────────────────────
+const runsCache = {};
+async function getRuns(repo){
+  if (repo in runsCache) return runsCache[repo];
+  try{
+    const r = await fetch(`https://api.github.com/repos/${repo}/actions/runs?per_page=20`, {headers:{Accept:"application/vnd.github+json"}});
+    if (!r.ok) throw new Error(r.status===403 ? "GitHub rate limit, try again later" : "HTTP "+r.status);
+    const j = await r.json(), latest = {};
+    for (const w of j.workflow_runs||[]) if (!latest[w.name]) latest[w.name] = w;   // newest run per workflow
+    return (runsCache[repo] = {runs:Object.values(latest)});
+  }catch(e){ return (runsCache[repo] = {error:e.message}); }
+}
+const hrs = iso => (Date.now()-Date.parse(iso))/3600000;
+const ahead = iso => (Date.parse(iso)-Date.now())/3600000;
+const fmtH = h => Math.abs(h) < 48 ? `${Math.round(h)} h` : `${(h/24).toFixed(1)} d`;
+
+function liveness(d){
+  const every = (d.health||{}).every_h || 6, age = hrs(d.updated);
+  if (age <= every*1.5 + 0.5) return ["ok","Live"];
+  if (age <= every*3 + 1)     return ["warn","Running late"];
+  return ["bad","Stalled"];
+}
+function runRow(w){
+  const c = w.status!=="completed" ? ["warn", w.status.replace("_"," ")]
+          : w.conclusion==="success" ? ["ok","success"]
+          : w.conclusion==="skipped"||w.conclusion==="cancelled" ? ["unk", w.conclusion] : ["bad", w.conclusion||"failed"];
+  return `<div><span class="dot ${c[0]}"></span><a href="${esc(w.html_url)}" target="_blank" rel="noopener">${esc(w.name)}</a>
+          <span class="t">${esc(c[1])} · ${ago(w.updated_at||w.created_at)}</span></div>`;
+}
+
+async function renderHealth(){
+  $("updated").textContent = "Health of every repo";
+  $("health").innerHTML = SOURCES.map(s=>`<div class="hcard" id="h-${s.key}"><h3>${esc(s.label)}</h3><div class="empty">Loading…</div></div>`).join("");
+  await Promise.all(SOURCES.map(async s => {
+    const el = $("h-"+s.key);
+    let d;
+    try { d = await getData(s); }
+    catch(e){ el.innerHTML = `<h3>${esc(s.label)} <span><span class="dot bad"></span>No data</span></h3>
+      <div class="err">status.json not found (${esc(e.message)}). The repo writes it on its next run.</div>`; return; }
+    const h = d.health || {}, [lc, lt] = liveness(d);
+    const reach = h.epg_median_until ? ahead(h.epg_median_until) : null;
+    const rc = reach===null ? "unk" : reach >= 24 ? "ok" : reach >= 6 ? "warn" : "bad";
+    const m3uAge = h.m3u_updated ? hrs(h.m3u_updated) : null, epgAge = h.epg_updated ? hrs(h.epg_updated) : null;
+    const every = h.every_h || 6;
+    const ageDot = (a, lim) => a===null ? "unk" : a <= lim ? "ok" : a <= lim*2 ? "warn" : "bad";
+    const chans = Object.values(d.regions).reduce((n,r)=>n+r.channels.length,0);
+    el.innerHTML = `
+      <h3>${esc(s.label)} <span style="font-size:13px"><span class="dot ${lc}"></span>${lt}</span></h3>
+      <div class="repo">${h.repo ? `<a href="https://github.com/${esc(h.repo)}/actions" target="_blank" rel="noopener">${esc(h.repo)}</a>` : ""}
+        · runs every ${every} h</div>
+      <div class="kv">
+        <span class="k">Last update</span><span class="v">${ago(d.updated)}</span>
+        <span class="k">Playlist (M3U)</span><span class="v">${h.guide_only ? `<small>none, guide only</small>` :
+            `<span class="dot ${ageDot(m3uAge, every*1.5+0.5)}"></span>${m3uAge===null?"unknown":ago(h.m3u_updated)}`}</span>
+        <span class="k">Guide (EPG)</span><span class="v"><span class="dot ${ageDot(epgAge, Math.max(every,12)*1.5)}"></span>${epgAge===null?"unknown":ago(h.epg_updated)}</span>
+        <span class="k">Guide reach</span><span class="v"><span class="dot ${rc}"></span>${reach===null?"unknown":
+            reach>0 ? `${fmtH(reach)} ahead` : `ran out ${fmtH(-reach)} ago`}
+            ${h.epg_until ? `<small> · longest ${fmtH(ahead(h.epg_until))}</small>` : ""}</span>
+        <span class="k">Channels</span><span class="v">${chans.toLocaleString()} <small>in ${Object.keys(d.regions).length} region${Object.keys(d.regions).length===1?"":"s"}${h.epg_channels?` · ${h.epg_channels.toLocaleString()} with guide`:""}</small></span>
+      </div>
+      ${(h.notes||[]).length ? `<ul class="hnotes">${h.notes.map(n=>`<li>${esc(n)}</li>`).join("")}</ul>` : ""}
+      <div class="runs" id="r-${s.key}"><div class="t" style="margin:0">Checking GitHub Actions…</div></div>`;
+    if (h.repo){
+      const r = await getRuns(h.repo);
+      $("r-"+s.key).innerHTML = r.error ? `<div><span class="dot unk"></span>Workflow runs unavailable: ${esc(r.error)}</div>`
+        : r.runs.length ? r.runs.map(runRow).join("") : `<div><span class="dot unk"></span>No workflow runs found</div>`;
+    }
+  }));
+}
+
+if (["ch","cg","on","hl"].includes(store.get("tab","ch"))) tab(store.get("tab","ch")); else load();
+if (state.tab !== "hl") load();
+</script>
+</body>
+</html>
