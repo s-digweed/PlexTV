@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-10-30 19:59 UTC)
+Plex VPN-free direct links  (2026-10-30 22:23 UTC)
 Channels checked: 1407   VPN-free: 842   Still Plex link (VPN needed): 565
 
   direct (cached)              842
@@ -16,8 +16,8 @@ Non-Amagi video hosts (candidates for future support):
   live-content-cf.xumo.com                                     98
   live-content.cdn.xumo.com                                    48
   hls-beacons-us.xumo.com                                      15
-  cfvod.kaltura.com                                            9
   hls-beacons-eu.xumo.com                                      9
+  cfvod.kaltura.com                                            8
   content.galxy.tv                                             4
   o300801-mp-lura-live.fsy.nfl.com                             3
   9e2698fd.wurl.com                                            1
@@ -71,14 +71,14 @@ Example segment URLs (for working out new patterns):
     Misterios sin Resolver: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F2648%2Fcontent%2FXM01ZMIIJ0MWLE%2F28173993%2F0_067.ts&aid=XM01ZMIIJ0MWLE&eventType=ASSET&cid=88889330&did=19618a58832f4833&playId=1793354151000&eventSubType=playInterval&pid=2648
     Hell's Kitchen: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM002K4KJEBJLZ%2F22293092%2F0_028.ts&aid=XM002K4KJEBJLZ&eventType=ASSET&cid=88889380&did=19618a58832f4833&playId=1793354400000&eventSubType=playInterval&pid=260
     FilmRise Action: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F197%2Fcontent%2FXM07HVYGIG60ZB%2F24176107%2F0_197.ts&aid=XM07HVYGIG60ZB&eventType=ASSET&cid=88889321&did=0cd709930e754fdf&playId=1793354037000&eventSubType=playInterval&pid=197
-  [cfvod.kaltura.com]
-    KidsFlix: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_cfju3nj5/v/1/pv/1/ev/10/flavorId/1_rut0t0vy/clipFrom/2880000/clipTo/3360000/name/a.mp4/index.m3u8/seg-20-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfY2ZqdTNuajUvdi8xL3B2LzEvZXYvMTAvZmxhdm9ySWQvMV9ydXQwdDB2eS9jb
-    Cooking Panda: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_n9h96j0d/v/1/pv/1/ev/10/flavorId/1_c3xjzorw/clipFrom/0/name/a.mp4/index.m3u8/seg-30-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfbjloOTZqMGQvdi8xL3B2LzEvZXYvMTAvZmxhdm9ySWQvMV9jM3hqem9ydy9jbGlwRnJvbS8wL25hbWUvYS
-    SKWAD: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/0_bkn2kjbs/v/1/pv/1/ev/18/flavorId/1_0f6022lc/clipFrom/0/clipTo/480000/name/a.mp4/index.m3u8/seg-29-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzBfYmtuMmtqYnMvdi8xL3B2LzEvZXYvMTgvZmxhdm9ySWQvMV8wZjYwMjJsYy9jbGlwRnJv
   [hls-beacons-eu.xumo.com]
     Beyblade: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2071%2Fcontent%2FXM09031CY8AZA5%2F24071288%2F4_074.ts&aid=XM09031CY8AZA5&eventType=ASSET&cid=88889345&did=19618a58832f4833&playId=1793354694078&eventSubType=playRequested&pid=2071
     Andromeda: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2701%2Fcontent%2FXM080CH321WIAO%2F23111290%2F0_363.ts&aid=XM080CH321WIAO&eventType=ASSET&cid=88889374&did=19618a58832f4833&playId=1793354384291&eventSubType=playInterval&pid=2701
     Mutant X: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2701%2Fcontent%2FXM0NUNUYQKVC03%2F23111089%2F0_333.ts&aid=XM0NUNUYQKVC03&eventType=ASSET&cid=88889375&did=19618a58832f4833&playId=1793354668186&eventSubType=playInterval&pid=2701
+  [cfvod.kaltura.com]
+    KidsFlix: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_cfju3nj5/v/1/pv/1/ev/10/flavorId/1_rut0t0vy/clipFrom/2880000/clipTo/3360000/name/a.mp4/index.m3u8/seg-20-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfY2ZqdTNuajUvdi8xL3B2LzEvZXYvMTAvZmxhdm9ySWQvMV9ydXQwdDB2eS9jb
+    Cooking Panda: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_n9h96j0d/v/1/pv/1/ev/10/flavorId/1_c3xjzorw/clipFrom/0/name/a.mp4/index.m3u8/seg-30-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfbjloOTZqMGQvdi8xL3B2LzEvZXYvMTAvZmxhdm9ySWQvMV9jM3hqem9ydy9jbGlwRnJvbS8wL25hbWUvYS
+    SKWAD: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/0_bkn2kjbs/v/1/pv/1/ev/18/flavorId/1_0f6022lc/clipFrom/0/clipTo/480000/name/a.mp4/index.m3u8/seg-29-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzBfYmtuMmtqYnMvdi8xL3B2LzEvZXYvMTgvZmxhdm9ySWQvMV8wZjYwMjJsYy9jbGlwRnJv
   [content.galxy.tv]
     Watch it SCREAM: https://content.galxy.tv/9cb80d0469f1415b9e73827457958418/a/D00000446.ts
     Dungeon TV: https://content.galxy.tv/fab1c8d4950b496d9ca4b78194e815fd/a/D000001E6.ts
