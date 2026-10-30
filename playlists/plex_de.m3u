@@ -114,7 +114,7 @@ https://amg00771-amg00771c8-plex-us-10020.playouts.now.amagi.tv/playlist/amg0077
 #EXTINF:-1 channel-id="plex-5f170d62b898490041b4936e" tvg-id="5f170d62b898490041b4936e" tvg-name="FailArmy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png" group-title="Comedy",FailArmy
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-5f170d62b898490041b4936e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-690cdc61718f73527d832925" tvg-id="690cdc61718f73527d832925" tvg-name="FarmlandTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89caa2e7-6ee8-44a1-b39f-6536109cd026/Channel_Logo_FarmlandTV_White_-_Kristina_HeilmannRDX.png" group-title="Food, Home & Culture",FarmlandTV
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-690cdc61718f73527d832925.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://plaionpictures-weihnachtskino-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6490c01f3b3ce9e1aaad95be" tvg-id="6490c01f3b3ce9e1aaad95be" tvg-name="FashionTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="Food, Home & Culture",FashionTV
 https://amg01546-amg01546c1-plex-international-9503.playouts.now.amagi.tv/playlist/amg01546-fashiontv-fashiontv-plexinternational/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66633c4276ca410aa18e7059" tvg-id="66633c4276ca410aa18e7059" tvg-name="FIFA+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfb41db3-2be5-4b28-80a5-0b8ac114b22a/FIFA__Logo_Rectangle_1500x1000_WHT.png" group-title="Sports",FIFA+
@@ -146,7 +146,7 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-605a309dc5ac
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Sports",FUEL TV
 https://amg01074-fueltv-fueltv-international-en-plex-6hc6y.amagi.tv/playlist/amg01074-fueltv-fueltv-international-en-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621672e42c2627c068e73ad8" tvg-id="621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png" group-title="Adrenaline & Sci-Fi",Galxy TV
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-621672e42c2627c068e73ad8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/2c65427ede66557e0d1d36e7dca9d427/master.m3u8
 #EXTINF:-1 channel-id="plex-67c247c345ae99120c071586" tvg-id="67c247c345ae99120c071586" tvg-name="GFN Football TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f365a9e-9802-422b-b715-f394a2e411fb/AFNFootballWHITEChannel_Logo_-_1500x1000.png" group-title="Sports",GFN Football TV
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-67c247c345ae99120c071586.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5eea605474085f0040ddc76d" tvg-id="5eea605474085f0040ddc76d" tvg-name="Glewed TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="Food, Home & Culture",Glewed TV
@@ -326,13 +326,13 @@ https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Kids & Family",SKWAD
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-5f12332eeca6a20040b328e5.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-616df1be2cf008a748c8cb53" tvg-id="616df1be2cf008a748c8cb53" tvg-name="SLOPES" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png" group-title="Sports",SLOPES
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-616df1be2cf008a748c8cb53.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/29d7192e20b12a7492ea1443df71b100/master.m3u8
 #EXTINF:-1 channel-id="plex-62ee784852f7d73061eec493" tvg-id="62ee784852f7d73061eec493" tvg-name="Smooth Jazz" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="Music",Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-639b8d803f4612cc150a5721" tvg-id="639b8d803f4612cc150a5721" tvg-name="Smurf TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png" group-title="Kids & Family",Smurf TV
 https://imps-smrfe.otteravision.com/imps/smrfe/smrfe_720.m3u8
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Kids & Family",Sonic TV
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-62ba4aaff663580a7238f327.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
 #EXTINF:-1 channel-id="plex-69212d585028288613484a7e" tvg-id="69212d585028288613484a7e" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2041ce0-e661-46a2-b372-f368232640de/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png" group-title="Movies",Sony One | Action Hits
 https://d1725e34ctihez.cloudfront.net/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69212b045cbe620c1f9b6bb1" tvg-id="69212b045cbe620c1f9b6bb1" tvg-name="Sony One | Best Of" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e070f36d-b023-4b44-bd1c-6d2747b92b99/DE_FAST_Plex_Faves_logo_dark.png" group-title="Classics",Sony One | Best Of

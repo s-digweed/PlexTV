@@ -180,7 +180,7 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-605a309dc5ac
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Sports",FUEL TV
 https://amg01074-fueltv-fueltv-international-en-plex-6hc6y.amagi.tv/playlist/amg01074-fueltv-fueltv-international-en-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621672e42c2627c068e73ad8" tvg-id="621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png" group-title="Adrenaline & Sci-Fi",Galxy TV
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-621672e42c2627c068e73ad8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/2c65427ede66557e0d1d36e7dca9d427/master.m3u8
 #EXTINF:-1 channel-id="plex-66be955c8711311880995282" tvg-id="66be955c8711311880995282" tvg-name="GB News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3cd56a1-3096-4d60-83ad-c8e6ec531384/GB_News_logo_light_-_Angela_Chan.png" group-title="News",GB News
 https://amg01076-amg01076c7-plex-us-4786.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a2abb2ae6a243c85608e4c2" tvg-id="6a2abb2ae6a243c85608e4c2" tvg-name="Ghost" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f32a975-4376-429f-83d6-cdce3977196a/Ghost_channel_logo_white_1500x1000RDX.png" group-title="Explore",Ghost
@@ -418,7 +418,7 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6707dc42da81
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Kids & Family",SKWAD
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-5f12332eeca6a20040b328e5.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-616df1be2cf008a748c8cb53" tvg-id="616df1be2cf008a748c8cb53" tvg-name="SLOPES" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png" group-title="Sports",SLOPES
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-616df1be2cf008a748c8cb53.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/29d7192e20b12a7492ea1443df71b100/master.m3u8
 #EXTINF:-1 channel-id="plex-62ee784852f7d73061eec493" tvg-id="62ee784852f7d73061eec493" tvg-name="Smooth Jazz" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="Music",Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-639b8d803f4612cc150a5721" tvg-id="639b8d803f4612cc150a5721" tvg-name="Smurf TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png" group-title="Kids & Family",Smurf TV
@@ -426,7 +426,7 @@ https://imps-smrfe.otteravision.com/imps/smrfe/smrfe_720.m3u8
 #EXTINF:-1 channel-id="plex-6615522e50e81fa51eb0df60" tvg-id="6615522e50e81fa51eb0df60" tvg-name="Sonic The Hedgehog" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png" group-title="Kids & Family",Sonic The Hedgehog
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6615522e50e81fa51eb0df60.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Kids & Family",Sonic TV
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-62ba4aaff663580a7238f327.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
 #EXTINF:-1 channel-id="plex-673d23e6d2bcb259fd6b29ae" tvg-id="673d23e6d2bcb259fd6b29ae" tvg-name="Sparkle Movies - Light & Love" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bac5ad0a-1937-41a7-adb7-03936d73e9fa/SparkleMovies_Logo_White_Scott_WiscombeRDX_Color.png" group-title="Movies",Sparkle Movies - Light & Love
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-673d23e6d2bcb259fd6b29ae.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6349ed0eb1adc4cfa571fd37" tvg-id="6349ed0eb1adc4cfa571fd37" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Food, Home & Culture",SPEEDVISION

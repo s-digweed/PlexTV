@@ -310,7 +310,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-605a309dc5ac
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Sports",FUEL TV
 https://amg01074-fueltv-fueltv-international-en-plex-6hc6y.amagi.tv/playlist/amg01074-fueltv-fueltv-international-en-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621672e42c2627c068e73ad8" tvg-id="621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png" group-title="Adrenaline & Sci-Fi",Galxy TV
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-621672e42c2627c068e73ad8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/2c65427ede66557e0d1d36e7dca9d427/master.m3u8
 #EXTINF:-1 channel-id="plex-67a147a7114554261db9e45d" tvg-id="67a147a7114554261db9e45d" tvg-name="Game & Fish TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76978d32-d638-4ef6-a167-a4b87a600f70/Game-Fish-TV_logo_allwhite_-_Daniel_Soane.png" group-title="Sports",Game & Fish TV
 https://amg00436-osg-amg00436c7-plex-us-6716.playouts.now.amagi.tv/playlist/amg00436-ksemotvholdingsfast-gameandfishtv-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5eea605574085f0040ddc782" tvg-id="5eea605574085f0040ddc782" tvg-name="Game Show Central" tvg-logo="https://provider-static.plex.tv/epg/cms/production/690eb5a5-8a79-4f7a-8b6d-7ab2a01dc1d5/game-show-centralRDX.png" group-title="Daytime TV & Games",Game Show Central
@@ -636,7 +636,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-656235425dbc
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Kids & Family",SKWAD
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5f12332eeca6a20040b328e5.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-616df1be2cf008a748c8cb53" tvg-id="616df1be2cf008a748c8cb53" tvg-name="SLOPES" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png" group-title="Sports",SLOPES
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-616df1be2cf008a748c8cb53.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/29d7192e20b12a7492ea1443df71b100/master.m3u8
 #EXTINF:-1 channel-id="plex-69b845bb8b510f5b7fff04b2" tvg-id="69b845bb8b510f5b7fff04b2" tvg-name="SLVR Sports and Entertainment (SLVR)" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/bee17a80ac9fa302e4aae1735393d727.png" group-title="Sports",SLVR Sports and Entertainment (SLVR)
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-69b845bb8b510f5b7fff04b2.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ee784852f7d73061eec493" tvg-id="62ee784852f7d73061eec493" tvg-name="Smooth Jazz" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="Music",Smooth Jazz
@@ -646,9 +646,9 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5f0ff262d71d
 #EXTINF:-1 channel-id="plex-6615522e50e81fa51eb0df60" tvg-id="6615522e50e81fa51eb0df60" tvg-name="Sonic The Hedgehog" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png" group-title="Kids & Family",Sonic The Hedgehog
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6615522e50e81fa51eb0df60.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Kids & Family",Sonic TV
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-62ba4aaff663580a7238f327.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
 #EXTINF:-1 channel-id="plex-673d2a870d39ac306d6f2ceb" tvg-id="673d2a870d39ac306d6f2ceb" tvg-name="Spark TV Light & Love" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfd45b8-cb94-41d0-893c-7e62891b47e7/SparkTVLogo_White_Scott_WiscombeRDX.png" group-title="Movies",Spark TV Light & Love
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-673d2a870d39ac306d6f2ceb.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://candlelightmedia-sparklightlove-4-ca.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69cab85156654a7a82926dad" tvg-id="69cab85156654a7a82926dad" tvg-name="Speed Sport 1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3897a520-f7e3-44f0-a18c-11687795059f/SPEED_SPORT_1_1500X1000_COLOR_LOGO_FOR_DARK_BACKGROUND.png" group-title="Sports",Speed Sport 1
 https://linear-599.frequency.stream/mt/plex/599/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6349ed0eb1adc4cfa571fd37" tvg-id="6349ed0eb1adc4cfa571fd37" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Food, Home & Culture",SPEEDVISION

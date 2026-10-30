@@ -54,7 +54,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705ff2f22
 #EXTINF:-1 channel-id="plex-60de0520281b17002cd1d4c4" tvg-id="60de0520281b17002cd1d4c4" tvg-name="All Weddings We TV" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b170e1d41eabd27d6372fcc257813ff7.png" group-title="Reality",All Weddings We TV
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60de0520281b17002cd1d4c4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-628bb0eafcb403aa62d2317d" tvg-id="628bb0eafcb403aa62d2317d" tvg-name="ALLBLK Gems" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a77f4694-abfd-404f-9b6c-913c1f307cc6/allblkGEMS.png" group-title="Bingeworthy",ALLBLK Gems
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-628bb0eafcb403aa62d2317d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amc-allblk-gems-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Music",Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-6ad29b265374a1e72d134645" tvg-id="6ad29b265374a1e72d134645" tvg-name="Always Christmas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e10faf1a-d8bc-4f61-aac1-0e27f7c1c838/Always_Christmas_Logo_-_1500x1000WHITERDX.png" group-title="Movies",Always Christmas
@@ -1014,7 +1014,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f170d62b898
 #EXTINF:-1 channel-id="plex-5fc705eea2236e002d69f5ae" tvg-id="5fc705eea2236e002d69f5ae" tvg-name="Slightly Off IFC" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/836ae5bf33d76b6a6bbb10e510978b11.png" group-title="Comedy",Slightly Off IFC
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705eea2236e002d69f5ae.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-616df1be2cf008a748c8cb53" tvg-id="616df1be2cf008a748c8cb53" tvg-name="SLOPES" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png" group-title="Sports",SLOPES
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-616df1be2cf008a748c8cb53.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/29d7192e20b12a7492ea1443df71b100/master.m3u8
 #EXTINF:-1 channel-id="plex-69c2a33b77977728f4e71cbd" tvg-id="69c2a33b77977728f4e71cbd" tvg-name="SLVR Sports and Entertainment (SLVR SOCAL)" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b40335b6132c9953c62b689e0a11a25c.png" group-title="Sports",SLVR Sports and Entertainment (SLVR SOCAL)
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69c2a33b77977728f4e71cbd.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69b845bb8b510f5b7fff04b2" tvg-id="69b845bb8b510f5b7fff04b2" tvg-name="SLVR Sports and Entertainment (SLVR)" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/bee17a80ac9fa302e4aae1735393d727.png" group-title="Sports",SLVR Sports and Entertainment (SLVR)
@@ -1030,7 +1030,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f0ff262d71d
 #EXTINF:-1 channel-id="plex-6615522e50e81fa51eb0df60" tvg-id="6615522e50e81fa51eb0df60" tvg-name="Sonic The Hedgehog" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png" group-title="Kids & Family",Sonic The Hedgehog
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6615522e50e81fa51eb0df60.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Kids & Family",Sonic TV
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62ba4aaff663580a7238f327.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
 #EXTINF:-1 channel-id="plex-69d93c22a5c870fb1e88f871" tvg-id="69d93c22a5c870fb1e88f871" tvg-name="Space & Beyond" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3a8ee4c-6123-4f42-97fe-a07e0b38acad/Space_Beyond_Logo_Dark_1500x1000.png" group-title="Explore",Space & Beyond
 https://amg00136-amg00136c56-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-614a11bfa6f839154ee3306d" tvg-id="614a11bfa6f839154ee3306d" tvg-name="Spark TV Light & Love" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fa25b8fc-3d7e-428e-af71-6369dd1596a7/SparkTV_logo_darkWHTLETTERS.png" group-title="Movies",Spark TV Light & Love
@@ -1190,7 +1190,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ce3fc05906
 #EXTINF:-1 channel-id="plex-62f11395586633e88e3a3274" tvg-id="62f11395586633e88e3a3274" tvg-name="The Spa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png" group-title="Music",The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-6848269efd17cd629e5df2ea" tvg-id="6848269efd17cd629e5df2ea" tvg-name="The Walking Dead Espanol" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/bf46dd04dadac63dbceba97ab9d77b20.png" group-title="En Español",The Walking Dead Espanol
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6848269efd17cd629e5df2ea.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amc-networks-thewalkingdeadespaol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5fc705ff2f220e002d5e6bce" tvg-id="5fc705ff2f220e002d5e6bce" tvg-name="The Walking Dead Universe" tvg-logo="https://provider-static.plex.tv/epg/cms/production/17192c32-77cd-4da0-bc8e-e64836d08592/AMCN_TWDU_Plex_logo_dark_v01.png" group-title="Bingeworthy",The Walking Dead Universe
 https://amc-twdfanexperience-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6623c335ed4918437ed56ec0" tvg-id="6623c335ed4918437ed56ec0" tvg-name="The Wicked Tuna Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07609811-826b-4726-a471-1c009b77fdeb/WickedTuna_Logo_Blue_1500x1000_-_Chris_Connors.png" group-title="Bingeworthy",The Wicked Tuna Channel

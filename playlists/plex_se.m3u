@@ -156,7 +156,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5ac
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Sports",FUEL TV
 https://amg01074-fueltv-fueltv-international-en-plex-6hc6y.amagi.tv/playlist/amg01074-fueltv-fueltv-international-en-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621672e42c2627c068e73ad8" tvg-id="621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png" group-title="Adrenaline & Sci-Fi",Galxy TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/2c65427ede66557e0d1d36e7dca9d427/master.m3u8
 #EXTINF:-1 channel-id="plex-6a2abab0e6a243c85608e4c0" tvg-id="6a2abab0e6a243c85608e4c0" tvg-name="Ghost" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0fa270cb-a360-47b1-a6df-f9fbe48e0073/Ghost_channel_logo_white_1500x1000RDX.png" group-title="Explore",Ghost
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a2abab0e6a243c85608e4c0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64e405b42b16ff56feb98444" tvg-id="64e405b42b16ff56feb98444" tvg-name="Ghost Hunters Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="Explore",Ghost Hunters Channel
@@ -348,7 +348,7 @@ https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Kids & Family",SKWAD
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f12332eeca6a20040b328e5.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-616df1be2cf008a748c8cb53" tvg-id="616df1be2cf008a748c8cb53" tvg-name="SLOPES" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png" group-title="Sports",SLOPES
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/29d7192e20b12a7492ea1443df71b100/master.m3u8
 #EXTINF:-1 channel-id="plex-62ee784852f7d73061eec493" tvg-id="62ee784852f7d73061eec493" tvg-name="Smooth Jazz" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="Music",Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-639b8d803f4612cc150a5721" tvg-id="639b8d803f4612cc150a5721" tvg-name="Smurf TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png" group-title="Kids & Family",Smurf TV
@@ -356,7 +356,7 @@ https://imps-smrfe.otteravision.com/imps/smrfe/smrfe_720.m3u8
 #EXTINF:-1 channel-id="plex-69864df9f937c5afe5a060d6" tvg-id="69864df9f937c5afe5a060d6" tvg-name="soap" tvg-logo="https://provider-static.plex.tv/epg/cms/production/001a29a5-6f62-486b-992e-8d32e53f96cd/1500x1000_SOAP_Logo__Dark__pino_cormaci.png" group-title="Bingeworthy",soap
 https://25a8e5f7.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Kids & Family",Sonic TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
 #EXTINF:-1 channel-id="plex-692326cd5cbe620c1f9b6bcd" tvg-id="692326cd5cbe620c1f9b6bcd" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dcebeb11-e913-4ad3-9051-48b40c33d672/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png" group-title="Movies",Sony One | Action Hits
 https://dd75nh1zh7gqx.cloudfront.net/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6923276a5cbe620c1f9b6bcf" tvg-id="6923276a5cbe620c1f9b6bcf" tvg-name="Sony One | Comedy Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e87171f-d3ee-40ba-ba0c-b9a2bf989c09/UK_FAST_Plex_ComedyHits_logo_dark.png" group-title="Movies",Sony One | Comedy Hits
