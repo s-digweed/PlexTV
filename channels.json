@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T12:58:03.783644+00:00",
+  "generated": "2026-10-30T19:58:46.824720+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -7932,19 +7932,6 @@
         ],
         "region": "us"
       },
-      "621674f168c966be92737ce6": {
-        "id": "6a1610bebdf296985fd95603-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
       "6018913ea15130002b284191": {
         "id": "6a1610bebdf296985fd95603-6018913ea15130002b284191",
         "slug": "freetv-hits",
@@ -14031,19 +14018,6 @@
         ],
         "region": "ca"
       },
-      "621674f168c966be92737ce6": {
-        "id": "647f8d22a2fc3fadb4721685-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "ca"
-      },
       "69791422623bdf0fc9bc3ea6": {
         "id": "647f8d22a2fc3fadb4721685-69791422623bdf0fc9bc3ea6",
         "slug": "historias-de-corazon-2",
@@ -19233,19 +19207,6 @@
         ],
         "region": "gb"
       },
-      "621674f168c966be92737ce6": {
-        "id": "64305451fc3be5947773c339-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "gb"
-      },
       "67a1a8ef2358ef4dd5c3018e": {
         "id": "64305451fc3be5947773c339-67a1a8ef2358ef4dd5c3018e",
         "slug": "lucha-plus",
@@ -23278,19 +23239,6 @@
         ],
         "region": "au"
       },
-      "621674f168c966be92737ce6": {
-        "id": "697140a85d851f5e69414688-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "au"
-      },
       "64a355697d24564fba37bab8": {
         "id": "697140a85d851f5e69414688-64a355697d24564fba37bab8",
         "slug": "ideas-en-5-minutos",
@@ -26894,19 +26842,6 @@
         ],
         "region": "nz"
       },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "nz"
-      },
       "64a355697d24564fba37bab8": {
         "id": "5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8",
         "slug": "ideas-en-5-minutos",
@@ -30445,19 +30380,6 @@
         ],
         "region": "mx"
       },
-      "621674f168c966be92737ce6": {
-        "id": "608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "mx"
-      },
       "666e15a3ce73ed6023b55a0f": {
         "id": "608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f",
         "slug": "buen-viaje",
@@ -33944,19 +33866,6 @@
         ],
         "region": "es"
       },
-      "621674f168c966be92737ce6": {
-        "id": "643054b1fc3be59477853717-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "es"
-      },
       "67a1a8ef2358ef4dd5c3018e": {
         "id": "643054b1fc3be59477853717-67a1a8ef2358ef4dd5c3018e",
         "slug": "lucha-plus",
@@ -36983,19 +36892,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-6a3c2c8c14e447db7984cc3a.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "fr"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "6430aa45fc3be5947780904e-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -40305,19 +40201,6 @@
         ],
         "region": "de"
       },
-      "621674f168c966be92737ce6": {
-        "id": "635177ecff6cd5445d7f9b0b-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "de"
-      },
       "64d4e82ac5d4668c9cb7b5df": {
         "id": "635177ecff6cd5445d7f9b0b-64d4e82ac5d4668c9cb7b5df",
         "slug": "novelisima",
@@ -43505,19 +43388,6 @@
         ],
         "region": "br"
       },
-      "621674f168c966be92737ce6": {
-        "id": "646546f35db8ada4c8edd7e5-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "br"
-      },
       "6154a863e3e4d9577f96b31a": {
         "id": "646546f35db8ada4c8edd7e5-6154a863e3e4d9577f96b31a",
         "slug": "nosey-escandalos",
@@ -46341,19 +46211,6 @@
         ],
         "region": "in"
       },
-      "621674f168c966be92737ce6": {
-        "id": "698f7631338300003d436270-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "in"
-      },
       "65b1568052aa31b8f64da064": {
         "id": "698f7631338300003d436270-65b1568052aa31b8f64da064",
         "slug": "c4-en-alerta",
@@ -48722,19 +48579,6 @@
         ],
         "region": "jp"
       },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "jp"
-      },
       "64a355697d24564fba37bab8": {
         "id": "5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8",
         "slug": "ideas-en-5-minutos",
@@ -51033,19 +50877,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "kr"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -54173,19 +54004,6 @@
         ],
         "region": "se"
       },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "se"
-      },
       "64a355697d24564fba37bab8": {
         "id": "5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8",
         "slug": "ideas-en-5-minutos",
@@ -57108,19 +56926,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "nl"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -60430,19 +60235,6 @@
         ],
         "region": "no"
       },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "no"
-      },
       "64a355697d24564fba37bab8": {
         "id": "5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8",
         "slug": "ideas-en-5-minutos",
@@ -63625,19 +63417,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "fi"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -66877,19 +66656,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "dk"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],

@@ -77,8 +77,6 @@ https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-6216723e2c26
 https://lotus.stingray.com/manifest/ose-137ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-618ab2f275913b296fbe56dd" tvg-id="618ab2f275913b296fbe56dd" tvg-name="Eddie's Wonderland" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a27f5de6-ea10-48ad-ab05-6a5c3e63d46c/Eddies-Wonderland_logo_dark.png" group-title="Kids & Family",Eddie's Wonderland
 https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-618ab2f275913b296fbe56dd.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-621674f168c966be92737ce6" tvg-id="621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="En Español",El Conflicto TV
-https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-621674f168c966be92737ce6.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ee74af52f7d73061eec491" tvg-id="62ee74af52f7d73061eec491" tvg-name="Euro Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="Music",Euro Hits
 https://lotus.stingray.com/manifest/ose-214ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-60089d90f682a3002c348299" tvg-id="60089d90f682a3002c348299" tvg-name="Euronews" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png" group-title="News",Euronews

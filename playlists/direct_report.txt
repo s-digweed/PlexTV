@@ -1,5 +1,5 @@
-Plex VPN-free direct links  (2026-10-30 12:58 UTC)
-Channels checked: 1408   VPN-free: 842   Still Plex link (VPN needed): 566
+Plex VPN-free direct links  (2026-10-30 19:59 UTC)
+Channels checked: 1407   VPN-free: 842   Still Plex link (VPN needed): 565
 
   direct (cached)              842
   other host                   482
@@ -7,8 +7,8 @@ Channels checked: 1408   VPN-free: 842   Still Plex link (VPN needed): 566
   plex-404                     12
   plex-403                     5
   plex-500                     2
-  plex-400                     2
   geo-blocked-host             1
+  plex-400                     1
   plex-504                     1
   variant-401                  1
 

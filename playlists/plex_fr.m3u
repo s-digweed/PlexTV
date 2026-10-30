@@ -103,8 +103,6 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/plextv/master.m3u8
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f1784a7111a932d28f1aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-618ab2f275913b296fbe56dd" tvg-id="618ab2f275913b296fbe56dd" tvg-name="Eddie's Wonderland" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a27f5de6-ea10-48ad-ab05-6a5c3e63d46c/Eddies-Wonderland_logo_dark.png" group-title="Kids & Family",Eddie's Wonderland
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-618ab2f275913b296fbe56dd.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-621674f168c966be92737ce6" tvg-id="621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="En Español",El Conflicto TV
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621674f168c966be92737ce6.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6490e06718a55242eea9598f" tvg-id="6490e06718a55242eea9598f" tvg-name="Emotion' L" tvg-logo="https://provider-static.plex.tv/epg/cms/production/699cff89-9106-4de6-b340-3852cc1ec444/EMOTION_L_-_Logo_1500x1000.png" group-title="Bingeworthy",Emotion' L
 https://amg00711-zylo-france-emotional-plex-b1d4s.amagi.tv/playlist/amg00711-zylo-france-emotional-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63ae180c6d1144b79ce121d7" tvg-id="63ae180c6d1144b79ce121d7" tvg-name="Enquêtes de Choc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2d7399f7-4231-411f-889f-8e126430f0e8/ENQUETES_DE_CHOC_LOGO_-_richard_maroko.png" group-title="Bingeworthy",Enquêtes de Choc
