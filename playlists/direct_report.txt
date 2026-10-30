@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-10-29 22:47 UTC)
+Plex VPN-free direct links  (2026-10-30 05:52 UTC)
 Channels checked: 1408   VPN-free: 834   Still Plex link (VPN needed): 574
 
   direct (cached)              834
@@ -31,7 +31,6 @@ Non-Amagi video hosts (candidates for future support):
   amc-allblk-gems-1-us.plex.wurl.tv                            1
   e8df38f7.wurl.com                                            1
   candlelightmedia-sparklightlove-1-us.plex.wurl.tv            1
-  afv-cij.otteravision.com                                     1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
@@ -53,6 +52,7 @@ Non-Amagi video hosts (candidates for future support):
   ed6ec5d8.wurl.com                                            1
   786f64b9.wurl.com                                            1
   3846d2d6.wurl.com                                            1
+  3e9247fa.wurl.com                                            1
 
 Example segment URLs (for working out new patterns):
   [live-content-cf.xumo.com]
