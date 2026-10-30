@@ -76,6 +76,8 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
 .pill.free{background:var(--free-bg);color:var(--free)}
 .pill.blocked{background:var(--block-bg);color:var(--block)}
 .pill.unknown{background:var(--unk-bg);color:var(--unk)}
+.pill.guide{background:var(--accent-bg);color:var(--accent)}
+.pill.noguide{background:var(--unk-bg);color:var(--unk)}
 .more{display:block;width:100%;border:0;border-top:1px solid var(--line);background:transparent;color:var(--accent);
   font:inherit;font-weight:600;padding:11px;cursor:pointer}
 .empty{padding:28px;text-align:center;color:var(--muted)}
@@ -126,7 +128,7 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
 .chg .rg{font-size:12.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .chg .o{color:var(--muted);text-decoration:line-through}
 .note{font-size:13px;color:var(--muted);margin:10px 2px}
-.hgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.hgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
 .hcard{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px;box-shadow:var(--shadow);min-width:0}
 .hcard h3{margin:0 0 2px;font-size:16px;display:flex;align-items:center;gap:8px;justify-content:space-between}
 .hcard .repo{font-size:12px;color:var(--muted)}
@@ -155,6 +157,15 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
   .chg .rg{grid-column:2}
   .chg .cn{grid-column:2;min-width:0}
   .tabs button{padding:9px 9px}
+  header{position:relative}
+  header>div:first-child{padding-right:46px}
+  #theme{position:absolute;top:0;right:0}
+  #svc{width:100%;justify-content:space-between}
+  #svc button{padding:6px 6px;font-size:13.5px}
+}
+@media (max-width:380px){
+  #svc button{padding:5px 4px;font-size:12.5px;gap:4px}
+  .svclogo{width:15px;height:15px}
   #svc button{padding:6px 8px;gap:5px}
   .svclogo{width:18px;height:18px}
   header{gap:12px 10px}
@@ -232,6 +243,7 @@ const SOURCES = [
   {key:"pluto",   label:"Pluto",       logo:"https://i.imgur.com/ViYQKds.png", url:P.get("pluto")   || "https://raw.githubusercontent.com/s-digweed/AltPluto/main/status.json"},
   {key:"plex",    label:"Plex",        logo:"https://i.imgur.com/E821cxa.png", url:P.get("plex")    || "https://raw.githubusercontent.com/s-digweed/PlexTV/main/status.json"},
   {key:"samsung", label:"Samsung TV+", logo:"https://i.imgur.com/wOslUfw.png", url:P.get("samsung") || "https://raw.githubusercontent.com/s-digweed/SamsungTVPlus/main/output/status.json"},
+  {key:"prime",   label:"Prime",       logo:"https://i.imgur.com/IByAyHW.png", guideOnly:true, url:P.get("prime") || "https://raw.githubusercontent.com/s-digweed/Pryme/main/status.json"},
 ];
 const ORDER = ["us","ca","gb","uk","au","nz","de","at","ch","fr","es","it","nl","se","no","dk","fi","is","mx","ar","br","cl","in","jp","kr"];
 const PAGE = 200;
@@ -302,7 +314,12 @@ function idBox(c, d){
   return `<div class="idbox">${h}</div>`;
 }
 
-function counts(rows){ let f=0,b=0,u=0; for(const c of rows){ c[4]==="free"?f++:c[4]==="blocked"?b++:u++; } return {f,b,u,t:rows.length}; }
+// "good" = VPN-free (stream services) or has a guide (guide-only services like Prime)
+const isGood = st => st==="free" || st==="guide";
+const isBad  = st => st==="blocked" || st==="noguide";
+const LBL = () => (SOURCES.find(s=>s.key===state.svc)||{}).guideOnly
+  ? {good:"With guide", bad:"No listings", chip:"with guide"} : {good:"VPN-free", bad:"Needs VPN", chip:"VPN-free"};
+function counts(rows){ let f=0,b=0,u=0; for(const c of rows){ isGood(c[4])?f++:isBad(c[4])?b++:u++; } return {f,b,u,t:rows.length}; }
 
 function renderSvc(){
   $("svc").innerHTML = SOURCES.map(s=>`<button data-k="${s.key}" aria-pressed="${s.key===state.svc}">${s.logo ? `<img class="svclogo" src="${esc(s.logo)}" alt="" onerror="this.remove()">` : ""}${esc(s.label)}</button>`).join("");
@@ -347,20 +364,22 @@ function render(){
   // "All" counts every playlist entry (a channel in 5 regions counts 5 times, like
   // TiviMate shows it); the list itself still shows each channel once with its flags.
   const entries = state.region==="all" ? keys.flatMap(k=>d.regions[k].channels) : rows;
-  const c = counts(entries), uniq = rows.length;
+  const c = counts(entries), uniq = rows.length, L = LBL();
+  $("flt").querySelector('[data-f="free"]').textContent = L.good;
+  $("flt").querySelector('[data-f="blocked"]').textContent = L.bad;
   const chg = d.changes.filter(x=>state.region==="all"||x.r===state.region);
   const pct = c.t ? Math.round(100*c.f/c.t) : 0;
   $("cards").innerHTML = `
     <div class="card"><div class="k">Channels</div><div class="v">${c.t.toLocaleString()}${state.region==="all" && uniq!==c.t ? ` <small>${uniq.toLocaleString()} unique</small>` : ""}</div></div>
-    <div class="card"><div class="k">VPN-free</div><div class="v free">${c.f.toLocaleString()} <small>${pct}%</small></div></div>
-    <div class="card"><div class="k">Needs VPN</div><div class="v block">${c.b.toLocaleString()}</div></div>
+    <div class="card"><div class="k">${L.good}</div><div class="v free">${c.f.toLocaleString()} <small>${pct}%</small></div></div>
+    <div class="card"><div class="k">${L.bad}</div><div class="v block">${c.b.toLocaleString()}</div></div>
     <div class="card"><div class="k">Changes · 7 days</div><div class="v">${chg.length}</div></div>`;
 
   // region chips
   const all = counts(keys.flatMap(k=>d.regions[k].channels));
   const chip = (k, name, cc) => `<button class="chip" data-r="${k}" aria-pressed="${state.region===k}">
       <div class="t"><span class="flag">${flag(k)}</span>${esc(name)}</div>
-      <div class="n">${cc.f}/${cc.t} VPN-free</div>
+      <div class="n">${cc.f}/${cc.t} ${L.chip}</div>
       <div class="bar"><i style="width:${cc.t?100*cc.f/cc.t:0}%"></i></div></button>`;
   $("regions").innerHTML = chip("all","All", all) +
     keys.map(k=>chip(k, d.regions[k].name, counts(d.regions[k].channels))).join("");
@@ -374,12 +393,12 @@ function render(){
 function renderList(rows){
   const q = state.q.trim().toLowerCase();
   let r = rows;
-  if (state.f!=="all") r = r.filter(c => state.f==="free" ? c[4]==="free" : c[4]!=="free");
+  if (state.f!=="all") r = r.filter(c => state.f==="free" ? isGood(c[4]) : !isGood(c[4]));
   if (q) r = r.filter(c => c[1].toLowerCase().includes(q) || (c[3]||"").toLowerCase().includes(q) || (c[5]||"").toLowerCase().includes(q)
                           || String(c[0]).toLowerCase().includes(q));
   const d = cache[state.svc];
   if (!r.length){ $("list").innerHTML = `<div class="empty">No channels match.</div>`; return; }
-  const label = {free:"VPN-free", blocked:"Needs VPN", unknown:"Unknown"};
+  const label = {free:"VPN-free", blocked:"Needs VPN", unknown:"Unknown", guide:"Guide only", noguide:"No listings"};
   const isOpen = c => state.ids || state.open.has(c[0]);
   const html = r.slice(0, state.shown).map(c=>{
     const regs = Array.isArray(c[6]) ? c[6] : [c[6]];
@@ -467,6 +486,7 @@ const GUIDE = {
   plex:    r => `${RAW}PlexTV/main/playlists/plex_${r}.xml.gz`,
   pluto:   r => `${RAW}AltPluto/main/output/pluto_${r}.xml.gz`,
   samsung: r => `${RAW}SamsungTVPlus/main/output/samsung_tvplus.xml`,     // one file, all countries
+  prime:   r => `${RAW}Pryme/main/amazon_epg.xml`,                        // US only
 };
 const guideCache = {};            // url -> Promise<Map(id -> [programmes])>
 const onOpen = new Set();
@@ -606,7 +626,7 @@ function runRow(w){
 }
 
 async function renderHealth(){
-  $("updated").textContent = "Health of all three repos";
+  $("updated").textContent = "Health of every repo";
   $("health").innerHTML = SOURCES.map(s=>`<div class="hcard" id="h-${s.key}"><h3>${esc(s.label)}</h3><div class="empty">Loading…</div></div>`).join("");
   await Promise.all(SOURCES.map(async s => {
     const el = $("h-"+s.key);
@@ -627,12 +647,13 @@ async function renderHealth(){
         · runs every ${every} h</div>
       <div class="kv">
         <span class="k">Last update</span><span class="v">${ago(d.updated)}</span>
-        <span class="k">Playlist (M3U)</span><span class="v"><span class="dot ${ageDot(m3uAge, every*1.5+0.5)}"></span>${m3uAge===null?"unknown":ago(h.m3u_updated)}</span>
+        <span class="k">Playlist (M3U)</span><span class="v">${h.guide_only ? `<small>none, guide only</small>` :
+            `<span class="dot ${ageDot(m3uAge, every*1.5+0.5)}"></span>${m3uAge===null?"unknown":ago(h.m3u_updated)}`}</span>
         <span class="k">Guide (EPG)</span><span class="v"><span class="dot ${ageDot(epgAge, Math.max(every,12)*1.5)}"></span>${epgAge===null?"unknown":ago(h.epg_updated)}</span>
         <span class="k">Guide reach</span><span class="v"><span class="dot ${rc}"></span>${reach===null?"unknown":
             reach>0 ? `${fmtH(reach)} ahead` : `ran out ${fmtH(-reach)} ago`}
             ${h.epg_until ? `<small> · longest ${fmtH(ahead(h.epg_until))}</small>` : ""}</span>
-        <span class="k">Channels</span><span class="v">${chans.toLocaleString()} <small>in ${Object.keys(d.regions).length} regions${h.epg_channels?` · ${h.epg_channels.toLocaleString()} with guide`:""}</small></span>
+        <span class="k">Channels</span><span class="v">${chans.toLocaleString()} <small>in ${Object.keys(d.regions).length} region${Object.keys(d.regions).length===1?"":"s"}${h.epg_channels?` · ${h.epg_channels.toLocaleString()} with guide`:""}</small></span>
       </div>
       ${(h.notes||[]).length ? `<ul class="hnotes">${h.notes.map(n=>`<li>${esc(n)}</li>`).join("")}</ul>` : ""}
       <div class="runs" id="r-${s.key}"><div class="t" style="margin:0">Checking GitHub Actions…</div></div>`;
