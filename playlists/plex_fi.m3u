@@ -66,7 +66,7 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-68e03f572cbc7a5d3189394c" tvg-id="68e03f572cbc7a5d3189394c" tvg-name="Come Dine With Me" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b20c2217-44e7-45da-aef4-aafcefefe0e6/CDWM_Logo_Colour_1500X1000.png" group-title="Food, Home & Culture",Come Dine With Me
 https://amg00654-itv-amg00654c2-plex-gb-9799.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f07e9fdf313eb0041bbecda" tvg-id="5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Food, Home & Culture",Cooking Panda
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/e0e11c8b0d26e2cad3dc57cd62e148c2/master.m3u8
 #EXTINF:-1 channel-id="plex-6ab18cd3e796962782687696" tvg-id="6ab18cd3e796962782687696" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df8a40bd-c71c-4214-821f-e3fb870d990d/Cops_channel_logo_white_1500x1000RDX.png" group-title="Bingeworthy",COPS
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ab18cd3e796962782687696.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6ad280e75374a1e72d134641" tvg-id="6ad280e75374a1e72d134641" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d040718f-b799-46b9-9116-067ff2c5c068/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",COPS Reloaded
@@ -156,7 +156,7 @@ https://d35p4ep9ync6qx.cloudfront.net/2c65427ede66557e0d1d36e7dca9d427/master.m3
 #EXTINF:-1 channel-id="plex-6a2ab9f5e6a243c85608e4bd" tvg-id="6a2ab9f5e6a243c85608e4bd" tvg-name="Ghost" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8d22c6f0-4467-44fc-bfcf-2ec10ce58c82/Ghost_channel_logo_white_1500x1000RDX.png" group-title="Explore",Ghost
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a2ab9f5e6a243c85608e4bd.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5eea605474085f0040ddc76d" tvg-id="5eea605474085f0040ddc76d" tvg-name="Glewed TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="Food, Home & Culture",Glewed TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://glewedtv-4-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63f914bffe2c3d32e1a7929f" tvg-id="63f914bffe2c3d32e1a7929f" tvg-name="GLORY Kickboxing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png" group-title="Sports",GLORY Kickboxing
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68645d7719cc2e163e38d163" tvg-id="68645d7719cc2e163e38d163" tvg-name="Gone Fishing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e91b406b-11dc-43b4-96eb-a775852a8b98/Gone_Fishing_whiteRDX.png" group-title="Sports",Gone Fishing

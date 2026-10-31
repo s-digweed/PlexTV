@@ -78,7 +78,7 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-686462bf1a2f321847ec0395" tvg-id="686462bf1a2f321847ec0395" tvg-name="Comercio TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f13dd872-9888-4a98-953b-2d2cf306d69a/comercioDark_Logo__1_.png" group-title="News",Comercio TV
 https://amg00082-tarima-amg00082c1-plex-us-8646.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f07e9fdf313eb0041bbecda" tvg-id="5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Food, Home & Culture",Cooking Panda
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5f07e9fdf313eb0041bbecda.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/e0e11c8b0d26e2cad3dc57cd62e148c2/master.m3u8
 #EXTINF:-1 channel-id="plex-6ab2a5c24d0a0fea95319571" tvg-id="6ab2a5c24d0a0fea95319571" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2dddf084-d0b9-454f-b993-925d154dfc6d/Cops_channel_logo_white_1500x1000RDX.png" group-title="Bingeworthy",COPS
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6ab2a5c24d0a0fea95319571.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6ab3fb945364aa2377195427" tvg-id="6ab3fb945364aa2377195427" tvg-name="COPS en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf146750-7c0d-4f41-878f-470c7d0d358b/Cops_channel_logo_white_1500x1000RDX.png" group-title="Bingeworthy",COPS en Español
@@ -168,7 +168,7 @@ https://plx-gatsa.otteravision.com/plx/gatsa/gatsa_720p.m3u8
 #EXTINF:-1 channel-id="plex-67c247c345ae99120c071586" tvg-id="67c247c345ae99120c071586" tvg-name="GFN Football TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f365a9e-9802-422b-b715-f394a2e411fb/AFNFootballWHITEChannel_Logo_-_1500x1000.png" group-title="Sports",GFN Football TV
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67c247c345ae99120c071586.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5eea605474085f0040ddc76d" tvg-id="5eea605474085f0040ddc76d" tvg-name="Glewed TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="Food, Home & Culture",Glewed TV
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5eea605474085f0040ddc76d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://glewedtv-4-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63f914bffe2c3d32e1a7929f" tvg-id="63f914bffe2c3d32e1a7929f" tvg-name="GLORY Kickboxing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png" group-title="Sports",GLORY Kickboxing
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-63f914bffe2c3d32e1a7929f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Classics",Grjngo - Western Movies

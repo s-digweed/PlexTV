@@ -164,7 +164,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68fafe0dae4a
 #EXTINF:-1 channel-id="plex-68fafc6e558214386ab7ca3a" tvg-id="68fafc6e558214386ab7ca3a" tvg-name="Bloomberg TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6cdd3f62-4cd0-47a2-b57c-f15ff4318463/bloomtv_white_rdx.png" group-title="News",Bloomberg TV
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68fafc6e558214386ab7ca3a.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68fb0375004ccee30be51252" tvg-id="68fb0375004ccee30be51252" tvg-name="Bonanza-Billies TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c453427e-2772-43e8-8025-8df357849a3a/BonanzaBilliesTV_1500x1000_ChannelHeroTitleTreatment_Color_Erica_Frager.png" group-title="Classics",Bonanza-Billies TV
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68fb0375004ccee30be51252.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://tricoast-tv-bonanzabilliestv-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69ae4f38e657bab5f7a9b7ec" tvg-id="69ae4f38e657bab5f7a9b7ec" tvg-name="Bondi Rescue" tvg-logo="https://provider-static.plex.tv/epg/cms/production/91ffbeaa-df66-4074-83d6-94cacb9622fa/Plex_Totem_BondiRescue_Logo_White_-_Rowan_Williams.png" group-title="Reality",Bondi Rescue
 https://amg16763-amg16763c2-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d3" tvg-id="5ef11487d33ab9004048a1d3" tvg-name="BOOT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e31e123-a40b-41c6-9153-67c983c6d9e6/boot_all-white_1500X1000_PNG_transparent_background.png" group-title="Food, Home & Culture",BOOT
@@ -510,7 +510,7 @@ https://amg00353-amg00353c18-plex-us-2654.playouts.now.amagi.tv/playlist/amg0035
 #EXTINF:-1 channel-id="plex-66a294d3e1a2934adfe851f5" tvg-id="66a294d3e1a2934adfe851f5" tvg-name="Ghosts Are Real" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2354dc9b-6193-44a4-97e0-b9b876620fab/GhostsAreReal_Logo_Dark_1500x1000.png" group-title="Explore",Ghosts Are Real
 https://amg00136-wbd-amg00136c13-plex-us-4291.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvghostsarereal-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5eea605474085f0040ddc76d" tvg-id="5eea605474085f0040ddc76d" tvg-name="Glewed TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="Food, Home & Culture",Glewed TV
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5eea605474085f0040ddc76d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://glewedtv-4-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63f914bffe2c3d32e1a7929f" tvg-id="63f914bffe2c3d32e1a7929f" tvg-name="GLORY Kickboxing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png" group-title="Sports",GLORY Kickboxing
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63f914bffe2c3d32e1a7929f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6615360a8423b8d7e61a099b" tvg-id="6615360a8423b8d7e61a099b" tvg-name="Go Wild" tvg-logo="https://provider-static.plex.tv/epg/cms/production/616ccdb3-bc16-4546-bfda-3102d114be5a/Go_Wild_Tilef0c5e75034912cf50d05c24ee0530aa8RDXFINAL.png" group-title="Explore",Go Wild
@@ -532,7 +532,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63489eff90b9
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Classics",Grjngo - Western Movies
 https://amogonetworx-grjngo-8-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a8cb463fc51826f5301a156" tvg-id="6a8cb463fc51826f5301a156" tvg-name="Growing Up Hip Hop" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3c8801d-fde8-4b88-93a9-206956d39baf/Wetv_GUHH_Yellow_logo.png" group-title="Reality",Growing Up Hip Hop
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a8cb463fc51826f5301a156.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://2b5b5378.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a8786c4fa0d0293e2681b7c" tvg-id="6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png" group-title="Daytime TV & Games",GrowthDay Network
 https://linear-1130.frequency.stream/mt/plex/1130/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f8746eabd529300418246d9" tvg-id="5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food, Home & Culture",GUSTOTV
@@ -1024,7 +1024,7 @@ https://plex-xumoent-ch1003-11ght.fast.nbcuni.com/live/master_1.m3u8
 #EXTINF:-1 channel-id="plex-6041643175c115002dc5125d" tvg-id="6041643175c115002dc5125d" tvg-name="So Yummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/SoYummy_logo_Dark.png" group-title="Food, Home & Culture",So Yummy
 https://plexaaaaa-so-yummy-plex-6ae40.amagi.tv/playlist/plexAAAAA-so-yummy-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f0ff262d71dcb00449ec012" tvg-id="5f0ff262d71dcb00449ec012" tvg-name="So... Real" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d92191a9-9c9b-47ff-8a73-1c5fb313e98d/SoREALChannel_logo_attribution_-_Souharddya_Basu.png" group-title="Reality",So... Real
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec012.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://cineverse-all3-soreal-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6615522e50e81fa51eb0df60" tvg-id="6615522e50e81fa51eb0df60" tvg-name="Sonic The Hedgehog" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png" group-title="Kids & Family",Sonic The Hedgehog
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6615522e50e81fa51eb0df60.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Kids & Family",Sonic TV

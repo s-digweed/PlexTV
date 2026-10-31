@@ -78,7 +78,7 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-686462bf1a2f321847ec0395" tvg-id="686462bf1a2f321847ec0395" tvg-name="Comercio TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f13dd872-9888-4a98-953b-2d2cf306d69a/comercioDark_Logo__1_.png" group-title="News",Comercio TV
 https://amg00082-tarima-amg00082c1-plex-us-8646.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f07e9fdf313eb0041bbecda" tvg-id="5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Food, Home & Culture",Cooking Panda
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5f07e9fdf313eb0041bbecda.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/e0e11c8b0d26e2cad3dc57cd62e148c2/master.m3u8
 #EXTINF:-1 channel-id="plex-6ab195d9e7969627826876b2" tvg-id="6ab195d9e7969627826876b2" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45215d8a-8c68-42e8-8f9a-a128a6cb0fc0/Cops_channel_logo_white_1500x1000RDX.png" group-title="Bingeworthy",COPS
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6ab195d9e7969627826876b2.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6ab3fb245364aa2377195425" tvg-id="6ab3fb245364aa2377195425" tvg-name="COPS en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4ad8424b-0135-4d64-974b-60e23ddc24b8/Cops_channel_logo_white_1500x1000RDX.png" group-title="Bingeworthy",COPS en Español
@@ -160,7 +160,7 @@ https://d35p4ep9ync6qx.cloudfront.net/2c65427ede66557e0d1d36e7dca9d427/master.m3
 #EXTINF:-1 channel-id="plex-67c24d5a45ae99120c07158c" tvg-id="67c24d5a45ae99120c07158c" tvg-name="Gata Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c4604da1-d6b6-4043-95fb-9a90f4f0273c/Plex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png" group-title="Bingeworthy",Gata Salvaje
 https://plx-gatsa.otteravision.com/plx/gatsa/gatsa_720p.m3u8
 #EXTINF:-1 channel-id="plex-5eea605474085f0040ddc76d" tvg-id="5eea605474085f0040ddc76d" tvg-name="Glewed TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="Food, Home & Culture",Glewed TV
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5eea605474085f0040ddc76d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://glewedtv-4-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63f914bffe2c3d32e1a7929f" tvg-id="63f914bffe2c3d32e1a7929f" tvg-name="GLORY Kickboxing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png" group-title="Sports",GLORY Kickboxing
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63f914bffe2c3d32e1a7929f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63489bc190b96ef5e0eb327c" tvg-id="63489bc190b96ef5e0eb327c" tvg-name="Grjngo - Filmes De Faroeste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba5078a6-99eb-4e02-a473-bd6d0b02f34d/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Classics",Grjngo - Filmes De Faroeste
@@ -366,7 +366,7 @@ https://d35p4ep9ync6qx.cloudfront.net/55fd718dc8efb1d91b6477639b5718f2/master.m3
 #EXTINF:-1 channel-id="plex-6864668119cc2e163e38d167" tvg-id="6864668119cc2e163e38d167" tvg-name="Sessão Trash" tvg-logo="https://provider-static.plex.tv/epg/cms/production/efb02a84-6b0e-4937-b7f1-dd9646f24b5f/TrashWhite_Logo_RDX.png" group-title="Adrenaline & Sci-Fi",Sessão Trash
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist/amg00711-zylofast-sessaotrash-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69b47ba0573588ae1fb57f3f" tvg-id="69b47ba0573588ae1fb57f3f" tvg-name="SFT Combat" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ca76ac0-6340-4214-ab3a-6c863e6a5514/1500x1000_light.png" group-title="Sports",SFT Combat
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-69b47ba0573588ae1fb57f3f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/b069773c8b426e6971155d180b8f9ea6/master.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Global",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Kids & Family",SKWAD
