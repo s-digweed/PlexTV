@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-10-30 22:23 UTC)
+Plex VPN-free direct links  (2026-10-31 05:43 UTC)
 Channels checked: 1407   VPN-free: 842   Still Plex link (VPN needed): 565
 
   direct (cached)              842
@@ -20,8 +20,8 @@ Non-Amagi video hosts (candidates for future support):
   cfvod.kaltura.com                                            8
   content.galxy.tv                                             4
   o300801-mp-lura-live.fsy.nfl.com                             3
-  9e2698fd.wurl.com                                            1
   67923b26.wurl.com                                            1
+  9e2698fd.wurl.com                                            1
   ca888b2b.wurl.com                                            1
   fa942f77.wurl.com                                            1
   all3media-midsomer-1-us.plex.wurl.tv                         1
