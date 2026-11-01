@@ -296,7 +296,7 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6a300178bab8
 #EXTINF:-1 channel-id="plex-6615885e1eabecf2c9d56495" tvg-id="6615885e1eabecf2c9d56495" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="Sports",Monster Jam
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6615885e1eabecf2c9d56495.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6112a9139894c8002c6cb87f" tvg-id="6112a9139894c8002c6cb87f" tvg-name="More U" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" group-title="Food, Home & Culture",More U
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6112a9139894c8002c6cb87f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://bec-moreu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-692719bf5d6063fc5b96b699" tvg-id="692719bf5d6063fc5b96b699" tvg-name="Most Haunted" tvg-logo="https://provider-static.plex.tv/epg/cms/production/abcea44a-b25a-4c68-9d9a-7d8d815175ac/Most_HauntedLIGHT_LOGO__3_.png" group-title="Explore",Most Haunted
 https://amg00426-lds-amg00426c17-plex-gb-10225.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-mosthaunted-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-65d90ec99c7a6da8c3ce57eb" tvg-id="65d90ec99c7a6da8c3ce57eb" tvg-name="Movieitaly Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png" group-title="Global",Movieitaly Channel
@@ -392,7 +392,7 @@ https://amg00426-littledotstudio-realcrimebeta-plex-9eyf6.amagi.tv/playlist/amg0
 #EXTINF:-1 channel-id="plex-68893b831b1a8359c63cf6ee" tvg-id="68893b831b1a8359c63cf6ee" tvg-name="Real Crime Uncovered" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf91965d-eded-47f6-8594-0a9d02e6cffc/RealCrimeUncovered_Logo_White_Denise_O_KeeffeWHITE.png" group-title="True Crime",Real Crime Uncovered
 https://videoelephant-limited-crimefiles-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6aa9bc040832270987394353" tvg-id="6aa9bc040832270987394353" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png" group-title="Reality",Real Emergency
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6aa9bc040832270987394353.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://989c92cb.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a1609442476ab8600b1841c" tvg-id="6a1609442476ab8600b1841c" tvg-name="Real Wild" tvg-logo="https://provider-static.plex.tv/epg/cms/production/482fe1d5-fb01-416a-857e-ffbf8b6c8cc8/RealWild_Logo_White_-_Simon_Tuquabo.png" group-title="Explore",Real Wild
 https://amg00426-amg00426c30-amgplt0021.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68e032fd8bbd79d66c631ab0" tvg-id="68e032fd8bbd79d66c631ab0" tvg-name="Relic Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e7d9a4d-b050-4f83-979a-bbdf4d618198/FilmRise_RelicHunter_Logo_Color.png" group-title="Adrenaline & Sci-Fi",Relic Hunter
@@ -426,7 +426,7 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6615522e50e8
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Kids & Family",Sonic TV
 https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
 #EXTINF:-1 channel-id="plex-673d23e6d2bcb259fd6b29ae" tvg-id="673d23e6d2bcb259fd6b29ae" tvg-name="Sparkle Movies - Light & Love" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bac5ad0a-1937-41a7-adb7-03936d73e9fa/SparkleMovies_Logo_White_Scott_WiscombeRDX_Color.png" group-title="Movies",Sparkle Movies - Light & Love
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-673d23e6d2bcb259fd6b29ae.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://candlelightmedia-sparklemovies-1-au.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6349ed0eb1adc4cfa571fd37" tvg-id="6349ed0eb1adc4cfa571fd37" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Food, Home & Culture",SPEEDVISION
 https://linear-1683.frequency.stream/mt/plex/1683/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5ef11485d33ab9004048a1ca" tvg-id="5ef11485d33ab9004048a1ca" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Sports",SportsGrid

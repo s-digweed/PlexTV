@@ -74,7 +74,7 @@ https://bbc-comedy-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-630905af0417b7074a4ad95e" tvg-id="630905af0417b7074a4ad95e" tvg-name="BBC Food" tvg-logo="https://provider-static.plex.tv/epg/cms/production/243c6bd7-a203-4d60-8a20-b0e288f1e5fc/BBC_FOOD_LOGO_WHITE_1500x1000.png" group-title="Food, Home & Culture",BBC Food
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-630905af0417b7074a4ad95e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-656229e4b7d737841f30a4fb" tvg-id="656229e4b7d737841f30a4fb" tvg-name="BBC Game Shows" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6b8b55c-c48b-4f01-b357-5c9d62779cd8/BBC_GAME_SHOWS_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="Daytime TV & Games",BBC Game Shows
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-656229e4b7d737841f30a4fb.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://bbc-gameshows-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6308eda9ac9983739c8a29bb" tvg-id="6308eda9ac9983739c8a29bb" tvg-name="BBC Home & Garden" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca13d56c-b5ee-41c8-be4c-fbacc7972c57/PLEX_HOME_GARDEN_Logo_Light_1500X1000.png" group-title="Food, Home & Culture",BBC Home & Garden
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6308eda9ac9983739c8a29bb.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65622ac05dbccec83a87b641" tvg-id="65622ac05dbccec83a87b641" tvg-name="BBC Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b627a5e-4c24-4f70-8392-f6d7c5080bee/BBC_SCI-FI_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="Adrenaline & Sci-Fi",BBC Sci-Fi
@@ -452,7 +452,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-671beef2128b
 #EXTINF:-1 channel-id="plex-6615885e1eabecf2c9d56495" tvg-id="6615885e1eabecf2c9d56495" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="Sports",Monster Jam
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6615885e1eabecf2c9d56495.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6112a9139894c8002c6cb87f" tvg-id="6112a9139894c8002c6cb87f" tvg-name="More U" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" group-title="Food, Home & Culture",More U
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6112a9139894c8002c6cb87f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://bec-moreu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-692719bf5d6063fc5b96b699" tvg-id="692719bf5d6063fc5b96b699" tvg-name="Most Haunted" tvg-logo="https://provider-static.plex.tv/epg/cms/production/abcea44a-b25a-4c68-9d9a-7d8d815175ac/Most_HauntedLIGHT_LOGO__3_.png" group-title="Explore",Most Haunted
 https://amg00426-lds-amg00426c17-plex-gb-10225.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-mosthaunted-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62fbf197c67d52bddf74cc87" tvg-id="62fbf197c67d52bddf74cc87" tvg-name="Movie Music by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a28301e1-00c2-4783-9a44-1e822be96cb9/11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" group-title="Music",Movie Music by Stingray
@@ -598,7 +598,7 @@ https://amg00426-littledotstudio-realcrimealpha-plex-ogl5v.amagi.tv/playlist/amg
 #EXTINF:-1 channel-id="plex-68893b831b1a8359c63cf6ee" tvg-id="68893b831b1a8359c63cf6ee" tvg-name="Real Crime Uncovered" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf91965d-eded-47f6-8594-0a9d02e6cffc/RealCrimeUncovered_Logo_White_Denise_O_KeeffeWHITE.png" group-title="True Crime",Real Crime Uncovered
 https://videoelephant-limited-crimefiles-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6aa9bc040832270987394353" tvg-id="6aa9bc040832270987394353" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png" group-title="Reality",Real Emergency
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6aa9bc040832270987394353.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://989c92cb.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a1609442476ab8600b1841c" tvg-id="6a1609442476ab8600b1841c" tvg-name="Real Wild" tvg-logo="https://provider-static.plex.tv/epg/cms/production/482fe1d5-fb01-416a-857e-ffbf8b6c8cc8/RealWild_Logo_White_-_Simon_Tuquabo.png" group-title="Explore",Real Wild
 https://amg00426-amg00426c30-amgplt0021.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa9f50784a2161d3caf7fb" tvg-id="61aa9f50784a2161d3caf7fb" tvg-name="Remember the ‘80s" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png" group-title="Music",Remember the ‘80s

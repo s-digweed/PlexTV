@@ -222,7 +222,7 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6615885e1eab
 #EXTINF:-1 channel-id="plex-677f008707d7949c690f3170" tvg-id="677f008707d7949c690f3170" tvg-name="More than Sports TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2462c422-369d-43f5-9742-8ec00cda1f5c/Marketing_assets_MTS_logo_1500x1000_all_whiteRDX.png" group-title="Sports",More than Sports TV
 https://mvg-mts.otteravision.com/mvg/mts/mts_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-6112a9139894c8002c6cb87f" tvg-id="6112a9139894c8002c6cb87f" tvg-name="More U" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" group-title="Food, Home & Culture",More U
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6112a9139894c8002c6cb87f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://bec-moreu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-675a39923c1d4ea8298f8f06" tvg-id="675a39923c1d4ea8298f8f06" tvg-name="Motorvision" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fd2c9c5-bb62-4de7-8673-5eb611101f54/Marketing_assets_MV_logo_1500X1000_transparent_dark_BGRDX.png" group-title="Sports",Motorvision
 https://mvg-mv-de.otteravision.com/mvg/mv_de/mv_de_720p_low.m3u8
 #EXTINF:-1 channel-id="plex-62fbf197c67d52bddf74cc87" tvg-id="62fbf197c67d52bddf74cc87" tvg-name="Movie Music by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a28301e1-00c2-4783-9a44-1e822be96cb9/11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" group-title="Music",Movie Music by Stingray
@@ -312,7 +312,7 @@ https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-60d4edd8b2fd
 #EXTINF:-1 channel-id="plex-66bfb17c144c201b8b61c10d" tvg-id="66bfb17c144c201b8b61c10d" tvg-name="RCM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png" group-title="Movies",RCM
 https://amg01076-amg01076c11-plex-us-4783.playouts.now.amagi.tv/playlist/amg01076-lightning-rialtorcm-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6aa9bc040832270987394353" tvg-id="6aa9bc040832270987394353" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png" group-title="Reality",Real Emergency
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6aa9bc040832270987394353.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://989c92cb.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa9f50784a2161d3caf7fb" tvg-id="61aa9f50784a2161d3caf7fb" tvg-name="Remember the ‘80s" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png" group-title="Music",Remember the ‘80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="Food, Home & Culture",Revry

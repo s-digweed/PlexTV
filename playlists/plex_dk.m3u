@@ -250,7 +250,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a3000691864
 #EXTINF:-1 channel-id="plex-6615885e1eabecf2c9d56495" tvg-id="6615885e1eabecf2c9d56495" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="Sports",Monster Jam
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6112a9139894c8002c6cb87f" tvg-id="6112a9139894c8002c6cb87f" tvg-name="More U" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" group-title="Food, Home & Culture",More U
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://bec-moreu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-692719bf5d6063fc5b96b699" tvg-id="692719bf5d6063fc5b96b699" tvg-name="Most Haunted" tvg-logo="https://provider-static.plex.tv/epg/cms/production/abcea44a-b25a-4c68-9d9a-7d8d815175ac/Most_HauntedLIGHT_LOGO__3_.png" group-title="Explore",Most Haunted
 https://amg00426-lds-amg00426c17-plex-gb-10225.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-mosthaunted-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62fbf197c67d52bddf74cc87" tvg-id="62fbf197c67d52bddf74cc87" tvg-name="Movie Music by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a28301e1-00c2-4783-9a44-1e822be96cb9/11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" group-title="Music",Movie Music by Stingray
@@ -328,7 +328,7 @@ https://amg01076-amg01076c11-plex-us-4783.playouts.now.amagi.tv/playlist/amg0107
 #EXTINF:-1 channel-id="plex-63584cf6d3a668f1cafc1f9f" tvg-id="63584cf6d3a668f1cafc1f9f" tvg-name="Real Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cee60fe2-2259-4836-8b99-6a0bd1dbf98b/Real_Crime_Logo_White_-_Simon_Tuquabo.png" group-title="True Crime",Real Crime
 https://amg00426-littledotstudio-realcrimebeta-plex-9eyf6.amagi.tv/playlist/amg00426-littledotstudio-realcrimebeta-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6aa9bc040832270987394353" tvg-id="6aa9bc040832270987394353" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png" group-title="Reality",Real Emergency
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://989c92cb.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a1609442476ab8600b1841c" tvg-id="6a1609442476ab8600b1841c" tvg-name="Real Wild" tvg-logo="https://provider-static.plex.tv/epg/cms/production/482fe1d5-fb01-416a-857e-ffbf8b6c8cc8/RealWild_Logo_White_-_Simon_Tuquabo.png" group-title="Explore",Real Wild
 https://amg00426-amg00426c30-amgplt0021.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68e03509748f52aaa85db9c6" tvg-id="68e03509748f52aaa85db9c6" tvg-name="Relic Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fea11a76-d1b0-49b8-82b8-3a121e7a351d/FilmRise_RelicHunter_Logo_Color.png" group-title="Adrenaline & Sci-Fi",Relic Hunter
