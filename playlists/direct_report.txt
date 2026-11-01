@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-10-31 21:37 UTC)
+Plex VPN-free direct links  (2026-11-01 06:06 UTC)
 Channels checked: 1407   VPN-free: 849   Still Plex link (VPN needed): 558
 
   direct (cached)              849
@@ -21,8 +21,8 @@ Non-Amagi video hosts (candidates for future support):
   content.galxy.tv                                             4
   o300801-mp-lura-live.fsy.nfl.com                             2
   ov-static.otteravision.com                                   2
-  67923b26.wurl.com                                            1
   9e2698fd.wurl.com                                            1
+  67923b26.wurl.com                                            1
   ca888b2b.wurl.com                                            1
   fa942f77.wurl.com                                            1
   all3media-midsomer-1-us.plex.wurl.tv                         1
@@ -88,7 +88,7 @@ Example segment URLs (for working out new patterns):
     NFL Channel: https://o300801-mp-lura-live.fsy.nfl.com/live/ephemeral/4Z9nGq8j6ED7UWRs23QIO50bylw1za3X/dc1_intl_2_plex_intl/3128k/NywNjmZQva0/179441/segment_179441546.ts?token=1793453947_ecf451da753a4f69ee0ea7360d9eb257753a425a  || tried 403x16
   [ov-static.otteravision.com]
     Camp Spoopy: https://ov-static.otteravision.com/scte_v3/tg/278881/tg_ad_slate_278881_480/00000/tg_ad_slate_278881_480_00005.ts  || tried 403x15,vodx1
-    Mega Machines: https://ov-static.otteravision.com/scte_v3/mmc/19/mmc_ad_slate_19_720_high/00000/mmc_ad_slate_19_720_high_00002.ts  || tried 403x15,vodx1
+    Mega Machines: https://ov-static.otteravision.com/scte_v3/mmc/19/mmc_ad_slate_19_720_high/00000/mmc_ad_slate_19_720_high_00019.ts  || tried 403x15,vodx1
   [22472f78.wurl.com]
     The Pet Collective: https://22472f78.wurl.com/dist/wurl/174/hls/master/playlist_1280x720_123311__432101.ts  || tried 403x16
   [224a4259.wurl.com]
