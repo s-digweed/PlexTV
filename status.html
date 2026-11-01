@@ -78,6 +78,7 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
 .pill.unknown{background:var(--unk-bg);color:var(--unk)}
 .pill.guide{background:var(--accent-bg);color:var(--accent)}
 .pill.noguide{background:var(--unk-bg);color:var(--unk)}
+.pill.kept{background:var(--unk-bg);color:var(--unk)}
 .more{display:block;width:100%;border:0;border-top:1px solid var(--line);background:transparent;color:var(--accent);
   font:inherit;font-weight:600;padding:11px;cursor:pointer}
 .empty{padding:28px;text-align:center;color:var(--muted)}
@@ -160,14 +161,14 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
   header{position:relative}
   header>div:first-child{padding-right:46px}
   #theme{position:absolute;top:0;right:0}
-  #svc{width:100%;justify-content:space-between}
-  #svc button{padding:6px 6px;font-size:13.5px}
+  /* five services: logo stacked over the name, equal columns, no sideways scroll */
+  #svc{width:100%;display:grid;grid-template-columns:1fr 1fr 1.5fr 1fr 1fr;gap:2px}
+  #svc button{flex-direction:column;justify-content:center;gap:4px;padding:7px 2px;font-size:12px;line-height:1.1;white-space:nowrap;min-width:0}
+  .svclogo{width:24px;height:24px}
 }
 @media (max-width:380px){
-  #svc button{padding:5px 4px;font-size:12.5px;gap:4px}
-  .svclogo{width:15px;height:15px}
-  #svc button{padding:6px 8px;gap:5px}
-  .svclogo{width:18px;height:18px}
+  #svc button{font-size:11px;padding:6px 1px}
+  .svclogo{width:22px;height:22px}
   header{gap:12px 10px}
   .tl .it{grid-template-columns:64px 1fr}
 }
@@ -237,12 +238,13 @@ h1{font-size:22px;margin:0;letter-spacing:-.01em}
 
 <script>
 // Data sources: each repo commits a status.json every run. Override for testing
-// with ?plex=<url>&samsung=<url>&pluto=<url>.
+// with ?plex=<url>&samsung=<url>&pluto=<url>&roku=<url>&prime=<url>.
 const P = new URLSearchParams(location.search);
 const SOURCES = [
   {key:"pluto",   label:"Pluto",       logo:"https://i.imgur.com/ViYQKds.png", url:P.get("pluto")   || "https://raw.githubusercontent.com/s-digweed/AltPluto/main/status.json"},
   {key:"plex",    label:"Plex",        logo:"https://i.imgur.com/E821cxa.png", url:P.get("plex")    || "https://raw.githubusercontent.com/s-digweed/PlexTV/main/status.json"},
   {key:"samsung", label:"Samsung TV+", logo:"https://i.imgur.com/wOslUfw.png", url:P.get("samsung") || "https://raw.githubusercontent.com/s-digweed/SamsungTVPlus/main/output/status.json"},
+  {key:"roku",    label:"Roku",        logo:"https://i.imgur.com/uUs1DCr.png", allFree:true, url:P.get("roku") || "https://raw.githubusercontent.com/s-digweed/Rockyou/main/status.json"},
   {key:"prime",   label:"Prime",       logo:"https://i.imgur.com/IByAyHW.png", guideOnly:true, url:P.get("prime") || "https://raw.githubusercontent.com/s-digweed/Pryme/main/status.json"},
 ];
 const ORDER = ["us","ca","gb","uk","au","nz","de","at","ch","fr","es","it","nl","se","no","dk","fi","is","mx","ar","br","cl","in","jp","kr"];
@@ -316,9 +318,13 @@ function idBox(c, d){
 
 // "good" = VPN-free (stream services) or has a guide (guide-only services like Prime)
 const isGood = st => st==="free" || st==="guide";
-const isBad  = st => st==="blocked" || st==="noguide";
-const LBL = () => (SOURCES.find(s=>s.key===state.svc)||{}).guideOnly
-  ? {good:"With guide", bad:"No listings", chip:"with guide"} : {good:"VPN-free", bad:"Needs VPN", chip:"VPN-free"};
+const isBad  = st => st==="blocked" || st==="noguide" || st==="kept";
+const SRC = () => SOURCES.find(s=>s.key===state.svc) || {};
+// Roku: every stream plays without a VPN (jmp2.uk), so the split that matters is
+// "in Roku's feed now" vs "kept through a gap" (dropped from the feed, held for 50 days)
+const LBL = () => SRC().guideOnly ? {good:"With guide", bad:"No listings", chip:"with guide"}
+  : SRC().allFree ? {good:"In Roku feed", bad:"Kept (off feed)", chip:"in feed"}
+  : {good:"VPN-free", bad:"Needs VPN", chip:"VPN-free"};
 function counts(rows){ let f=0,b=0,u=0; for(const c of rows){ isGood(c[4])?f++:isBad(c[4])?b++:u++; } return {f,b,u,t:rows.length}; }
 
 function renderSvc(){
@@ -367,6 +373,11 @@ function render(){
   const c = counts(entries), uniq = rows.length, L = LBL();
   $("flt").querySelector('[data-f="free"]').textContent = L.good;
   $("flt").querySelector('[data-f="blocked"]').textContent = L.bad;
+  // guide-only services (Prime): no VPN filter, every channel is the same kind
+  const guideOnly = !!(SOURCES.find(s=>s.key===state.svc)||{}).guideOnly;
+  $("flt").style.display = guideOnly ? "none" : "";
+  if (guideOnly && state.f !== "all"){ state.f = "all";
+    $("flt").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed", x.dataset.f==="all")); }
   const chg = d.changes.filter(x=>state.region==="all"||x.r===state.region);
   const pct = c.t ? Math.round(100*c.f/c.t) : 0;
   $("cards").innerHTML = `
@@ -398,7 +409,8 @@ function renderList(rows){
                           || String(c[0]).toLowerCase().includes(q));
   const d = cache[state.svc];
   if (!r.length){ $("list").innerHTML = `<div class="empty">No channels match.</div>`; return; }
-  const label = {free:"VPN-free", blocked:"Needs VPN", unknown:"Unknown", guide:"Guide only", noguide:"No listings"};
+  const label = {free:"VPN-free", blocked:"Needs VPN", unknown:"Unknown", guide:"Guide only", noguide:"No listings", kept:"Kept"};
+  const noPill = st => st==="guide" || (st==="free" && SRC().allFree);
   const isOpen = c => state.ids || state.open.has(c[0]);
   const html = r.slice(0, state.shown).map(c=>{
     const regs = Array.isArray(c[6]) ? c[6] : [c[6]];
@@ -408,7 +420,7 @@ function renderList(rows){
       <div style="min-width:0"><div class="nmrow"><div class="nm">${esc(c[1])}</div>
           <button class="idbtn" data-k="${esc(c[0])}" aria-expanded="${isOpen(c)}" title="tvg-id">${CHEV}TVG-ID</button></div>
         <div class="meta">${meta}</div>${isOpen(c) ? idBox(c, d) : ""}</div>
-      <span class="pill ${c[4]}">${label[c[4]]||c[4]}</span></div>`;
+      ${noPill(c[4]) ? "<span></span>" : `<span class="pill ${c[4]}">${label[c[4]]||c[4]}</span>`}</div>`;
   }).join("");
   const more = r.length > state.shown ? `<button class="more" id="more">Show more (${(r.length-state.shown).toLocaleString()} left)</button>` : "";
   $("list").innerHTML = html + more;
@@ -486,6 +498,7 @@ const GUIDE = {
   plex:    r => `${RAW}PlexTV/main/playlists/plex_${r}.xml.gz`,
   pluto:   r => `${RAW}AltPluto/main/output/pluto_${r}.xml.gz`,
   samsung: r => `${RAW}SamsungTVPlus/main/output/samsung_tvplus.xml`,     // one file, all countries
+  roku:    r => `${RAW}Rockyou/main/roku_epg.xml.gz`,                     // US only
   prime:   r => `${RAW}Pryme/main/amazon_epg.xml`,                        // US only
 };
 const guideCache = {};            // url -> Promise<Map(id -> [programmes])>
