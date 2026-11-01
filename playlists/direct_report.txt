@@ -1,7 +1,7 @@
-Plex VPN-free direct links  (2026-11-01 19:49 UTC)
+Plex VPN-free direct links  (2026-11-01 22:03 UTC)
 Channels checked: 1407   VPN-free: 703   Still Plex link (VPN needed): 704
 
-  direct (cached)              702
+  direct (cached)              703
   other host                   467
   amagi-guess-failed           214
   plex-404                     12
@@ -11,7 +11,6 @@ Channels checked: 1407   VPN-free: 703   Still Plex link (VPN needed): 704
   plex-400                     1
   plex-504                     1
   variant-401                  1
-  direct (new)                 1
 
 Non-Amagi video hosts (candidates for future support):
   live-content-cf.xumo.com                                     99
