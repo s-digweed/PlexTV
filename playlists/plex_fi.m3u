@@ -60,7 +60,7 @@ https://d35p4ep9ync6qx.cloudfront.net/c2d5e9fc60a0ef7389ac0a37241fda74/master.m3
 #EXTINF:-1 channel-id="plex-61aaa0cc784a2161d3caf7ff" tvg-id="61aaa0cc784a2161d3caf7ff" tvg-name="Classic Rock" tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="Music",Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-69b164bc87340e48b7b72247" tvg-id="69b164bc87340e48b7b72247" tvg-name="CNN Headlines International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6b66b76-8050-4cc8-9e61-1ab6cc2b0015/CNN_HeadlinesInternational_RED_wht_logo.png" group-title="News",CNN Headlines International
-https://amg00803-amg00803c1-amgplt0510.playout.now3.amagi.tv/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69b164bc87340e48b7b72247.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63f0ca427b78030ed9990309" tvg-id="63f0ca427b78030ed9990309" tvg-name="CombaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png" group-title="En Español",CombaTV
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-68e03f572cbc7a5d3189394c" tvg-id="68e03f572cbc7a5d3189394c" tvg-name="Come Dine With Me" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b20c2217-44e7-45da-aef4-aafcefefe0e6/CDWM_Logo_Colour_1500X1000.png" group-title="Food, Home & Culture",Come Dine With Me
@@ -80,7 +80,7 @@ https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6a2ebf30b6fce3105a23475c" tvg-id="6a2ebf30b6fce3105a23475c" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9bec7bcf-8791-4dd5-a213-c9970ab10c60/Crime_360_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",Crime 360
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6a2ebf30b6fce3105a23475c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69ac436be657bab5f7a9b7e1" tvg-id="69ac436be657bab5f7a9b7e1" tvg-name="Dance Moms" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9de17fb6-49cb-4824-8295-d05349523f45/Dance_Moms_Logo_STACKED_WHITE_RDX.png" group-title="Reality",Dance Moms
-https://amg26277-amg26277c3-plex-norway-11586.playouts.now.amagi.tv/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69ac436be657bab5f7a9b7e1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6674b68af04cf4bb9233c916" tvg-id="6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" group-title="Classics",Death Valley Days
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6674b68af04cf4bb9233c916.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67828ebf37cd7764c53489b3" tvg-id="67828ebf37cd7764c53489b3" tvg-name="DFB Play TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png" group-title="Sports",DFB Play TV
@@ -90,7 +90,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff
 #EXTINF:-1 channel-id="plex-614e286b2bac097ffd6fd6ab" tvg-id="614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png" group-title="Movies",Documentary+
 https://linear-859.frequency.stream/mt/plex-canada/859/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69ad8e034f342aa128c21ac2" tvg-id="69ad8e034f342aa128c21ac2" tvg-name="Dog The Bounty Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ee15133-da0d-43d0-97d7-494708e5fc1d/Dog_the_Bounty_Hunter_WHT_Logo_1500x1000RDX.png" group-title="Reality",Dog The Bounty Hunter
-https://amg26277-amg26277c13-plex-norway-11583.playouts.now.amagi.tv/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69ad8e034f342aa128c21ac2.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-652a8b001b5c74bc83cf727c" tvg-id="652a8b001b5c74bc83cf727c" tvg-name="Dog Whisperer" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png" group-title="Daytime TV & Games",Dog Whisperer
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652a8b001b5c74bc83cf727c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-635847d0d3a668f1cafc1f9d" tvg-id="635847d0d3a668f1cafc1f9d" tvg-name="Don't Tell The Bride" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd9af438-b087-47c9-bd15-d7900fffb640/Plex_LogoWhite_-_Simon_Tuquabo.png" group-title="Reality",Don't Tell The Bride
@@ -100,7 +100,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66e4cbef38de
 #EXTINF:-1 channel-id="plex-6924cf05174bfdb3edbe4ce7" tvg-id="6924cf05174bfdb3edbe4ce7" tvg-name="Dragons’ Den" tvg-logo="https://provider-static.plex.tv/epg/cms/production/348b4a9f-50e9-4b56-b87f-545d0fae472e/UK_FAST_Plex_DragonsDen_logo_dark.png" group-title="Bingeworthy",Dragons’ Den
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6924cf05174bfdb3edbe4ce7.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69ad85eb4f342aa128c21ab8" tvg-id="69ad85eb4f342aa128c21ab8" tvg-name="Duck Dynasty" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55437f96-0075-4f15-8e95-96c7ffec93c0/DuckDynasty-Channel-Logo-_Light_-1500x1000px.png" group-title="Reality",Duck Dynasty
-https://amg26277-amg26277c2-plex-norway-11585.playouts.now.amagi.tv/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69ad85eb4f342aa128c21ab8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6216723e2c2627c068e73ad4" tvg-id="6216723e2c2627c068e73ad4" tvg-name="Dungeon TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6927ff31-166c-4ab8-8703-c088ec16f768/DungeonTV_logo_dark.png" group-title="Global",Dungeon TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6216723e2c2627c068e73ad4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ee76b5271f393d2d9f709a" tvg-id="62ee76b5271f393d2d9f709a" tvg-name="Easy Listening" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9300cb7f-9eef-4e0f-b0d3-d7469da72cda/EASY_LISTENING.png" group-title="Music",Easy Listening
@@ -122,7 +122,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245f13093b4
 #EXTINF:-1 channel-id="plex-6245cd154f27f4e9c76d67e9" tvg-id="6245cd154f27f4e9c76d67e9" tvg-name="Euronews Portuguese" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76a8ddca-38be-4d5b-b8db-be69fcaa6231/Plex-WURL_Euronews-Logos_PT_-_astrid_collomb.png" group-title="News",Euronews Portuguese
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69ada3a2e657bab5f7a9b7ea" tvg-id="69ada3a2e657bab5f7a9b7ea" tvg-name="Evolution Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/830d8dd6-0503-4a45-9356-97d0114a6a58/Evolution_Earth_WHITE_Logo_RDX.png" group-title="Explore",Evolution Earth
-https://amg26277-amg26277c6-plex-norway-11587.playouts.now.amagi.tv/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69ada3a2e657bab5f7a9b7ea.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f170d62b898490041b4936e" tvg-id="5f170d62b898490041b4936e" tvg-name="FailArmy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png" group-title="Comedy",FailArmy
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-635195e9ccee3e1547a8831a" tvg-id="635195e9ccee3e1547a8831a" tvg-name="Farscape" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77115f01-d00a-4ef0-bb00-dcb3896e1c09/f5c7ee72e5a980b3ac2a31fd94e112e8.png" group-title="Adrenaline & Sci-Fi",Farscape
@@ -168,7 +168,7 @@ https://amogonetworx-grjngo-8-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a8786c4fa0d0293e2681b7c" tvg-id="6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png" group-title="Daytime TV & Games",GrowthDay Network
 https://linear-1130.frequency.stream/mt/plex/1130/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f8746eabd529300418246d9" tvg-id="5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food, Home & Culture",GUSTOTV
-https://gustoaaaa-gustous-plex-4p17q.amagi.tv/playlist/gustoAAAA-gustous-plex/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5fd115bdb7ef8d002dcf1820" tvg-id="5fd115bdb7ef8d002dcf1820" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Sports",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/121/variant/22099396/part.m3u8
 #EXTINF:-1 channel-id="plex-68dcb9f59beaa3a402966db8" tvg-id="68dcb9f59beaa3a402966db8" tvg-name="Hell's Kitchen" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dbfb2f5c-2f61-4bc6-a6ce-ba692926421f/HellsKitchen_Logo_White_1500X1000.png" group-title="Reality",Hell's Kitchen
@@ -198,7 +198,7 @@ https://amg02051-soulpublishing-amg02051c3-plex-us-694.playouts.now.amagi.tv/pla
 #EXTINF:-1 channel-id="plex-69011e71d320237a5a2d9f63" tvg-id="69011e71d320237a5a2d9f63" tvg-name="INTER 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png" group-title="Sports",INTER 24/7
 https://amg27604-amg27604c1-amgplt0021.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0021/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69ada0314ea850f6739321e1" tvg-id="69ada0314ea850f6739321e1" tvg-name="Intervention" tvg-logo="https://provider-static.plex.tv/epg/cms/production/447e8e98-4be3-4aa2-8711-13faf6277363/Intervention_COLOR_WIDE_Logo_RDX.png" group-title="Bingeworthy",Intervention
-https://amg26277-amg26277c5-plex-norway-11584.playouts.now.amagi.tv/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69ada0314ea850f6739321e1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-688d3402a6fe30698ab42007" tvg-id="688d3402a6fe30698ab42007" tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" group-title="En Español",ITV Deportes
 https://amg01602-amg01602c3-plex-us-9222.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-685f13f36c220c4e9e333a00" tvg-id="685f13f36c220c4e9e333a00" tvg-name="Jade Fever" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e795245a-359b-4d4f-a151-b2e71c0b35fd/jade_feverchannel_logo_1500x1000_light.png.png" group-title="Reality",Jade Fever
@@ -218,7 +218,7 @@ https://amg00735-amg00735c58-plex-international-11593.playouts.now.amagi.tv/play
 #EXTINF:-1 channel-id="plex-67c2496d45ae99120c071588" tvg-id="67c2496d45ae99120c071588" tvg-name="Life Down Under" tvg-logo="https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png" group-title="Food, Home & Culture",Life Down Under
 https://wtfn-lifedownunder-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69aed01e4f342aa128c21ac8" tvg-id="69aed01e4f342aa128c21ac8" tvg-name="Live PD Presents" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f99d129-7151-4015-bf35-7c18089749b5/Live_PD_Presents_Channel_Logo_All_White_RDX__1_.png" group-title="True Crime",Live PD Presents
-https://amg26277-amg26277c11-plex-norway-11588.playouts.now.amagi.tv/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69aed01e4f342aa128c21ac8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6196c9241d310bf925e02616" tvg-id="6196c9241d310bf925e02616" tvg-name="Lone Star" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png" group-title="Classics",Lone Star
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-682dfe1b47a628d2f56948ce" tvg-id="682dfe1b47a628d2f56948ce" tvg-name="Love Pets" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb94ec9f-1bdb-4f14-8a32-0048cca4fc88/PlexTV_LovePets_Logos-Primary-ForDarkBG_1500x1000_-_Rashmi_Palvannan.png" group-title="Explore",Love Pets
@@ -228,7 +228,7 @@ https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334
 #EXTINF:-1 channel-id="plex-60db63d29ec966002c9ea6f0" tvg-id="60db63d29ec966002c9ea6f0" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="Daytime TV & Games",Made In Hollywood
 https://connection3-ent-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-636abc6d4cbc0319a0bd49c0" tvg-id="636abc6d4cbc0319a0bd49c0" tvg-name="MagellanTV Wildest" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8837fdc0-308d-4a47-bf86-51573d626691/Plex_MGTVWildest_Logo_DarkBackground_.png" group-title="Explore",MagellanTV Wildest
-https://amg00376-magellan-amg00376c5-plex-international-1691.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-plexinternational/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636abc6d4cbc0319a0bd49c0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6aa9c4a3083227098739435b" tvg-id="6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png" group-title="Sports",Man City 24/7
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa9c4a3083227098739435b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69a529f77c245b3390e8a4de" tvg-id="69a529f77c245b3390e8a4de" tvg-name="Masha and the Bear" tvg-logo="https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png" group-title="Kids & Family",Masha and the Bear
@@ -316,7 +316,7 @@ https://lotus.stingray.com/manifest/qello-qello002-paris/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Music",Qwest TV
 https://plexaaaaa-qwest-jazz-plex-miu19.amagi.tv/playlist/plexAAAAA-qwest-jazz-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f90ebc726350a002d40b136" tvg-id="5f90ebc726350a002d40b136" tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Sports",RACER International
-https://amg00378-mavtv-amg00378c3-plex-us-1322.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-61a945156547ba4d6d238dc9" tvg-id="61a945156547ba4d6d238dc9" tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" group-title="Sports",Racing America
 https://linear-1129.frequency.stream/mt/plex/1129/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66bfb17c144c201b8b61c10d" tvg-id="66bfb17c144c201b8b61c10d" tvg-name="RCM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png" group-title="Movies",RCM
@@ -476,7 +476,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa72ea2fc71
 #EXTINF:-1 channel-id="plex-652875586425fdb1f32d2169" tvg-id="652875586425fdb1f32d2169" tvg-name="World Surf League 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png" group-title="Sports",World Surf League 24/7
 https://linear-627.frequency.stream/mt/plex/627/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69b98b89e88b7a11ad52910d" tvg-id="69b98b89e88b7a11ad52910d" tvg-name="Wrestling Legends TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1142cf6a-6701-41aa-878a-820bb19fcd9a/Wrestling_Legends_TV_channel_logo_4c_1500x1000RDX.png" group-title="Sports",Wrestling Legends TV
-https://amg26277-amg26277c1-plex-norway-11589.playouts.now.amagi.tv/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69b98b89e88b7a11ad52910d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-621670feab2095ca85353ad4" tvg-id="621670feab2095ca85353ad4" tvg-name="XFC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png" group-title="Sports",XFC TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ee72cc271f393d2d9f7098" tvg-id="62ee72cc271f393d2d9f7098" tvg-name="Y2K" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png" group-title="Music",Y2K

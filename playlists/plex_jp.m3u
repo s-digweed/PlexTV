@@ -114,7 +114,7 @@ https://amogonetworx-grjngo-8-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a8786c4fa0d0293e2681b7c" tvg-id="6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png" group-title="Daytime TV & Games",GrowthDay Network
 https://linear-1130.frequency.stream/mt/plex/1130/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f8746eabd529300418246d9" tvg-id="5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food, Home & Culture",GUSTOTV
-https://gustoaaaa-gustous-plex-4p17q.amagi.tv/playlist/gustoAAAA-gustous-plex/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5fd115bdb7ef8d002dcf1820" tvg-id="5fd115bdb7ef8d002dcf1820" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Sports",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/121/variant/22099396/part.m3u8
 #EXTINF:-1 channel-id="plex-62ee7ae2271f393d2d9f709e" tvg-id="62ee7ae2271f393d2d9f709e" tvg-name="Hip-Hop/R&B" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png" group-title="Music",Hip-Hop/R&B
@@ -218,7 +218,7 @@ https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Music",Qwest TV
 https://plexaaaaa-qwest-jazz-plex-miu19.amagi.tv/playlist/plexAAAAA-qwest-jazz-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f90ebc726350a002d40b136" tvg-id="5f90ebc726350a002d40b136" tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Sports",RACER International
-https://amg00378-mavtv-amg00378c3-plex-us-1322.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-61a945156547ba4d6d238dc9" tvg-id="61a945156547ba4d6d238dc9" tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" group-title="Sports",Racing America
 https://linear-1129.frequency.stream/mt/plex/1129/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66bfb17c144c201b8b61c10d" tvg-id="66bfb17c144c201b8b61c10d" tvg-name="RCM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png" group-title="Movies",RCM

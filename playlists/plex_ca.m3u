@@ -196,7 +196,7 @@ https://amg00276-amg00276c16-plex-ca-5581.playouts.now.amagi.tv/playlist/amg0027
 #EXTINF:-1 channel-id="plex-5fc70600598c41002da3dd19" tvg-id="5fc70600598c41002da3dd19" tvg-name="Dateline" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4edb090c44538616547b7a5eba9a264f.png" group-title="True Crime",Dateline
 https://plex-xumoent-ch1012-9xq36.fast.nbcuni.com/live/master_1.m3u8
 #EXTINF:-1 channel-id="plex-66855a2a714fe577eb7db920" tvg-id="66855a2a714fe577eb7db920" tvg-name="Deal Or No Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15f53c2f-081e-47a5-aa7d-5bcabc7ee8bd/DOND_Logo_Light_1500x1000_-_Harry_Marshall__1___1_.png" group-title="Daytime TV & Games",Deal Or No Deal
-https://amg00627-amg00627c22-plex-international-4145.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrowcc-plexinternational/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66855a2a714fe577eb7db920.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a56bff72ad9d298044c58f8" tvg-id="6a56bff72ad9d298044c58f8" tvg-name="Deal Or No Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/01fa9a7e-a969-4ac7-b092-afc565133345/DOND_Logo_blktextDark_1500x1000_-_Harry_Marshall__1_WHTTEXT.png" group-title="En Español",Deal Or No Deal
 https://amg00627-amg00627c57-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69b16e4187340e48b7b7224d" tvg-id="69b16e4187340e48b7b7224d" tvg-name="Deal Zone" tvg-logo="https://provider-static.plex.tv/epg/cms/production/33ed47ec-e328-4c0a-822e-f5e7991a8f13/DealZone_channel_logo_4c_1500x1000.png" group-title="Reality",Deal Zone
