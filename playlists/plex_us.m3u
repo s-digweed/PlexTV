@@ -50,7 +50,7 @@ https://linear-888.frequency.stream/mt/plex/888/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64d4ee537b323f6abbd19e59" tvg-id="64d4ee537b323f6abbd19e59" tvg-name="Aliwko" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e20f693c-bf2d-448e-884b-36ec8d382eb7/Aliwko_Plexlogo_1500x1000_-_Ali_Clausen_color.png" group-title="Global",Aliwko
 https://d35p4ep9ync6qx.cloudfront.net/63400fdf0df81ba0c225fdd2159dbae2/master.m3u8
 #EXTINF:-1 channel-id="plex-5fc705ff2f220e002d5e6bec" tvg-id="5fc705ff2f220e002d5e6bec" tvg-name="All Reality We TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png" group-title="Reality",All Reality We TV
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bec.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60de0520281b17002cd1d4c4" tvg-id="60de0520281b17002cd1d4c4" tvg-name="All Weddings We TV" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b170e1d41eabd27d6372fcc257813ff7.png" group-title="Reality",All Weddings We TV
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60de0520281b17002cd1d4c4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-628bb0eafcb403aa62d2317d" tvg-id="628bb0eafcb403aa62d2317d" tvg-name="ALLBLK Gems" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a77f4694-abfd-404f-9b6c-913c1f307cc6/allblkGEMS.png" group-title="Bingeworthy",ALLBLK Gems
@@ -722,7 +722,7 @@ https://linear-1217.frequency.stream/mt/plex/1217/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-689fb8470a486aeba3c7917e" tvg-id="689fb8470a486aeba3c7917e" tvg-name="MGM Presents: Westerns" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png" group-title="Movies",MGM Presents: Westerns
 https://linear-1148.frequency.stream/mt/plex/1148/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-611152a48f945c002c40021a" tvg-id="611152a48f945c002c40021a" tvg-name="MHz Mysteries" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1b8e6920-bf10-428e-b603-b2c7b2595857/Plex_MHzMysteries_Logo_White_1500x1000.png" group-title="Global",MHz Mysteries
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-611152a48f945c002c40021a.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mhz-samsung-linear-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-666e1c83d91d13cb4c8cbb71" tvg-id="666e1c83d91d13cb4c8cbb71" tvg-name="Mi Casa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png" group-title="En Español",Mi Casa
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-666e1c83d91d13cb4c8cbb71.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67f592e6c97eb27725c8855f" tvg-id="67f592e6c97eb27725c8855f" tvg-name="MI-5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1db7ca58-f6ab-4533-b342-969a37c960b4/SpooksMI5_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Bingeworthy",MI-5
