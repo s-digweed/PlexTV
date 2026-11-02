@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-11-02 06:04 UTC)
+Plex VPN-free direct links  (2026-11-02 10:59 UTC)
 Channels checked: 1407   VPN-free: 703   Still Plex link (VPN needed): 704
 
   direct (cached)              703
@@ -17,10 +17,10 @@ Non-Amagi video hosts (candidates for future support):
   live-content.cdn.xumo.com                                    46
   hls-beacons-us.xumo.com                                      14
   hls-beacons-eu.xumo.com                                      11
+  cfvod.kaltura.com                                            5
   content.galxy.tv                                             4
-  cfvod.kaltura.com                                            4
-  ov-static.otteravision.com                                   3
   o300801-mp-lura-live.fsy.nfl.com                             2
+  ov-static.otteravision.com                                   2
   9e2698fd.wurl.com                                            1
   67923b26.wurl.com                                            1
   ca888b2b.wurl.com                                            1
@@ -30,7 +30,6 @@ Non-Amagi video hosts (candidates for future support):
   99dd446e.wurl.com                                            1
   e8df38f7.wurl.com                                            1
   candlelightmedia-sparklightlove-1-us.plex.wurl.tv            1
-  afv-cij.otteravision.com                                     1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
@@ -51,6 +50,7 @@ Non-Amagi video hosts (candidates for future support):
   55d28294.wurl.com                                            1
   ed6ec5d8.wurl.com                                            1
   786f64b9.wurl.com                                            1
+  afv-cij.otteravision.com                                     1
   3846d2d6.wurl.com                                            1
   3e9247fa.wurl.com                                            1
 
@@ -83,13 +83,12 @@ Example segment URLs (for working out new patterns):
     Watch it SCREAM: https://content.galxy.tv/45eda93acff3401da9e5eda81d408b1d/a/D00000235.ts
     Dungeon TV: https://content.galxy.tv/bdd24b0ab2a649d984b98289f7563eed/a/D00000198.ts
     Watch it Kid: https://content.galxy.tv/c2fc69e201f345559584d00da06cf4da/a/D0000012B.ts
-  [ov-static.otteravision.com]
-    SKWAD: https://ov-static.otteravision.com/scte_v3/tg/267315/tg_ad_slate_267315_360/00000/tg_ad_slate_267315_360_00013.ts  || tried 403x15,vodx1
-    Camp Spoopy: https://ov-static.otteravision.com/scte_v3/tg/278881/tg_ad_slate_278881_480/00000/tg_ad_slate_278881_480_00020.ts  || tried 403x15,vodx1
-    Mega Machines: https://ov-static.otteravision.com/scte_v3/mmc/19/mmc_ad_slate_19_720_high/00000/mmc_ad_slate_19_720_high_00019.ts  || tried 403x15,vodx1
   [o300801-mp-lura-live.fsy.nfl.com]
     NFL Channel: https://o300801-mp-lura-live.fsy.nfl.com/live/ephemeral/aV6qRMoj01gysw3sKomhM3VvbLkpEAG2/nfldigital1_plex/3128k/Cz2tJehGhdv/179444/segment_179444663.ts?token=1793543131_b7545a445a69d20684cdbd9b25abc442e5d6c3f1  || tried 403x16
     NFL Channel: https://o300801-mp-lura-live.fsy.nfl.com/live/ephemeral/OXv89aVdX9DrsQVs6m8fE8kX0lmZB351/dc1_intl_main_plex_intl/968k/5L71sdr9bsE/179456/segment_179456331.ts?token=1793543412_7d9c7320ccd55c9e9effc81576b02c461c40ff4b  || tried 403x16
+  [ov-static.otteravision.com]
+    SKWAD: https://ov-static.otteravision.com/scte_v3/tg/267315/tg_ad_slate_267315_360/00000/tg_ad_slate_267315_360_00013.ts  || tried 403x15,vodx1
+    Camp Spoopy: https://ov-static.otteravision.com/scte_v3/tg/278881/tg_ad_slate_278881_480/00000/tg_ad_slate_278881_480_00020.ts  || tried 403x15,vodx1
   [22472f78.wurl.com]
     The Pet Collective: https://22472f78.wurl.com/dist/wurl/174/hls/master/playlist_1280x720_132816__447608.ts  || tried 403x16
   [224a4259.wurl.com]
