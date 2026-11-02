@@ -196,7 +196,7 @@ https://amg00276-amg00276c16-plex-ca-5581.playouts.now.amagi.tv/playlist/amg0027
 #EXTINF:-1 channel-id="plex-5fc70600598c41002da3dd19" tvg-id="5fc70600598c41002da3dd19" tvg-name="Dateline" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4edb090c44538616547b7a5eba9a264f.png" group-title="True Crime",Dateline
 https://plex-xumoent-ch1012-9xq36.fast.nbcuni.com/live/master_1.m3u8
 #EXTINF:-1 channel-id="plex-66855a2a714fe577eb7db920" tvg-id="66855a2a714fe577eb7db920" tvg-name="Deal Or No Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15f53c2f-081e-47a5-aa7d-5bcabc7ee8bd/DOND_Logo_Light_1500x1000_-_Harry_Marshall__1___1_.png" group-title="Daytime TV & Games",Deal Or No Deal
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66855a2a714fe577eb7db920.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg00627-amg00627c22-plex-international-4145.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrowcc-plexinternational/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a56bff72ad9d298044c58f8" tvg-id="6a56bff72ad9d298044c58f8" tvg-name="Deal Or No Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/01fa9a7e-a969-4ac7-b092-afc565133345/DOND_Logo_blktextDark_1500x1000_-_Harry_Marshall__1_WHTTEXT.png" group-title="En Español",Deal Or No Deal
 https://amg00627-amg00627c57-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69b16e4187340e48b7b7224d" tvg-id="69b16e4187340e48b7b7224d" tvg-name="Deal Zone" tvg-logo="https://provider-static.plex.tv/epg/cms/production/33ed47ec-e328-4c0a-822e-f5e7991a8f13/DealZone_channel_logo_4c_1500x1000.png" group-title="Reality",Deal Zone
@@ -337,6 +337,8 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-68645d7719cc
 https://amg00163-amg00163c19-amgplt0020.playout.now3.amagi.tv/playlist/amg00163-amg00163c19-amgplt0020/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Food, Home & Culture",Great British Menu
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Music",Greatest Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Classics",Grjngo - Western Movies
 https://amogonetworx-grjngo-8-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a8786c4fa0d0293e2681b7c" tvg-id="6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png" group-title="Daytime TV & Games",GrowthDay Network
@@ -663,9 +665,7 @@ https://linear-770.frequency.stream/mt/plex/770/hls/master/playlist.m3u8
 https://d35p4ep9ync6qx.cloudfront.net/e7403e7d9913fd828b1602fa7cef6902/master.m3u8
 #EXTINF:-1 channel-id="plex-62fc0150c67d52bddf74cc89" tvg-id="62fc0150c67d52bddf74cc89" tvg-name="Stingray DJAZZ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dfc07c-0399-4e64-b0f5-e2617d410896/Stingray_DJazz_artwork_horizontal_Logo.png" group-title="Music",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/plextv/master.m3u8
-#EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Stingray Greatest Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png" group-title="Music",Stingray Greatest Hits
-https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
-#EXTINF:-1 channel-id="plex-654eb862dde2222e8ba551f1" tvg-id="654eb862dde2222e8ba551f1" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" group-title="Explore",Stingray Holidayscapes
+#EXTINF:-1 channel-id="plex-654eb862dde2222e8ba551f1" tvg-id="654eb862dde2222e8ba551f1" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png" group-title="Explore",Stingray Holidayscapes
 https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-61aa9e73784a2161d3caf7f9" tvg-id="61aa9e73784a2161d3caf7f9" tvg-name="Stingray Hot Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/21cb88d9-8ca5-4a3c-b8dc-ca5b42ed351d/13212_SM_Plex_Logos_Hot-Country_1500x1000_V01-white_-_Olivia_bronfman.png" group-title="Music",Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/plextv/master.m3u8

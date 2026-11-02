@@ -56,7 +56,7 @@ https://mul-cea.otteravision.com/mul/cea/cea_720.m3u8
 #EXTINF:-1 channel-id="plex-6164a963766ab4f9f57e81b1" tvg-id="6164a963766ab4f9f57e81b1" tvg-name="Camp Spoopy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png" group-title="Kids & Family",Camp Spoopy
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6164a963766ab4f9f57e81b1.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64fba469bb3e0baa5dcc0947" tvg-id="64fba469bb3e0baa5dcc0947" tvg-name="Canela.TV Clásicos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b35a0b8-05da-4dcb-ab8d-4155a92274eb/CM-Plex-dark_logo-CanelaTV-clasicos_-_Natalia_Rodriguez.png" group-title="En Español",Canela.TV Clásicos
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-64fba469bb3e0baa5dcc0947.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg00658-amg00658c9-plex-us-7376.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-693cbba358076a970420f597" tvg-id="693cbba358076a970420f597" tvg-name="Cesar's Pack Leader TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e24d3a4c-4948-4155-82c5-b7eec0fa50b8/Cesar_Logo_Transparent_WHTRDX.png" group-title="Explore",Cesar's Pack Leader TV
 https://d62c5a25.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-65623e0eb7d737841f30a4ff" tvg-id="65623e0eb7d737841f30a4ff" tvg-name="Cheaters en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0328822-b149-4524-ad89-1c87c2543268/FilmRise_CheatersEnEspanol_Logo_ColorRDX.png" group-title="En Español",Cheaters en Español
@@ -163,6 +163,8 @@ https://plx-gatsa.otteravision.com/plx/gatsa/gatsa_720p.m3u8
 https://glewedtv-4-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63f914bffe2c3d32e1a7929f" tvg-id="63f914bffe2c3d32e1a7929f" tvg-name="GLORY Kickboxing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png" group-title="Sports",GLORY Kickboxing
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63f914bffe2c3d32e1a7929f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Music",Greatest Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489bc190b96ef5e0eb327c" tvg-id="63489bc190b96ef5e0eb327c" tvg-name="Grjngo - Filmes De Faroeste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba5078a6-99eb-4e02-a473-bd6d0b02f34d/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Classics",Grjngo - Filmes De Faroeste
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63489eff90b96ef5e0eb3282" tvg-id="63489eff90b96ef5e0eb3282" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="En Español",Grjngo - Películas Del Oeste
@@ -170,7 +172,7 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489eff90b9
 #EXTINF:-1 channel-id="plex-6a8786c4fa0d0293e2681b7c" tvg-id="6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png" group-title="Daytime TV & Games",GrowthDay Network
 https://linear-1130.frequency.stream/mt/plex/1130/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f8746eabd529300418246d9" tvg-id="5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food, Home & Culture",GUSTOTV
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5f8746eabd529300418246d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://gustoaaaa-gustous-plex-4p17q.amagi.tv/playlist/gustoAAAA-gustous-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5fd115bdb7ef8d002dcf1820" tvg-id="5fd115bdb7ef8d002dcf1820" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Sports",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/121/variant/22099396/part.m3u8
 #EXTINF:-1 channel-id="plex-68111f57e57481a3c2d16dd0" tvg-id="68111f57e57481a3c2d16dd0" tvg-name="Hardcore Pawn" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f70be38-a6bf-45af-9b7d-ccd47e9dcdad/HardcorePawn_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Reality",Hardcore Pawn
@@ -224,13 +226,13 @@ https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334
 #EXTINF:-1 channel-id="plex-60db63d29ec966002c9ea6f0" tvg-id="60db63d29ec966002c9ea6f0" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="Daytime TV & Games",Made In Hollywood
 https://connection3-ent-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-636abc6d4cbc0319a0bd49c0" tvg-id="636abc6d4cbc0319a0bd49c0" tvg-name="MagellanTV Wildest" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8837fdc0-308d-4a47-bf86-51573d626691/Plex_MGTVWildest_Logo_DarkBackground_.png" group-title="Explore",MagellanTV Wildest
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-636abc6d4cbc0319a0bd49c0.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg00376-magellan-amg00376c5-plex-international-1691.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-plexinternational/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6aa9c4a3083227098739435b" tvg-id="6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png" group-title="Sports",Man City 24/7
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6aa9c4a3083227098739435b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69a526053eb39481c7edd563" tvg-id="69a526053eb39481c7edd563" tvg-name="Masha y el Oso" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a856935d-e422-4826-8ac0-161deb7bc0ad/masha_oso_color.png" group-title="Kids & Family",Masha y el Oso
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-69a526053eb39481c7edd563.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65722042b10e9d22a882bde2" tvg-id="65722042b10e9d22a882bde2" tvg-name="MasterChef Brasil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bfd690a-da86-490b-9904-3645af64862d/MasterchefBrazil_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Bingeworthy",MasterChef Brasil
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5ef4e1b40d9ad000423c4430" tvg-id="5ef4e1b40d9ad000423c4430" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Movies",Maverick Black Cinema
 https://maverick-maverick-black-cinema-2-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68e9436dda6bb987138625c7" tvg-id="68e9436dda6bb987138625c7" tvg-name="Metal.Rocks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png" group-title="Music",Metal.Rocks
@@ -252,11 +254,11 @@ https://bec-moreu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-65d90ec99c7a6da8c3ce57eb" tvg-id="65d90ec99c7a6da8c3ce57eb" tvg-name="Movieitaly Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png" group-title="Global",Movieitaly Channel
 https://d35p4ep9ync6qx.cloudfront.net/d89e61c72d4a3f23718a948cefb583ad/master.m3u8
 #EXTINF:-1 channel-id="plex-6623c836ed4918437ed56ec2" tvg-id="6623c836ed4918437ed56ec2" tvg-name="MOVIESPHERE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/34c4ea86-690b-49dd-9056-7d2d02de645a/MovieSphere_Intl_Logo_Color_STACKRDX.png" group-title="Movies",MOVIESPHERE
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6623c836ed4918437ed56ec2.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66a9367b99bb0f3a78c0a32b" tvg-id="66a9367b99bb0f3a78c0a32b" tvg-name="Mr. Bean" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fff519bb-d875-445f-8b63-9739e96f5762/MrBean_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Comedy",Mr. Bean
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68111e72e57481a3c2d16dce" tvg-id="68111e72e57481a3c2d16dce" tvg-name="Mr. Bean Live Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f9de9d1-9ffa-484e-9cd3-700e5c554770/MrBeanLiveAction_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Comedy",Mr. Bean Live Action
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68111e72e57481a3c2d16dce.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg00627-banijay-amg00627c48-plex-us-8097.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupbr-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-656237c55dbccec83a87b649" tvg-id="656237c55dbccec83a87b649" tvg-name="Mutant X" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png" group-title="Bingeworthy",Mutant X
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-656237c55dbccec83a87b649.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-650b5bb3f4b2d9579946a500" tvg-id="650b5bb3f4b2d9579946a500" tvg-name="Mythical 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png" group-title="Comedy",Mythical 24/7
@@ -266,7 +268,7 @@ https://amg00500-studiocitypictu-mytimemovientbr-plex-ll9q3.amagi.tv/playlist/am
 #EXTINF:-1 channel-id="plex-666e2178d91d13cb4c8cbb75" tvg-id="666e2178d91d13cb4c8cbb75" tvg-name="Naturaleza" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png" group-title="En Español",Naturaleza
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-666e2178d91d13cb4c8cbb75.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69a524507c245b3390e8a4dc" tvg-id="69a524507c245b3390e8a4dc" tvg-name="Nature Moments" tvg-logo="https://provider-static.plex.tv/epg/cms/production/329d0ebe-0fba-4165-b92a-2bf8dfe3d722/Nature_moments_WHT.png" group-title="Explore",Nature Moments
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-69a524507c245b3390e8a4dc.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg01576-amg01576c2-plex-us-11428.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6970fb0da9bfa146ce34e432" tvg-id="6970fb0da9bfa146ce34e432" tvg-name="Nature Time" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e58b7ec5-a393-47ee-a989-c12c306ef3d3/NATURE_TIMEWHITE_LOGO__1_.png" group-title="Explore",Nature Time
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6970fb0da9bfa146ce34e432.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68b9f5a3d60e5dd29263c7ac" tvg-id="68b9f5a3d60e5dd29263c7ac" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png" group-title="Global",NEW KFOOD
@@ -330,9 +332,9 @@ https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Music",Qwest TV
 https://plexaaaaa-qwest-jazz-plex-miu19.amagi.tv/playlist/plexAAAAA-qwest-jazz-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a6a84e17c207c80661b6c20" tvg-id="6a6a84e17c207c80661b6c20" tvg-name="Racer Brasil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c1621cda-aa86-42f3-aebf-c4452f4f9881/Racer_Brazil_WhiteREAL.png" group-title="Sports",Racer Brasil
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6a6a84e17c207c80661b6c20.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg16379-amg16379c1-amgplt0778.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f90ebc726350a002d40b136" tvg-id="5f90ebc726350a002d40b136" tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Sports",RACER International
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5f90ebc726350a002d40b136.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg00378-mavtv-amg00378c3-plex-us-1322.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61a945156547ba4d6d238dc9" tvg-id="61a945156547ba4d6d238dc9" tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" group-title="Sports",Racing America
 https://linear-1129.frequency.stream/mt/plex/1129/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66bfb17c144c201b8b61c10d" tvg-id="66bfb17c144c201b8b61c10d" tvg-name="RCM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png" group-title="Movies",RCM
@@ -378,7 +380,7 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-639b8d803f4612cc150a5721" tvg-id="639b8d803f4612cc150a5721" tvg-name="Smurf TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png" group-title="Kids & Family",Smurf TV
 https://imps-smrfe.otteravision.com/imps/smrfe/smrfe_720.m3u8
 #EXTINF:-1 channel-id="plex-6a10aa4acd23e9639dc7e94c" tvg-id="6a10aa4acd23e9639dc7e94c" tvg-name="Sobrevivi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3f7edee3-3695-48d6-8567-8868ed8f53e5/Sobrevivi_Logo_Light_1500x1000_WHITE-_Harry_Marshall.png" group-title="Explore",Sobrevivi
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6a10aa4acd23e9639dc7e94c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg00627-amg00627c75-amgplt0778.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Kids & Family",Sonic TV
 https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
 #EXTINF:-1 channel-id="plex-6623c114ed4918437ed56ebc" tvg-id="6623c114ed4918437ed56ebc" tvg-name="Spark TV Luz y Amor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b81e53f3-70c7-40d2-872a-59b27adb750b/Plex_SparkTV_key-art_Spanish-RDX.png" group-title="Movies",Spark TV Luz y Amor
@@ -389,9 +391,7 @@ https://linear-1683.frequency.stream/mt/plex/1683/hls/master/playlist.m3u8
 https://plexaaaaa-sportsgrid-plex-1xnmu.amagi.tv/playlist/plexAAAAA-sportsgrid-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-664292a80e0ec7b4ce5eb28c" tvg-id="664292a80e0ec7b4ce5eb28c" tvg-name="Startalk TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="Explore",Startalk TV
 https://linear-770.frequency.stream/mt/plex/770/hls/master/playlist.m3u8
-#EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Stingray Greatest Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png" group-title="Music",Stingray Greatest Hits
-https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
-#EXTINF:-1 channel-id="plex-654eb862dde2222e8ba551f1" tvg-id="654eb862dde2222e8ba551f1" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" group-title="Explore",Stingray Holidayscapes
+#EXTINF:-1 channel-id="plex-654eb862dde2222e8ba551f1" tvg-id="654eb862dde2222e8ba551f1" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png" group-title="Explore",Stingray Holidayscapes
 https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-61aa9e73784a2161d3caf7f9" tvg-id="61aa9e73784a2161d3caf7f9" tvg-name="Stingray Hot Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/21cb88d9-8ca5-4a3c-b8dc-ca5b42ed351d/13212_SM_Plex_Logos_Hot-Country_1500x1000_V01-white_-_Olivia_bronfman.png" group-title="Music",Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/plextv/master.m3u8
@@ -410,7 +410,7 @@ https://linear-149.frequency.stream/mt/plex/149/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a9512a7f534d4312a699c22" tvg-id="6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png" group-title="Sports",SWAC TV
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6a9512a7f534d4312a699c22.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65cd522126388de8e0b08271" tvg-id="65cd522126388de8e0b08271" tvg-name="Tastemade" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c876ca14-4dff-4354-a89d-3be2c2485cc7/LogosPLEX_FLAGSHIP_1500X1000_ForDarkBackground.png" group-title="Food, Home & Culture",Tastemade
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65cd522126388de8e0b08271.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-688cf47e324d7b6bc116198d" tvg-id="688cf47e324d7b6bc116198d" tvg-name="Teleonce America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af7d82cf-f17f-40b5-b086-ed6a61c17d2e/logo_Teleonce_AmericaRDX_COLOR.png" group-title="En Español",Teleonce America
 https://amg27206-amg27206c1-amgplt0020.playout.now3.amagi.tv/playlist/amg27206-amg27206c1-amgplt0020/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a90b2b5c0870218305e909b" tvg-id="6a90b2b5c0870218305e909b" tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png" group-title="Sports",Tennis TV
