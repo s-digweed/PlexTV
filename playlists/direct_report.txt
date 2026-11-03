@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-11-03 10:49 UTC)
+Plex VPN-free direct links  (2026-11-03 14:16 UTC)
 Channels checked: 1407   VPN-free: 860   Still Plex link (VPN needed): 547
 
   direct (cached)              860
@@ -17,9 +17,10 @@ Non-Amagi video hosts (candidates for future support):
   live-content.cdn.xumo.com                                    41
   hls-beacons-us.xumo.com                                      18
   hls-beacons-eu.xumo.com                                      16
-  cfvod.kaltura.com                                            6
+  cfvod.kaltura.com                                            5
   content.galxy.tv                                             4
   o300801-mp-lura-live.akamaized.net                           2
+  ov-static.otteravision.com                                   2
   9e2698fd.wurl.com                                            1
   67923b26.wurl.com                                            1
   ca888b2b.wurl.com                                            1
@@ -29,7 +30,6 @@ Non-Amagi video hosts (candidates for future support):
   99dd446e.wurl.com                                            1
   e8df38f7.wurl.com                                            1
   candlelightmedia-sparklightlove-1-us.plex.wurl.tv            1
-  afv-cij.otteravision.com                                     1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
@@ -52,7 +52,7 @@ Non-Amagi video hosts (candidates for future support):
   786f64b9.wurl.com                                            1
   3846d2d6.wurl.com                                            1
   3e9247fa.wurl.com                                            1
-  rightsboosterltd-scl-1-eu.plex.wurl.tv                       1
+  afv-cij.otteravision.com                                     1
 
 Example segment URLs (for working out new patterns):
   [live-content-cf.xumo.com]
@@ -86,6 +86,9 @@ Example segment URLs (for working out new patterns):
   [o300801-mp-lura-live.akamaized.net]
     NFL Channel: https://o300801-mp-lura-live.akamaized.net/live/ephemeral/aV6qRMoj01gysw3sKomhM3VvbLkpEAG2/nfldigital1_plex/3128k/Cz2tJehGhdv/179460/segment_179460717.ts?hdntl=exp=1793638374~acl=/*~hmac=a178924c661e48df95ec2400c412fc56efddbd0a91e3dd2ac0af2b9b0bc46b0  || tried 404x16
     NFL Channel: https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4Z9nGq8j6ED7UWRs23QIO50bylw1za3X/dc1_intl_2_plex_intl/3128k/NywNjmZQva0/179472/segment_179472731.ts?hdntl=exp=1793638845~acl=/*~hmac=a992048fe87fd57c9fe3477b91305103fae6dc68bf510d5b033a58e6991  || tried 404x16
+  [ov-static.otteravision.com]
+    SKWAD: https://ov-static.otteravision.com/scte_v3/tg/267315/tg_ad_slate_267315_480/00000/tg_ad_slate_267315_480_00008.ts  || tried 403x15,vodx1
+    Mega Machines: https://ov-static.otteravision.com/scte_v3/mmc/19/mmc_ad_slate_19_720_high/00000/mmc_ad_slate_19_720_high_00005.ts  || tried 403x15,vodx1
   [22472f78.wurl.com]
     The Pet Collective: https://22472f78.wurl.com/dist/wurl/174/hls/master/playlist_1280x720_155527__464072.ts  || tried 403x16
   [224a4259.wurl.com]
@@ -98,5 +101,3 @@ Example segment URLs (for working out new patterns):
     UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261102T155534_292656.ts  || tried 403x5
   [23e952ae.wurl.com]
     Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261101T220220_281268.ts  || tried 403x5
-  [2473296b.wurl.com]
-    FIFA+: https://2473296b.wurl.com/ppc-sysdata_s_p_a_fifa_8-UTC-wfo-0-ef71a23b/playlist_192k_20261102T155906_277054.ts  || tried 403x5
