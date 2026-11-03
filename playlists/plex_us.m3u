@@ -52,7 +52,7 @@ https://d35p4ep9ync6qx.cloudfront.net/63400fdf0df81ba0c225fdd2159dbae2/master.m3
 #EXTINF:-1 channel-id="plex-5fc705ff2f220e002d5e6bec" tvg-id="5fc705ff2f220e002d5e6bec" tvg-name="All Reality We TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png" group-title="Reality",All Reality We TV
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60de0520281b17002cd1d4c4" tvg-id="60de0520281b17002cd1d4c4" tvg-name="All Weddings We TV" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b170e1d41eabd27d6372fcc257813ff7.png" group-title="Reality",All Weddings We TV
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60de0520281b17002cd1d4c4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amc-allweddings-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-628bb0eafcb403aa62d2317d" tvg-id="628bb0eafcb403aa62d2317d" tvg-name="ALLBLK Gems" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a77f4694-abfd-404f-9b6c-913c1f307cc6/allblkGEMS.png" group-title="Bingeworthy",ALLBLK Gems
 https://amc-allblk-gems-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Music",Alternative

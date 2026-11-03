@@ -24,7 +24,7 @@ https://alt-al.otteravision.com/alt/al/al_720p.m3u8
 #EXTINF:-1 channel-id="plex-64d4ee537b323f6abbd19e59" tvg-id="64d4ee537b323f6abbd19e59" tvg-name="Aliwko" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e20f693c-bf2d-448e-884b-36ec8d382eb7/Aliwko_Plexlogo_1500x1000_-_Ali_Clausen_color.png" group-title="Global",Aliwko
 https://d35p4ep9ync6qx.cloudfront.net/63400fdf0df81ba0c225fdd2159dbae2/master.m3u8
 #EXTINF:-1 channel-id="plex-697144cdbde579fb71262405" tvg-id="697144cdbde579fb71262405" tvg-name="All My Children" tvg-logo="https://provider-static.plex.tv/epg/cms/production/48d74976-a600-4cf5-8fd7-cbda6aa92348/AMC_channel_logo_1500x1000_WHT_TEXT_Brian_MartinRDX.png" group-title="Daytime TV & Games",All My Children
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-697144cdbde579fb71262405.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://coastline-partners-allmychildren-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a2063fe51e93d77d9a65e44" tvg-id="6a2063fe51e93d77d9a65e44" tvg-name="All Reality We TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/001158af-973c-41ad-9c40-fa3aed48298d/AR_Rebrand_TT_Stacked_RDXColor.png" group-title="Reality",All Reality We TV
 https://amg00794-amg00794c4-amgplt0291.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Music",Alternative

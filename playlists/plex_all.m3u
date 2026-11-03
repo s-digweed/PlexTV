@@ -52,7 +52,7 @@ https://d35p4ep9ync6qx.cloudfront.net/63400fdf0df81ba0c225fdd2159dbae2/master.m3
 #EXTINF:-1 channel-id="plex-5fc705ff2f220e002d5e6bec-us" tvg-id="5fc705ff2f220e002d5e6bec" tvg-name="All Reality We TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png" group-title="United States",All Reality We TV
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60de0520281b17002cd1d4c4-us" tvg-id="60de0520281b17002cd1d4c4" tvg-name="All Weddings We TV" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b170e1d41eabd27d6372fcc257813ff7.png" group-title="United States",All Weddings We TV
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60de0520281b17002cd1d4c4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amc-allweddings-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-628bb0eafcb403aa62d2317d-us" tvg-id="628bb0eafcb403aa62d2317d" tvg-name="ALLBLK Gems" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a77f4694-abfd-404f-9b6c-913c1f307cc6/allblkGEMS.png" group-title="United States",ALLBLK Gems
 https://amc-allblk-gems-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498-us" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="United States",Alternative
@@ -1410,7 +1410,7 @@ https://alt-al.otteravision.com/alt/al/al_720p.m3u8
 #EXTINF:-1 channel-id="plex-64d4ee537b323f6abbd19e59-ca" tvg-id="64d4ee537b323f6abbd19e59" tvg-name="Aliwko" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e20f693c-bf2d-448e-884b-36ec8d382eb7/Aliwko_Plexlogo_1500x1000_-_Ali_Clausen_color.png" group-title="Canada",Aliwko
 https://d35p4ep9ync6qx.cloudfront.net/63400fdf0df81ba0c225fdd2159dbae2/master.m3u8
 #EXTINF:-1 channel-id="plex-697144cdbde579fb71262405-ca" tvg-id="697144cdbde579fb71262405" tvg-name="All My Children" tvg-logo="https://provider-static.plex.tv/epg/cms/production/48d74976-a600-4cf5-8fd7-cbda6aa92348/AMC_channel_logo_1500x1000_WHT_TEXT_Brian_MartinRDX.png" group-title="Canada",All My Children
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-697144cdbde579fb71262405.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://coastline-partners-allmychildren-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a2063fe51e93d77d9a65e44-ca" tvg-id="6a2063fe51e93d77d9a65e44" tvg-name="All Reality We TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/001158af-973c-41ad-9c40-fa3aed48298d/AR_Rebrand_TT_Stacked_RDXColor.png" group-title="Canada",All Reality We TV
 https://amg00794-amg00794c4-amgplt0291.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498-ca" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Canada",Alternative
@@ -7900,7 +7900,7 @@ https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076
 #EXTINF:-1 channel-id="plex-69d6d88b1790acff6189dea5-se" tvg-id="69d6d88b1790acff6189dea5" tvg-name="AddictaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png" group-title="Sweden",AddictaTV
 https://6bc89793.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-680ad327ea62ac6a05a626e4-se" tvg-id="680ad327ea62ac6a05a626e4" tvg-name="Adventure Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/826d4b10-c8de-412f-ab3e-c3e064687bd7/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman__1_.png" group-title="Sweden",Adventure Earth
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-680ad327ea62ac6a05a626e4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://autentic-adventure-earth-1-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c-se" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Sweden",AfroLandTV
 https://alt-al.otteravision.com/alt/al/al_720p.m3u8
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498-se" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Sweden",Alternative
