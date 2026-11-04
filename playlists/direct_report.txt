@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-11-04 10:52 UTC)
+Plex VPN-free direct links  (2026-11-04 17:17 UTC)
 Channels checked: 1407   VPN-free: 863   Still Plex link (VPN needed): 544
 
   direct (cached)              863
@@ -16,13 +16,12 @@ Non-Amagi video hosts (candidates for future support):
   live-content-cf.xumo.com                                     96
   live-content.cdn.xumo.com                                    51
   hls-beacons-us.xumo.com                                      17
+  cfvod.kaltura.com                                            6
   hls-beacons-eu.xumo.com                                      6
-  cfvod.kaltura.com                                            5
   content.galxy.tv                                             4
   o300801-mp-lura-live.akamaized.net                           2
-  ov-static.otteravision.com                                   2
-  9e2698fd.wurl.com                                            1
   67923b26.wurl.com                                            1
+  9e2698fd.wurl.com                                            1
   ca888b2b.wurl.com                                            1
   fa942f77.wurl.com                                            1
   all3media-midsomer-1-us.plex.wurl.tv                         1
@@ -30,7 +29,6 @@ Non-Amagi video hosts (candidates for future support):
   99dd446e.wurl.com                                            1
   e8df38f7.wurl.com                                            1
   candlelightmedia-sparklightlove-1-us.plex.wurl.tv            1
-  afv-cij.otteravision.com                                     1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
@@ -53,6 +51,8 @@ Non-Amagi video hosts (candidates for future support):
   786f64b9.wurl.com                                            1
   3846d2d6.wurl.com                                            1
   3e9247fa.wurl.com                                            1
+  rightsboosterltd-scl-1-eu.plex.wurl.tv                       1
+  9f7ff994.wurl.com                                            1
 
 Example segment URLs (for working out new patterns):
   [live-content-cf.xumo.com]
@@ -71,14 +71,14 @@ Example segment URLs (for working out new patterns):
     FilmRise Sci-Fi: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM0DG8AXI6PVS3%2F24934678%2F0_470.ts&aid=XM0DG8AXI6PVS3&eventType=ASSET&cid=88889314&did=19618a58832f4833&playId=1793739964626&eventSubType=playInterval&pid=260
     FilmRise Anime: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F197%2Fcontent%2FXM0JS4RFU3TCF5%2F26768314%2F0_141.ts&aid=XM0JS4RFU3TCF5&eventType=ASSET&cid=88889303&did=19618a58832f4833&playId=1793739836966&eventSubType=playInterval&pid=197
     FilmRise Canadien: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F1082%2Fcontent%2FXM0G5KJNRYIAEY%2F27275854%2Fsplit_202411061344%2F0_247_a.ts&aid=XM0G5KJNRYIAEY&eventType=ASSET&cid=88889322&did=0cd709930e754fdf&playId=1793739752551&eventSubType=playEnded&pid=1082
-  [hls-beacons-eu.xumo.com]
-    Beyond Belief: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2070%2Fcontent%2FXM0L92AVCJS41E%2F24106680%2F0_054.ts&aid=XM0L92AVCJS41E&eventType=ASSET&cid=88889334&did=19618a58832f4833&playId=1793740160000&eventSubType=playInterval&pid=2070
-    FilmRise Free Series: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2071%2Fcontent%2FXM07U7U23NNC8B%2F24911338%2F0_246.ts&aid=XM07U7U23NNC8B&eventType=ASSET&cid=88889351&did=19618a58832f4833&playId=1793739902669&eventSubType=playEnded&pid=2071
-    Un Si Grand Soleil: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F1082%2Fcontent%2FXM0QOYU1YZN6ZI%2F27722825%2F0_012.ts&aid=XM0QOYU1YZN6ZI&eventType=ASSET&cid=88889485&did=19618a58832f4833&playId=1793740162000&eventSubType=playInterval&pid=1082
   [cfvod.kaltura.com]
     SKWAD: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/0_v9sbwtmp/v/2/pv/1/ev/12/flavorId/0_s35qdik1/name/a.mp4/index.m3u8/clipFrom/360000/seg-32-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzBfdjlzYnd0bXAvdi8yL3B2LzEvZXYvMTIvZmxhdm9ySWQvMF9zMzVxZGlrMS9uYW1lL2EubXA0L2luZ
     SKWAD: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_7ipmyv1x/v/1/pv/1/ev/9/flavorId/1_kom3wi3i/name/a.mp4/index.m3u8/clipFrom/3470000/seg-28-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfN2lwbXl2MXgvdi8xL3B2LzEvZXYvOS9mbGF2b3JJZC8xX2tvbTN3aTNpL25hbWUvYS5tcDQvaW5kZ
     Camp Spoopy: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_e58ziwj4/v/1/pv/1/ev/10/flavorId/1_oeoeyo9g/name/a.mp4/index.m3u8/clipFrom/0/clipTo/675000/seg-87-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfZTU4eml3ajQvdi8xL3B2LzEvZXYvMTAvZmxhdm9ySWQvMV9vZW9leW85Zy9uYW1lL2Eu
+  [hls-beacons-eu.xumo.com]
+    Beyond Belief: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2070%2Fcontent%2FXM0L92AVCJS41E%2F24106680%2F0_054.ts&aid=XM0L92AVCJS41E&eventType=ASSET&cid=88889334&did=19618a58832f4833&playId=1793740160000&eventSubType=playInterval&pid=2070
+    FilmRise Free Series: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2071%2Fcontent%2FXM07U7U23NNC8B%2F24911338%2F0_246.ts&aid=XM07U7U23NNC8B&eventType=ASSET&cid=88889351&did=19618a58832f4833&playId=1793739902669&eventSubType=playEnded&pid=2071
+    Un Si Grand Soleil: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F1082%2Fcontent%2FXM0QOYU1YZN6ZI%2F27722825%2F0_012.ts&aid=XM0QOYU1YZN6ZI&eventType=ASSET&cid=88889485&did=19618a58832f4833&playId=1793740162000&eventSubType=playInterval&pid=1082
   [content.galxy.tv]
     Watch it SCREAM: https://content.galxy.tv/04b53fd0bca141a5b75b5c75f451cf0f/a/D00000428.ts
     Dungeon TV: https://content.galxy.tv/fcfbb437843549628a607011faae8843/a/D000004E9.ts
@@ -86,9 +86,6 @@ Example segment URLs (for working out new patterns):
   [o300801-mp-lura-live.akamaized.net]
     NFL Channel: https://o300801-mp-lura-live.akamaized.net/live/ephemeral/aV6qRMoj01gysw3sKomhM3VvbLkpEAG2/nfldigital1_plex/3128k/Cz2tJehGhdv/179478/segment_179478474.ts?hdntl=exp=1793743546~acl=/*~hmac=c43f26769b32811973ad4cdb27d383b74bb8d5e46386f04584704ecd1638fce  || tried 404x16
     NFL Channel: https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4Z9nGq8j6ED7UWRs23QIO50bylw1za3X/dc1_intl_2_plex_intl/3128k/NywNjmZQva0/179490/segment_179490463.ts?hdntl=exp=1793744073~acl=/*~hmac=f37fb80a0e87bf0ef4de221eeaa2d8165170755f88a4118ca827150c248  || tried 404x16
-  [ov-static.otteravision.com]
-    KidsFlix: https://ov-static.otteravision.com/scte_v3/viva/689/viva_ad_slate_689_720_low/00000/viva_ad_slate_689_720_low_00007.ts  || tried 403x15,vodx1
-    Mega Machines: https://ov-static.otteravision.com/scte_v3/mmc/19/mmc_ad_slate_19_720_high/00000/mmc_ad_slate_19_720_high_00005.ts  || tried 403x15,vodx1
   [22472f78.wurl.com]
     The Pet Collective: https://22472f78.wurl.com/dist/wurl/174/hls/master/playlist_1280x720_210836__482249.ts  || tried 403x16
   [224a4259.wurl.com]
@@ -101,3 +98,5 @@ Example segment URLs (for working out new patterns):
     UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261103T210843_310396.ts  || tried 403x5
   [23e952ae.wurl.com]
     Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261103T031606_298990.ts  || tried 403x5
+  [2473296b.wurl.com]
+    FIFA+: https://2473296b.wurl.com/ppc-sysdata_s_p_a_fifa_8-UTC-wfo-0-ef71a23b/playlist_192k_20261103T211239_294724.ts  || tried 403x5
