@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T23:25:48.696387+00:00",
+  "generated": "2026-11-04T06:23:56.937002+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -4726,7 +4726,7 @@
         "slug": "bouncexl",
         "gridKey": "623d9b0370560b72147a994a",
         "name": "Bounce XL",
-        "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/67bb1f39c612ac06e49755f639aa08ab.png",
+        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7f3ebd4cce4d92a9ed717f5da4dd42d4.png",
         "callSign": "BOUNSTR",
         "key": "/library/parts/6a1610bebdf296985fd95603-623d9b0370560b72147a994a.m3u8",
         "genres": [
