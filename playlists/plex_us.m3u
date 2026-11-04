@@ -130,7 +130,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6308eda9ac99
 #EXTINF:-1 channel-id="plex-646fab0e43d6d6838db81a6a" tvg-id="646fab0e43d6d6838db81a6a" tvg-name="BBC News (North America)" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9ab8e371398307f455d0ca348f835792.png" group-title="News",BBC News (North America)
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65622ac05dbccec83a87b641" tvg-id="65622ac05dbccec83a87b641" tvg-name="BBC Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b627a5e-4c24-4f70-8392-f6d7c5080bee/BBC_SCI-FI_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="Adrenaline & Sci-Fi",BBC Sci-Fi
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65622ac05dbccec83a87b641.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://bbc-scifi-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-65622eddb7d737841f30a4fd" tvg-id="65622eddb7d737841f30a4fd" tvg-name="BBC Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="Explore",BBC Travel
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65622eddb7d737841f30a4fd.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60a53634126de9002e694bc4" tvg-id="60a53634126de9002e694bc4" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df24287c-ba1c-461f-b686-b1842ba47857/beIN_SPORTS_XTRA_LOGO.png" group-title="Sports",beIN SPORTS XTRA
