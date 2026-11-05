@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T10:50:17.433891+00:00",
+  "generated": "2026-11-05T17:25:42.998259+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -509,6 +509,19 @@
         ],
         "region": "us"
       },
+      "6ae0f2316d548fc748c934b6": {
+        "id": "6a1610bebdf296985fd95603-6ae0f2316d548fc748c934b6",
+        "slug": "eastenders",
+        "gridKey": "6ae0f2316d548fc748c934b6",
+        "name": "Eastenders",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/650a479f-74a1-4712-bd19-1f650759ac04/EastEnders_Logo_WHITE_BLK_BORDERRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae0f2316d548fc748c934b6.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "us"
+      },
       "68db6bc5475aa6420c85f232": {
         "id": "6a1610bebdf296985fd95603-68db6bc5475aa6420c85f232",
         "slug": "filmrise-drama",
@@ -693,10 +706,10 @@
       },
       "634700569d64afa6830d1521": {
         "id": "6a1610bebdf296985fd95603-634700569d64afa6830d1521",
-        "slug": "halloween-plus",
+        "slug": "christmas-plus",
         "gridKey": "634700569d64afa6830d1521",
-        "name": "Halloween Plus",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/53e30e47-98a7-4f53-9a2b-3bee3ca37e09/Halloween_plusLogo.png",
+        "name": "Christmas Plus",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4df1424b-31d8-4c1a-b74d-779782667d2a/Christmas_PLus__33__-_1500x1000rdx.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-634700569d64afa6830d1521.m3u8",
         "genres": [
@@ -2849,19 +2862,6 @@
         ],
         "region": "us"
       },
-      "63f688faf615dc7d3f9071f7": {
-        "id": "6a1610bebdf296985fd95603-63f688faf615dc7d3f9071f7",
-        "slug": "duck-dynasty-by-aande",
-        "gridKey": "63f688faf615dc7d3f9071f7",
-        "name": "Duck Dynasty by A&E",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e37442d3-0104-4006-b6c1-674a8674edb8/Duck_Dynasty_channel_logo_4c_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-63f688faf615dc7d3f9071f7.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
       "67a37720786c8a28ae4965bb": {
         "id": "6a1610bebdf296985fd95603-67a37720786c8a28ae4965bb",
         "slug": "storage-wars-by-aande-2",
@@ -2888,6 +2888,32 @@
         ],
         "region": "us"
       },
+      "6ae282fe73700d3e4f499bf3": {
+        "id": "6a1610bebdf296985fd95603-6ae282fe73700d3e4f499bf3",
+        "slug": "pawn-stars-plus-by-history",
+        "gridKey": "6ae282fe73700d3e4f499bf3",
+        "name": "Pawn Stars Plus by History",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/80929aeb-6142-43ef-b7e9-bc964ca846de/Pawn_Stars_Plus_channel_logo_4c_1500x1000whttext.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae282fe73700d3e4f499bf3.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "6ae284312db2c23c6e881095": {
+        "id": "6a1610bebdf296985fd95603-6ae284312db2c23c6e881095",
+        "slug": "american-pickers-plus-by-history",
+        "gridKey": "6ae284312db2c23c6e881095",
+        "name": "American Pickers Plus by History",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/acd1c3b4-3aed-4137-8820-8dcd4f8da8bd/American_Pickers_Plus_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae284312db2c23c6e881095.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
       "6449369eb3ff17382cae580c": {
         "id": "6a1610bebdf296985fd95603-6449369eb3ff17382cae580c",
         "slug": "hells-kitchen-and-kitchen-nightmares",
@@ -2909,6 +2935,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3c8801d-fde8-4b88-93a9-206956d39baf/Wetv_GUHH_Yellow_logo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6a8cb463fc51826f5301a156.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "63f688faf615dc7d3f9071f7": {
+        "id": "6a1610bebdf296985fd95603-63f688faf615dc7d3f9071f7",
+        "slug": "duck-dynasty-by-aande",
+        "gridKey": "63f688faf615dc7d3f9071f7",
+        "name": "Duck Dynasty by A&E",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e37442d3-0104-4006-b6c1-674a8674edb8/Duck_Dynasty_channel_logo_4c_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-63f688faf615dc7d3f9071f7.m3u8",
         "genres": [
           "Reality"
         ],
@@ -5280,6 +5319,19 @@
         ],
         "region": "us"
       },
+      "6ae285042db2c23c6e881097": {
+        "id": "6a1610bebdf296985fd95603-6ae285042db2c23c6e881097",
+        "slug": "historys-mysteries",
+        "gridKey": "6ae285042db2c23c6e881097",
+        "name": "History's Mysteries",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ef5da37c-19ae-4457-b99b-2bff909f2a38/Historys_Mysteries_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae285042db2c23c6e881097.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
       "66a294d3e1a2934adfe851f5": {
         "id": "6a1610bebdf296985fd95603-66a294d3e1a2934adfe851f5",
         "slug": "ghosts-are-real",
@@ -6970,27 +7022,14 @@
         ],
         "region": "us"
       },
-      "6a8744fdb1b3d334c851bbc5": {
-        "id": "6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5",
-        "slug": "entravision-ahora",
-        "gridKey": "6a8744fdb1b3d334c851bbc5",
-        "name": "Entravision Ahora",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/26b9f118-779a-42a1-bff4-2fa0c41d0f53/EA_COLOR_1500X1000RDXwWHTLETTERS.png",
+      "6ae281bf2db2c23c6e881093": {
+        "id": "6a1610bebdf296985fd95603-6ae281bf2db2c23c6e881093",
+        "slug": "jail-en-espanol-5",
+        "gridKey": "6ae281bf2db2c23c6e881093",
+        "name": "JAIL en Español",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1b52c172-b060-4262-8fee-856215ba36f9/JAIL_-_GreyLettersark_-_1500x1000.png_James_Roebuck.png",
         "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
-      "6a4afa08410e0eea561f76b1": {
-        "id": "6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1",
-        "slug": "adn-noticias",
-        "gridKey": "6a4afa08410e0eea561f76b1",
-        "name": "ADN NOTICIAS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/223b82fa-afa1-46e5-a7f1-11e0365bc77c/Logo_ADN_NEUTRO.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1.m3u8",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae281bf2db2c23c6e881093.m3u8",
         "genres": [
           "En Español"
         ],
@@ -7069,6 +7108,32 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/158f2ae8-032e-4f0e-8143-b9939c2fd5a2/Runtime_USH_Light_Logo_-_JP_Garcia.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f5132e362fe160040f26c15.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6a8744fdb1b3d334c851bbc5": {
+        "id": "6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5",
+        "slug": "entravision-ahora",
+        "gridKey": "6a8744fdb1b3d334c851bbc5",
+        "name": "Entravision Ahora",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/26b9f118-779a-42a1-bff4-2fa0c41d0f53/EA_COLOR_1500X1000RDXwWHTLETTERS.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6a4afa08410e0eea561f76b1": {
+        "id": "6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1",
+        "slug": "adn-noticias",
+        "gridKey": "6a4afa08410e0eea561f76b1",
+        "name": "ADN NOTICIAS",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/223b82fa-afa1-46e5-a7f1-11e0365bc77c/Logo_ADN_NEUTRO.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1.m3u8",
         "genres": [
           "En Español"
         ],
@@ -7797,6 +7862,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/e2392026-a01b-4e8e-a972-c2fc26f591cf/CONDISTA-UN_TV-1500X1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-65f0de01046e6131ecc31845.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6ae26499c47391f517e43755": {
+        "id": "6a1610bebdf296985fd95603-6ae26499c47391f517e43755",
+        "slug": "comercio-tv-2",
+        "gridKey": "6ae26499c47391f517e43755",
+        "name": "Comercio TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/fd19e64d-ee51-48c3-952d-150a57059957/comercioLight_Logo__1__BLUE.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae26499c47391f517e43755.m3u8",
         "genres": [
           "En Español"
         ],
@@ -17135,6 +17213,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/03fe73df-6585-49b7-bdd5-5ea605c4086f/FilmRise_DickVanDykeShow_Logo_Color.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6449369eb3ff17382cae5801.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "gb"
+      },
+      "6adf8f78cb8d426c748aed33": {
+        "id": "64305451fc3be5947773c339-6adf8f78cb8d426c748aed33",
+        "slug": "bewitched",
+        "gridKey": "6adf8f78cb8d426c748aed33",
+        "name": "Bewitched",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b8459d34-994e-493a-8e56-70aa47a63e51/UK_FAST_Plex_Bewitched_logo_dark.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6adf8f78cb8d426c748aed33.m3u8",
         "genres": [
           "Classics"
         ],
@@ -29444,19 +29535,6 @@
         ],
         "region": "mx"
       },
-      "65cd2cf397fb4731f54ecae7": {
-        "id": "608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7",
-        "slug": "tastemade-en-espanol-5",
-        "gridKey": "65cd2cf397fb4731f54ecae7",
-        "name": "Tastemade en Español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40485b2e-5412-4bb8-a309-d73e4a46085b/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "mx"
-      },
       "6995ef6821d3ea5c24827b1b": {
         "id": "608049aefa2b8ae93c2c3a63-6995ef6821d3ea5c24827b1b",
         "slug": "homeful-5",
@@ -35722,6 +35800,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/5fb26f0a-864e-44da-99c0-dd5cccd2a417/FR_FAST_Plex_Faves_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "fr"
+      },
+      "6adf9051cb8d426c748aed35": {
+        "id": "6430aa45fc3be5947780904e-6adf9051cb8d426c748aed35",
+        "slug": "ma-sorciere-bien-aimee",
+        "gridKey": "6adf9051cb8d426c748aed35",
+        "name": "Ma Sorcière Bien-Aimée",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6e77bb25-1615-4d01-b648-139477dbcfab/FR_FAST_Plex_Bewitched_logo_dark.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6adf9051cb8d426c748aed35.m3u8",
         "genres": [
           "Classics"
         ],
@@ -42878,19 +42969,6 @@
         "key": "/library/parts/646546f35db8ada4c8edd7e5-66fd3e25216b603e031725fe.m3u8",
         "genres": [
           "Explore"
-        ],
-        "region": "br"
-      },
-      "65cd522126388de8e0b08271": {
-        "id": "646546f35db8ada4c8edd7e5-65cd522126388de8e0b08271",
-        "slug": "tastemade-4",
-        "gridKey": "65cd522126388de8e0b08271",
-        "name": "Tastemade",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c876ca14-4dff-4354-a89d-3be2c2485cc7/LogosPLEX_FLAGSHIP_1500X1000_ForDarkBackground.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-65cd522126388de8e0b08271.m3u8",
-        "genres": [
-          "Food, Home & Culture"
         ],
         "region": "br"
       },
