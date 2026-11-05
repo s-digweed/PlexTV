@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-11-05 06:48 UTC)
+Plex VPN-free direct links  (2026-11-05 10:50 UTC)
 Channels checked: 1407   VPN-free: 864   Still Plex link (VPN needed): 543
 
   direct (cached)              864
