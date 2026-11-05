@@ -162,7 +162,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c
 #EXTINF:-1 channel-id="plex-68645d7719cc2e163e38d163" tvg-id="68645d7719cc2e163e38d163" tvg-name="Gone Fishing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e91b406b-11dc-43b4-96eb-a775852a8b98/Gone_Fishing_whiteRDX.png" group-title="Sports",Gone Fishing
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68645d7719cc2e163e38d163.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Food, Home & Culture",Great British Menu
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Music",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Classics",Grjngo - Western Movies

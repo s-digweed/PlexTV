@@ -530,7 +530,7 @@ https://amg09501-questar-amg09501c1-plex-us-2355.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 channel-id="plex-5efe1de7e0b3f5003f5d9f8e" tvg-id="5efe1de7e0b3f5003f5d9f8e" tvg-name="Gravitas Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87658f08-b42f-4fff-b2d6-b729fd2dae71/Plex_GravitasMovies_DarkBackground.png" group-title="Movies",Gravitas Movies
 https://amg00163-amg00163c19-amgplt0020.playout.now3.amagi.tv/playlist/amg00163-amg00163c19-amgplt0020/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Food, Home & Culture",Great British Menu
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Music",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-689fb2c329e3c9f1368c04a3" tvg-id="689fb2c329e3c9f1368c04a3" tvg-name="Green Acres" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="Classics",Green Acres
@@ -814,7 +814,7 @@ https://plex-xumoent-ch1022-kv9f4.fast.nbcuni.com/live/master_1.m3u8
 #EXTINF:-1 channel-id="plex-6759a32270e41582b1b7a236" tvg-id="6759a32270e41582b1b7a236" tvg-name="NESN NATION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ccd78f14-bcae-425b-8e81-0570914550b0/NESN_Logo_WHTRDX2.png" group-title="Sports",NESN NATION
 https://amg17851-amg17851c1-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60d4edd7b2fdec002c14112d" tvg-id="60d4edd7b2fdec002c14112d" tvg-name="NEW K-POP" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="Music",NEW K-POP
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60d4edd7b2fdec002c14112d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://newidco-newkid-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60d4eddab2fdec002c141131" tvg-id="60d4eddab2fdec002c141131" tvg-name="NEW K.MOVIES" tvg-logo="https://provider-static.plex.tv/epg/cms/production/104dadc6-2e18-4bb5-a606-4b32db242f57/newkmovies_logo_dark_v2.png" group-title="Global",NEW K.MOVIES
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60d4eddab2fdec002c141131.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68b9f5a3d60e5dd29263c7ac" tvg-id="68b9f5a3d60e5dd29263c7ac" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png" group-title="Global",NEW KFOOD

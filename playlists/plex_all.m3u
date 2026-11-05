@@ -530,7 +530,7 @@ https://amg09501-questar-amg09501c1-plex-us-2355.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 channel-id="plex-5efe1de7e0b3f5003f5d9f8e-us" tvg-id="5efe1de7e0b3f5003f5d9f8e" tvg-name="Gravitas Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87658f08-b42f-4fff-b2d6-b729fd2dae71/Plex_GravitasMovies_DarkBackground.png" group-title="United States",Gravitas Movies
 https://amg00163-amg00163c19-amgplt0020.playout.now3.amagi.tv/playlist/amg00163-amg00163c19-amgplt0020/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-us" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="United States",Great British Menu
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325-us" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="United States",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-689fb2c329e3c9f1368c04a3-us" tvg-id="689fb2c329e3c9f1368c04a3" tvg-name="Green Acres" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="United States",Green Acres
@@ -814,7 +814,7 @@ https://plex-xumoent-ch1022-kv9f4.fast.nbcuni.com/live/master_1.m3u8
 #EXTINF:-1 channel-id="plex-6759a32270e41582b1b7a236-us" tvg-id="6759a32270e41582b1b7a236" tvg-name="NESN NATION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ccd78f14-bcae-425b-8e81-0570914550b0/NESN_Logo_WHTRDX2.png" group-title="United States",NESN NATION
 https://amg17851-amg17851c1-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60d4edd7b2fdec002c14112d-us" tvg-id="60d4edd7b2fdec002c14112d" tvg-name="NEW K-POP" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="United States",NEW K-POP
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60d4edd7b2fdec002c14112d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://newidco-newkid-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60d4eddab2fdec002c141131-us" tvg-id="60d4eddab2fdec002c141131" tvg-name="NEW K.MOVIES" tvg-logo="https://provider-static.plex.tv/epg/cms/production/104dadc6-2e18-4bb5-a606-4b32db242f57/newkmovies_logo_dark_v2.png" group-title="United States",NEW K.MOVIES
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60d4eddab2fdec002c141131.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68b9f5a3d60e5dd29263c7ac-us" tvg-id="68b9f5a3d60e5dd29263c7ac" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png" group-title="United States",NEW KFOOD
@@ -1734,7 +1734,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-68645d7719cc
 #EXTINF:-1 channel-id="plex-5efe1de7e0b3f5003f5d9f8e-ca" tvg-id="5efe1de7e0b3f5003f5d9f8e" tvg-name="Gravitas Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87658f08-b42f-4fff-b2d6-b729fd2dae71/Plex_GravitasMovies_DarkBackground.png" group-title="Canada",Gravitas Movies
 https://amg00163-amg00163c19-amgplt0020.playout.now3.amagi.tv/playlist/amg00163-amg00163c19-amgplt0020/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-ca" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Canada",Great British Menu
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325-ca" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Canada",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b-ca" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Canada",Grjngo - Western Movies
@@ -1880,7 +1880,7 @@ https://amg00353-amg00353c23-plex-us-2886.playouts.now.amagi.tv/playlist/amg0035
 #EXTINF:-1 channel-id="plex-5fc70600dd53a6002d8f93ca-ca" tvg-id="5fc70600dd53a6002d8f93ca" tvg-name="NBC News NOW" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" group-title="Canada",NBC News NOW
 https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_1.m3u8
 #EXTINF:-1 channel-id="plex-60d4edd7b2fdec002c14112d-ca" tvg-id="60d4edd7b2fdec002c14112d" tvg-name="NEW K-POP" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="Canada",NEW K-POP
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://newidco-newkid-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60d4eddab2fdec002c141131-ca" tvg-id="60d4eddab2fdec002c141131" tvg-name="NEW K.MOVIES" tvg-logo="https://provider-static.plex.tv/epg/cms/production/104dadc6-2e18-4bb5-a606-4b32db242f57/newkmovies_logo_dark_v2.png" group-title="Canada",NEW K.MOVIES
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68b9f5a3d60e5dd29263c7ac-ca" tvg-id="68b9f5a3d60e5dd29263c7ac" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png" group-title="Canada",NEW KFOOD
@@ -2582,7 +2582,7 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6615360a8423
 #EXTINF:-1 channel-id="plex-68645d7719cc2e163e38d163-gb" tvg-id="68645d7719cc2e163e38d163" tvg-name="Gone Fishing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e91b406b-11dc-43b4-96eb-a775852a8b98/Gone_Fishing_whiteRDX.png" group-title="GB",Gone Fishing
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-68645d7719cc2e163e38d163.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-gb" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="GB",Great British Menu
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6648d6f0a16b3a50177f4dc0-gb" tvg-id="6648d6f0a16b3a50177f4dc0" tvg-name="GREAT! Christmas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c97af2ba-a804-4761-a65a-064d3fb912e7/Plex_For_Dark_BG_1500x1000_GREAT_christmas__1__-_Nick_FoundoukisWHT_TEXT_W_GREENRDX.png" group-title="GB",GREAT! Christmas
 https://amg01753-amg01753c2-plex-us-3470.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-664e9d95e8824b0c34762787-gb" tvg-id="664e9d95e8824b0c34762787" tvg-name="GREAT! movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bc60000b-f116-470f-b40f-92ec35ba0a82/Plex_For_Dark_BG_1500x1000_GREAT_MoviesRDX.png" group-title="GB",GREAT! movies
@@ -2746,7 +2746,7 @@ https://amg00275-amg00275c1-amgplt0020.playout.now3.amagi.tv/playlist/amg00275-a
 #EXTINF:-1 channel-id="plex-6448b4e8af92c31f4a190c25-gb" tvg-id="6448b4e8af92c31f4a190c25" tvg-name="MyTime Movie Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8258d765-c5e7-4f6e-85fb-69116ee9b060/MT_PLEX_1500x1000_UK_WHITE_-_Sam_Abraham.png" group-title="GB",MyTime Movie Network
 https://amg00500-studiocitypictu-mytimemovientuk-plex-q5kvj.amagi.tv/playlist/amg00500-studiocitypictu-mytimemovientuk-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60d4edd7b2fdec002c14112d-gb" tvg-id="60d4edd7b2fdec002c14112d" tvg-name="NEW K-POP" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="GB",NEW K-POP
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-60d4edd7b2fdec002c14112d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://newidco-newkid-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68b9f5a3d60e5dd29263c7ac-gb" tvg-id="68b9f5a3d60e5dd29263c7ac" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png" group-title="GB",NEW KFOOD
 https://newidco-newkfood-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6abd4743e1b65dffbc995e44-gb" tvg-id="6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png" group-title="GB",NEWSMAX
@@ -3270,7 +3270,7 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6615360a8423
 #EXTINF:-1 channel-id="plex-68645d7719cc2e163e38d163-au" tvg-id="68645d7719cc2e163e38d163" tvg-name="Gone Fishing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e91b406b-11dc-43b4-96eb-a775852a8b98/Gone_Fishing_whiteRDX.png" group-title="Australia",Gone Fishing
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68645d7719cc2e163e38d163.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-au" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Australia",Great British Menu
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325-au" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Australia",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b-au" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Australia",Grjngo - Western Movies
@@ -3852,7 +3852,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615360a8423
 #EXTINF:-1 channel-id="plex-68645d7719cc2e163e38d163-nz" tvg-id="68645d7719cc2e163e38d163" tvg-name="Gone Fishing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e91b406b-11dc-43b4-96eb-a775852a8b98/Gone_Fishing_whiteRDX.png" group-title="New Zealand",Gone Fishing
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68645d7719cc2e163e38d163.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-nz" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="New Zealand",Great British Menu
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325-nz" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="New Zealand",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b-nz" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="New Zealand",Grjngo - Western Movies
@@ -6932,7 +6932,7 @@ https://glewedtv-4-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63f914bffe2c3d32e1a7929f-in" tvg-id="63f914bffe2c3d32e1a7929f" tvg-name="GLORY Kickboxing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png" group-title="India",GLORY Kickboxing
 https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-63f914bffe2c3d32e1a7929f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-in" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="India",Great British Menu
-https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325-in" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="India",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b-in" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="India",Grjngo - Western Movies
@@ -8064,7 +8064,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c
 #EXTINF:-1 channel-id="plex-68645d7719cc2e163e38d163-se" tvg-id="68645d7719cc2e163e38d163" tvg-name="Gone Fishing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e91b406b-11dc-43b4-96eb-a775852a8b98/Gone_Fishing_whiteRDX.png" group-title="Sweden",Gone Fishing
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68645d7719cc2e163e38d163.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-se" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Sweden",Great British Menu
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325-se" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Sweden",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b-se" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Sweden",Grjngo - Western Movies
@@ -8410,7 +8410,7 @@ https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076
 #EXTINF:-1 channel-id="plex-69d6d88b1790acff6189dea5-nl" tvg-id="69d6d88b1790acff6189dea5" tvg-name="AddictaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png" group-title="Netherlands",AddictaTV
 https://6bc89793.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6533e645df3ccc650a965642-nl" tvg-id="6533e645df3ccc650a965642" tvg-name="Adventure Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3bf8f3b-e180-459e-aa00-f72eb5ca6cf9/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman.png" group-title="Netherlands",Adventure Earth
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6533e645df3ccc650a965642.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://autentic-adventure-earth-1-nl.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c-nl" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Netherlands",AfroLandTV
 https://alt-al.otteravision.com/alt/al/al_720p.m3u8
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498-nl" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Netherlands",Alternative
@@ -8538,7 +8538,7 @@ https://glewedtv-4-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63f914bffe2c3d32e1a7929f-nl" tvg-id="63f914bffe2c3d32e1a7929f" tvg-name="GLORY Kickboxing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png" group-title="Netherlands",GLORY Kickboxing
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-nl" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Netherlands",Great British Menu
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325-nl" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Netherlands",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b-nl" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Netherlands",Grjngo - Western Movies
@@ -8870,7 +8870,7 @@ https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076
 #EXTINF:-1 channel-id="plex-69d6d88b1790acff6189dea5-no" tvg-id="69d6d88b1790acff6189dea5" tvg-name="AddictaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png" group-title="Norway",AddictaTV
 https://6bc89793.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6533e8a2bd43e1c8b186515a-no" tvg-id="6533e8a2bd43e1c8b186515a" tvg-name="Adventure Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/009d50dd-f5fc-4eb4-b739-128964e1c08b/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman.png" group-title="Norway",Adventure Earth
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6533e8a2bd43e1c8b186515a.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://autentic-adventure-earth-1-no.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c-no" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Norway",AfroLandTV
 https://alt-al.otteravision.com/alt/al/al_720p.m3u8
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498-no" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Norway",Alternative
@@ -9022,7 +9022,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c
 #EXTINF:-1 channel-id="plex-68645d7719cc2e163e38d163-no" tvg-id="68645d7719cc2e163e38d163" tvg-name="Gone Fishing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e91b406b-11dc-43b4-96eb-a775852a8b98/Gone_Fishing_whiteRDX.png" group-title="Norway",Gone Fishing
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68645d7719cc2e163e38d163.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-no" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Norway",Great British Menu
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325-no" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Norway",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b-no" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Norway",Grjngo - Western Movies
@@ -9516,7 +9516,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c
 #EXTINF:-1 channel-id="plex-68645d7719cc2e163e38d163-fi" tvg-id="68645d7719cc2e163e38d163" tvg-name="Gone Fishing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e91b406b-11dc-43b4-96eb-a775852a8b98/Gone_Fishing_whiteRDX.png" group-title="Finland",Gone Fishing
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68645d7719cc2e163e38d163.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-fi" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Finland",Great British Menu
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325-fi" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Finland",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b-fi" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Finland",Grjngo - Western Movies
@@ -10010,7 +10010,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c
 #EXTINF:-1 channel-id="plex-68645d7719cc2e163e38d163-dk" tvg-id="68645d7719cc2e163e38d163" tvg-name="Gone Fishing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e91b406b-11dc-43b4-96eb-a775852a8b98/Gone_Fishing_whiteRDX.png" group-title="Denmark",Gone Fishing
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68645d7719cc2e163e38d163.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-dk" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Denmark",Great British Menu
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325-dk" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Denmark",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b-dk" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Denmark",Grjngo - Western Movies
@@ -10484,7 +10484,7 @@ https://glewedtv-4-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63f914bffe2c3d32e1a7929f-is" tvg-id="63f914bffe2c3d32e1a7929f" tvg-name="GLORY Kickboxing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png" group-title="Iceland",GLORY Kickboxing
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b-is" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Iceland",Great British Menu
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325-is" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Iceland",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b-is" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Iceland",Grjngo - Western Movies

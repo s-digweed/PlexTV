@@ -14,7 +14,7 @@ https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076
 #EXTINF:-1 channel-id="plex-69d6d88b1790acff6189dea5" tvg-id="69d6d88b1790acff6189dea5" tvg-name="AddictaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png" group-title="En Español",AddictaTV
 https://6bc89793.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6533e8a2bd43e1c8b186515a" tvg-id="6533e8a2bd43e1c8b186515a" tvg-name="Adventure Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/009d50dd-f5fc-4eb4-b739-128964e1c08b/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman.png" group-title="Explore",Adventure Earth
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6533e8a2bd43e1c8b186515a.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://autentic-adventure-earth-1-no.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60e737a4ebef9d002c4d0a0c" tvg-id="60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Global",AfroLandTV
 https://alt-al.otteravision.com/alt/al/al_720p.m3u8
 #EXTINF:-1 channel-id="plex-62efbb8652f7d73061eec498" tvg-id="62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Music",Alternative
@@ -166,7 +166,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c
 #EXTINF:-1 channel-id="plex-68645d7719cc2e163e38d163" tvg-id="68645d7719cc2e163e38d163" tvg-name="Gone Fishing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e91b406b-11dc-43b4-96eb-a775852a8b98/Gone_Fishing_whiteRDX.png" group-title="Sports",Gone Fishing
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68645d7719cc2e163e38d163.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704596e536e0faaf10be9b" tvg-id="64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Food, Home & Culture",Great British Menu
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704596e536e0faaf10be9b.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-great-british-menu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-61aa97d4113e1e5137fd5325" tvg-id="61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png" group-title="Music",Greatest Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Classics",Grjngo - Western Movies
