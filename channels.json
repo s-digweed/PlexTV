@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T16:47:58.869530+00:00",
+  "generated": "2026-11-06T20:58:12.472062+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -9275,9 +9275,9 @@
       },
       "657dd21dc7a367074887310a": {
         "id": "647f8d22a2fc3fadb4721685-657dd21dc7a367074887310a",
-        "slug": "super-channel-hearties",
+        "slug": "hearties-christmas",
         "gridKey": "657dd21dc7a367074887310a",
-        "name": "Super Channel Hearties",
+        "name": "Hearties Christmas",
         "logo": "https://provider-static.plex.tv/epg/cms/production/2173769c-8faf-4c88-874f-21e618d7189e/superechannel_Color_RDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-657dd21dc7a367074887310a.m3u8",
