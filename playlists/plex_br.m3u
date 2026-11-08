@@ -168,7 +168,7 @@ https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-63489bc190b96ef5e0eb327c" tvg-id="63489bc190b96ef5e0eb327c" tvg-name="Grjngo - Filmes De Faroeste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba5078a6-99eb-4e02-a473-bd6d0b02f34d/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Classics",Grjngo - Filmes De Faroeste
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63489eff90b96ef5e0eb3282" tvg-id="63489eff90b96ef5e0eb3282" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="En Español",Grjngo - Películas Del Oeste
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489eff90b96ef5e0eb3282.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a8786c4fa0d0293e2681b7c" tvg-id="6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png" group-title="Daytime TV & Games",GrowthDay Network
 https://linear-1130.frequency.stream/mt/plex/1130/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f8746eabd529300418246d9" tvg-id="5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food, Home & Culture",GUSTOTV
@@ -402,7 +402,7 @@ https://lotus.stingray.com/manifest/naturescape-a003s-montreal/plextv/master.m3u
 #EXTINF:-1 channel-id="plex-61aaa17a784a2161d3caf801" tvg-id="61aaa17a784a2161d3caf801" tvg-name="Stingray Soul Storm" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45da3b94-2c9d-453d-ab75-692b36245244/13212_SM_Plex_Logos_Soul-Storm_1500x1000_V01-white_-_Olivia_bronfman.png" group-title="Music",Stingray Soul Storm
 https://d35p4ep9ync6qx.cloudfront.net/e7403e7d9913fd828b1602fa7cef6902/master.m3u8
 #EXTINF:-1 channel-id="plex-644b13a3a1c0a5b2024c8403" tvg-id="644b13a3a1c0a5b2024c8403" tvg-name="Strongman Champions" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png" group-title="Sports",Strongman Champions
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-644b13a3a1c0a5b2024c8403.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://rightsboosterltd-scl-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-656fbbd6dbcce28c3a41741b" tvg-id="656fbbd6dbcce28c3a41741b" tvg-name="Surf Cinema" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png" group-title="Sports",Surf Cinema
 https://amg13231-actve-amg13231c4-plex-us-1821.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6227c215c9f485cc7afe8c41" tvg-id="6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png" group-title="Sports",Surfer TV
