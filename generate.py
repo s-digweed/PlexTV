@@ -878,6 +878,20 @@ def build_m3u_all(channels_by_region: dict, regions: list[str], token: str,
 # EPG / XMLTV generation
 # ---------------------------------------------------------------------------
 
+# Plex sometimes files a show's name as the EPISODE title and the episode name as
+# the SHOW (5-Minute Crafts: title "Smart Outdoor Hacks", sub-title "5-Minute
+# Crafts"). For these the two are swapped back. Separately, a sub-title that just
+# repeats the title (Judge Judy / Judge Judy) is dropped everywhere.
+SWAPPED_SHOWS = {"5-minute crafts"}
+
+def _fix_title_sub(title, subtitle):
+    if subtitle and subtitle.strip().lower() in SWAPPED_SHOWS:
+        return subtitle, title
+    if subtitle and subtitle.strip().lower() == (title or "").strip().lower():
+        return title, None
+    return title, subtitle
+
+
 def _parse_video_to_programme(video, grid_key: str) -> str | None:
     """
     Convert a single Plex <Video> element from the /grid response into an
@@ -904,6 +918,7 @@ def _parse_video_to_programme(video, grid_key: str) -> str | None:
         season   = video.attrib.get("parentIndex")
         episode  = video.attrib.get("index")
         art      = escape(video.attrib.get("grandparentArt", video.attrib.get("art", "")))
+        title, subtitle = _fix_title_sub(title, subtitle)
 
     desc           = escape(_sanitize(video.attrib.get("summary", "")))
     content_rating = escape(video.attrib.get("contentRating", ""))
@@ -963,6 +978,7 @@ def _parse_video_from_json(video: dict, grid_key: str) -> str | None:
         season   = video.get("parentIndex")
         episode  = video.get("index")
         art      = escape(video.get("grandparentArt", video.get("art", "")))
+        title, subtitle = _fix_title_sub(title, subtitle)
 
     desc           = escape(_sanitize(video.get("summary", "")))
     content_rating = escape(video.get("contentRating", ""))
