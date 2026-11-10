@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-11-09 19:51 UTC)
+Plex VPN-free direct links  (2026-11-09 23:49 UTC)
 Channels checked: 1413   VPN-free: 878   Still Plex link (VPN needed): 535
 
   direct (cached)              878
@@ -16,7 +16,7 @@ Non-Amagi video hosts (candidates for future support):
   live-content-cf.xumo.com                                     93
   live-content.cdn.xumo.com                                    53
   hls-beacons-us.xumo.com                                      21
-  cfvod.kaltura.com                                            7
+  cfvod.kaltura.com                                            6
   content.galxy.tv                                             4
   hls-beacons-eu.xumo.com                                      4
   o300801-mp-lura-live.akamaized.net                           2
@@ -28,7 +28,6 @@ Non-Amagi video hosts (candidates for future support):
   99dd446e.wurl.com                                            1
   e8df38f7.wurl.com                                            1
   candlelightmedia-sparklightlove-1-us.plex.wurl.tv            1
-  afv-cij.otteravision.com                                     1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
@@ -53,6 +52,7 @@ Non-Amagi video hosts (candidates for future support):
   3e9247fa.wurl.com                                            1
   9f7ff994.wurl.com                                            1
   7d86e29e.wurl.com                                            1
+  c8358772.wurl.com                                            1
 
 Example segment URLs (for working out new patterns):
   [live-content-cf.xumo.com]
@@ -97,6 +97,6 @@ Example segment URLs (for working out new patterns):
   [22fcfa2f.wurl.com]
     UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261109T063211_388961.ts  || tried 403x5
   [23bf348e.wurl.com]
-    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261108T220549_847525.ts  || tried 403x5
+    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261109T234816_863130.ts  || tried 403x5
   [23e952ae.wurl.com]
     Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261108T123927_377421.ts  || tried 403x5
