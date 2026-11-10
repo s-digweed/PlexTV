@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:54:39.466464+00:00",
+  "generated": "2026-11-10T21:22:21.200784+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -15374,10 +15374,10 @@
       },
       "656fabcfdbcce28c3a417417": {
         "id": "64305451fc3be5947773c339-656fabcfdbcce28c3a417417",
-        "slug": "icon-film-channel-classics",
+        "slug": "icon-film-channel-christmas-classics",
         "gridKey": "656fabcfdbcce28c3a417417",
-        "name": "Icon Film Channel Classics",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8d6601b1-96e8-4db9-a46c-89fc74e7843b/53236_1_ICON_Film_1500x1000_ATTRIBUTION.png",
+        "name": "Icon Film Channel Christmas Classics",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2003890-1df8-4140-a136-15f2bf8c3458/54940_ICON_FILM_CHANNEL_CLASSICS_SINGLE_LOGO_V6.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-656fabcfdbcce28c3a417417.m3u8",
         "genres": [
