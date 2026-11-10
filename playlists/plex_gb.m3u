@@ -224,7 +224,7 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-699df1c15ca3
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="News",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Adrenaline & Sci-Fi",FrightFlix
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Sports",FTF Sports
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Sports",FUEL TV
@@ -476,7 +476,7 @@ https://lotus.stingray.com/manifest/ose-104ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-665e48c419c3bb1f606d86ab" tvg-id="665e48c419c3bb1f606d86ab" tvg-name="POP UP" tvg-logo="https://provider-static.plex.tv/epg/cms/production/67906c3b-0242-4a2c-9a32-02ee952ba309/POP-UP-Light-Stacked-_-_Nicholas_Foundoukis.png" group-title="Kids & Family",POP UP
 https://amg01753-amg01753c9-plex-us-8006.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-popup-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64e44123200cd2f67473e0d8" tvg-id="64e44123200cd2f67473e0d8" tvg-name="Popflix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7f70dc10-9902-424d-a1b2-8d9d00fcd9f4/49308_Popflix_Color_logo.png" group-title="Movies",Popflix
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-64e44123200cd2f67473e0d8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://signatureentertainment-popflix-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-656fb850cb7e8e6a9bc3f36e" tvg-id="656fb850cb7e8e6a9bc3f36e" tvg-name="Popular Science" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="Explore",Popular Science
 https://amg13231-actve-amg13231c5-plex-us-1822.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62280162c9f485cc7afe8c46" tvg-id="62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png" group-title="Sports",Powder TV

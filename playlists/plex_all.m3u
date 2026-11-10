@@ -490,7 +490,7 @@ https://d35p4ep9ync6qx.cloudfront.net/e7403e7d9913fd828b1602fa7cef6902/master.m3
 #EXTINF:-1 channel-id="plex-6018913fa15130002b284197-us" tvg-id="6018913fa15130002b284197" tvg-name="FreeTV Sureño" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc2b79be-49b6-49b0-95dc-be39ab298aca/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo__1_.png" group-title="United States",FreeTV Sureño
 https://oly-fresur.otteravision.com/oly/fresur/fresur_720.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-us" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="United States",FrightFlix
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-us" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="United States",FTF Sports
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5fc705f68aba71002d8b7b37-us" tvg-id="5fc705f68aba71002d8b7b37" tvg-name="Fubo Sports Network" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/ac0e90e4853f26cfbcfd401790e7ab28.png" group-title="United States",Fubo Sports Network
@@ -1044,7 +1044,7 @@ https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3
 #EXTINF:-1 channel-id="plex-69d93c22a5c870fb1e88f871-us" tvg-id="69d93c22a5c870fb1e88f871" tvg-name="Space & Beyond" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3a8ee4c-6123-4f42-97fe-a07e0b38acad/Space_Beyond_Logo_Dark_1500x1000.png" group-title="United States",Space & Beyond
 https://amg00136-amg00136c56-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-614a11bfa6f839154ee3306d-us" tvg-id="614a11bfa6f839154ee3306d" tvg-name="Spark TV Light & Love" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fa25b8fc-3d7e-428e-af71-6369dd1596a7/SparkTV_logo_darkWHTLETTERS.png" group-title="United States",Spark TV Light & Love
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-614a11bfa6f839154ee3306d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://candlelightmedia-sparklightlove-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69cab85156654a7a82926dad-us" tvg-id="69cab85156654a7a82926dad" tvg-name="Speed Sport 1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3897a520-f7e3-44f0-a18c-11687795059f/SPEED_SPORT_1_1500X1000_COLOR_LOGO_FOR_DARK_BACKGROUND.png" group-title="United States",Speed Sport 1
 https://linear-599.frequency.stream/mt/plex/599/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6349ed0eb1adc4cfa571fd37-us" tvg-id="6349ed0eb1adc4cfa571fd37" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="United States",SPEEDVISION
@@ -1700,7 +1700,7 @@ https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist
 #EXTINF:-1 channel-id="plex-65de8ca640b20047b79df1c9-ca" tvg-id="65de8ca640b20047b79df1c9" tvg-name="Fresh Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b7f45f1-a835-422d-ab18-fb82d12a30de/ColoredLogo_FreshMovies_1500x1000RDX.png" group-title="Canada",Fresh Movies
 https://amg02411-vvsfilms-amg02411c1-plex-ca-2809.playouts.now.amagi.tv/playlist/amg02411-vvsfilms-freshmovies-plexca/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-ca" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Canada",FrightFlix
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-ca" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Canada",FTF Sports
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-ca" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Canada",FUEL TV
@@ -2558,7 +2558,7 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-699df1c15ca3
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-gb" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="GB",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-gb" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="GB",FrightFlix
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-gb" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="GB",FTF Sports
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-gb" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="GB",FUEL TV
@@ -2810,7 +2810,7 @@ https://lotus.stingray.com/manifest/ose-104ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-665e48c419c3bb1f606d86ab-gb" tvg-id="665e48c419c3bb1f606d86ab" tvg-name="POP UP" tvg-logo="https://provider-static.plex.tv/epg/cms/production/67906c3b-0242-4a2c-9a32-02ee952ba309/POP-UP-Light-Stacked-_-_Nicholas_Foundoukis.png" group-title="GB",POP UP
 https://amg01753-amg01753c9-plex-us-8006.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-popup-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64e44123200cd2f67473e0d8-gb" tvg-id="64e44123200cd2f67473e0d8" tvg-name="Popflix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7f70dc10-9902-424d-a1b2-8d9d00fcd9f4/49308_Popflix_Color_logo.png" group-title="GB",Popflix
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-64e44123200cd2f67473e0d8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://signatureentertainment-popflix-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-656fb850cb7e8e6a9bc3f36e-gb" tvg-id="656fb850cb7e8e6a9bc3f36e" tvg-name="Popular Science" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="GB",Popular Science
 https://amg13231-actve-amg13231c5-plex-us-1822.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62280162c9f485cc7afe8c46-gb" tvg-id="62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png" group-title="GB",Powder TV
@@ -3248,7 +3248,7 @@ https://all3media-four-in-a-bed-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-au" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="Australia",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-au" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Australia",FrightFlix
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-au" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Australia",FTF Sports
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-au" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Australia",FUEL TV
@@ -3830,7 +3830,7 @@ https://all3media-four-in-a-bed-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-nz" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="New Zealand",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-nz" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="New Zealand",FrightFlix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-nz" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="New Zealand",FTF Sports
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-nz" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="New Zealand",FUEL TV
@@ -4390,7 +4390,7 @@ https://oly-fresur.otteravision.com/oly/fresur/fresur_720.m3u8
 #EXTINF:-1 channel-id="plex-6018913fa15130002b284197-mx" tvg-id="6018913fa15130002b284197" tvg-name="FreeTV Sureño" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc2b79be-49b6-49b0-95dc-be39ab298aca/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo__1_.png" group-title="Mexico",FreeTV Sureño
 https://oly-fresur.otteravision.com/oly/fresur/fresur_720.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-mx" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Mexico",FrightFlix
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-mx" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Mexico",FTF Sports
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a951958f534d4312a699c27-mx" tvg-id="6a951958f534d4312a699c27" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/962f9563-b48d-4760-a1d2-dbc6cfb8aae1/FUELTVf3a8f9f9404c975495b093c73598d7baRDRED.png" group-title="Mexico",FUEL TV
@@ -4926,7 +4926,7 @@ https://oly-frc.otteravision.com/oly/frc/frc_720.m3u8
 #EXTINF:-1 channel-id="plex-6018913ea15130002b284191-es" tvg-id="6018913ea15130002b284191" tvg-name="FreeTV Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1c2a69a-6ca6-4c92-b090-53de85f49c8f/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Spain",FreeTV Hits
 https://d35p4ep9ync6qx.cloudfront.net/e7403e7d9913fd828b1602fa7cef6902/master.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-es" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Spain",FrightFlix
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-es" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Spain",FTF Sports
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-es" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Spain",FUEL TV
@@ -5446,7 +5446,7 @@ https://d35p4ep9ync6qx.cloudfront.net/e7403e7d9913fd828b1602fa7cef6902/master.m3
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-fr" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="FR",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-fr" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="FR",FrightFlix
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-6490e6ae18a55242eea95997-fr" tvg-id="6490e6ae18a55242eea95997" tvg-name="Fréquence Novelas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f61db6fd-8b5e-41c9-bbcb-0135d9d9635d/FREQUENCE_NOVELAS_-_Logo_1500x1000.png" group-title="FR",Fréquence Novelas
 https://amg00711-zylo-amg00711c4-plex-us-693.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-fr" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="FR",FTF Sports
@@ -5922,7 +5922,7 @@ https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist
 #EXTINF:-1 channel-id="plex-68e93e81572e41763b90a582-de" tvg-id="68e93e81572e41763b90a582" tvg-name="Free Comedy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5f3eaf4-288c-4788-9347-8e7726485350/Channel_Logo_Free_Comedy_Color_for_Dark_BG_-_Ricardo_RivasRDX.png" group-title="Germany",Free Comedy
 https://amg00771-amg00771c2-plex-germany-9935.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-de" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Germany",FrightFlix
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-de" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Germany",FTF Sports
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-de" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Germany",FUEL TV
@@ -6438,7 +6438,7 @@ https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist
 #EXTINF:-1 channel-id="plex-608b7095a09205002da4f295-br" tvg-id="608b7095a09205002da4f295" tvg-name="FreeTV Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Brazil",FreeTV Drama
 https://oly-fredr.otteravision.com/oly/fredr/fredr_720.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-br" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Brazil",FrightFlix
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-br" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Brazil",FTF Sports
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6a951881f534d4312a699c25-br" tvg-id="6a951881f534d4312a699c25" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8d09fea-d56b-462e-9554-2ee9957422e1/FUELTVf3a8f9f9404c975495b093c73598d7baRDRED.png" group-title="Brazil",FUEL TV
@@ -6918,7 +6918,7 @@ https://all3media-four-in-a-bed-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-in" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="India",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-in" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="India",FrightFlix
-https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-in" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="India",FTF Sports
 https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-in" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="India",FUEL TV
@@ -7296,7 +7296,7 @@ https://d35p4ep9ync6qx.cloudfront.net/e7403e7d9913fd828b1602fa7cef6902/master.m3
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-jp" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="Japan",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-jp" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Japan",FrightFlix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-jp" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Japan",FTF Sports
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-jp" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Japan",FUEL TV
@@ -7650,7 +7650,7 @@ https://d35p4ep9ync6qx.cloudfront.net/e7403e7d9913fd828b1602fa7cef6902/master.m3
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-kr" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="South Korea",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-kr" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="South Korea",FrightFlix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-kr" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="South Korea",FTF Sports
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-kr" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="South Korea",FUEL TV
@@ -8046,7 +8046,7 @@ https://all3media-four-in-a-bed-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-se" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="Sweden",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-se" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Sweden",FrightFlix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-se" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Sweden",FTF Sports
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-se" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Sweden",FUEL TV
@@ -8526,7 +8526,7 @@ https://all3media-four-in-a-bed-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-nl" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="Netherlands",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-nl" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Netherlands",FrightFlix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-nl" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Netherlands",FTF Sports
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-nl" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Netherlands",FUEL TV
@@ -9002,7 +9002,7 @@ https://all3media-four-in-a-bed-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-no" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="Norway",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-no" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Norway",FrightFlix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-no" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Norway",FTF Sports
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-no" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Norway",FUEL TV
@@ -9500,7 +9500,7 @@ https://all3media-four-in-a-bed-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-fi" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="Finland",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-fi" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Finland",FrightFlix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-fi" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Finland",FTF Sports
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-fi" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Finland",FUEL TV
@@ -9992,7 +9992,7 @@ https://all3media-four-in-a-bed-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-dk" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="Denmark",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-dk" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Denmark",FrightFlix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-dk" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Denmark",FTF Sports
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-dk" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Denmark",FUEL TV
@@ -10470,7 +10470,7 @@ https://all3media-four-in-a-bed-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb-is" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="Iceland",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada-is" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Iceland",FrightFlix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa-is" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Iceland",FTF Sports
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2-is" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Iceland",FUEL TV

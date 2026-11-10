@@ -156,7 +156,7 @@ https://oly-frc.otteravision.com/oly/frc/frc_720.m3u8
 #EXTINF:-1 channel-id="plex-6018913ea15130002b284191" tvg-id="6018913ea15130002b284191" tvg-name="FreeTV Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1c2a69a-6ca6-4c92-b090-53de85f49c8f/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="En Español",FreeTV Hits
 https://d35p4ep9ync6qx.cloudfront.net/e7403e7d9913fd828b1602fa7cef6902/master.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Adrenaline & Sci-Fi",FrightFlix
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Sports",FTF Sports
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Sports",FUEL TV

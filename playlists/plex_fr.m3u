@@ -140,7 +140,7 @@ https://d35p4ep9ync6qx.cloudfront.net/e7403e7d9913fd828b1602fa7cef6902/master.m3
 #EXTINF:-1 channel-id="plex-678fe7959407a53556d3e8eb" tvg-id="678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="News",FRANCE 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Adrenaline & Sci-Fi",FrightFlix
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-6490e6ae18a55242eea95997" tvg-id="6490e6ae18a55242eea95997" tvg-name="Fréquence Novelas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f61db6fd-8b5e-41c9-bbcb-0135d9d9635d/FREQUENCE_NOVELAS_-_Logo_1500x1000.png" group-title="Bingeworthy",Fréquence Novelas
 https://amg00711-zylo-amg00711c4-plex-us-693.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Sports",FTF Sports

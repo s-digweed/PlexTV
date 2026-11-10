@@ -302,7 +302,7 @@ https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist
 #EXTINF:-1 channel-id="plex-65de8ca640b20047b79df1c9" tvg-id="65de8ca640b20047b79df1c9" tvg-name="Fresh Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b7f45f1-a835-422d-ab18-fb82d12a30de/ColoredLogo_FreshMovies_1500x1000RDX.png" group-title="Movies",Fresh Movies
 https://amg02411-vvsfilms-amg02411c1-plex-ca-2809.playouts.now.amagi.tv/playlist/amg02411-vvsfilms-freshmovies-plexca/playlist.m3u8
 #EXTINF:-1 channel-id="plex-621674502c2627c068e73ada" tvg-id="621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Adrenaline & Sci-Fi",FrightFlix
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-621674502c2627c068e73ada.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/f1f4b2ae98ab21da69a50420706cb859/master.m3u8
 #EXTINF:-1 channel-id="plex-605a309dc5acdc002c7a20aa" tvg-id="605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Sports",FTF Sports
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ffc5cfa6cad6f2991745c2" tvg-id="62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Sports",FUEL TV
