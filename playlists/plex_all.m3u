@@ -2821,6 +2821,8 @@ https://amg01258-raycom-amg01258c1-plex-us-11253.playouts.now.amagi.tv/playlist.
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-68e0388d8bbd79d66c631ab4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63628eb88e4b18ca22f897dc-gb" tvg-id="63628eb88e4b18ca22f897dc" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png" group-title="GB",PursuitUP
 https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6aa776a1fc710687a8b4db41-gb" tvg-id="6aa776a1fc710687a8b4db41" tvg-name="Q With Tom Power" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png" group-title="GB",Q With Tom Power
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6aa776a1fc710687a8b4db41.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62d7f68fb19cbf65dc7bef7c-gb" tvg-id="62d7f68fb19cbf65dc7bef7c" tvg-name="Qello Concerts" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/26655d04221a66d105b317c0bba65113.png" group-title="GB",Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello002-paris/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75-gb" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="GB",Qwest TV
@@ -3457,6 +3459,8 @@ https://amg01258-raycom-amg01258c1-plex-us-11253.playouts.now.amagi.tv/playlist.
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68e0388d8bbd79d66c631ab4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63628eb88e4b18ca22f897dc-au" tvg-id="63628eb88e4b18ca22f897dc" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png" group-title="Australia",PursuitUP
 https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6aa776a1fc710687a8b4db41-au" tvg-id="6aa776a1fc710687a8b4db41" tvg-name="Q With Tom Power" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png" group-title="Australia",Q With Tom Power
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6aa776a1fc710687a8b4db41.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75-au" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Australia",Qwest TV
 https://plexaaaaa-qwest-jazz-plex-miu19.amagi.tv/playlist/plexAAAAA-qwest-jazz-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f90ebc726350a002d40b136-au" tvg-id="5f90ebc726350a002d40b136" tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Australia",RACER International
@@ -4023,6 +4027,8 @@ https://amg01258-raycom-amg01258c1-plex-us-11253.playouts.now.amagi.tv/playlist.
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68e0388d8bbd79d66c631ab4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63628eb88e4b18ca22f897dc-nz" tvg-id="63628eb88e4b18ca22f897dc" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png" group-title="New Zealand",PursuitUP
 https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6aa776a1fc710687a8b4db41-nz" tvg-id="6aa776a1fc710687a8b4db41" tvg-name="Q With Tom Power" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png" group-title="New Zealand",Q With Tom Power
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75-nz" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="New Zealand",Qwest TV
 https://plexaaaaa-qwest-jazz-plex-miu19.amagi.tv/playlist/plexAAAAA-qwest-jazz-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f90ebc726350a002d40b136-nz" tvg-id="5f90ebc726350a002d40b136" tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="New Zealand",RACER International
@@ -8215,6 +8221,8 @@ https://linear-265.frequency.stream/mt/plex/265/hls/master/playlist.m3u8
 https://amg01258-raycom-amg01258c1-plex-us-11253.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63628eb88e4b18ca22f897dc-se" tvg-id="63628eb88e4b18ca22f897dc" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png" group-title="Sweden",PursuitUP
 https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6aa776a1fc710687a8b4db41-se" tvg-id="6aa776a1fc710687a8b4db41" tvg-name="Q With Tom Power" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png" group-title="Sweden",Q With Tom Power
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62d7f68fb19cbf65dc7bef7c-se" tvg-id="62d7f68fb19cbf65dc7bef7c" tvg-name="Qello Concerts" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/26655d04221a66d105b317c0bba65113.png" group-title="Sweden",Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello002-paris/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75-se" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Sweden",Qwest TV
@@ -9173,6 +9181,8 @@ https://linear-265.frequency.stream/mt/plex/265/hls/master/playlist.m3u8
 https://amg01258-raycom-amg01258c1-plex-us-11253.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63628eb88e4b18ca22f897dc-no" tvg-id="63628eb88e4b18ca22f897dc" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png" group-title="Norway",PursuitUP
 https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6aa776a1fc710687a8b4db41-no" tvg-id="6aa776a1fc710687a8b4db41" tvg-name="Q With Tom Power" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png" group-title="Norway",Q With Tom Power
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62d7f68fb19cbf65dc7bef7c-no" tvg-id="62d7f68fb19cbf65dc7bef7c" tvg-name="Qello Concerts" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/26655d04221a66d105b317c0bba65113.png" group-title="Norway",Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello002-paris/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75-no" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Norway",Qwest TV
@@ -9667,6 +9677,8 @@ https://linear-265.frequency.stream/mt/plex/265/hls/master/playlist.m3u8
 https://amg01258-raycom-amg01258c1-plex-us-11253.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63628eb88e4b18ca22f897dc-fi" tvg-id="63628eb88e4b18ca22f897dc" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png" group-title="Finland",PursuitUP
 https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6aa776a1fc710687a8b4db41-fi" tvg-id="6aa776a1fc710687a8b4db41" tvg-name="Q With Tom Power" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png" group-title="Finland",Q With Tom Power
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62d7f68fb19cbf65dc7bef7c-fi" tvg-id="62d7f68fb19cbf65dc7bef7c" tvg-name="Qello Concerts" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/26655d04221a66d105b317c0bba65113.png" group-title="Finland",Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello002-paris/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75-fi" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Finland",Qwest TV
@@ -10161,6 +10173,8 @@ https://linear-265.frequency.stream/mt/plex/265/hls/master/playlist.m3u8
 https://amg01258-raycom-amg01258c1-plex-us-11253.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63628eb88e4b18ca22f897dc-dk" tvg-id="63628eb88e4b18ca22f897dc" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png" group-title="Denmark",PursuitUP
 https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6aa776a1fc710687a8b4db41-dk" tvg-id="6aa776a1fc710687a8b4db41" tvg-name="Q With Tom Power" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png" group-title="Denmark",Q With Tom Power
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62d7f68fb19cbf65dc7bef7c-dk" tvg-id="62d7f68fb19cbf65dc7bef7c" tvg-name="Qello Concerts" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/26655d04221a66d105b317c0bba65113.png" group-title="Denmark",Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello002-paris/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75-dk" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Denmark",Qwest TV
@@ -10619,6 +10633,8 @@ https://linear-265.frequency.stream/mt/plex/265/hls/master/playlist.m3u8
 https://amg01258-raycom-amg01258c1-plex-us-11253.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63628eb88e4b18ca22f897dc-is" tvg-id="63628eb88e4b18ca22f897dc" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png" group-title="Iceland",PursuitUP
 https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6aa776a1fc710687a8b4db41-is" tvg-id="6aa776a1fc710687a8b4db41" tvg-name="Q With Tom Power" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png" group-title="Iceland",Q With Tom Power
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-60b0f65c0c8ffb002c821a75-is" tvg-id="60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Iceland",Qwest TV
 https://plexaaaaa-qwest-jazz-plex-miu19.amagi.tv/playlist/plexAAAAA-qwest-jazz-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f90ebc726350a002d40b136-is" tvg-id="5f90ebc726350a002d40b136" tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Iceland",RACER International

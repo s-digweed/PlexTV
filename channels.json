@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T10:53:15.181877+00:00",
+  "generated": "2026-11-11T17:10:06.940547+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -17790,6 +17790,19 @@
         ],
         "region": "gb"
       },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "64305451fc3be5947773c339-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6aa776a1fc710687a8b4db41.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "gb"
+      },
       "6a3c23ef776737893b3d488f": {
         "id": "64305451fc3be5947773c339-6a3c23ef776737893b3d488f",
         "slug": "judge-judy",
@@ -21978,6 +21991,19 @@
         ],
         "region": "au"
       },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "697140a85d851f5e69414688-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6aa776a1fc710687a8b4db41.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "au"
+      },
       "6a8786c4fa0d0293e2681b7c": {
         "id": "697140a85d851f5e69414688-6a8786c4fa0d0293e2681b7c",
         "slug": "growthday-network",
@@ -25732,6 +25758,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61d738b5a7b7c7f703418514.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "nz"
+      },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -53133,6 +53172,19 @@
         ],
         "region": "se"
       },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "se"
+      },
       "6a3002c550e72a483a631e69": {
         "id": "5e20b730f2f8d5003d739db7-6a3002c550e72a483a631e69",
         "slug": "modern-marvels-8",
@@ -59364,6 +59416,19 @@
         ],
         "region": "no"
       },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "no"
+      },
       "6a3003c050e72a483a631e6b": {
         "id": "5e20b730f2f8d5003d739db7-6a3003c050e72a483a631e6b",
         "slug": "modern-marvels-10",
@@ -62559,6 +62624,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61d738b5a7b7c7f703418514.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "fi"
+      },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -65790,6 +65868,19 @@
         ],
         "region": "dk"
       },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "dk"
+      },
       "6a3000691864992bf479f3f2": {
         "id": "5e20b730f2f8d5003d739db7-6a3000691864992bf479f3f2",
         "slug": "modern-marvels-3",
@@ -68712,6 +68803,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61d738b5a7b7c7f703418514.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "is"
+      },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
