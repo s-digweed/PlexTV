@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:10:06.940547+00:00",
+  "generated": "2026-11-11T22:02:50.847578+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -205,6 +205,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/1b7362dd-d411-4eec-8c39-908896146f79/Weeds_NurseJackie_Logo_1500x1000_DarkBG.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66915d35086cb6d46eae12c8.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "us"
+      },
+      "6ad6416c17d89423b84560a7": {
+        "id": "6a1610bebdf296985fd95603-6ad6416c17d89423b84560a7",
+        "slug": "vikings",
+        "gridKey": "6ad6416c17d89423b84560a7",
+        "name": "Vikings",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0820055b-733c-405c-85e8-e9a0d1a47778/Vikings_Plex_Logo_Attribution_-_Carl_Hoffelder.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ad6416c17d89423b84560a7.m3u8",
         "genres": [
           "Bingeworthy"
         ],

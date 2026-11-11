@@ -1287,6 +1287,8 @@ https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6aaa1f33083227098739435d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62c47062085f5c338b9c6360-us" tvg-id="62c47062085f5c338b9c6360" tvg-name="VICE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d2a038b-fd7a-4a79-8c7a-2ce78037ec2d/vice_logo_lightrdx.png" group-title="United States",VICE
 https://amg00654-itv-amg00654c46-plex-us-9143.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-vicefastone-plexus/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6ad6416c17d89423b84560a7-us" tvg-id="6ad6416c17d89423b84560a7" tvg-name="Vikings" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0820055b-733c-405c-85e8-e9a0d1a47778/Vikings_Plex_Logo_Attribution_-_Carl_Hoffelder.png" group-title="United States",Vikings
+https://linear-1692.frequency.stream/mt/plex/1692/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-688d32e9a6fe30698ab42005-us" tvg-id="688d32e9a6fe30698ab42005" tvg-name="Vive Kanal D Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/edace34e-ac45-44b7-a562-265977557817/Vive_KDD_LOGO-DarkBG_-_Alejandro_N.png" group-title="United States",Vive Kanal D Drama
 https://amg01602-amg01602c2-plex-us-8692.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-65a1d3996475bf522f9256e3-us" tvg-id="65a1d3996475bf522f9256e3" tvg-name="VR+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd4c6347-92c4-4381-9d09-b8d38d9729de/1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" group-title="United States",VR+
