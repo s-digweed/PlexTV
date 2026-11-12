@@ -653,6 +653,8 @@ https://amg18477-mycode-amg18477c1-plex-us-9636.playouts.now.amagi.tv/playlist/a
 https://poolc6cg1ead.airspace-cdn.cbsivideo.com/master_1.m3u8
 #EXTINF:-1 channel-id="plex-5f0ff262d71dcb00449ec018" tvg-id="5f0ff262d71dcb00449ec018" tvg-name="Judge Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png" group-title="Daytime TV & Games",Judge Nosey
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec018.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+#EXTINF:-1 channel-id="plex-6ae2860173700d3e4f499bf5" tvg-id="6ae2860173700d3e4f499bf5" tvg-name="Judy Justice" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14db474d-dc83-4fd4-b33a-1111e63ec96d/JudyJustice_Plex_Logo_White-_Carl_Hoffelder.png" group-title="Daytime TV & Games",Judy Justice
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6ae2860173700d3e4f499bf5.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-64704954e536e0faaf10be9f" tvg-id="64704954e536e0faaf10be9f" tvg-name="Just For Laughs Gags" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png" group-title="Comedy",Just For Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5eea605574085f0040ddc797" tvg-id="5eea605574085f0040ddc797" tvg-name="KidsFlix" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png" group-title="Kids & Family",KidsFlix
@@ -1219,6 +1221,8 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c1e176f0f1
 https://amg00433-plextv-tmz-plex-vl03n.amagi.tv/playlist/amg00433-plextv-tmz-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-606605549dbfca002d2ae873" tvg-id="606605549dbfca002d2ae873" tvg-name="TNA Wrestling Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="Sports",TNA Wrestling Channel
 https://amg00966-amg00966c6-amgplt0020.playout.now3.amagi.tv/playlist/amg00966-amg00966c6-amgplt0020/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6ad2b7bf301d72f12e9d1c03" tvg-id="6ad2b7bf301d72f12e9d1c03" tvg-name="Tock Tock Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8cc6c5f-3f6d-4ff0-99f8-6bed9bb9ec9a/TockTock_logo_dark-bg_1500x1000.png" group-title="En Español",Tock Tock Movies
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6ad2b7bf301d72f12e9d1c03.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5fc70600598c41002da3dd39" tvg-id="5fc70600598c41002da3dd39" tvg-name="TODAY All Day" tvg-logo="https://provider-static.plex.tv/epg/cms/production/67743737-1d9b-45b6-b03f-82175707147c/today_all_day_logo.png" group-title="Daytime TV & Games",TODAY All Day
 https://d36mmvz9np65vy.cloudfront.net/live/master_1.m3u8
 #EXTINF:-1 channel-id="plex-62ee6eae271f393d2d9f7096" tvg-id="62ee6eae271f393d2d9f7096" tvg-name="Today's K-Pop" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png" group-title="Music",Today's K-Pop
@@ -1253,6 +1257,8 @@ https://amg00461-eone-amg00461c1-plex-us-538.playouts.now.amagi.tv/playlist/amg0
 https://videoelephantlimited-travelescapes-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60ede94f7da2ef002c55ce9b" tvg-id="60ede94f7da2ef002c55ce9b" tvg-name="Tribeca Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3609f1e-21bc-4899-9399-2f6ab8f9b49d/TribecaChannel_Logo_Dark.png" group-title="Movies",Tribeca Channel
 https://amg02507-giantpictures-tribeca-plex-3dllj.amagi.tv/playlist/amg02507-giantpictures-tribeca-plex/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6ae2870f8b2d1b54c8679f87" tvg-id="6ae2870f8b2d1b54c8679f87" tvg-name="Tribunal Justice" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14fe51b5-659e-4024-89eb-a179c2b021ff/TribunalJustice_Plex_white_text_DarkMode_-_Carl_Hoffelder.png" group-title="Daytime TV & Games",Tribunal Justice
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6ae2870f8b2d1b54c8679f87.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-678fe95d389daa346544d501" tvg-id="678fe95d389daa346544d501" tvg-name="Triton Poker" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3083db91-a573-4a57-aa4b-5313378c4b7f/Triton_1500x1000_white_-_Eddie_Hunter-Higgins.png" group-title="Sports",Triton Poker
 https://amg12058-amg12058c9-plex-us-6127.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-tritonpokercc-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-65621e98b7d737841f30a4f9" tvg-id="65621e98b7d737841f30a4f9" tvg-name="TruBlu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e0cf5ed8-54af-49b5-8df3-782eaf253618/Plex_Channel_Logo_Lito_Caraballo.png" group-title="True Crime",TruBlu

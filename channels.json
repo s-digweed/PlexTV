@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T22:02:50.847578+00:00",
+  "generated": "2026-11-12T00:44:59.738661+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -4981,6 +4981,32 @@
         ],
         "region": "us"
       },
+      "6ae2870f8b2d1b54c8679f87": {
+        "id": "6a1610bebdf296985fd95603-6ae2870f8b2d1b54c8679f87",
+        "slug": "tribunal-justice",
+        "gridKey": "6ae2870f8b2d1b54c8679f87",
+        "name": "Tribunal Justice",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/14fe51b5-659e-4024-89eb-a179c2b021ff/TribunalJustice_Plex_white_text_DarkMode_-_Carl_Hoffelder.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae2870f8b2d1b54c8679f87.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
+      "6ae2860173700d3e4f499bf5": {
+        "id": "6a1610bebdf296985fd95603-6ae2860173700d3e4f499bf5",
+        "slug": "judy-justice",
+        "gridKey": "6ae2860173700d3e4f499bf5",
+        "name": "Judy Justice",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/14db474d-dc83-4fd4-b33a-1111e63ec96d/JudyJustice_Plex_Logo_White-_Carl_Hoffelder.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae2860173700d3e4f499bf5.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
       "685f0f5c593aba51f211823b": {
         "id": "6a1610bebdf296985fd95603-685f0f5c593aba51f211823b",
         "slug": "wendy-williams",
@@ -7537,6 +7563,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/65173a39-a2cd-49c3-8944-a4422a8d1fe5/Free-TV_Clasico_1500X1000_dark_and_light.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-691d599684325d49bfa06ab6.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6ad2b7bf301d72f12e9d1c03": {
+        "id": "6a1610bebdf296985fd95603-6ad2b7bf301d72f12e9d1c03",
+        "slug": "tock-tock-movies",
+        "gridKey": "6ad2b7bf301d72f12e9d1c03",
+        "name": "Tock Tock Movies",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a8cc6c5f-3f6d-4ff0-99f8-6bed9bb9ec9a/TockTock_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ad2b7bf301d72f12e9d1c03.m3u8",
         "genres": [
           "En Español"
         ],
@@ -13976,6 +14015,19 @@
         "key": "/library/parts/647f8d22a2fc3fadb4721685-69333216ac5b3f9f53442374.m3u8",
         "genres": [
           "Kids & Family"
+        ],
+        "region": "ca"
+      },
+      "6ad2b7bf301d72f12e9d1c03": {
+        "id": "647f8d22a2fc3fadb4721685-6ad2b7bf301d72f12e9d1c03",
+        "slug": "tock-tock-movies",
+        "gridKey": "6ad2b7bf301d72f12e9d1c03",
+        "name": "Tock Tock Movies",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a8cc6c5f-3f6d-4ff0-99f8-6bed9bb9ec9a/TockTock_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6ad2b7bf301d72f12e9d1c03.m3u8",
+        "genres": [
+          "En Español"
         ],
         "region": "ca"
       },
