@@ -541,7 +541,7 @@ https://25a8e5f7.wurl.com/playlist.m3u8
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6615522e50e81fa51eb0df60.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Kids & Family",Sonic TV
 https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
-#EXTINF:-1 channel-id="plex-692111d750fe592fd6d5b7da" tvg-id="692111d750fe592fd6d5b7da" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b7e6dc61-1c07-4ec3-b63e-4d69b5dc8d78/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png" group-title="Movies",Sony One | Action Hits
+#EXTINF:-1 channel-id="plex-692111d750fe592fd6d5b7da" tvg-id="692111d750fe592fd6d5b7da" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/38c931b6-78c7-40a6-aa4d-0cff52ec4214/Sony_Action_UK_FAST_Plex_ActionHits_logo_dark.png" group-title="Movies",Sony One | Action Hits
 https://d1p5u2g8ione7y.cloudfront.net/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6920d9db5028288613484a78" tvg-id="6920d9db5028288613484a78" tvg-name="Sony One | Comedy Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d812a425-ae24-4a69-a902-ea08e47fa840/UK_FAST_Plex_ComedyHits_logo_dark.png" group-title="Movies",Sony One | Comedy Hits
 https://d1mq6cegws4i07.cloudfront.net/playlist.m3u8
