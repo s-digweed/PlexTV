@@ -359,7 +359,7 @@ https://imps-smrfe.otteravision.com/imps/smrfe/smrfe_720.m3u8
 https://25a8e5f7.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Kids & Family",Sonic TV
 https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
-#EXTINF:-1 channel-id="plex-692326cd5cbe620c1f9b6bcd" tvg-id="692326cd5cbe620c1f9b6bcd" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dcebeb11-e913-4ad3-9051-48b40c33d672/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png" group-title="Movies",Sony One | Action Hits
+#EXTINF:-1 channel-id="plex-692326cd5cbe620c1f9b6bcd" tvg-id="692326cd5cbe620c1f9b6bcd" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c8c6693-dcdb-4b02-9969-0c54b59bf090/Sony_Action_UK_FAST_Plex_ActionHits_logo_dark.png" group-title="Movies",Sony One | Action Hits
 https://dd75nh1zh7gqx.cloudfront.net/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6923276a5cbe620c1f9b6bcf" tvg-id="6923276a5cbe620c1f9b6bcf" tvg-name="Sony One | Comedy Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e87171f-d3ee-40ba-ba0c-b9a2bf989c09/UK_FAST_Plex_ComedyHits_logo_dark.png" group-title="Movies",Sony One | Comedy Hits
 https://d2u9szrhdcwxi3.cloudfront.net/playlist.m3u8

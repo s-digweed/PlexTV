@@ -64,7 +64,7 @@ https://linear-12-plex.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6838eb6a38304666c89d4e3d-us" tvg-id="6838eb6a38304666c89d4e3d" tvg-name="Amasian TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/464ba63c-620f-4b2b-8de3-e69c3bc3ee4e/Amasian_TV_logo_dark_-_Jason_Hwang.png" group-title="United States",Amasian TV
 https://amg01923-odk-amg01923c19-plex-us-8639.playouts.now.amagi.tv/playlist/amg01923-odkmedia-euchannels1-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1efa6c33948ea4ceedbcf-us" tvg-id="62d1efa6c33948ea4ceedbcf" tvg-name="AMC en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png" group-title="United States",AMC en Español
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62d1efa6c33948ea4ceedbcf.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5fc705e2a2236e002d69f36d-us" tvg-id="5fc705e2a2236e002d69f36d" tvg-name="AMC Thrillers" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="United States",AMC Thrillers
 https://amc-rushbyamc-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6467891c73e5e029428f0e16-us" tvg-id="6467891c73e5e029428f0e16" tvg-name="American Crimes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5b694d82-7b61-49a2-a28e-95b07d8105ac/american-crimes-fclogo-White.png" group-title="United States",American Crimes
@@ -6133,7 +6133,7 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/plextv/master.m3u8
 https://imps-smrfe.otteravision.com/imps/smrfe/smrfe_720.m3u8
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327-de" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Germany",Sonic TV
 https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
-#EXTINF:-1 channel-id="plex-69212d585028288613484a7e-de" tvg-id="69212d585028288613484a7e" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2041ce0-e661-46a2-b372-f368232640de/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png" group-title="Germany",Sony One | Action Hits
+#EXTINF:-1 channel-id="plex-69212d585028288613484a7e-de" tvg-id="69212d585028288613484a7e" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8d0d98ec-71d9-4c13-9048-6122a626906c/Sony_Action_UK_FAST_Plex_ActionHits_logo_dark.png" group-title="Germany",Sony One | Action Hits
 https://d1725e34ctihez.cloudfront.net/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69212b045cbe620c1f9b6bb1-de" tvg-id="69212b045cbe620c1f9b6bb1" tvg-name="Sony One | Best Of" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e070f36d-b023-4b44-bd1c-6d2747b92b99/DE_FAST_Plex_Faves_logo_dark.png" group-title="Germany",Sony One | Best Of
 https://d129p3meyf6qrl.cloudfront.net/playlist.m3u8
@@ -8273,7 +8273,7 @@ https://imps-smrfe.otteravision.com/imps/smrfe/smrfe_720.m3u8
 https://25a8e5f7.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327-se" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Sweden",Sonic TV
 https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
-#EXTINF:-1 channel-id="plex-692326cd5cbe620c1f9b6bcd-se" tvg-id="692326cd5cbe620c1f9b6bcd" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dcebeb11-e913-4ad3-9051-48b40c33d672/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png" group-title="Sweden",Sony One | Action Hits
+#EXTINF:-1 channel-id="plex-692326cd5cbe620c1f9b6bcd-se" tvg-id="692326cd5cbe620c1f9b6bcd" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c8c6693-dcdb-4b02-9969-0c54b59bf090/Sony_Action_UK_FAST_Plex_ActionHits_logo_dark.png" group-title="Sweden",Sony One | Action Hits
 https://dd75nh1zh7gqx.cloudfront.net/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6923276a5cbe620c1f9b6bcf-se" tvg-id="6923276a5cbe620c1f9b6bcf" tvg-name="Sony One | Comedy Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e87171f-d3ee-40ba-ba0c-b9a2bf989c09/UK_FAST_Plex_ComedyHits_logo_dark.png" group-title="Sweden",Sony One | Comedy Hits
 https://d2u9szrhdcwxi3.cloudfront.net/playlist.m3u8
@@ -9233,7 +9233,7 @@ https://imps-smrfe.otteravision.com/imps/smrfe/smrfe_720.m3u8
 https://25a8e5f7.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62ba4aaff663580a7238f327-no" tvg-id="62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Norway",Sonic TV
 https://d35p4ep9ync6qx.cloudfront.net/ae32debc8531d5c950bbf6174d1d4d06/master.m3u8
-#EXTINF:-1 channel-id="plex-692322215cbe620c1f9b6bc9-no" tvg-id="692322215cbe620c1f9b6bc9" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3d141f3-611a-4e19-92cc-1380ed5b28c0/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png" group-title="Norway",Sony One | Action Hits
+#EXTINF:-1 channel-id="plex-692322215cbe620c1f9b6bc9-no" tvg-id="692322215cbe620c1f9b6bc9" tvg-name="Sony One | Action Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1731ea20-a6df-4590-be14-9ca8dbb4a1d4/Sony_Action_UK_FAST_Plex_ActionHits_logo_dark.png" group-title="Norway",Sony One | Action Hits
 https://d3lmqewpve0bvx.cloudfront.net/playlist.m3u8
 #EXTINF:-1 channel-id="plex-692322d05cbe620c1f9b6bcb-no" tvg-id="692322d05cbe620c1f9b6bcb" tvg-name="Sony One | Comedy Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8f907174-a8e0-4423-9dcb-0450630f984f/UK_FAST_Plex_ComedyHits_logo_dark.png" group-title="Norway",Sony One | Comedy Hits
 https://d3b37bop0sqbum.cloudfront.net/playlist.m3u8

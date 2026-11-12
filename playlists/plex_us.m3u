@@ -64,7 +64,7 @@ https://linear-12-plex.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6838eb6a38304666c89d4e3d" tvg-id="6838eb6a38304666c89d4e3d" tvg-name="Amasian TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/464ba63c-620f-4b2b-8de3-e69c3bc3ee4e/Amasian_TV_logo_dark_-_Jason_Hwang.png" group-title="Global",Amasian TV
 https://amg01923-odk-amg01923c19-plex-us-8639.playouts.now.amagi.tv/playlist/amg01923-odkmedia-euchannels1-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1efa6c33948ea4ceedbcf" tvg-id="62d1efa6c33948ea4ceedbcf" tvg-name="AMC en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png" group-title="En Español",AMC en Español
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62d1efa6c33948ea4ceedbcf.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5fc705e2a2236e002d69f36d" tvg-id="5fc705e2a2236e002d69f36d" tvg-name="AMC Thrillers" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="Adrenaline & Sci-Fi",AMC Thrillers
 https://amc-rushbyamc-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6467891c73e5e029428f0e16" tvg-id="6467891c73e5e029428f0e16" tvg-name="American Crimes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5b694d82-7b61-49a2-a28e-95b07d8105ac/american-crimes-fclogo-White.png" group-title="True Crime",American Crimes

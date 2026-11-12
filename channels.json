@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T15:16:42.264305+00:00",
+  "generated": "2026-11-12T21:53:25.326579+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -37866,7 +37866,7 @@
         "slug": "sony-one-or-action-hits-2",
         "gridKey": "69212d585028288613484a7e",
         "name": "Sony One | Action Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c2041ce0-e661-46a2-b372-f368232640de/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8d0d98ec-71d9-4c13-9048-6122a626906c/Sony_Action_UK_FAST_Plex_ActionHits_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-69212d585028288613484a7e.m3u8",
         "genres": [
@@ -51565,7 +51565,7 @@
         "slug": "sony-one-or-action-hits-5",
         "gridKey": "692326cd5cbe620c1f9b6bcd",
         "name": "Sony One | Action Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/dcebeb11-e913-4ad3-9051-48b40c33d672/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5c8c6693-dcdb-4b02-9969-0c54b59bf090/Sony_Action_UK_FAST_Plex_ActionHits_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-692326cd5cbe620c1f9b6bcd.m3u8",
         "genres": [
@@ -57809,7 +57809,7 @@
         "slug": "sony-one-or-action-hits-4",
         "gridKey": "692322215cbe620c1f9b6bc9",
         "name": "Sony One | Action Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c3d141f3-611a-4e19-92cc-1380ed5b28c0/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1731ea20-a6df-4590-be14-9ca8dbb4a1d4/Sony_Action_UK_FAST_Plex_ActionHits_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-692322215cbe620c1f9b6bc9.m3u8",
         "genres": [
