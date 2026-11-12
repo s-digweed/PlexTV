@@ -1,16 +1,16 @@
-Plex VPN-free direct links  (2026-11-12 00:45 UTC)
-Channels checked: 1417   VPN-free: 882   Still Plex link (VPN needed): 535
+Plex VPN-free direct links  (2026-11-12 11:01 UTC)
+Channels checked: 1417   VPN-free: 881   Still Plex link (VPN needed): 536
 
-  direct (cached)              882
+  direct (cached)              881
   other host                   451
   amagi-guess-failed           61
   plex-404                     12
   plex-403                     5
   plex-500                     2
+  variant-401                  2
   geo-blocked-host             1
   plex-400                     1
   plex-504                     1
-  variant-401                  1
 
 Non-Amagi video hosts (candidates for future support):
   live-content-cf.xumo.com                                     94
@@ -20,14 +20,13 @@ Non-Amagi video hosts (candidates for future support):
   cfvod.kaltura.com                                            7
   o300801-mp-lura-live.akamaized.net                           3
   content.galxy.tv                                             3
-  9e2698fd.wurl.com                                            1
   67923b26.wurl.com                                            1
+  9e2698fd.wurl.com                                            1
   ca888b2b.wurl.com                                            1
   fa942f77.wurl.com                                            1
   a25cabe4.wurl.com                                            1
   99dd446e.wurl.com                                            1
   e8df38f7.wurl.com                                            1
-  afv-cij.otteravision.com                                     1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
@@ -48,6 +47,7 @@ Non-Amagi video hosts (candidates for future support):
   55d28294.wurl.com                                            1
   ed6ec5d8.wurl.com                                            1
   786f64b9.wurl.com                                            1
+  afv-cij.otteravision.com                                     1
   3846d2d6.wurl.com                                            1
   3e9247fa.wurl.com                                            1
   9f7ff994.wurl.com                                            1
@@ -98,6 +98,6 @@ Example segment URLs (for working out new patterns):
   [22fcfa2f.wurl.com]
     UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261111T171136_424557.ts  || tried 403x5
   [23bf348e.wurl.com]
-    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261111T062129_881678.ts  || tried 403x5
+    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261112T110024_899066.ts  || tried 403x5
   [23e952ae.wurl.com]
     Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261110T231846_412971.ts  || tried 403x5
