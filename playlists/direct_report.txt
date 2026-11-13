@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-11-12 23:40 UTC)
+Plex VPN-free direct links  (2026-11-13 06:47 UTC)
 Channels checked: 1417   VPN-free: 882   Still Plex link (VPN needed): 535
 
   direct (cached)              882
@@ -17,12 +17,12 @@ Non-Amagi video hosts (candidates for future support):
   live-content.cdn.xumo.com                                    51
   hls-beacons-us.xumo.com                                      14
   hls-beacons-eu.xumo.com                                      6
-  cfvod.kaltura.com                                            5
+  cfvod.kaltura.com                                            4
   content.galxy.tv                                             3
+  ov-static.otteravision.com                                   3
   o300801-mp-lura-live.fsy.nfl.com                             2
-  ov-static.otteravision.com                                   2
-  9e2698fd.wurl.com                                            1
   67923b26.wurl.com                                            1
+  9e2698fd.wurl.com                                            1
   ca888b2b.wurl.com                                            1
   fa942f77.wurl.com                                            1
   a25cabe4.wurl.com                                            1
@@ -83,12 +83,13 @@ Example segment URLs (for working out new patterns):
     Watch it SCREAM: https://content.galxy.tv/04d3a218aa3144e493885740fad12439/a/D0000033F.ts
     Dungeon TV: https://content.galxy.tv/fcfbb437843549628a607011faae8843/a/D0000042C.ts
     Watch it Kid: https://content.galxy.tv/212656d491ef46b79766ed90c042a974/a/D000000CC.ts
-  [o300801-mp-lura-live.fsy.nfl.com]
-    NFL Channel: https://o300801-mp-lura-live.fsy.nfl.com/live/ephemeral/aV6qRMoj01gysw3sKomhM3VvbLkpEAG2/nfldigital1_plex/3128k/JgwzZxsrOgk/179610/segment_179610150.ts?token=1794523922_a9b57a2c964f527f765d1631b7b146a6e02bf4fc  || tried 403x16
-    NFL Channel: https://o300801-mp-lura-live.fsy.nfl.com/live/ephemeral/4Z9nGq8j6ED7UWRs23QIO50bylw1za3X/dc1_intl_2_plex_intl/3128k/rm56cQGLc5i/179621/segment_179621970.ts?token=1794524413_dd1a0f6f45b85bd1ca8cf8d829d51f8aeddb53eb  || tried 403x16
   [ov-static.otteravision.com]
     Camp Spoopy: https://ov-static.otteravision.com/scte_v3/tg/278881/tg_ad_slate_278881_540/00000/tg_ad_slate_278881_540_00005.ts  || tried 403x15,vodx1
     Mega Machines: https://ov-static.otteravision.com/scte_v3/mmc/19/mmc_ad_slate_19_720_high/00000/mmc_ad_slate_19_720_high_00006.ts  || tried 403x15,vodx1
+    Tock Tock Movies: https://ov-static.otteravision.com/scte_v3/lrz/22/lrz_ad_slate_22_720_low/00000/lrz_ad_slate_22_720_low_00007.ts  || tried 403x15,vodx1
+  [o300801-mp-lura-live.fsy.nfl.com]
+    NFL Channel: https://o300801-mp-lura-live.fsy.nfl.com/live/ephemeral/aV6qRMoj01gysw3sKomhM3VvbLkpEAG2/nfldigital1_plex/3128k/JgwzZxsrOgk/179610/segment_179610150.ts?token=1794523922_a9b57a2c964f527f765d1631b7b146a6e02bf4fc  || tried 403x16
+    NFL Channel: https://o300801-mp-lura-live.fsy.nfl.com/live/ephemeral/4Z9nGq8j6ED7UWRs23QIO50bylw1za3X/dc1_intl_2_plex_intl/3128k/rm56cQGLc5i/179621/segment_179621970.ts?token=1794524413_dd1a0f6f45b85bd1ca8cf8d829d51f8aeddb53eb  || tried 403x16
   [22472f78.wurl.com]
     The Pet Collective: https://22472f78.wurl.com/dist/wurl/174/hls/master/playlist_1280x720_215442__617111.ts  || tried 403x16
   [224a4259.wurl.com]
