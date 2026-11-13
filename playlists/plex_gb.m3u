@@ -534,7 +534,7 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-639b8d803f4612cc150a5721" tvg-id="639b8d803f4612cc150a5721" tvg-name="Smurf TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png" group-title="Kids & Family",Smurf TV
 https://imps-smrfe.otteravision.com/imps/smrfe/smrfe_720.m3u8
 #EXTINF:-1 channel-id="plex-693cb60258076a970420f595" tvg-id="693cb60258076a970420f595" tvg-name="So... Real" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9ca911d1-d17e-4ed9-9baf-ab3abb4a7fd4/SO_REAL_LOGO_WHITE_Jack_ArcherRDX.png" group-title="Reality",So... Real
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-693cb60258076a970420f595.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://all3media-soreal-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69864df9f937c5afe5a060d6" tvg-id="69864df9f937c5afe5a060d6" tvg-name="soap" tvg-logo="https://provider-static.plex.tv/epg/cms/production/001a29a5-6f62-486b-992e-8d32e53f96cd/1500x1000_SOAP_Logo__Dark__pino_cormaci.png" group-title="Bingeworthy",soap
 https://25a8e5f7.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6615522e50e81fa51eb0df60" tvg-id="6615522e50e81fa51eb0df60" tvg-name="Sonic The Hedgehog" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png" group-title="Kids & Family",Sonic The Hedgehog
