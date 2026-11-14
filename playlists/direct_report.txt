@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-11-14 06:25 UTC)
+Plex VPN-free direct links  (2026-11-14 10:21 UTC)
 Channels checked: 1417   VPN-free: 884   Still Plex link (VPN needed): 533
 
   direct (cached)              884
@@ -17,12 +17,12 @@ Non-Amagi video hosts (candidates for future support):
   live-content.cdn.xumo.com                                    48
   hls-beacons-us.xumo.com                                      15
   hls-beacons-eu.xumo.com                                      9
-  cfvod.kaltura.com                                            4
+  cfvod.kaltura.com                                            5
   content.galxy.tv                                             3
-  ov-static.otteravision.com                                   3
+  ov-static.otteravision.com                                   2
   o300801-mp-lura-live.fsy.nfl.com                             2
-  67923b26.wurl.com                                            1
   9e2698fd.wurl.com                                            1
+  67923b26.wurl.com                                            1
   ca888b2b.wurl.com                                            1
   fa942f77.wurl.com                                            1
   a25cabe4.wurl.com                                            1
@@ -83,13 +83,12 @@ Example segment URLs (for working out new patterns):
     Watch it SCREAM: https://content.galxy.tv/156dcf7d799147baace4cd6eee04f136/a/D00000008.ts
     Dungeon TV: https://content.galxy.tv/7d718cf6bf3848fab1bc4d3e6196b623/a/D0000006F.ts
     Watch it Kid: https://content.galxy.tv/6e209cc4abb14767956421dc3cf59595/a/D00000071.ts
-  [ov-static.otteravision.com]
-    KidsFlix: https://ov-static.otteravision.com/scte_v3/viva/689/viva_ad_slate_689_720_low/00000/viva_ad_slate_689_720_low_00016.ts  || tried 403x15,vodx1
-    Camp Spoopy: https://ov-static.otteravision.com/scte_v3/tg/278881/tg_ad_slate_278881_540/00000/tg_ad_slate_278881_540_00006.ts  || tried 403x15,vodx1
-    Tock Tock Movies: https://ov-static.otteravision.com/scte_v3/lrz/22/lrz_ad_slate_22_720_low/00000/lrz_ad_slate_22_720_low_00007.ts  || tried 403x15,vodx1
   [o300801-mp-lura-live.fsy.nfl.com]
     NFL Channel: https://o300801-mp-lura-live.fsy.nfl.com/live/ephemeral/OXv89aVdX9DrsQVs6m8fE8kX0lmZB351/dc1_intl_main_plex_intl/968k/5L71sdr9bsE/179637/segment_179637178.ts?token=1794616719_7320124c58732172f6dfbd4359fde91af8afcfb9  || tried 403x16
     NFL Channel: https://o300801-mp-lura-live.fsy.nfl.com/live/ephemeral/4Z9nGq8j6ED7UWRs23QIO50bylw1za3X/dc1_intl_2_plex_intl/3128k/rm56cQGLc5i/179637/segment_179637548.ts?token=1794617009_ea1e10de1667e7979f610359d5032b0e0dfa7793  || tried 403x16
+  [ov-static.otteravision.com]
+    KidsFlix: https://ov-static.otteravision.com/scte_v3/viva/689/viva_ad_slate_689_720_low/00000/viva_ad_slate_689_720_low_00016.ts  || tried 403x15,vodx1
+    Camp Spoopy: https://ov-static.otteravision.com/scte_v3/tg/278881/tg_ad_slate_278881_540/00000/tg_ad_slate_278881_540_00006.ts  || tried 403x15,vodx1
   [22472f78.wurl.com]
     The Pet Collective: https://22472f78.wurl.com/dist/wurl/174/hls/master/playlist_1280x720_233745__633112.ts  || tried 403x16
   [224a4259.wurl.com]
