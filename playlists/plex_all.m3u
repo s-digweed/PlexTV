@@ -984,7 +984,7 @@ https://linear-142.frequency.stream/mt/plex/142/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66a2d97c94b6a49cb5054d77-us" tvg-id="66a2d97c94b6a49cb5054d77" tvg-name="Rig TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cab375d6-3971-46c5-bd2e-66dc640879d2/RIGTV_Logo_White_1500X1000_.png" group-title="United States",Rig TV
 https://amg00145-amg00145c7-plex-us-4225.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-rigtv-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-us" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="United States",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68b9f495fcc3cf129dc29960-us" tvg-id="68b9f495fcc3cf129dc29960" tvg-name="ROMCOM K-Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c0c7652e-f50f-4fd3-a26f-f0a6d78d4224/_Plex__ROMCOM_K-Drama_Logo_Light_Mode_Ji_Eun_Park.png" group-title="United States",ROMCOM K-Drama
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68b9f495fcc3cf129dc29960.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6aa73204fc710687a8b4db3f-us" tvg-id="6aa73204fc710687a8b4db3f" tvg-name="Rookie Blue" tvg-logo="https://provider-static.plex.tv/epg/cms/production/19d7ca0a-bd96-4451-95b4-98f2150bd1e9/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png" group-title="United States",Rookie Blue
@@ -2022,7 +2022,7 @@ https://amg00145-amg00145c7-plex-us-4225.playouts.now.amagi.tv/playlist/amg00145
 #EXTINF:-1 channel-id="plex-68dcb62667386a41d59918db-ca" tvg-id="68dcb62667386a41d59918db" tvg-name="River Monsters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0de059fc-0966-4f67-8581-b63c80c2924d/RiverMonsters_Logo_White_1500X1000.png" group-title="Canada",River Monsters
 https://amg00654-itv-amg00654c24-plex-gb-9794.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonsterenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-ca" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Canada",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68b9f495fcc3cf129dc29960-ca" tvg-id="68b9f495fcc3cf129dc29960" tvg-name="ROMCOM K-Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c0c7652e-f50f-4fd3-a26f-f0a6d78d4224/_Plex__ROMCOM_K-Drama_Logo_Light_Mode_Ji_Eun_Park.png" group-title="Canada",ROMCOM K-Drama
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-68b9f495fcc3cf129dc29960.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f91c4ea96a391002df9a664-ca" tvg-id="5f91c4ea96a391002df9a664" tvg-name="Ryan and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png" group-title="Canada",Ryan and Friends
@@ -2860,7 +2860,7 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-5ef11487d33a
 #EXTINF:-1 channel-id="plex-68dcb62667386a41d59918db-gb" tvg-id="68dcb62667386a41d59918db" tvg-name="River Monsters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0de059fc-0966-4f67-8581-b63c80c2924d/RiverMonsters_Logo_White_1500X1000.png" group-title="GB",River Monsters
 https://amg00654-itv-amg00654c24-plex-gb-9794.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonsterenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-gb" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="GB",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69012324d320237a5a2da1bc-gb" tvg-id="69012324d320237a5a2da1bc" tvg-name="Rookie Blue" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png" group-title="GB",Rookie Blue
 https://amg00353-amg00353c46-plex-gb-10033.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-rookieblueenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f91c4ea96a391002df9a664-gb" tvg-id="5f91c4ea96a391002df9a664" tvg-name="Ryan and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png" group-title="GB",Ryan and Friends
@@ -3496,7 +3496,7 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-5ef11487d33a
 #EXTINF:-1 channel-id="plex-68dcb62667386a41d59918db-au" tvg-id="68dcb62667386a41d59918db" tvg-name="River Monsters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0de059fc-0966-4f67-8581-b63c80c2924d/RiverMonsters_Logo_White_1500X1000.png" group-title="Australia",River Monsters
 https://amg00654-itv-amg00654c24-plex-gb-9794.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonsterenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-au" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Australia",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69012324d320237a5a2da1bc-au" tvg-id="69012324d320237a5a2da1bc" tvg-name="Rookie Blue" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png" group-title="Australia",Rookie Blue
 https://amg00353-amg00353c46-plex-gb-10033.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-rookieblueenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f91c4ea96a391002df9a664-au" tvg-id="5f91c4ea96a391002df9a664" tvg-name="Ryan and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png" group-title="Australia",Ryan and Friends
@@ -4062,7 +4062,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33a
 #EXTINF:-1 channel-id="plex-68dcb62667386a41d59918db-nz" tvg-id="68dcb62667386a41d59918db" tvg-name="River Monsters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0de059fc-0966-4f67-8581-b63c80c2924d/RiverMonsters_Logo_White_1500X1000.png" group-title="New Zealand",River Monsters
 https://amg00654-itv-amg00654c24-plex-gb-9794.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonsterenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-nz" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="New Zealand",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69012324d320237a5a2da1bc-nz" tvg-id="69012324d320237a5a2da1bc" tvg-name="Rookie Blue" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png" group-title="New Zealand",Rookie Blue
 https://amg00353-amg00353c46-plex-gb-10033.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-rookieblueenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d-nz" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="New Zealand",Shemaroo Bollywood
@@ -4604,7 +4604,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5ef11487d33a
 #EXTINF:-1 channel-id="plex-68c87137679609f139e6cbe0-mx" tvg-id="68c87137679609f139e6cbe0" tvg-name="Revry Latinx" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c35e9252-aaa7-4198-8902-c9a1e22a5f4e/RevryLatinX_Logo_Plex_1500x1000_dark-backgrounds_-_Joshua_Pettway-Hinton.png" group-title="Mexico",Revry Latinx
 https://linear-142.frequency.stream/mt/plex-latam/142/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-mx" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Mexico",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-668431d0702b9db9f817725e-mx" tvg-id="668431d0702b9db9f817725e" tvg-name="Runtime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bb53c0b-9893-4531-8609-e4c811441126/Runtime_LATAM_Dark_Mode_Logordx.png" group-title="Mexico",Runtime
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-6684374320f405b792a3b6b3-mx" tvg-id="6684374320f405b792a3b6b3" tvg-name="Runtime Acción" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9da5683e-30e8-4b78-99b5-a30c8f665f63/Runtime_ES_Accion_Dark_Mode_Logordx.png" group-title="Mexico",Runtime Acción
@@ -5126,7 +5126,7 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9-es" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="Spain",Revry
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5ef11487d33ab9004048a1d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-es" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Spain",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66840253cd6f1d394094114f-es" tvg-id="66840253cd6f1d394094114f" tvg-name="Runtime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/397a4a3a-ab7f-4b1b-b568-84b54c52fc56/Runtime_Spain_Dark_Mode_Logordcx.png" group-title="Spain",Runtime
 https://run-rt-es.otteravision.com/run/rt_es/rt_es_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-668420c2cd6f1d3940941157-es" tvg-id="668420c2cd6f1d3940941157" tvg-name="Runtime Acción" tvg-logo="https://provider-static.plex.tv/epg/cms/production/39d2ddfb-c83e-4dbd-85dd-748e951f3c1b/Runtime_ES_Accion_Dark_Mode_Logordx.png" group-title="Spain",Runtime Acción
@@ -5634,7 +5634,7 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9-fr" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="FR",Revry
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-fr" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="FR",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66842909702b9db9f817725c-fr" tvg-id="66842909702b9db9f817725c" tvg-name="Runtime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ce0f2744-65eb-4872-999b-85eb0684e3cd/Runtime_France_Dark_Mode_Logordx.png" group-title="FR",Runtime
 https://run-rt-fr.otteravision.com/run/rt_fr/rt_fr_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-65028a4bec4e38daa56e9c76-fr" tvg-id="65028a4bec4e38daa56e9c76" tvg-name="Scream'IN" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4b80eef6-826f-4413-8e51-ed3e16091f9d/SCREAM_IN_-_Logo_1500x1000_-_Zylo_Paris.png" group-title="FR",Scream'IN
@@ -5830,7 +5830,7 @@ https://bas-bassm.otteravision.com/bas/bassm/bassm_720.m3u8
 #EXTINF:-1 channel-id="plex-64d78d48950759afa2523ee9-de" tvg-id="64d78d48950759afa2523ee9" tvg-name="Beyond Belief" tvg-logo="https://provider-static.plex.tv/epg/cms/production/630c8156-8a00-40a1-a3d8-b5f7b7bf076d/Plex_FilmRise_XFactorDasUnfassbare_Color_Logo.png" group-title="Germany",Beyond Belief
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-64d78d48950759afa2523ee9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68160d8b6da958281f1f7a65-de" tvg-id="68160d8b6da958281f1f7a65" tvg-name="Big Brother Classics" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2336e53ed2b8d3d0b3540546c0315695.png" group-title="Germany",Big Brother Classics
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-68160d8b6da958281f1f7a65.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://tcs.fast.tcscdn.net/ads/default/dai/37820a5d7a33e4202e2fb0b9fd149819/index.m3u8
 #EXTINF:-1 channel-id="plex-6a3c2c8c14e447db7984cc3a-de" tvg-id="6a3c2c8c14e447db7984cc3a" tvg-name="Billboard Español TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png" group-title="Germany",Billboard Español TV
 https://amg00375-amg00375c33-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6334a8e48a7b2a349d903b8c-de" tvg-id="6334a8e48a7b2a349d903b8c" tvg-name="Billiard TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png" group-title="Germany",Billiard TV
@@ -6120,7 +6120,7 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9-de" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="Germany",Revry
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-5ef11487d33ab9004048a1d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-de" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Germany",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d-de" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Germany",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5-de" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Germany",SKWAD
@@ -6656,7 +6656,7 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5ef11487d33a
 #EXTINF:-1 channel-id="plex-68c87137679609f139e6cbe0-br" tvg-id="68c87137679609f139e6cbe0" tvg-name="Revry Latinx" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c35e9252-aaa7-4198-8902-c9a1e22a5f4e/RevryLatinX_Logo_Plex_1500x1000_dark-backgrounds_-_Joshua_Pettway-Hinton.png" group-title="Brazil",Revry Latinx
 https://linear-142.frequency.stream/mt/plex-latam/142/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-br" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Brazil",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66998d1f7888888799f31d27-br" tvg-id="66998d1f7888888799f31d27" tvg-name="Runtime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a5f96ee6-4eeb-4fc2-86e2-0c5d71793125/Runtime_Brazil_Dark_Mode_Logordx.png" group-title="Brazil",Runtime
 https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-6683f942cd6f1d3940941149-br" tvg-id="6683f942cd6f1d3940941149" tvg-name="Runtime Ação" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8d1ec0f-5519-47d4-9897-66cdd990ac84/Runtime_BR_Acao_Dark_Mode_Logordx.png" group-title="Brazil",Runtime Ação
@@ -7088,7 +7088,7 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9-in" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="India",Revry
 https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-5ef11487d33ab9004048a1d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-in" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="India",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d-in" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="India",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5-in" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="India",SKWAD
@@ -7444,7 +7444,7 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9-jp" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="Japan",Revry
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-jp" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Japan",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d-jp" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Japan",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5-jp" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Japan",SKWAD
@@ -7798,7 +7798,7 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9-kr" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="South Korea",Revry
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-kr" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="South Korea",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d-kr" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="South Korea",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5-kr" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="South Korea",SKWAD
@@ -8258,7 +8258,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33a
 #EXTINF:-1 channel-id="plex-68dcb62667386a41d59918db-se" tvg-id="68dcb62667386a41d59918db" tvg-name="River Monsters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0de059fc-0966-4f67-8581-b63c80c2924d/RiverMonsters_Logo_White_1500X1000.png" group-title="Sweden",River Monsters
 https://amg00654-itv-amg00654c24-plex-gb-9794.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonsterenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-se" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Sweden",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d-se" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Sweden",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5-se" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Sweden",SKWAD
@@ -8718,7 +8718,7 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9-nl" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="Netherlands",Revry
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-nl" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Netherlands",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d-nl" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Netherlands",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5-nl" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Netherlands",SKWAD
@@ -9218,7 +9218,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33a
 #EXTINF:-1 channel-id="plex-68dcb62667386a41d59918db-no" tvg-id="68dcb62667386a41d59918db" tvg-name="River Monsters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0de059fc-0966-4f67-8581-b63c80c2924d/RiverMonsters_Logo_White_1500X1000.png" group-title="Norway",River Monsters
 https://amg00654-itv-amg00654c24-plex-gb-9794.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonsterenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-no" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Norway",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d-no" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Norway",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5-no" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Norway",SKWAD
@@ -9714,7 +9714,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33a
 #EXTINF:-1 channel-id="plex-68dcb62667386a41d59918db-fi" tvg-id="68dcb62667386a41d59918db" tvg-name="River Monsters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0de059fc-0966-4f67-8581-b63c80c2924d/RiverMonsters_Logo_White_1500X1000.png" group-title="Finland",River Monsters
 https://amg00654-itv-amg00654c24-plex-gb-9794.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonsterenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-fi" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Finland",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d-fi" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Finland",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5-fi" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Finland",SKWAD
@@ -10210,7 +10210,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33a
 #EXTINF:-1 channel-id="plex-68dcb62667386a41d59918db-dk" tvg-id="68dcb62667386a41d59918db" tvg-name="River Monsters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0de059fc-0966-4f67-8581-b63c80c2924d/RiverMonsters_Logo_White_1500X1000.png" group-title="Denmark",River Monsters
 https://amg00654-itv-amg00654c24-plex-gb-9794.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonsterenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-dk" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Denmark",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d-dk" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Denmark",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5-dk" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Denmark",SKWAD
@@ -10664,7 +10664,7 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9-is" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="Iceland",Revry
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-is" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Iceland",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d-is" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Iceland",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5-is" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Iceland",SKWAD

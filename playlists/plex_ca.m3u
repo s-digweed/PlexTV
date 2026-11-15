@@ -616,7 +616,7 @@ https://amg00145-amg00145c7-plex-us-4225.playouts.now.amagi.tv/playlist/amg00145
 #EXTINF:-1 channel-id="plex-68dcb62667386a41d59918db" tvg-id="68dcb62667386a41d59918db" tvg-name="River Monsters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0de059fc-0966-4f67-8581-b63c80c2924d/RiverMonsters_Logo_White_1500X1000.png" group-title="Reality",River Monsters
 https://amg00654-itv-amg00654c24-plex-gb-9794.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonsterenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Explore",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68b9f495fcc3cf129dc29960" tvg-id="68b9f495fcc3cf129dc29960" tvg-name="ROMCOM K-Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c0c7652e-f50f-4fd3-a26f-f0a6d78d4224/_Plex__ROMCOM_K-Drama_Logo_Light_Mode_Ji_Eun_Park.png" group-title="Global",ROMCOM K-Drama
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-68b9f495fcc3cf129dc29960.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5f91c4ea96a391002df9a664" tvg-id="5f91c4ea96a391002df9a664" tvg-name="Ryan and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png" group-title="Kids & Family",Ryan and Friends

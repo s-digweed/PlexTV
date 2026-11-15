@@ -30,7 +30,7 @@ https://bas-bassm.otteravision.com/bas/bassm/bassm_720.m3u8
 #EXTINF:-1 channel-id="plex-64d78d48950759afa2523ee9" tvg-id="64d78d48950759afa2523ee9" tvg-name="Beyond Belief" tvg-logo="https://provider-static.plex.tv/epg/cms/production/630c8156-8a00-40a1-a3d8-b5f7b7bf076d/Plex_FilmRise_XFactorDasUnfassbare_Color_Logo.png" group-title="Explore",Beyond Belief
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-64d78d48950759afa2523ee9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68160d8b6da958281f1f7a65" tvg-id="68160d8b6da958281f1f7a65" tvg-name="Big Brother Classics" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2336e53ed2b8d3d0b3540546c0315695.png" group-title="Reality",Big Brother Classics
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-68160d8b6da958281f1f7a65.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://tcs.fast.tcscdn.net/ads/default/dai/37820a5d7a33e4202e2fb0b9fd149819/index.m3u8
 #EXTINF:-1 channel-id="plex-6a3c2c8c14e447db7984cc3a" tvg-id="6a3c2c8c14e447db7984cc3a" tvg-name="Billboard Español TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png" group-title="En Español",Billboard Español TV
 https://amg00375-amg00375c33-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6334a8e48a7b2a349d903b8c" tvg-id="6334a8e48a7b2a349d903b8c" tvg-name="Billiard TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png" group-title="Sports",Billiard TV
@@ -320,7 +320,7 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="Food, Home & Culture",Revry
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-5ef11487d33ab9004048a1d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Explore",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62d1a58e520656fda09e609d" tvg-id="62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Global",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-plex-wyasl.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5f12332eeca6a20040b328e5" tvg-id="5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Kids & Family",SKWAD

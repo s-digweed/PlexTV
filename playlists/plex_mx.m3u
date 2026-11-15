@@ -376,7 +376,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5ef11487d33a
 #EXTINF:-1 channel-id="plex-68c87137679609f139e6cbe0" tvg-id="68c87137679609f139e6cbe0" tvg-name="Revry Latinx" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c35e9252-aaa7-4198-8902-c9a1e22a5f4e/RevryLatinX_Logo_Plex_1500x1000_dark-backgrounds_-_Joshua_Pettway-Hinton.png" group-title="Food, Home & Culture",Revry Latinx
 https://linear-142.frequency.stream/mt/plex-latam/142/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Explore",Robot Wars by Mech+
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-668431d0702b9db9f817725e" tvg-id="668431d0702b9db9f817725e" tvg-name="Runtime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bb53c0b-9893-4531-8609-e4c811441126/Runtime_LATAM_Dark_Mode_Logordx.png" group-title="Movies",Runtime
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-6684374320f405b792a3b6b3" tvg-id="6684374320f405b792a3b6b3" tvg-name="Runtime Acción" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9da5683e-30e8-4b78-99b5-a30c8f665f63/Runtime_ES_Accion_Dark_Mode_Logordx.png" group-title="Movies",Runtime Acción
