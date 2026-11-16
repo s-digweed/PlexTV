@@ -65,7 +65,7 @@ https://amg00375-amg00375c33-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6334a8e48a7b2a349d903b8c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-689e1f0dd84bfb3d54b6756f" tvg-id="689e1f0dd84bfb3d54b6756f" tvg-name="Bizaar" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f40521f6-1074-4664-b673-96a2eab164a0/Bizaar_Logo_For_Dark_Background_-_1500_x_1000_-_Michael_Bromberg.png" group-title="Global",Bizaar
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-689e1f0dd84bfb3d54b6756f.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-6888e5c7d7b56a61e6e2643c" tvg-id="6888e5c7d7b56a61e6e2643c" tvg-name="Bloodline Detectives" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6cdc7f1d-3755-4ad7-9193-fa6606c2873e/BLOODLINE_DETECTIVES_PLEX_LOGO_WHITE_-_Tanya_Ranasinghe.png" group-title="True Crime",Bloodline Detectives
+#EXTINF:-1 channel-id="plex-6888e5c7d7b56a61e6e2643c" tvg-id="6888e5c7d7b56a61e6e2643c" tvg-name="Bloodline Detectives" tvg-logo="https://provider-static.plex.tv/epg/cms/production/22e03bff-9d69-42c3-a578-3e9e29962537/BLOODLINE_DETECTIVES_PLEX_LOGO_WHITE_-_Tanya_Ranasinghe.png" group-title="True Crime",Bloodline Detectives
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6888e5c7d7b56a61e6e2643c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-61d73c3ca7b7c7f703418518" tvg-id="61d73c3ca7b7c7f703418518" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" group-title="News",Bloomberg Originals
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-61d73c3ca7b7c7f703418518.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
@@ -189,7 +189,7 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6245cd154f27
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-69c416084906b54471aab101.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69d57e725a891b1ff36c0c5e" tvg-id="69d57e725a891b1ff36c0c5e" tvg-name="Everyday" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cb421eac-017d-4354-855a-0e64cca34ec6/ABC-everyday-WHTRDX.png" group-title="Food, Home & Culture",Everyday
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-69d57e725a891b1ff36c0c5e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-6888e66c57acf2ceb6121ea8" tvg-id="6888e66c57acf2ceb6121ea8" tvg-name="Evidence of Evil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf9ff678-d3cf-4a9b-8095-eed2752bcb01/EVIDENCE_OF_EVIL_PLEX_LOGO_COLOUR_-_Tanya_Ranasinghe.png" group-title="True Crime",Evidence of Evil
+#EXTINF:-1 channel-id="plex-6888e66c57acf2ceb6121ea8" tvg-id="6888e66c57acf2ceb6121ea8" tvg-name="Evidence of Evil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b22dbf0a-61e9-4e1b-ac2f-2f6cbfb08bbb/EVIDENCE_OF_EVIL_PLEX_LOGO_COLOUR_-_Tanya_Ranasinghe.png" group-title="True Crime",Evidence of Evil
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6888e66c57acf2ceb6121ea8.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-69ada43e4f342aa128c21ac4" tvg-id="69ada43e4f342aa128c21ac4" tvg-name="Evolution Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/05a3c8b5-e197-4920-b02a-c98d468e0c86/Evolution_Earth_WHITE_Logo_RDX.png" group-title="Explore",Evolution Earth
 https://amg26277-amg26277c6-plex-gb-11570.playouts.now.amagi.tv/playlist.m3u8
@@ -663,7 +663,7 @@ https://bec-trailersfromhell-1-us.plex.wurl.tv/playlist.m3u8
 https://videoelephantlimited-travelescapes-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64e43b37200cd2f67473e0d4" tvg-id="64e43b37200cd2f67473e0d4" tvg-name="True Crime Now" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f5bb066-e3be-497a-8efd-b6b1cccdefcf/true_crime_now_logo.png" group-title="True Crime",True Crime Now
 https://amg00376-magellan-amg00376c9-plex-international-1942.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowcauk-plexinternational/playlist.m3u8
-#EXTINF:-1 channel-id="plex-6888e72c053adc1e3a34e40e" tvg-id="6888e72c053adc1e3a34e40e" tvg-name="True Crime UK" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9b2e24be-ea1a-4d23-8a0e-d2c1ae742e01/TRUE_CRIME_UK_PLEX_LOGO_COLOUR_NEGATIVE_-_Tanya_Ranasinghe.png" group-title="True Crime",True Crime UK
+#EXTINF:-1 channel-id="plex-6888e72c053adc1e3a34e40e" tvg-id="6888e72c053adc1e3a34e40e" tvg-name="True Crime UK" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4aa7cf2f-b85b-486a-89f4-b9689d2c2610/TRUE_CRIME_UK_PLEX_LOGO_COLOUR_NEGATIVE_-_Tanya_Ranasinghe.png" group-title="True Crime",True Crime UK
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6888e72c053adc1e3a34e40e.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-614398a08f30fa61e0da7c97" tvg-id="614398a08f30fa61e0da7c97" tvg-name="True History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png" group-title="Explore",True History
 https://linear-188.frequency.stream/mt/plex/188/hls/master/playlist.m3u8

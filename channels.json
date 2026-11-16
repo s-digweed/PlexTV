@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T11:10:37.154167+00:00",
+  "generated": "2026-11-16T19:38:09.242400+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -15637,7 +15637,7 @@
         "slug": "evidence-of-evil",
         "gridKey": "6888e66c57acf2ceb6121ea8",
         "name": "Evidence of Evil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bf9ff678-d3cf-4a9b-8095-eed2752bcb01/EVIDENCE_OF_EVIL_PLEX_LOGO_COLOUR_-_Tanya_Ranasinghe.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b22dbf0a-61e9-4e1b-ac2f-2f6cbfb08bbb/EVIDENCE_OF_EVIL_PLEX_LOGO_COLOUR_-_Tanya_Ranasinghe.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6888e66c57acf2ceb6121ea8.m3u8",
         "genres": [
@@ -15676,7 +15676,7 @@
         "slug": "true-crime-uk",
         "gridKey": "6888e72c053adc1e3a34e40e",
         "name": "True Crime UK",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9b2e24be-ea1a-4d23-8a0e-d2c1ae742e01/TRUE_CRIME_UK_PLEX_LOGO_COLOUR_NEGATIVE_-_Tanya_Ranasinghe.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4aa7cf2f-b85b-486a-89f4-b9689d2c2610/TRUE_CRIME_UK_PLEX_LOGO_COLOUR_NEGATIVE_-_Tanya_Ranasinghe.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6888e72c053adc1e3a34e40e.m3u8",
         "genres": [
@@ -15780,7 +15780,7 @@
         "slug": "bloodline-detectives",
         "gridKey": "6888e5c7d7b56a61e6e2643c",
         "name": "Bloodline Detectives",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6cdc7f1d-3755-4ad7-9193-fa6606c2873e/BLOODLINE_DETECTIVES_PLEX_LOGO_WHITE_-_Tanya_Ranasinghe.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/22e03bff-9d69-42c3-a578-3e9e29962537/BLOODLINE_DETECTIVES_PLEX_LOGO_WHITE_-_Tanya_Ranasinghe.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6888e5c7d7b56a61e6e2643c.m3u8",
         "genres": [
