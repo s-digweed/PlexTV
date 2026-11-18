@@ -379,8 +379,6 @@ https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-a
 https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69d57d295a891b1ff36c0c5c" tvg-id="69d57d295a891b1ff36c0c5c" tvg-name="Entertains" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d5fc6d1-628c-459a-afd8-061feab68458/ABC-enertains-logo-dark-mode_wht_pink_text.png" group-title="Comedy",Entertains
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d57d295a891b1ff36c0c5c.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-6a8744fdb1b3d334c851bbc5" tvg-id="6a8744fdb1b3d334c851bbc5" tvg-name="Entravision Ahora" tvg-logo="https://provider-static.plex.tv/epg/cms/production/26b9f118-779a-42a1-bff4-2fa0c41d0f53/EA_COLOR_1500X1000RDXwWHTLETTERS.png" group-title="En Español",Entravision Ahora
-https://linear-1634.frequency.stream/mt/plex/1634/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64fb9149bb3e0baa5dcc0944" tvg-id="64fb9149bb3e0baa5dcc0944" tvg-name="Estrella Games" tvg-logo="https://provider-static.plex.tv/epg/cms/production/441e119d-ac86-4737-a8d0-1e60f60cfd43/Estrella-Games_-_Erick_Ramirez_COLOR.png" group-title="En Español",Estrella Games
 https://amg00567-estrellamedia-estrellagames-plex-muxd8.amagi.tv/playlist/amg00567-estrellamedia-estrellagames-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60089d97f682a3002c34829b" tvg-id="60089d97f682a3002c34829b" tvg-name="Estrella News" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellanews_logo_dark.png" group-title="En Español",Estrella News
