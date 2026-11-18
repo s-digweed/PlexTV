@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-11-17 23:00 UTC)
+Plex VPN-free direct links  (2026-11-18 00:59 UTC)
 Channels checked: 1417   VPN-free: 886   Still Plex link (VPN needed): 531
 
   direct (cached)              886
@@ -16,8 +16,8 @@ Non-Amagi video hosts (candidates for future support):
   live-content-cf.xumo.com                                     93
   live-content.cdn.xumo.com                                    49
   hls-beacons-us.xumo.com                                      21
+  cfvod.kaltura.com                                            8
   hls-beacons-eu.xumo.com                                      8
-  cfvod.kaltura.com                                            7
   content.galxy.tv                                             2
   9e2698fd.wurl.com                                            1
   67923b26.wurl.com                                            1
@@ -26,7 +26,6 @@ Non-Amagi video hosts (candidates for future support):
   a25cabe4.wurl.com                                            1
   99dd446e.wurl.com                                            1
   e8df38f7.wurl.com                                            1
-  afv-cij.otteravision.com                                     1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
@@ -46,6 +45,7 @@ Non-Amagi video hosts (candidates for future support):
   9f9bb6fa.wurl.com                                            1
   55d28294.wurl.com                                            1
   o300801.mp.lura.live                                         1
+  afv-cij.otteravision.com                                     1
   ed6ec5d8.wurl.com                                            1
   786f64b9.wurl.com                                            1
   3846d2d6.wurl.com                                            1
@@ -71,14 +71,14 @@ Example segment URLs (for working out new patterns):
     FilmRise Kids: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F2714%2Fcontent%2FXM0HMJ0M54G176%2F26636847%2F0_139.ts&aid=XM0HMJ0M54G176&eventType=ASSET&cid=88889315&did=19618a58832f4833&playId=1794916182087&eventSubType=playInterval&pid=2714
     FilmRise Anime: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F197%2Fcontent%2FXM02VMPDR9DJVT%2F26768343%2F0_058.ts&aid=XM02VMPDR9DJVT&eventType=ASSET&cid=88889303&did=19618a58832f4833&playId=1794915977249&eventSubType=playInterval&pid=197
     Highway to Heaven: https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F260%2Fcontent%2FXM04G8KI6XVGO3%2F28858248%2F0_440.ts&aid=XM04G8KI6XVGO3&eventType=ASSET&cid=88889363&did=19618a58832f4833&playId=1794915962764&eventSubType=playInterval&pid=260
-  [hls-beacons-eu.xumo.com]
-    Andromeda: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2701%2Fcontent%2FXM0KE93AERVTBI%2F23111274%2F0_417.ts&aid=XM0KE93AERVTBI&eventType=ASSET&cid=88889374&did=19618a58832f4833&playId=1794915936394&eventSubType=playInterval&pid=2701
-    FilmRise Série Populaire: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2069%2Fcontent%2FXM0VTPQ0IATSJR%2F26221991%2F0_400.ts&aid=XM0VTPQ0IATSJR&eventType=ASSET&cid=88889332&did=19618a58832f4833&playId=1794916095443&eventSubType=playInterval&pid=2069
-    FilmRise Binge Watch: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2069%2Fcontent%2FXM0CAD5PI7TV2M%2F26221877%2F0_346.ts&aid=XM0CAD5PI7TV2M&eventType=ASSET&cid=88889331&did=19618a58832f4833&playId=1794916497336&eventSubType=playInterval&pid=2069
   [cfvod.kaltura.com]
     KidsFlix: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_p941f2gw/v/1/pv/1/ev/10/flavorId/1_k9uw0pvb/name/a.mp4/index.m3u8/clipFrom/0/clipTo/480000/seg-7-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfcDk0MWYyZ3cvdi8xL3B2LzEvZXYvMTAvZmxhdm9ySWQvMV9rOXV3MHB2Yi9uYW1lL2Eub
     SKWAD: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/0_fsq6mb92/v/2/pv/1/ev/8/flavorId/0_ih09w8nf/name/a.mp4/index.m3u8/seg-4-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzBfZnNxNm1iOTIvdi8yL3B2LzEvZXYvOC9mbGF2b3JJZC8wX2loMDl3OG5mL25hbWUvYS5tcDQvaW5kZXgubTN1OC8qIiwiQ29
     SKWAD: https://cfvod.kaltura.com/scf/hlsm/p/513551/sp/51355100/serveFlavor/entryId/0_q37rimu1/v/1/pv/1/ev/1/flavorId/1_ynq0ijm4/name/a.mp4/index.m3u8/seg-15-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzUxMzU1MS9zcC81MTM1NTEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzBfcTM3cmltdTEvdi8xL3B2LzEvZXYvMS9mbGF2b3JJZC8xX3lucTBpam00L25hbWUvYS5tcDQvaW5kZXgubTN1OC8qIiwiQ2
+  [hls-beacons-eu.xumo.com]
+    Andromeda: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2701%2Fcontent%2FXM0KE93AERVTBI%2F23111274%2F0_417.ts&aid=XM0KE93AERVTBI&eventType=ASSET&cid=88889374&did=19618a58832f4833&playId=1794915936394&eventSubType=playInterval&pid=2701
+    FilmRise Série Populaire: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2069%2Fcontent%2FXM0VTPQ0IATSJR%2F26221991%2F0_400.ts&aid=XM0VTPQ0IATSJR&eventType=ASSET&cid=88889332&did=19618a58832f4833&playId=1794916095443&eventSubType=playInterval&pid=2069
+    FilmRise Binge Watch: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2069%2Fcontent%2FXM0CAD5PI7TV2M%2F26221877%2F0_346.ts&aid=XM0CAD5PI7TV2M&eventType=ASSET&cid=88889331&did=19618a58832f4833&playId=1794916497336&eventSubType=playInterval&pid=2069
   [content.galxy.tv]
     Dungeon TV: https://content.galxy.tv/fab1c8d4950b496d9ca4b78194e815fd/a/D00000188.ts
     Watch it Kid: https://content.galxy.tv/254bdf765e2f4499bcba07cf9b5f3f71/a/D00000101.ts
@@ -93,7 +93,7 @@ Example segment URLs (for working out new patterns):
   [22fcfa2f.wurl.com]
     UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261117T114954_508738.ts  || tried 403x5
   [23bf348e.wurl.com]
-    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261116T234644_965098.ts  || tried 403x5
+    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261118T005844_980391.ts  || tried 403x5
   [23e952ae.wurl.com]
     Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261116T175646_496990.ts  || tried 403x5
   [2473296b.wurl.com]
