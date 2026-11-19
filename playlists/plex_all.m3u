@@ -286,7 +286,7 @@ https://amg17292-amg17292c1-plex-us-7716.playouts.now.amagi.tv/playlist/amg17292
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-us" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="United States",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-us" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="United States",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-us" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="United States",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-64224b7a7e28069f56b5d894-us" tvg-id="64224b7a7e28069f56b5d894" tvg-name="Crime & Justice" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08830f51-def6-4300-9092-31f35c6bc7a5/Logo_Crime_and_Justice_1500_x_1000_light_-_Matt_Mattysiak.png" group-title="United States",Crime & Justice
@@ -1572,7 +1572,7 @@ https://amg17292-amg17292c1-plex-us-7716.playouts.now.amagi.tv/playlist/amg17292
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-ca" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Canada",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-ca" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Canada",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-ca" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Canada",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-69b16eaf8d39e5cd6a10621b-ca" tvg-id="69b16eaf8d39e5cd6a10621b" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a924e3e9-1a85-4123-81c4-eee3f9bebf66/Crime360_channel_logo_4c_1500x1000.png" group-title="Canada",Crime 360
@@ -2468,7 +2468,7 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6ad26b965374
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-gb" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="GB",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-gb" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="GB",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-gb" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="GB",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6633e35436748638d874dcb2-gb" tvg-id="6633e35436748638d874dcb2" tvg-name="Crime & Justice" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ef12e89c-2066-4d30-8da0-444c555854bb/Logo_Crime_and_Justice_1500_x_1000_light_-_Matt_Mattysiak__1_.png" group-title="GB",Crime & Justice
@@ -3188,7 +3188,7 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6ad26abd5374
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-au" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Australia",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-au" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Australia",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-au" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Australia",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6a2ebc83e11aec3ec320becc-au" tvg-id="6a2ebc83e11aec3ec320becc" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e1e0c374-9d7d-4fb3-9979-f348bef34766/Crime_360_channel_logo_4c_1500x1000RDX.png" group-title="Australia",Crime 360
@@ -3766,7 +3766,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ce3cf45906
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-nz" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="New Zealand",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-nz" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="New Zealand",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-nz" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="New Zealand",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6a2ebde0768abcd6b78052a9-nz" tvg-id="6a2ebde0768abcd6b78052a9" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f122ac7-1676-49eb-b430-920917e680df/Crime_360_channel_logo_4c_1500x1000RDX.png" group-title="New Zealand",Crime 360
@@ -4326,7 +4326,7 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-mx" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Mexico",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-mx" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Mexico",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-mx" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Mexico",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6a3b12103c90c489ea1f17e0-mx" tvg-id="6a3b12103c90c489ea1f17e0" tvg-name="Deal Or No Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14bef4ec-a974-42e7-b499-474a71978f65/DOND_Logo_White_1500x1000_-_Harry_Marshall__1_.png" group-title="Mexico",Deal Or No Deal
@@ -4874,7 +4874,7 @@ https://amg00376-magellan-amg00376c14-plex-international-1693.playouts.now.amagi
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-es" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Spain",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-es" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Spain",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-es" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Spain",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-67200026769d5ec4bf51d63e-es" tvg-id="67200026769d5ec4bf51d63e" tvg-name="Crimen Y Historia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0902ab10-e394-4ff0-9c94-506bc528e901/Logo_Crimen_Historia_1500x1000_DarkBackground_-_Belen_Bruno.png" group-title="Spain",Crimen Y Historia
@@ -5398,7 +5398,7 @@ https://amg00376-magellan-amg00376c14-plex-international-1693.playouts.now.amagi
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-fr" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="FR",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-fr" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="FR",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-fr" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="FR",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-685f150c593aba51f211823f-fr" tvg-id="685f150c593aba51f211823f" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5f7971e-9d1c-4084-a9b9-5f5e3d40c9d5/crime_scene_tv_white.png" group-title="FR",Crime Scene TV
@@ -5868,7 +5868,7 @@ https://amg00376-magellan-amg00376c14-plex-international-1693.playouts.now.amagi
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-de" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Germany",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-de" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Germany",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-de" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Germany",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-685f158e6c220c4e9e333a02-de" tvg-id="685f158e6c220c4e9e333a02" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10f56c38-577d-4e20-b0ff-f570622591a3/crime_scene_tv_white.png" group-title="Germany",Crime Scene TV
@@ -6392,7 +6392,7 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-br" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Brazil",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-br" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Brazil",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-br" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Brazil",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-66fd4baab319e182229203b4-br" tvg-id="66fd4baab319e182229203b4" tvg-name="Crime e Investigação" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ab9e494a-04a7-41ad-a223-eed39394ba5a/crime_investigacao_white_logo_-_Kam_JeyRDX.png" group-title="Brazil",Crime e Investigação
@@ -6876,7 +6876,7 @@ https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-6ab194ebe796
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-in" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="India",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-in" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="India",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-in" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="India",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6674b68af04cf4bb9233c916-in" tvg-id="6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" group-title="India",Death Valley Days
@@ -7262,7 +7262,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ab184dbe796
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-jp" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Japan",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-jp" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Japan",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-jp" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Japan",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6674b68af04cf4bb9233c916-jp" tvg-id="6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" group-title="Japan",Death Valley Days
@@ -7616,7 +7616,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ab190a9e796
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-kr" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="South Korea",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-kr" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="South Korea",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-kr" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="South Korea",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6674b68af04cf4bb9233c916-kr" tvg-id="6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" group-title="South Korea",Death Valley Days
@@ -7990,7 +7990,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ad280025374
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-se" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Sweden",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-se" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Sweden",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-se" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Sweden",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6a2ebe88e11aec3ec320bece-se" tvg-id="6a2ebe88e11aec3ec320bece" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23d1a684-a08b-42d5-9e43-abef1754d56a/Crime_360_channel_logo_4c_1500x1000RDX.png" group-title="Sweden",Crime 360
@@ -8478,7 +8478,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ad2706d5374
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-nl" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Netherlands",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-nl" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Netherlands",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-nl" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Netherlands",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-69ac42e04ea850f6739321dd-nl" tvg-id="69ac42e04ea850f6739321dd" tvg-name="Dance Moms" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7bb221f8-9f71-4251-b8a6-97f111aef582/Dance_Moms_Logo_STACKED_WHITE_RDX.png" group-title="Netherlands",Dance Moms
@@ -8950,7 +8950,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ad27eaa5374
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-no" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Norway",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-no" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Norway",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-no" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Norway",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6a2ebb90768abcd6b78052a5-no" tvg-id="6a2ebb90768abcd6b78052a5" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fa60260b-1460-48a8-abbf-e9d1b903fc6a/Crime_360_channel_logo_4c_1500x1000RDX.png" group-title="Norway",Crime 360
@@ -9446,7 +9446,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ad280e75374
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-fi" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Finland",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-fi" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Finland",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-fi" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Finland",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6a2ebf30b6fce3105a23475c-fi" tvg-id="6a2ebf30b6fce3105a23475c" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9bec7bcf-8791-4dd5-a213-c9970ab10c60/Crime_360_channel_logo_4c_1500x1000RDX.png" group-title="Finland",Crime 360
@@ -9942,7 +9942,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6ad27f715374
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-dk" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Denmark",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-dk" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Denmark",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-dk" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Denmark",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6a2ebd29768abcd6b78052a7-dk" tvg-id="6a2ebd29768abcd6b78052a7" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c1e4ffc3-b806-4b42-95c5-bdd631e5365f/Crime_360_channel_logo_4c_1500x1000RDX.png" group-title="Denmark",Crime 360
@@ -10428,7 +10428,7 @@ https://d35p4ep9ync6qx.cloudfront.net/e0e11c8b0d26e2cad3dc57cd62e148c2/master.m3
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f-is" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Iceland",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db-is" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Iceland",Creator Television
-https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224-is" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Iceland",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-6a2ebfd2e11aec3ec320bed0-is" tvg-id="6a2ebfd2e11aec3ec320bed0" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2571574a-904d-4212-9bc9-979c3a610692/Crime_360_channel_logo_4c_1500x1000RDX.png" group-title="Iceland",Crime 360
