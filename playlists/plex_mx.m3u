@@ -556,4 +556,4 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65f0dbeb046e
 #EXTINF:-1 channel-id="plex-62efba6588a16bb7d6b6fb58" tvg-id="62efba6588a16bb7d6b6fb58" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Music",Éxitos del Momento
 https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-65f0dd1c926fdb0e3f8d68b4" tvg-id="65f0dd1c926fdb0e3f8d68b4" tvg-name="ÚN TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8b8f3c91-fb10-490f-addb-a2c74e0d4041/CONDISTA-UN_TV-1500X1000.png" group-title="Food, Home & Culture",ÚN TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65f0dd1c926fdb0e3f8d68b4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://atresmedia-unica-1-mx.plex.wurl.tv/playlist.m3u8

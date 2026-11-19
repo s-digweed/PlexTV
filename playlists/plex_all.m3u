@@ -4782,7 +4782,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65f0dbeb046e
 #EXTINF:-1 channel-id="plex-62efba6588a16bb7d6b6fb58-mx" tvg-id="62efba6588a16bb7d6b6fb58" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Mexico",Éxitos del Momento
 https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-65f0dd1c926fdb0e3f8d68b4-mx" tvg-id="65f0dd1c926fdb0e3f8d68b4" tvg-name="ÚN TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8b8f3c91-fb10-490f-addb-a2c74e0d4041/CONDISTA-UN_TV-1500X1000.png" group-title="Mexico",ÚN TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65f0dd1c926fdb0e3f8d68b4.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://atresmedia-unica-1-mx.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63eecb32ac23d1ee072087cb-es" tvg-id="63eecb32ac23d1ee072087cb" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Spain",123GO!
 https://amg02051-soulpublishing-amg02051c17-plex-us-341.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66f6b947515e742745f5ca34-es" tvg-id="66f6b947515e742745f5ca34" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="Spain",21 Jump Street
