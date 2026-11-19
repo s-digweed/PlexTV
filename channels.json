@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T15:46:13.502282+00:00",
+  "generated": "2026-11-19T22:43:22.926999+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -4276,6 +4276,19 @@
         "key": "/library/parts/6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf.m3u8",
         "genres": [
           "Adrenaline & Sci-Fi"
+        ],
+        "region": "us"
+      },
+      "6af4b7a7367b6ced1fe30616": {
+        "id": "6a1610bebdf296985fd95603-6af4b7a7367b6ced1fe30616",
+        "slug": "ghosts",
+        "gridKey": "6af4b7a7367b6ced1fe30616",
+        "name": "Ghosts",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/24eb2e18-7f25-4df0-8378-bd53345815ea/Plex_GHOSTS_Logo_Color_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6af4b7a7367b6ced1fe30616.m3u8",
+        "genres": [
+          "Comedy"
         ],
         "region": "us"
       },

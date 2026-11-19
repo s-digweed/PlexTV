@@ -513,6 +513,8 @@ https://deag133ursrh7.cloudfront.net/playlist.m3u8
 https://run-gf.otteravision.com/run/gf/gf_720.m3u8
 #EXTINF:-1 channel-id="plex-64e405b42b16ff56feb98444-us" tvg-id="64e405b42b16ff56feb98444" tvg-name="Ghost Hunters Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="United States",Ghost Hunters Channel
 https://amg00353-amg00353c18-plex-us-2654.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunters-plexus/playlist.m3u8
+#EXTINF:-1 channel-id="plex-6af4b7a7367b6ced1fe30616-us" tvg-id="6af4b7a7367b6ced1fe30616" tvg-name="Ghosts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24eb2e18-7f25-4df0-8378-bd53345815ea/Plex_GHOSTS_Logo_Color_1500x1000.png" group-title="United States",Ghosts
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6af4b7a7367b6ced1fe30616.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66a294d3e1a2934adfe851f5-us" tvg-id="66a294d3e1a2934adfe851f5" tvg-name="Ghosts Are Real" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2354dc9b-6193-44a4-97e0-b9b876620fab/GhostsAreReal_Logo_Dark_1500x1000.png" group-title="United States",Ghosts Are Real
 https://amg00136-wbd-amg00136c13-plex-us-4291.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvghostsarereal-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5eea605474085f0040ddc76d-us" tvg-id="5eea605474085f0040ddc76d" tvg-name="Glewed TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="United States",Glewed TV
