@@ -78,7 +78,7 @@ https://amg00376-magellan-amg00376c14-plex-international-1693.playouts.now.amagi
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Food, Home & Culture",CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Comedy",Creator Television
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/playlist/amg16070-sabiotv-creatortelevision-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-65e0c8c6d899afe817b9d224" tvg-id="65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Sports",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 channel-id="plex-685f150c593aba51f211823f" tvg-id="685f150c593aba51f211823f" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5f7971e-9d1c-4084-a9b9-5f5e3d40c9d5/crime_scene_tv_white.png" group-title="True Crime",Crime Scene TV

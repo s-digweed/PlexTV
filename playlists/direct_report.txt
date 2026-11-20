@@ -1,13 +1,14 @@
-Plex VPN-free direct links  (2026-11-20 00:38 UTC)
-Channels checked: 1417   VPN-free: 885   Still Plex link (VPN needed): 532
+Plex VPN-free direct links  (2026-11-20 11:32 UTC)
+Channels checked: 1417   VPN-free: 886   Still Plex link (VPN needed): 531
 
   direct (cached)              885
   other host                   443
   amagi-guess-failed           65
   plex-404                     12
   plex-403                     5
-  plex-500                     3
+  plex-500                     2
   geo-blocked-host             1
+  direct (new)                 1
   plex-400                     1
   plex-504                     1
   variant-401                  1
@@ -17,18 +18,16 @@ Non-Amagi video hosts (candidates for future support):
   live-content.cdn.xumo.com                                    48
   hls-beacons-us.xumo.com                                      18
   hls-beacons-eu.xumo.com                                      9
-  cfvod.kaltura.com                                            6
+  cfvod.kaltura.com                                            7
   o300801-mp-lura-live.akamaized.net                           2
-  ov-static.otteravision.com                                   2
   content.galxy.tv                                             2
-  9e2698fd.wurl.com                                            1
   67923b26.wurl.com                                            1
+  9e2698fd.wurl.com                                            1
   ca888b2b.wurl.com                                            1
   fa942f77.wurl.com                                            1
   a25cabe4.wurl.com                                            1
   99dd446e.wurl.com                                            1
   e8df38f7.wurl.com                                            1
-  afv-cij.otteravision.com                                     1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
@@ -42,6 +41,7 @@ Non-Amagi video hosts (candidates for future support):
   news20e7hhcb.airspace-cdn.cbsivideo.com                      1
   2255b2ae.wurl.com                                            1
   losandd87138.airspace-cdn.cbsivideo.com                      1
+  afv-cij.otteravision.com                                     1
   be3ec8e4.wurl.com                                            1
   da2884db.wurl.com                                            1
   da47cba8.wurl.com                                            1
@@ -53,6 +53,7 @@ Non-Amagi video hosts (candidates for future support):
   3846d2d6.wurl.com                                            1
   3e9247fa.wurl.com                                            1
   9f7ff994.wurl.com                                            1
+  7d86e29e.wurl.com                                            1
 
 Example segment URLs (for working out new patterns):
   [live-content-cf.xumo.com]
@@ -85,9 +86,6 @@ Example segment URLs (for working out new patterns):
   [o300801-mp-lura-live.akamaized.net]
     NFL Channel: https://o300801-mp-lura-live.akamaized.net/live/ephemeral/OXv89aVdX9DrsQVs6m8fE8kX0lmZB351/dc1_intl_main_plex_intl/968k/5L71sdr9bsE/179719/segment_179719755.ts?hdntl=exp=1795106898~acl=/*~hmac=228442b438b9aa714447b7690d32b23b932ef136c95aa81fc3041d25f  || tried 404x16
     NFL Channel: https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4Z9nGq8j6ED7UWRs23QIO50bylw1za3X/dc1_intl_2_plex_intl/3128k/P8p6bgDFOAY/179720/segment_179720195.ts?hdntl=exp=1795107167~acl=/*~hmac=2c4915c5ca73520db426c20100239af466a8303e3ab46a4231c40a55d22  || tried 404x16
-  [ov-static.otteravision.com]
-    Eddie's Wonderland: https://ov-static.otteravision.com/scte_v3/tg/273415/tg_ad_slate_273415_720_low/00000/tg_ad_slate_273415_720_low_00009.ts  || tried 403x15,vodx1
-    Mega Machines: https://ov-static.otteravision.com/scte_v3/mmc/19/mmc_ad_slate_19_720_low/00000/mmc_ad_slate_19_720_low_00012.ts  || tried 403x15,vodx1
   [22472f78.wurl.com]
     The Pet Collective: https://22472f78.wurl.com/dist/wurl/174/hls/master/playlist_1280x720_154724__717812.ts  || tried 403x16
   [224a4259.wurl.com]
@@ -99,4 +97,6 @@ Example segment URLs (for working out new patterns):
   [22fcfa2f.wurl.com]
     UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261119T154737_540302.ts  || tried 403x5
   [23bf348e.wurl.com]
-    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261119T075205_999164.ts  || tried 403x5
+    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261120T113115_1015960.ts  || tried 403x5
+  [23e952ae.wurl.com]
+    Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261118T215423_528459.ts  || tried 403x5
