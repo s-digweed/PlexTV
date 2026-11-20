@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T15:29:28.284379+00:00",
+  "generated": "2026-11-20T22:17:09.153851+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -3465,7 +3465,7 @@
         "slug": "circle-country",
         "gridKey": "6995ed8173f56d61dc078f0d",
         "name": "Circle Country",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1bbe4043-dc4c-4534-9ae4-c0ad8694754e/circleLight_Logo__3_.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d.m3u8",
         "genres": [
@@ -11527,7 +11527,7 @@
         "slug": "circle-country",
         "gridKey": "6995ed8173f56d61dc078f0d",
         "name": "Circle Country",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1bbe4043-dc4c-4534-9ae4-c0ad8694754e/circleLight_Logo__3_.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d.m3u8",
         "genres": [

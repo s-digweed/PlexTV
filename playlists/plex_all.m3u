@@ -235,7 +235,7 @@ https://amg02724-somos-amg02724c1-plex-us-798.playouts.now.amagi.tv/playlist/amg
 https://amg00567-estrellamedia-cineestrella-plex-h08yf.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67db0a3892cb453db28ab020-us" tvg-id="67db0a3892cb453db28ab020" tvg-name="Cine Romántico" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ab2cd76-5edc-40f5-bcc2-d8da795c0d9b/1500x1000.Cine_Romantico_Logo_All_White.png" group-title="United States",Cine Romántico
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67db0a3892cb453db28ab020.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
-#EXTINF:-1 channel-id="plex-6995ed8173f56d61dc078f0d-us" tvg-id="6995ed8173f56d61dc078f0d" tvg-name="Circle Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png" group-title="United States",Circle Country
+#EXTINF:-1 channel-id="plex-6995ed8173f56d61dc078f0d-us" tvg-id="6995ed8173f56d61dc078f0d" tvg-name="Circle Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bbe4043-dc4c-4534-9ae4-c0ad8694754e/circleLight_Logo__3_.png" group-title="United States",Circle Country
 https://amg00432-amg00432c1-plex-us-11380.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-67c614985908ba2cc8775bf5-us" tvg-id="67c614985908ba2cc8775bf5" tvg-name="Classic Car Auctions" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6ec1a14f-5b64-4782-a743-b175c60213f3/Classic_Car_Auctions_By_HISTORY_COLOR_WhtTEXT_RDX.png" group-title="United States",Classic Car Auctions
 https://amg00276-amg00276c27-plex-us-7109.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-classiccarauctions-plexus/playlist.m3u8
@@ -1541,7 +1541,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-64f115ad2173
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-62167144ab2095ca85353ad6-ca" tvg-id="62167144ab2095ca85353ad6" tvg-name="CINEPRIDE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" group-title="Canada",CINEPRIDE
 https://d35p4ep9ync6qx.cloudfront.net/c2d5e9fc60a0ef7389ac0a37241fda74/master.m3u8
-#EXTINF:-1 channel-id="plex-6995ed8173f56d61dc078f0d-ca" tvg-id="6995ed8173f56d61dc078f0d" tvg-name="Circle Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png" group-title="Canada",Circle Country
+#EXTINF:-1 channel-id="plex-6995ed8173f56d61dc078f0d-ca" tvg-id="6995ed8173f56d61dc078f0d" tvg-name="Circle Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bbe4043-dc4c-4534-9ae4-c0ad8694754e/circleLight_Logo__3_.png" group-title="Canada",Circle Country
 https://amg00432-amg00432c1-plex-us-11380.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-63068b870bbec3b06755a0ee-ca" tvg-id="63068b870bbec3b06755a0ee" tvg-name="Classic Doctor Who" tvg-logo="https://provider-static.plex.tv/epg/cms/production/898a6ea0-15c2-476e-a7a9-18bbe0aa6e0e/PLEX_DOCTOR_WHO_CLASSIC_Logo_Light_1500X1000.png" group-title="Canada",Classic Doctor Who
 https://bbc-classicdrwho-1-us.plex.wurl.tv/playlist.m3u8
