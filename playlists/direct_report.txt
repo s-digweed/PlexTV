@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-11-21 10:58 UTC)
+Plex VPN-free direct links  (2026-11-21 16:49 UTC)
 Channels checked: 1417   VPN-free: 886   Still Plex link (VPN needed): 531
 
   direct (cached)              886
@@ -27,7 +27,6 @@ Non-Amagi video hosts (candidates for future support):
   a25cabe4.wurl.com                                            1
   99dd446e.wurl.com                                            1
   e8df38f7.wurl.com                                            1
-  afv-cij.otteravision.com                                     1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
@@ -53,6 +52,7 @@ Non-Amagi video hosts (candidates for future support):
   9f7ff994.wurl.com                                            1
   7d86e29e.wurl.com                                            1
   c8358772.wurl.com                                            1
+  6dce95a7.wurl.com                                            1
 
 Example segment URLs (for working out new patterns):
   [live-content-cf.xumo.com]
@@ -97,6 +97,6 @@ Example segment URLs (for working out new patterns):
   [22fcfa2f.wurl.com]
     UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261120T221827_558826.ts  || tried 403x5
   [23bf348e.wurl.com]
-    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261120T113115_1015960.ts  || tried 403x5
+    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261121T164818_1033733.ts  || tried 403x5
   [23e952ae.wurl.com]
     Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261120T042519_546977.ts  || tried 403x5
