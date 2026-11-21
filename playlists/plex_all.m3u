@@ -4780,7 +4780,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67d4b095c792
 #EXTINF:-1 channel-id="plex-66fd3e25216b603e031725fe-mx" tvg-id="66fd3e25216b603e031725fe" tvg-name="ZenLIFE by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png" group-title="Mexico",ZenLIFE by Stingray
 https://lotus.stingray.com/manifest/zenlife-zen001-paris/plex/master.m3u8
 #EXTINF:-1 channel-id="plex-65f0dbeb046e6131ecc31843-mx" tvg-id="65f0dbeb046e6131ecc31843" tvg-name="Zona Investigación" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f05b595-1f43-4399-896a-789ab42dce75/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png" group-title="Mexico",Zona Investigación
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65f0dbeb046e6131ecc31843.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://atresmedia-zitv-1-mx.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-62efba6588a16bb7d6b6fb58-mx" tvg-id="62efba6588a16bb7d6b6fb58" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Mexico",Éxitos del Momento
 https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-65f0dd1c926fdb0e3f8d68b4-mx" tvg-id="65f0dd1c926fdb0e3f8d68b4" tvg-name="ÚN TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8b8f3c91-fb10-490f-addb-a2c74e0d4041/CONDISTA-UN_TV-1500X1000.png" group-title="Mexico",ÚN TV
