@@ -654,7 +654,7 @@ https://poolc6cg1ead.airspace-cdn.cbsivideo.com/master_1.m3u8
 #EXTINF:-1 channel-id="plex-5f0ff262d71dcb00449ec018-us" tvg-id="5f0ff262d71dcb00449ec018" tvg-name="Judge Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png" group-title="United States",Judge Nosey
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec018.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6ae2860173700d3e4f499bf5-us" tvg-id="6ae2860173700d3e4f499bf5" tvg-name="Judy Justice" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14db474d-dc83-4fd4-b33a-1111e63ec96d/JudyJustice_Plex_Logo_White-_Carl_Hoffelder.png" group-title="United States",Judy Justice
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6ae2860173700d3e4f499bf5.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://8d9cd777.wurl.com/playlist.m3u8
 #EXTINF:-1 channel-id="plex-64704954e536e0faaf10be9f-us" tvg-id="64704954e536e0faaf10be9f" tvg-name="Just For Laughs Gags" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png" group-title="United States",Just For Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5eea605574085f0040ddc797-us" tvg-id="5eea605574085f0040ddc797" tvg-name="KidsFlix" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png" group-title="United States",KidsFlix
