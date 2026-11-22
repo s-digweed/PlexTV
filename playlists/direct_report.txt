@@ -1,4 +1,4 @@
-Plex VPN-free direct links  (2026-11-22 11:17 UTC)
+Plex VPN-free direct links  (2026-11-22 17:11 UTC)
 Channels checked: 1417   VPN-free: 887   Still Plex link (VPN needed): 530
 
   direct (cached)              887
@@ -27,7 +27,6 @@ Non-Amagi video hosts (candidates for future support):
   a25cabe4.wurl.com                                            1
   99dd446e.wurl.com                                            1
   e8df38f7.wurl.com                                            1
-  afv-cij.otteravision.com                                     1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
@@ -48,6 +47,7 @@ Non-Amagi video hosts (candidates for future support):
   55d28294.wurl.com                                            1
   ed6ec5d8.wurl.com                                            1
   786f64b9.wurl.com                                            1
+  afv-cij.otteravision.com                                     1
   3846d2d6.wurl.com                                            1
   3e9247fa.wurl.com                                            1
   9f7ff994.wurl.com                                            1
@@ -96,6 +96,6 @@ Example segment URLs (for working out new patterns):
   [22fcfa2f.wurl.com]
     UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261121T231951_574001.ts  || tried 403x5
   [23bf348e.wurl.com]
-    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261121T164818_1033733.ts  || tried 403x5
+    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261122T171028_1048528.ts  || tried 403x5
   [23e952ae.wurl.com]
     Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261121T052707_562162.ts  || tried 403x5
