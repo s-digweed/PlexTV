@@ -1,12 +1,13 @@
-Plex VPN-free direct links  (2026-11-23 12:29 UTC)
-Channels checked: 1417   VPN-free: 888   Still Plex link (VPN needed): 529
+Plex VPN-free direct links  (2026-11-23 21:27 UTC)
+Channels checked: 1417   VPN-free: 889   Still Plex link (VPN needed): 528
 
   direct (cached)              888
-  other host                   441
+  other host                   440
   amagi-guess-failed           65
   plex-404                     12
   plex-403                     5
   plex-500                     2
+  direct (new)                 1
   geo-blocked-host             1
   plex-400                     1
   plex-504                     1
@@ -27,7 +28,6 @@ Non-Amagi video hosts (candidates for future support):
   a25cabe4.wurl.com                                            1
   99dd446e.wurl.com                                            1
   e8df38f7.wurl.com                                            1
-  afv-cij.otteravision.com                                     1
   amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
@@ -53,6 +53,7 @@ Non-Amagi video hosts (candidates for future support):
   9f7ff994.wurl.com                                            1
   7d86e29e.wurl.com                                            1
   c8358772.wurl.com                                            1
+  6dce95a7.wurl.com                                            1
 
 Example segment URLs (for working out new patterns):
   [live-content-cf.xumo.com]
@@ -96,6 +97,6 @@ Example segment URLs (for working out new patterns):
   [22fcfa2f.wurl.com]
     UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261122T233942_588765.ts  || tried 403x5
   [23bf348e.wurl.com]
-    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261122T171028_1048528.ts  || tried 403x5
+    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261123T212615_1065691.ts  || tried 403x5
   [23e952ae.wurl.com]
     Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261122T054629_576913.ts  || tried 403x5
