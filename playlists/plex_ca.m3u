@@ -753,8 +753,6 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-67cbd471cc51
 https://amg00627-banijay-amg00627c6-plex-us-1005.playouts.now.amagi.tv/playlist/amg00627-banijayfast-lovequest-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68b0b1d296759568b7f1f042" tvg-id="68b0b1d296759568b7f1f042" tvg-name="The Outer Limits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7e25652d-63bc-4982-b3e4-6d83a5cf7dc4/OuterLimits_Logo_1500x1000_DarkBG.png" group-title="Adrenaline & Sci-Fi",The Outer Limits
 https://amg00353-amg00353c66-plex-us-9403.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-theouterlimits-plexus/playlist.m3u8
-#EXTINF:-1 channel-id="plex-675b42090074283b4ef1e563" tvg-id="675b42090074283b4ef1e563" tvg-name="The Outpost" tvg-logo="https://provider-static.plex.tv/epg/cms/production/873ae6c5-14c1-451a-bf25-7ee00112845f/Plex_TheOutpost_750x500_ChannelLogo_Light.png" group-title="Adrenaline & Sci-Fi",The Outpost
-https://plx-toplx.otteravision.com/plx/toplx/toplx_720p.m3u8
 #EXTINF:-1 channel-id="plex-5f170d61b898490041b49369" tvg-id="5f170d61b898490041b49369" tvg-name="The Pet Collective" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29129b53-2f46-425d-ac3f-3a76dc2d147f/TPC_PLEX_CHANNEL-LOGOS_WHITE.png" group-title="Explore",The Pet Collective
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5f170d61b898490041b49369.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-63e63d26abacad42ed3d1acd" tvg-id="63e63d26abacad42ed3d1acd" tvg-name="The Price is Right" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed7ff7e5-d404-4447-8da9-a8dc91edad05/TPIR_PLEX_LOGO_DARK_BKG_1500X1000_-_Elaine_De_Santiagordx.png" group-title="Daytime TV & Games",The Price is Right

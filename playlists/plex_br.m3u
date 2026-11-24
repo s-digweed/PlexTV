@@ -363,8 +363,6 @@ https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
 https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
 #EXTINF:-1 channel-id="plex-6683f50ccd6f1d3940941145" tvg-id="6683f50ccd6f1d3940941145" tvg-name="Runtime Romance" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db6157c9-6525-4bcd-998b-71d13ec82146/Runtime_BR_Romance_Dark_Mode_Logordx.png" group-title="Movies",Runtime Romance
 https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
-#EXTINF:-1 channel-id="plex-68a78f1d9c93a153bd8cba4b" tvg-id="68a78f1d9c93a153bd8cba4b" tvg-name="Samantha" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eaca975f-2821-46bc-bd57-065a7f4ad2de/Plex_Samantha_750x500_ChannelLogo_LightRDX_WHITE_W_Orange_Chevron.png" group-title="Bingeworthy",Samantha
-https://d35p4ep9ync6qx.cloudfront.net/55fd718dc8efb1d91b6477639b5718f2/master.m3u8
 #EXTINF:-1 channel-id="plex-6864668119cc2e163e38d167" tvg-id="6864668119cc2e163e38d167" tvg-name="Sessão Trash" tvg-logo="https://provider-static.plex.tv/epg/cms/production/efb02a84-6b0e-4937-b7f1-dd9646f24b5f/TrashWhite_Logo_RDX.png" group-title="Adrenaline & Sci-Fi",Sessão Trash
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist/amg00711-zylofast-sessaotrash-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-69b47ba0573588ae1fb57f3f" tvg-id="69b47ba0573588ae1fb57f3f" tvg-name="SFT Combat" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ca76ac0-6340-4214-ab3a-6c863e6a5514/1500x1000_light.png" group-title="Sports",SFT Combat

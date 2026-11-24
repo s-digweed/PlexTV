@@ -1,7 +1,7 @@
-Plex VPN-free direct links  (2026-11-24 13:39 UTC)
-Channels checked: 1417   VPN-free: 890   Still Plex link (VPN needed): 527
+Plex VPN-free direct links  (2026-11-24 22:28 UTC)
+Channels checked: 1415   VPN-free: 888   Still Plex link (VPN needed): 527
 
-  direct (cached)              890
+  direct (cached)              888
   other host                   439
   amagi-guess-failed           65
   plex-404                     12
@@ -97,6 +97,6 @@ Example segment URLs (for working out new patterns):
   [22fcfa2f.wurl.com]
     UnXplained Zone: https://22fcfa2f.wurl.com/ppc-aenetworks_unxplainedzone_1-EST-wfo-1-f1f31c54/playlist_192k_20261124T022200_604970.ts  || tried 403x5
   [23bf348e.wurl.com]
-    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261123T212615_1065691.ts  || tried 403x5
+    Pawn Stars Plus by History: https://23bf348e.wurl.com/ppc-ae_networks_pawnstarsbyhistory_1-EST-wfo-0-8515ff56/playlist_512k_20261124T222739_1080917.ts  || tried 403x5
   [23e952ae.wurl.com]
     Ice Road Truckers: https://23e952ae.wurl.com/ppc-aenetworks_iceroadtruckers_2-NZDT-wfo-2-87413967/playlist_512k_20261123T082917_593111.ts  || tried 403x5

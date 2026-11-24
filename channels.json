@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T13:38:46.506017+00:00",
+  "generated": "2026-11-24T22:28:35.288561+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -11998,19 +11998,6 @@
         "logo": "https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a1a2cdc3d6f0714c586e9959732580c7.png",
         "callSign": "MPULP",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c4427.m3u8",
-        "genres": [
-          "Adrenaline & Sci-Fi"
-        ],
-        "region": "ca"
-      },
-      "675b42090074283b4ef1e563": {
-        "id": "647f8d22a2fc3fadb4721685-675b42090074283b4ef1e563",
-        "slug": "the-outpost",
-        "gridKey": "675b42090074283b4ef1e563",
-        "name": "The Outpost",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/873ae6c5-14c1-451a-bf25-7ee00112845f/Plex_TheOutpost_750x500_ChannelLogo_Light.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-675b42090074283b4ef1e563.m3u8",
         "genres": [
           "Adrenaline & Sci-Fi"
         ],
@@ -41082,19 +41069,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/07054e47-3930-40a9-b7e0-ca2712f520b3/PielLight_Logo__1_.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-687fff07996f1a2fb393a6e1.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "br"
-      },
-      "68a78f1d9c93a153bd8cba4b": {
-        "id": "646546f35db8ada4c8edd7e5-68a78f1d9c93a153bd8cba4b",
-        "slug": "samantha",
-        "gridKey": "68a78f1d9c93a153bd8cba4b",
-        "name": "Samantha",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/eaca975f-2821-46bc-bd57-065a7f4ad2de/Plex_Samantha_750x500_ChannelLogo_LightRDX_WHITE_W_Orange_Chevron.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-68a78f1d9c93a153bd8cba4b.m3u8",
         "genres": [
           "Bingeworthy"
         ],
