@@ -1,17 +1,16 @@
-Plex VPN-free direct links  (2026-11-25 08:46 UTC)
+Plex VPN-free direct links  (2026-11-25 12:49 UTC)
 Channels checked: 1420   VPN-free: 888   Still Plex link (VPN needed): 532
 
-  direct (cached)              887
+  direct (cached)              888
   other host                   444
   amagi-guess-failed           65
   plex-404                     12
   plex-403                     5
   plex-500                     2
   geo-blocked-host             1
-  direct (new)                 1
   plex-400                     1
-  variant-401                  1
   plex-504                     1
+  variant-401                  1
 
 Non-Amagi video hosts (candidates for future support):
   live-content-cf.xumo.com                                     96
@@ -21,36 +20,36 @@ Non-Amagi video hosts (candidates for future support):
   hls-beacons-eu.xumo.com                                      7
   cdn.pegasus.funkechannels.de                                 5
   content.galxy.tv                                             2
-  67923b26.wurl.com                                            1
   9e2698fd.wurl.com                                            1
+  67923b26.wurl.com                                            1
   ca888b2b.wurl.com                                            1
-  a25cabe4.wurl.com                                            1
-  e8df38f7.wurl.com                                            1
   fa942f77.wurl.com                                            1
-  amc-ifc-films-picks-1-us.plex.wurl.tv                        1
+  a25cabe4.wurl.com                                            1
   99dd446e.wurl.com                                            1
+  e8df38f7.wurl.com                                            1
+  amc-ifc-films-picks-1-us.plex.wurl.tv                        1
   8bf58746.wurl.com                                            1
   29d259f5.wurl.com                                            1
   4b85927c.wurl.com                                            1
+  fc68c857.wurl.com                                            1
   22c2efa2.wurl.com                                            1
+  a3c67275.wurl.com                                            1
   dce88dcc.wurl.com                                            1
   f288da96.wurl.com                                            1
-  fc68c857.wurl.com                                            1
-  a3c67275.wurl.com                                            1
+  fdf989f5.wurl.com                                            1
   news20e7hhcb.airspace-cdn.cbsivideo.com                      1
   2255b2ae.wurl.com                                            1
   dai.google.com                                               1
   be3ec8e4.wurl.com                                            1
-  9f9bb6fa.wurl.com                                            1
-  o300801-mp-lura-live.fsy.nfl.com                             1
-  786f64b9.wurl.com                                            1
-  fdf989f5.wurl.com                                            1
-  ed6ec5d8.wurl.com                                            1
-  da47cba8.wurl.com                                            1
   da2884db.wurl.com                                            1
+  da47cba8.wurl.com                                            1
+  9f9bb6fa.wurl.com                                            1
   55d28294.wurl.com                                            1
-  3e9247fa.wurl.com                                            1
+  o300801-mp-lura-live.fsy.nfl.com                             1
+  ed6ec5d8.wurl.com                                            1
+  786f64b9.wurl.com                                            1
   3846d2d6.wurl.com                                            1
+  3e9247fa.wurl.com                                            1
   9f7ff994.wurl.com                                            1
   7d86e29e.wurl.com                                            1
   c8358772.wurl.com                                            1
@@ -81,9 +80,9 @@ Example segment URLs (for working out new patterns):
     FilmRise Binge Watch: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2070%2Fcontent%2FXM0I3QWE15ZCK5%2F24529613%2F0_170.ts&aid=XM0I3QWE15ZCK5&eventType=ASSET&cid=88889335&did=19618a58832f4833&playId=1795596145920&eventSubType=playInterval&pid=2070
     FilmRise Free Movies: https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F2071%2Fcontent%2FXM0UV9ITNFW9A8%2F29075436%2F4_151.ts&aid=XM0UV9ITNFW9A8&eventType=ASSET&cid=88889350&did=0cd709930e754fdf&playId=1795595180000&eventSubType=playInterval&pid=2071
   [cdn.pegasus.funkechannels.de]
-    Herzfrequenz: https://cdn.pegasus.funkechannels.de/01a0b414-8226-73e6-b8d5-d16f7826d805/hls/720p/segment_00312.ts?sessionId=2e32d4ec-011f-486f-a675-a85cd0d7e66a&platformChannelId=01a0f733-971c-74fb-954f-af3b4fc4f5dc&channelId=01a05c2a-41f3-7a27-a266-61d668197f08&c  || tried 404x12,vodx1
     Schlosshotel Orth: https://cdn.pegasus.funkechannels.de/01a0aad2-6f2c-782d-b8c4-d9329641a70f/hls/720p/segment_00169.ts?sessionId=2eee8f6d-bfc9-4a09-b3cf-627c7f755b4f&platformChannelId=01a0675c-cf67-720a-9222-b794f9a31ac3&channelId=01a06682-2d89-786d-ae9d-d003a6a14f48&c  || tried 404x12,vodx1
     Vier Frauen und ein Todesfall: https://cdn.pegasus.funkechannels.de/01a0a5ca-1ab7-7ee2-9063-c5fc4b25b211/hls/720p/segment_00153.ts?sessionId=323f844e-4842-498c-8c12-76dcf15e7d14&platformChannelId=01a0675d-a628-79e6-ad2b-288252e337ca&channelId=01a0669d-d2b5-7d50-8705-9418f5c9ae0e&c  || tried 404x12,vodx1
+    Abschnitt 40 / GSG 9: https://cdn.pegasus.funkechannels.de/01a0a5ca-a864-7b71-897a-8be524611d1d/hls/720p/segment_00078.ts?sessionId=ef6042ce-acbe-4ef7-b1e0-2794f7b6a97c&platformChannelId=01a0591c-0141-7089-b119-dca917e180ac&channelId=01a0488d-9b8e-7428-a139-353f84540274&c  || tried 404x12,vodx1
   [content.galxy.tv]
     Dungeon TV: https://content.galxy.tv/43da1baa29af4ab0a7762ee5f2535951/a/D00000007.ts
     Watch it Kid: https://content.galxy.tv/f258f89352bc455384d926e9b5692328/a/D00000084.ts
