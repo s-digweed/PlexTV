@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T23:58:11.054441+00:00",
+  "generated": "2026-11-25T08:36:28.602260+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -2568,7 +2568,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -10539,7 +10539,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -11007,7 +11007,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -16430,7 +16430,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -16443,7 +16443,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -21008,7 +21008,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -21034,7 +21034,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -24871,7 +24871,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -24975,7 +24975,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -27884,6 +27884,19 @@
         ],
         "region": "mx"
       },
+      "6ad2b88c301d72f12e9d1c05": {
+        "id": "608049aefa2b8ae93c2c3a63-6ad2b88c301d72f12e9d1c05",
+        "slug": "tock-tock-movies-2",
+        "gridKey": "6ad2b88c301d72f12e9d1c05",
+        "name": "Tock Tock Movies",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6ec2cbdc-9f4f-4708-9000-531e163af8fa/TockTock_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6ad2b88c301d72f12e9d1c05.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "mx"
+      },
       "608b7095a09205002da4f295": {
         "id": "608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295",
         "slug": "freetv-drama-2",
@@ -28578,7 +28591,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -28591,7 +28604,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -32246,7 +32259,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -32272,7 +32285,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -32457,19 +32470,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-616df1be2cf008a748c8cb53.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "es"
-      },
-      "67828ebf37cd7764c53489b3": {
-        "id": "643054b1fc3be59477853717-67828ebf37cd7764c53489b3",
-        "slug": "dfb-play-tv",
-        "gridKey": "67828ebf37cd7764c53489b3",
-        "name": "DFB Play TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-67828ebf37cd7764c53489b3.m3u8",
         "genres": [
           "Sports"
         ],
@@ -35732,7 +35732,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -35745,7 +35745,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -37757,6 +37757,19 @@
         ],
         "region": "de"
       },
+      "67d1bd805aa0c7356883331e": {
+        "id": "635177ecff6cd5445d7f9b0b-67d1bd805aa0c7356883331e",
+        "slug": "z-nation-3",
+        "gridKey": "67d1bd805aa0c7356883331e",
+        "name": "Z Nation",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7102c315-5dbf-4af7-bc9c-d9e50e835bb7/ZNation_logo_1500x1000_light.png.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-67d1bd805aa0c7356883331e.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "de"
+      },
       "68829275815c36c280b16938": {
         "id": "635177ecff6cd5445d7f9b0b-68829275815c36c280b16938",
         "slug": "ladykracher-by-myspass",
@@ -37770,6 +37783,58 @@
         ],
         "region": "de"
       },
+      "6aff44be5921954562c071d0": {
+        "id": "635177ecff6cd5445d7f9b0b-6aff44be5921954562c071d0",
+        "slug": "vier-frauen-und-ein-todesfall",
+        "gridKey": "6aff44be5921954562c071d0",
+        "name": "Vier Frauen und ein Todesfall",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/579584fd-91a4-438a-bcf3-e469b6e9a5df/1500x1000_channel_logo_dark_VIERFRAUENUNDEINTODESFALL_-_Josephine_Kroetz.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aff44be5921954562c071d0.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "de"
+      },
+      "6aff43c55921954562c071ce": {
+        "id": "635177ecff6cd5445d7f9b0b-6aff43c55921954562c071ce",
+        "slug": "schlosshotel-orth",
+        "gridKey": "6aff43c55921954562c071ce",
+        "name": "Schlosshotel Orth",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/05cf2587-e1a3-430b-8725-25e1f80ec08e/1500x1000_channel_logo_dark_SCHLOSSHOTELORTH_-_Josephine_Kroetz.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aff43c55921954562c071ce.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "de"
+      },
+      "6aff48ba5921954562c071d6": {
+        "id": "635177ecff6cd5445d7f9b0b-6aff48ba5921954562c071d6",
+        "slug": "herzfrequenz",
+        "gridKey": "6aff48ba5921954562c071d6",
+        "name": "Herzfrequenz",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ed9e571a-0b37-48e0-81c4-9abc95810001/Herzfrequenz_logo_light_-_Josephine_Kroetz.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aff48ba5921954562c071d6.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "de"
+      },
+      "6aff478e5921954562c071d4": {
+        "id": "635177ecff6cd5445d7f9b0b-6aff478e5921954562c071d4",
+        "slug": "cop-stories-schnell-ermittelt",
+        "gridKey": "6aff478e5921954562c071d4",
+        "name": "Cop Stories / Schnell ermittelt",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0c03bf0b-5b5c-47e5-92fd-4b2bab22c116/Cop_Stories_Schnell_ermittelt_logo_dark_-_Josephine_Kroetz.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aff478e5921954562c071d4.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "de"
+      },
       "65e9d0ad8fe4ef7053c3c875": {
         "id": "635177ecff6cd5445d7f9b0b-65e9d0ad8fe4ef7053c3c875",
         "slug": "filmrise-serien",
@@ -37778,19 +37843,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/0b4c6500-d6f6-494d-8438-f5b3879a798f/FilmRise_Serien_1500x1000_logo_light.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-65e9d0ad8fe4ef7053c3c875.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "de"
-      },
-      "67d1bd805aa0c7356883331e": {
-        "id": "635177ecff6cd5445d7f9b0b-67d1bd805aa0c7356883331e",
-        "slug": "z-nation-3",
-        "gridKey": "67d1bd805aa0c7356883331e",
-        "name": "Z Nation",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7102c315-5dbf-4af7-bc9c-d9e50e835bb7/ZNation_logo_1500x1000_light.png.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-67d1bd805aa0c7356883331e.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -38828,7 +38880,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -38841,7 +38893,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -39247,6 +39299,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/8ceb2457-c1e4-4a8d-a49c-302d637c0089/Channel_Logo_TemporaTV_WHTRRDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-691d65b18f4092bc7bb24c8e.m3u8",
+        "genres": [
+          "Adrenaline & Sci-Fi"
+        ],
+        "region": "de"
+      },
+      "6aff45ae5921954562c071d2": {
+        "id": "635177ecff6cd5445d7f9b0b-6aff45ae5921954562c071d2",
+        "slug": "abschnitt-40-gsg-9",
+        "gridKey": "6aff45ae5921954562c071d2",
+        "name": "Abschnitt 40 / GSG 9",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0e211b07-4198-4e92-9725-622084f1fba3/Abschnitt40GSG9_logo_light_-_Josephine_Kroetz.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aff45ae5921954562c071d2.m3u8",
         "genres": [
           "Adrenaline & Sci-Fi"
         ],
@@ -41282,6 +41347,19 @@
         ],
         "region": "br"
       },
+      "6ad2b88c301d72f12e9d1c05": {
+        "id": "646546f35db8ada4c8edd7e5-6ad2b88c301d72f12e9d1c05",
+        "slug": "tock-tock-movies-2",
+        "gridKey": "6ad2b88c301d72f12e9d1c05",
+        "name": "Tock Tock Movies",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6ec2cbdc-9f4f-4708-9000-531e163af8fa/TockTock_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6ad2b88c301d72f12e9d1c05.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "br"
+      },
       "66bfb17c144c201b8b61c10d": {
         "id": "646546f35db8ada4c8edd7e5-66bfb17c144c201b8b61c10d",
         "slug": "rcm",
@@ -42015,7 +42093,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -42041,7 +42119,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -45007,7 +45085,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -45033,7 +45111,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -45049,19 +45127,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-6a90b2b5c0870218305e909b.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "in"
-      },
-      "67828ebf37cd7764c53489b3": {
-        "id": "698f7631338300003d436270-67828ebf37cd7764c53489b3",
-        "slug": "dfb-play-tv",
-        "gridKey": "67828ebf37cd7764c53489b3",
-        "name": "DFB Play TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-67828ebf37cd7764c53489b3.m3u8",
         "genres": [
           "Sports"
         ],
@@ -47505,7 +47570,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -47583,7 +47648,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -49808,7 +49873,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -49886,7 +49951,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -52353,25 +52418,12 @@
         ],
         "region": "se"
       },
-      "67828ebf37cd7764c53489b3": {
-        "id": "5e20b730f2f8d5003d739db7-67828ebf37cd7764c53489b3",
-        "slug": "dfb-play-tv",
-        "gridKey": "67828ebf37cd7764c53489b3",
-        "name": "DFB Play TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67828ebf37cd7764c53489b3.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
       "6227c215c9f485cc7afe8c41": {
         "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -52475,7 +52527,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -55506,7 +55558,7 @@
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -55597,7 +55649,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -58597,25 +58649,12 @@
         ],
         "region": "no"
       },
-      "67828ebf37cd7764c53489b3": {
-        "id": "5e20b730f2f8d5003d739db7-67828ebf37cd7764c53489b3",
-        "slug": "dfb-play-tv",
-        "gridKey": "67828ebf37cd7764c53489b3",
-        "name": "DFB Play TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67828ebf37cd7764c53489b3.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "no"
-      },
       "6227c215c9f485cc7afe8c41": {
         "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -58719,7 +58758,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -61849,25 +61888,12 @@
         ],
         "region": "fi"
       },
-      "67828ebf37cd7764c53489b3": {
-        "id": "5e20b730f2f8d5003d739db7-67828ebf37cd7764c53489b3",
-        "slug": "dfb-play-tv",
-        "gridKey": "67828ebf37cd7764c53489b3",
-        "name": "DFB Play TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67828ebf37cd7764c53489b3.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "fi"
-      },
       "6227c215c9f485cc7afe8c41": {
         "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -61971,7 +61997,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -65049,25 +65075,12 @@
         ],
         "region": "dk"
       },
-      "67828ebf37cd7764c53489b3": {
-        "id": "5e20b730f2f8d5003d739db7-67828ebf37cd7764c53489b3",
-        "slug": "dfb-play-tv",
-        "gridKey": "67828ebf37cd7764c53489b3",
-        "name": "DFB Play TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67828ebf37cd7764c53489b3.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "dk"
-      },
       "6227c215c9f485cc7afe8c41": {
         "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -65171,7 +65184,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [
@@ -68145,25 +68158,12 @@
         ],
         "region": "is"
       },
-      "67828ebf37cd7764c53489b3": {
-        "id": "5e20b730f2f8d5003d739db7-67828ebf37cd7764c53489b3",
-        "slug": "dfb-play-tv",
-        "gridKey": "67828ebf37cd7764c53489b3",
-        "name": "DFB Play TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67828ebf37cd7764c53489b3.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "is"
-      },
       "6227c215c9f485cc7afe8c41": {
         "id": "5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
         "gridKey": "6227c215c9f485cc7afe8c41",
         "name": "Surfer TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8",
         "genres": [
@@ -68254,7 +68254,7 @@
         "slug": "powder-tv",
         "gridKey": "62280162c9f485cc7afe8c46",
         "name": "Powder TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-62280162c9f485cc7afe8c46.m3u8",
         "genres": [

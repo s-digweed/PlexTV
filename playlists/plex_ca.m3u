@@ -563,7 +563,7 @@ https://lotus.stingray.com/manifest/ose-104ads-montreal/plextv/master.m3u8
 https://amg13231-actve-amg13231c5-plex-us-1822.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-plexus/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6a206a3e352a41420ef767a7" tvg-id="6a206a3e352a41420ef767a7" tvg-name="Portlandia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/949f96f9-49b7-4ca8-b4a2-9f4f9aa6457d/AMCN-PortlandiaIFC_Plex_logo_dark_v01_white_color.png" group-title="Comedy",Portlandia
 https://amg00794-amg00794c1-amgplt0291.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="plex-62280162c9f485cc7afe8c46" tvg-id="62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png" group-title="Sports",Powder TV
+#EXTINF:-1 channel-id="plex-62280162c9f485cc7afe8c46" tvg-id="62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png" group-title="Sports",Powder TV
 https://linear-265.frequency.stream/mt/plex/265/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-644a69895b1d51b6a8d18609" tvg-id="644a69895b1d51b6a8d18609" tvg-name="Power Rangers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3d7679fb-6db0-4363-a85e-fe59abff5cf9/PWR_Logo_1500x1000_-_lucas_arechaga.png" group-title="Kids & Family",Power Rangers
 https://amg00461-eone-amg00461c2-plex-us-536.playouts.now.amagi.tv/playlist/amg00461-entertainmentone-powerrangers-plexus/playlist.m3u8
@@ -689,7 +689,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-657dee403816
 https://amg00145-fremantlemedian-supermarketsweep-plex-nba8o.amagi.tv/playlist/amg00145-fremantlemedian-supermarketsweep-plex/playlist.m3u8
 #EXTINF:-1 channel-id="plex-656fbbd6dbcce28c3a41741b" tvg-id="656fbbd6dbcce28c3a41741b" tvg-name="Surf Cinema" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png" group-title="Sports",Surf Cinema
 https://amg13231-actve-amg13231c4-plex-us-1821.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-plexus/playlist.m3u8
-#EXTINF:-1 channel-id="plex-6227c215c9f485cc7afe8c41" tvg-id="6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png" group-title="Sports",Surfer TV
+#EXTINF:-1 channel-id="plex-6227c215c9f485cc7afe8c41" tvg-id="6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png" group-title="Sports",Surfer TV
 https://linear-149.frequency.stream/mt/plex/149/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-65e89d8b982674772f6f1a55" tvg-id="65e89d8b982674772f6f1a55" tvg-name="Survivorman on Plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c65390b-22d4-46fe-a2e0-7972af2c5e8f/Survivorman-ChannelLogoColorRDX.png" group-title="Reality",Survivorman on Plex
 https://plex-ono-2-eu.plex.wurl.tv/playlist.m3u8
@@ -786,7 +786,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-671bedfa128b
 #EXTINF:-1 channel-id="plex-606605549dbfca002d2ae873" tvg-id="606605549dbfca002d2ae873" tvg-name="TNA Wrestling Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="Sports",TNA Wrestling Channel
 https://amg00966-amg00966c6-amgplt0020.playout.now3.amagi.tv/playlist/amg00966-amg00966c6-amgplt0020/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6ad2b7bf301d72f12e9d1c03" tvg-id="6ad2b7bf301d72f12e9d1c03" tvg-name="Tock Tock Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8cc6c5f-3f6d-4ff0-99f8-6bed9bb9ec9a/TockTock_logo_dark-bg_1500x1000.png" group-title="En Español",Tock Tock Movies
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6ad2b7bf301d72f12e9d1c03.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
+https://d35p4ep9ync6qx.cloudfront.net/e0c9240839b6f662d9cad7795f08bca5/master.m3u8
 #EXTINF:-1 channel-id="plex-62ee6eae271f393d2d9f7096" tvg-id="62ee6eae271f393d2d9f7096" tvg-name="Today's K-Pop" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png" group-title="Music",Today's K-Pop
 https://lotus.stingray.com/manifest/ose-317ads-montreal/plextv/master.m3u8
 #EXTINF:-1 channel-id="plex-5eea605574085f0040ddc794" tvg-id="5eea605574085f0040ddc794" tvg-name="Toon Goggles" tvg-logo="https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png" group-title="Kids & Family",Toon Goggles
