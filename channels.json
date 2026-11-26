@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T03:36:16.162010+00:00",
+  "generated": "2026-11-26T12:26:15.874301+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -678,19 +678,6 @@
         ],
         "region": "us"
       },
-      "689fb8470a486aeba3c7917e": {
-        "id": "6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e",
-        "slug": "mgm-presents-westerns",
-        "gridKey": "689fb8470a486aeba3c7917e",
-        "name": "MGM Presents: Westerns",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e.m3u8",
-        "genres": [
-          "Movies"
-        ],
-        "region": "us"
-      },
       "66a2c1370b91165254efdb3c": {
         "id": "6a1610bebdf296985fd95603-66a2c1370b91165254efdb3c",
         "slug": "at-the-movies",
@@ -730,6 +717,19 @@
         ],
         "region": "us"
       },
+      "6ad29b265374a1e72d134645": {
+        "id": "6a1610bebdf296985fd95603-6ad29b265374a1e72d134645",
+        "slug": "always-christmas",
+        "gridKey": "6ad29b265374a1e72d134645",
+        "name": "Always Christmas",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e10faf1a-d8bc-4f61-aac1-0e27f7c1c838/Always_Christmas_Logo_-_1500x1000WHITERDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ad29b265374a1e72d134645.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "us"
+      },
       "6aa779185ceba459edaf9997": {
         "id": "6a1610bebdf296985fd95603-6aa779185ceba459edaf9997",
         "slug": "scandal",
@@ -738,6 +738,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/0813fc98-7d64-4d08-8edb-2e48dc886d36/Plex_SCANDAL_Logo_Light_1500x1000RDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6aa779185ceba459edaf9997.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "us"
+      },
+      "689fb8470a486aeba3c7917e": {
+        "id": "6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e",
+        "slug": "mgm-presents-westerns",
+        "gridKey": "689fb8470a486aeba3c7917e",
+        "name": "MGM Presents: Westerns",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e.m3u8",
         "genres": [
           "Movies"
         ],
@@ -821,14 +834,14 @@
         ],
         "region": "us"
       },
-      "6ad29b265374a1e72d134645": {
-        "id": "6a1610bebdf296985fd95603-6ad29b265374a1e72d134645",
-        "slug": "always-christmas",
-        "gridKey": "6ad29b265374a1e72d134645",
-        "name": "Always Christmas",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e10faf1a-d8bc-4f61-aac1-0e27f7c1c838/Always_Christmas_Logo_-_1500x1000WHITERDX.png",
+      "69d93cda8061ebfbca58c326": {
+        "id": "6a1610bebdf296985fd95603-69d93cda8061ebfbca58c326",
+        "slug": "classic-cinema",
+        "gridKey": "69d93cda8061ebfbca58c326",
+        "name": "Classic Cinema",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/742380e3-4ee9-468b-bfba-f045d76c7faf/ClassicCinema_Logo_Dark_1500x1000.png",
         "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6ad29b265374a1e72d134645.m3u8",
+        "key": "/library/parts/6a1610bebdf296985fd95603-69d93cda8061ebfbca58c326.m3u8",
         "genres": [
           "Movies"
         ],
@@ -881,19 +894,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5ef4e1b40d9ad000423c4430.m3u8",
-        "genres": [
-          "Movies"
-        ],
-        "region": "us"
-      },
-      "69d93cda8061ebfbca58c326": {
-        "id": "6a1610bebdf296985fd95603-69d93cda8061ebfbca58c326",
-        "slug": "classic-cinema",
-        "gridKey": "69d93cda8061ebfbca58c326",
-        "name": "Classic Cinema",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/742380e3-4ee9-468b-bfba-f045d76c7faf/ClassicCinema_Logo_Dark_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69d93cda8061ebfbca58c326.m3u8",
         "genres": [
           "Movies"
         ],
@@ -9143,19 +9143,6 @@
       }
     },
     "ca": {
-      "652857f46425fdb1f32d20dc": {
-        "id": "647f8d22a2fc3fadb4721685-652857f46425fdb1f32d20dc",
-        "slug": "property-brothers-channel",
-        "gridKey": "652857f46425fdb1f32d20dc",
-        "name": "Property Brothers Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/32c3a5c9-ff34-4014-a354-6a20d400353a/LOGO_Property_Brothers__1500_x_1000_DBKG_-_Matt_MattysiakRDX.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-652857f46425fdb1f32d20dc.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "ca"
-      },
       "69a51cc47c245b3390e8a4d6": {
         "id": "647f8d22a2fc3fadb4721685-69a51cc47c245b3390e8a4d6",
         "slug": "schitts-creek",
@@ -9164,6 +9151,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/ca481e04-130f-4151-9c91-0735b38ea2cc/WHT_TEXT_CBC-SchittsCreek-FAST_Plex_LOGO-COL-ON-DARK_1500x1140_-_Catherine_CooRDXk.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-69a51cc47c245b3390e8a4d6.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "ca"
+      },
+      "652857f46425fdb1f32d20dc": {
+        "id": "647f8d22a2fc3fadb4721685-652857f46425fdb1f32d20dc",
+        "slug": "property-brothers-channel",
+        "gridKey": "652857f46425fdb1f32d20dc",
+        "name": "Property Brothers Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/32c3a5c9-ff34-4014-a354-6a20d400353a/LOGO_Property_Brothers__1500_x_1000_DBKG_-_Matt_MattysiakRDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-652857f46425fdb1f32d20dc.m3u8",
         "genres": [
           "Bingeworthy"
         ],
