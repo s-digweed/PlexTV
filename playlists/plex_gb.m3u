@@ -596,7 +596,7 @@ https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-a
 #EXTINF:-1 channel-id="plex-5f123330eca6a20040b328e8" tvg-id="5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png" group-title="Kids & Family",TG Junior
 https://tg-jr-ww.otteravision.com/tg/jr_ww/jr_ww_720.m3u8
 #EXTINF:-1 channel-id="plex-6515ff231fc969615e69d170" tvg-id="6515ff231fc969615e69d170" tvg-name="The Biggest Loser" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee6167ad-08b7-4d83-ae79-51392c4c244a/TBL_Logo_Dark_1500x1000_-_Harry_Marshall_WHITE_COLOR.png" group-title="Daytime TV & Games",The Biggest Loser
-https://amg00627-banijay-amg00627c4-plex-us-1007.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6515ff231fc969615e69d170.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67d9a3d663c5439aeaf61305" tvg-id="67d9a3d663c5439aeaf61305" tvg-name="The Bold and the Beautiful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png" group-title="Daytime TV & Games",The Bold and the Beautiful
 https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60d4edd6b2fdec002c141125" tvg-id="60d4edd6b2fdec002c141125" tvg-name="The Carol Burnett Show" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png" group-title="Classics",The Carol Burnett Show

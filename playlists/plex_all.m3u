@@ -982,7 +982,7 @@ https://linear-43-plex.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68c87052da79d98d977dc90e-us" tvg-id="68c87052da79d98d977dc90e" tvg-name="Revry Latinx" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4a423ae5-506e-4a10-b148-1f5dc2787db4/RevryLatinX_Logo_Plex_1500x1000_dark-backgrounds_-_Joshua_Pettway-Hinton.png" group-title="United States",Revry Latinx
 https://linear-142.frequency.stream/mt/plex/142/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-66a2d97c94b6a49cb5054d77-us" tvg-id="66a2d97c94b6a49cb5054d77" tvg-name="Rig TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cab375d6-3971-46c5-bd2e-66dc640879d2/RIGTV_Logo_White_1500X1000_.png" group-title="United States",Rig TV
-https://amg00145-amg00145c7-plex-us-4225.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-rigtv-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-us" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="United States",Robot Wars by Mech+
 https://mechtvltd-mechplus-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-68b9f495fcc3cf129dc29960-us" tvg-id="68b9f495fcc3cf129dc29960" tvg-name="ROMCOM K-Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c0c7652e-f50f-4fd3-a26f-f0a6d78d4224/_Plex__ROMCOM_K-Drama_Logo_Light_Mode_Ji_Eun_Park.png" group-title="United States",ROMCOM K-Drama
@@ -1134,7 +1134,7 @@ https://linear-1146.frequency.stream/mt/plex/1146/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6627ab12580825e8a7bc4f04-us" tvg-id="6627ab12580825e8a7bc4f04" tvg-name="The Asylum" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a244b785-f73c-400f-9395-e93ca077d9e0/channel_logo_1500x1000_light.png.png" group-title="United States",The Asylum
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6627ab12580825e8a7bc4f04.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-6515ff231fc969615e69d170-us" tvg-id="6515ff231fc969615e69d170" tvg-name="The Biggest Loser" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee6167ad-08b7-4d83-ae79-51392c4c244a/TBL_Logo_Dark_1500x1000_-_Harry_Marshall_WHITE_COLOR.png" group-title="United States",The Biggest Loser
-https://amg00627-banijay-amg00627c4-plex-us-1007.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6515ff231fc969615e69d170.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5efe1de6e0b3f5003f5d9f88-us" tvg-id="5efe1de6e0b3f5003f5d9f88" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png" group-title="United States",The Bob Ross Channel
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5efe1de6e0b3f5003f5d9f88.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67d9a3d663c5439aeaf61305-us" tvg-id="67d9a3d663c5439aeaf61305" tvg-name="The Bold and the Beautiful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png" group-title="United States",The Bold and the Beautiful
@@ -2018,7 +2018,7 @@ https://linear-899.frequency.stream/dist/plex/899/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5ef11487d33ab9004048a1d9-ca" tvg-id="5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="Canada",Revry
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5ef11487d33ab9004048a1d9.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-66a2d97c94b6a49cb5054d77-ca" tvg-id="66a2d97c94b6a49cb5054d77" tvg-name="Rig TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cab375d6-3971-46c5-bd2e-66dc640879d2/RIGTV_Logo_White_1500X1000_.png" group-title="Canada",Rig TV
-https://amg00145-amg00145c7-plex-us-4225.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-rigtv-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66a2d97c94b6a49cb5054d77.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-68dcb62667386a41d59918db-ca" tvg-id="68dcb62667386a41d59918db" tvg-name="River Monsters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0de059fc-0966-4f67-8581-b63c80c2924d/RiverMonsters_Logo_White_1500X1000.png" group-title="Canada",River Monsters
 https://amg00654-itv-amg00654c24-plex-gb-9794.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonsterenglish-plexgb/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6470477fe536e0faaf10be9d-ca" tvg-id="6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="Canada",Robot Wars by Mech+
@@ -2126,7 +2126,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-68e03664c63d
 #EXTINF:-1 channel-id="plex-689fb7110a486aeba3c7917c-ca" tvg-id="689fb7110a486aeba3c7917c" tvg-name="The Addams Family" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae901652-7714-41cd-8ff7-cb31fb07f6df/AddamsFamily_logo_Attribution_-_Carl_HoffelderRDX.png" group-title="Canada",The Addams Family
 https://linear-1146.frequency.stream/mt/plex/1146/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-6515ff231fc969615e69d170-ca" tvg-id="6515ff231fc969615e69d170" tvg-name="The Biggest Loser" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee6167ad-08b7-4d83-ae79-51392c4c244a/TBL_Logo_Dark_1500x1000_-_Harry_Marshall_WHITE_COLOR.png" group-title="Canada",The Biggest Loser
-https://amg00627-banijay-amg00627c4-plex-us-1007.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6515ff231fc969615e69d170.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5efe1de6e0b3f5003f5d9f88-ca" tvg-id="5efe1de6e0b3f5003f5d9f88" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png" group-title="Canada",The Bob Ross Channel
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f88.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67d9a3d663c5439aeaf61305-ca" tvg-id="67d9a3d663c5439aeaf61305" tvg-name="The Bold and the Beautiful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png" group-title="Canada",The Bold and the Beautiful
@@ -2938,7 +2938,7 @@ https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-a
 #EXTINF:-1 channel-id="plex-5f123330eca6a20040b328e8-gb" tvg-id="5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png" group-title="GB",TG Junior
 https://tg-jr-ww.otteravision.com/tg/jr_ww/jr_ww_720.m3u8
 #EXTINF:-1 channel-id="plex-6515ff231fc969615e69d170-gb" tvg-id="6515ff231fc969615e69d170" tvg-name="The Biggest Loser" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee6167ad-08b7-4d83-ae79-51392c4c244a/TBL_Logo_Dark_1500x1000_-_Harry_Marshall_WHITE_COLOR.png" group-title="GB",The Biggest Loser
-https://amg00627-banijay-amg00627c4-plex-us-1007.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6515ff231fc969615e69d170.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67d9a3d663c5439aeaf61305-gb" tvg-id="67d9a3d663c5439aeaf61305" tvg-name="The Bold and the Beautiful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png" group-title="GB",The Bold and the Beautiful
 https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="plex-60d4edd6b2fdec002c141125-gb" tvg-id="60d4edd6b2fdec002c141125" tvg-name="The Carol Burnett Show" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png" group-title="GB",The Carol Burnett Show
@@ -3556,7 +3556,7 @@ https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-a
 #EXTINF:-1 channel-id="plex-5f123330eca6a20040b328e8-au" tvg-id="5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png" group-title="Australia",TG Junior
 https://tg-jr-ww.otteravision.com/tg/jr_ww/jr_ww_720.m3u8
 #EXTINF:-1 channel-id="plex-6515ff231fc969615e69d170-au" tvg-id="6515ff231fc969615e69d170" tvg-name="The Biggest Loser" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee6167ad-08b7-4d83-ae79-51392c4c244a/TBL_Logo_Dark_1500x1000_-_Harry_Marshall_WHITE_COLOR.png" group-title="Australia",The Biggest Loser
-https://amg00627-banijay-amg00627c4-plex-us-1007.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6515ff231fc969615e69d170.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5efe1de6e0b3f5003f5d9f88-au" tvg-id="5efe1de6e0b3f5003f5d9f88" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png" group-title="Australia",The Bob Ross Channel
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-5efe1de6e0b3f5003f5d9f88.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67d9a3d663c5439aeaf61305-au" tvg-id="67d9a3d663c5439aeaf61305" tvg-name="The Bold and the Beautiful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png" group-title="Australia",The Bold and the Beautiful
@@ -4106,7 +4106,7 @@ https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-a
 #EXTINF:-1 channel-id="plex-5f123330eca6a20040b328e8-nz" tvg-id="5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png" group-title="New Zealand",TG Junior
 https://tg-jr-ww.otteravision.com/tg/jr_ww/jr_ww_720.m3u8
 #EXTINF:-1 channel-id="plex-6515ff231fc969615e69d170-nz" tvg-id="6515ff231fc969615e69d170" tvg-name="The Biggest Loser" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee6167ad-08b7-4d83-ae79-51392c4c244a/TBL_Logo_Dark_1500x1000_-_Harry_Marshall_WHITE_COLOR.png" group-title="New Zealand",The Biggest Loser
-https://amg00627-banijay-amg00627c4-plex-us-1007.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-plexus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6515ff231fc969615e69d170.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-5efe1de6e0b3f5003f5d9f88-nz" tvg-id="5efe1de6e0b3f5003f5d9f88" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png" group-title="New Zealand",The Bob Ross Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88.m3u8?X-Plex-Token=c1Zwft1FT1AiHf2stzrn
 #EXTINF:-1 channel-id="plex-67d9a3d663c5439aeaf61305-nz" tvg-id="67d9a3d663c5439aeaf61305" tvg-name="The Bold and the Beautiful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png" group-title="New Zealand",The Bold and the Beautiful
