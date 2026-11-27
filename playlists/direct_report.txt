@@ -1,16 +1,17 @@
-Plex VPN-free direct links  (2026-11-26 16:55 UTC)
-Channels checked: 1420   VPN-free: 886   Still Plex link (VPN needed): 534
+Plex VPN-free direct links  (2026-11-26 23:56 UTC)
+Channels checked: 1420   VPN-free: 888   Still Plex link (VPN needed): 532
 
   direct (cached)              886
   other host                   444
   amagi-guess-failed           65
   plex-404                     12
   plex-403                     5
-  variant-401                  3
   plex-500                     2
+  direct (new)                 2
   geo-blocked-host             1
   plex-400                     1
   plex-504                     1
+  variant-401                  1
 
 Non-Amagi video hosts (candidates for future support):
   live-content-cf.xumo.com                                     103
